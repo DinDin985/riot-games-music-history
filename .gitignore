@@ -56,3 +56,4 @@ next-env.d.ts
 /apps/web/public/awards/
 /apps/web/public/impact/
 /apps/web/public/_stories/
+/apps/stories/.astro/
