@@ -1,0 +1,70 @@
+---
+/**
+ * Site header — markup and classes mirror the Next.js app's
+ * `components/site/site-header.tsx`, rendered from the same shared nav list.
+ * Plain <a> links: /awards and /impact are these static pages, everything
+ * else is the Next.js app on the same origin. Search submits to the library.
+ */
+import { SearchIcon } from "lucide-react"
+import { siteNav } from "@workspace/ui/lib/site-nav"
+import MobileMenu from "./site/MobileMenu.tsx"
+import { Wordmark } from "./site/Wordmark.tsx"
+
+interface Props {
+  /** Current path, used to highlight the active item. */
+  readonly path: string
+}
+
+const { path } = Astro.props
+const isActive = (href: string) => (href === "/" ? path === "/" : path === href || path.startsWith(`${href}/`))
+---
+
+<header
+  class="sticky top-0 z-40 border-b border-white/[0.06] bg-background/75 backdrop-blur-xl supports-backdrop-filter:bg-background/60"
+>
+  <a
+    href="#main"
+    class="sr-only focus:not-sr-only focus:absolute focus:top-2 focus:left-2 focus:z-50 focus:rounded-md focus:bg-gold focus:px-3 focus:py-2 focus:text-sm focus:text-[#0c1d2e]"
+  >
+    Skip to content
+  </a>
+  <div class="mx-auto flex h-16 max-w-[1600px] items-center gap-4 px-4 md:px-6">
+    <a
+      href="/"
+      class="shrink-0 rounded-md focus-visible:ring-2 focus-visible:ring-ring/60 focus-visible:outline-none"
+      aria-label="Riot Games Music Archive — home"
+    >
+      <Wordmark />
+    </a>
+    <nav aria-label="Main" class="hidden min-w-0 flex-1 items-center justify-center gap-0.5 md:flex lg:gap-1">
+      {
+        siteNav.map((item) => (
+          <a
+            href={item.href}
+            data-active={isActive(item.href) ? "" : undefined}
+            aria-current={isActive(item.href) ? "page" : undefined}
+            class="relative rounded-md px-2 py-2 text-sm font-medium whitespace-nowrap text-muted-foreground transition-colors after:absolute after:inset-x-2 after:-bottom-[13px] after:h-0.5 after:rounded-full after:bg-gold after:opacity-0 after:transition-opacity hover:text-foreground focus-visible:ring-2 focus-visible:ring-ring/60 focus-visible:outline-none data-[active]:text-foreground data-[active]:after:opacity-100 lg:px-3 lg:after:inset-x-3"
+          >
+            {item.label}
+          </a>
+        ))
+      }
+    </nav>
+    <div class="ml-auto flex items-center gap-2 md:ml-0">
+      <form action="/songs" method="get" role="search" class="relative">
+        <label class="group flex h-9 w-9 items-center justify-center gap-2 rounded-lg border border-white/10 bg-white/[0.04] px-0 text-sm text-muted-foreground transition-colors focus-within:border-white/20 focus-within:ring-2 focus-within:ring-ring/60 hover:border-white/20 hover:bg-white/[0.07] hover:text-foreground xl:w-64 xl:justify-start xl:px-3">
+          <SearchIcon className="size-4 shrink-0" aria-hidden="true" />
+          <span class="sr-only">Search the archive</span>
+          <input
+            type="search"
+            name="q"
+            placeholder="Search songs, artists…"
+            class="hidden w-full min-w-0 bg-transparent text-foreground outline-none placeholder:text-muted-foreground xl:block"
+          />
+        </label>
+        <a href="/songs" class="absolute inset-0 xl:hidden" aria-label="Search the library"></a>
+      </form>
+      <MobileMenu client:idle path={path} />
+    </div>
+  </div>
+</header>

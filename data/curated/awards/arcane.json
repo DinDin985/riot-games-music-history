@@ -1,0 +1,1107 @@
+{
+  "domain": "arcane",
+  "awards": [
+    {
+      "id": "arcane-2022-billboard-top-soundtrack-nomination",
+      "year": 2022,
+      "ceremony": "2022 Billboard Music Awards",
+      "organization": "Billboard",
+      "award": "Top Soundtrack",
+      "result": "nominated",
+      "recipient": "Arcane League of Legends (Soundtrack from the Animated Series)",
+      "project": "Arcane",
+      "game": "arcane",
+      "musicRelated": true,
+      "songTitle": null,
+      "sourceUrls": [
+        "https://www.billboard.com/music/awards/2022-billboard-music-award-nominations-bbma-1235056949/",
+        "https://en.wikipedia.org/wiki/2022_Billboard_Music_Awards"
+      ],
+      "notes": "Season 1 soundtrack was a finalist alongside Encanto, which won.",
+      "verified": true
+    },
+    {
+      "id": "arcane-2022-mtv-vma-best-alternative-enemy-nomination",
+      "year": 2022,
+      "ceremony": "2022 MTV Video Music Awards",
+      "organization": "MTV",
+      "award": "Best Alternative",
+      "result": "nominated",
+      "recipient": "Imagine Dragons and JID - \"Enemy\"",
+      "project": "Arcane",
+      "game": "arcane",
+      "musicRelated": true,
+      "songTitle": "Enemy",
+      "sourceUrls": [
+        "https://loudwire.com/rock-alternative-nominees-2022-mtv-video-music-awards/",
+        "https://en.wikipedia.org/wiki/2022_MTV_Video_Music_Awards"
+      ],
+      "notes": "The animated Arcane music video was up for Best Alternative; Maneskin won.",
+      "verified": true
+    },
+    {
+      "id": "arcane-2022-hca-tv-best-streaming-animated-series",
+      "year": 2022,
+      "ceremony": "2nd Hollywood Critics Association TV Awards",
+      "organization": "Hollywood Critics Association",
+      "award": "Best Streaming Animated Series or Television Movie",
+      "result": "won",
+      "recipient": "Arcane (Netflix)",
+      "project": "Arcane",
+      "game": "arcane",
+      "musicRelated": false,
+      "songTitle": null,
+      "sourceUrls": [
+        "https://www.bubbleblabber.com/2022/08/adult-animation-award-news-2022-hca-creative-emmys-and-saturn-awards/",
+        "https://en.wikipedia.org/wiki/2nd_Hollywood_Critics_Association_TV_Awards"
+      ],
+      "notes": "Critics' prize for best streaming animated series, over Big Mouth, What If...? and Star Trek: Lower Decks.",
+      "verified": true
+    },
+    {
+      "id": "arcane-2022-annie-character-animation",
+      "year": 2022,
+      "ceremony": "49th Annie Awards",
+      "organization": "ASIFA-Hollywood",
+      "award": "Best Character Animation - TV/Media",
+      "result": "won",
+      "recipient": "Lea Chervet (\"The Monster You Created\")",
+      "project": "Arcane",
+      "game": "arcane",
+      "musicRelated": false,
+      "songTitle": null,
+      "sourceUrls": [
+        "https://www.cartoonbrew.com/awards/arcane-mitchells-vs-the-machines-dominate-the-annie-awards-analysis-full-winners-list-214196.html",
+        "https://deadline.com/2022/03/2022-annie-awards-winners-list-movies-tv-video-games-1234974570/"
+      ],
+      "notes": "Character animation award for \"The Monster You Created\", the Season 1 finale (episode 9).",
+      "verified": true
+    },
+    {
+      "id": "arcane-2022-annie-character-design",
+      "year": 2022,
+      "ceremony": "49th Annie Awards",
+      "organization": "ASIFA-Hollywood",
+      "award": "Best Character Design - TV/Media",
+      "result": "won",
+      "recipient": "Evan Monteiro (\"Some Mysteries Better Left Unsolved\")",
+      "project": "Arcane",
+      "game": "arcane",
+      "musicRelated": false,
+      "songTitle": null,
+      "sourceUrls": [
+        "https://www.cartoonbrew.com/awards/arcane-mitchells-vs-the-machines-dominate-the-annie-awards-analysis-full-winners-list-214196.html",
+        "https://deadline.com/2022/03/2022-annie-awards-winners-list-movies-tv-video-games-1234974570/"
+      ],
+      "notes": "Character design award for episode 2, \"Some Mysteries Are Better Left Unsolved\".",
+      "verified": true
+    },
+    {
+      "id": "arcane-2022-annie-direction",
+      "year": 2022,
+      "ceremony": "49th Annie Awards",
+      "organization": "ASIFA-Hollywood",
+      "award": "Best Direction - TV/Media",
+      "result": "won",
+      "recipient": "Pascal Charrue, Arnaud Delord, Barthelemy Maunoury (\"The Monster You Created\")",
+      "project": "Arcane",
+      "game": "arcane",
+      "musicRelated": false,
+      "songTitle": null,
+      "sourceUrls": [
+        "https://www.cartoonbrew.com/awards/arcane-mitchells-vs-the-machines-dominate-the-annie-awards-analysis-full-winners-list-214196.html",
+        "https://deadline.com/2022/03/2022-annie-awards-winners-list-movies-tv-video-games-1234974570/"
+      ],
+      "notes": "Directing award for the Fortiche directing trio, for the Season 1 finale (episode 9).",
+      "verified": true
+    },
+    {
+      "id": "arcane-2022-annie-fx",
+      "year": 2022,
+      "ceremony": "49th Annie Awards",
+      "organization": "ASIFA-Hollywood",
+      "award": "Best FX - TV/Media",
+      "result": "won",
+      "recipient": "Guillaume Degroote, Aurelien Ressencourt, Martin Touze, Frederic Mace, Jerome Dupre (\"Oil and Water\")",
+      "project": "Arcane",
+      "game": "arcane",
+      "musicRelated": false,
+      "songTitle": null,
+      "sourceUrls": [
+        "https://www.cartoonbrew.com/awards/arcane-mitchells-vs-the-machines-dominate-the-annie-awards-analysis-full-winners-list-214196.html",
+        "https://deadline.com/2022/03/2022-annie-awards-winners-list-movies-tv-video-games-1234974570/"
+      ],
+      "notes": "Effects animation award for episode 8, \"Oil and Water\".",
+      "verified": true
+    },
+    {
+      "id": "arcane-2022-annie-production-design",
+      "year": 2022,
+      "ceremony": "49th Annie Awards",
+      "organization": "ASIFA-Hollywood",
+      "award": "Best Production Design - TV/Media",
+      "result": "won",
+      "recipient": "Julien Georgel, Aymeric Kevin, Arnaud Baudry (\"Happy Progress Day!\")",
+      "project": "Arcane",
+      "game": "arcane",
+      "musicRelated": false,
+      "songTitle": null,
+      "sourceUrls": [
+        "https://www.cartoonbrew.com/awards/arcane-mitchells-vs-the-machines-dominate-the-annie-awards-analysis-full-winners-list-214196.html",
+        "https://deadline.com/2022/03/2022-annie-awards-winners-list-movies-tv-video-games-1234974570/"
+      ],
+      "notes": "Production design award for episode 4, \"Happy Progress Day!\".",
+      "verified": true
+    },
+    {
+      "id": "arcane-2022-annie-storyboarding",
+      "year": 2022,
+      "ceremony": "49th Annie Awards",
+      "organization": "ASIFA-Hollywood",
+      "award": "Best Storyboarding - TV/Media",
+      "result": "won",
+      "recipient": "Simon Andriveau (\"When These Walls Come Tumbling Down\")",
+      "project": "Arcane",
+      "game": "arcane",
+      "musicRelated": false,
+      "songTitle": null,
+      "sourceUrls": [
+        "https://www.cartoonbrew.com/awards/arcane-mitchells-vs-the-machines-dominate-the-annie-awards-analysis-full-winners-list-214196.html",
+        "https://deadline.com/2022/03/2022-annie-awards-winners-list-movies-tv-video-games-1234974570/"
+      ],
+      "notes": "Storyboard award for episode 6, the Act 2 finale.",
+      "verified": true
+    },
+    {
+      "id": "arcane-2022-annie-general-audience",
+      "year": 2022,
+      "ceremony": "49th Annie Awards",
+      "organization": "ASIFA-Hollywood",
+      "award": "Best TV/Media - General Audience",
+      "result": "won",
+      "recipient": "Arcane, \"When These Walls Come Tumbling Down\" (Riot Games and Fortiche Production for Netflix)",
+      "project": "Arcane",
+      "game": "arcane",
+      "musicRelated": false,
+      "songTitle": null,
+      "sourceUrls": [
+        "https://www.cartoonbrew.com/awards/arcane-mitchells-vs-the-machines-dominate-the-annie-awards-analysis-full-winners-list-214196.html",
+        "https://deadline.com/2022/03/2022-annie-awards-winners-list-movies-tv-video-games-1234974570/"
+      ],
+      "notes": "Top television prize of the night, for episode 6; Arcane went nine-for-nine at the 49th Annies.",
+      "verified": true
+    },
+    {
+      "id": "arcane-2022-annie-voice-acting",
+      "year": 2022,
+      "ceremony": "49th Annie Awards",
+      "organization": "ASIFA-Hollywood",
+      "award": "Best Voice Acting - TV/Media",
+      "result": "won",
+      "recipient": "Ella Purnell as Jinx (\"When These Walls Come Tumbling Down\")",
+      "project": "Arcane",
+      "game": "arcane",
+      "musicRelated": false,
+      "songTitle": null,
+      "sourceUrls": [
+        "https://www.cartoonbrew.com/awards/arcane-mitchells-vs-the-machines-dominate-the-annie-awards-analysis-full-winners-list-214196.html",
+        "https://deadline.com/2022/03/2022-annie-awards-winners-list-movies-tv-video-games-1234974570/"
+      ],
+      "notes": "Voice acting award for Jinx in episode 6, the Act 2 finale.",
+      "verified": true
+    },
+    {
+      "id": "arcane-2022-annie-writing",
+      "year": 2022,
+      "ceremony": "49th Annie Awards",
+      "organization": "ASIFA-Hollywood",
+      "award": "Best Writing - TV/Media",
+      "result": "won",
+      "recipient": "Christian Linke, Alex Yee (\"The Monster You Created\")",
+      "project": "Arcane",
+      "game": "arcane",
+      "musicRelated": false,
+      "songTitle": null,
+      "sourceUrls": [
+        "https://www.cartoonbrew.com/awards/arcane-mitchells-vs-the-machines-dominate-the-annie-awards-analysis-full-winners-list-214196.html",
+        "https://deadline.com/2022/03/2022-annie-awards-winners-list-movies-tv-video-games-1234974570/"
+      ],
+      "notes": "Writing award for the series creators, for the Season 1 finale (episode 9).",
+      "verified": true
+    },
+    {
+      "id": "arcane-2022-saturn-best-animated-television-series-nomination",
+      "year": 2022,
+      "ceremony": "50th Anniversary Saturn Awards",
+      "organization": "Academy of Science Fiction, Fantasy and Horror Films",
+      "award": "Best Animated Television Series",
+      "result": "nominated",
+      "recipient": "Arcane (Netflix)",
+      "project": "Arcane",
+      "game": "arcane",
+      "musicRelated": false,
+      "songTitle": null,
+      "sourceUrls": [
+        "https://deadline.com/2022/08/saturn-awards-2022-nominations-list-movies-tv-1235089636/",
+        "https://en.wikipedia.org/wiki/50th_Anniversary_Saturn_Awards"
+      ],
+      "notes": "Nominated at the October 2022 ceremony (the rebranded 47th edition); Star Wars: The Bad Batch won.",
+      "verified": true
+    },
+    {
+      "id": "arcane-2022-golden-reel-non-theatrical-animation",
+      "year": 2022,
+      "ceremony": "69th Annual Golden Reel Awards",
+      "organization": "Motion Picture Sound Editors (MPSE)",
+      "award": "Outstanding Achievement in Sound Editing - Non-Theatrical Animation",
+      "result": "won",
+      "recipient": "Brad Beaumont, Eliot Connors, Alexander Temple (supervising music editor), Shannon Beaumont, Alexander Ephraim, Dan O'Connell, John Cucci, Alex Seaver (music editor) (\"When These Walls Come Tumbling Down\")",
+      "project": "Arcane",
+      "game": "arcane",
+      "musicRelated": true,
+      "songTitle": null,
+      "sourceUrls": [
+        "https://variety.com/2022/artisans/news/golden-reel-awards-2022-mpse-winner-list-1235202197/",
+        "https://file770.com/motion-picture-sound-editors-69th-annual-golden-reel-awards/",
+        "https://en.wikipedia.org/wiki/Golden_Reel_Awards_2021"
+      ],
+      "notes": "Sound and music editing award for episode 6, \"When These Walls Come Tumbling Down\" (the Act 2 finale).",
+      "verified": true
+    },
+    {
+      "id": "arcane-2022-emmy-outstanding-animated-program",
+      "year": 2022,
+      "ceremony": "74th Primetime Creative Arts Emmy Awards",
+      "organization": "Television Academy",
+      "award": "Outstanding Animated Program",
+      "result": "won",
+      "recipient": "Arcane, episode \"When These Walls Come Tumbling Down\" (Christian Linke, Alex Yee, Riot Games and Fortiche producers)",
+      "project": "Arcane",
+      "game": "arcane",
+      "musicRelated": false,
+      "songTitle": null,
+      "sourceUrls": [
+        "https://www.televisionacademy.com/shows/arcane",
+        "https://www.cartoonbrew.com/awards/arcane-emmy-animated-program-netflix-220954.html"
+      ],
+      "notes": "Won for episode 6 (the Act 2 finale); Cartoon Brew reported Arcane as the first streaming series to win the category.",
+      "verified": true
+    },
+    {
+      "id": "arcane-2022-emmy-juried-background-design-couchinho",
+      "year": 2022,
+      "ceremony": "74th Primetime Creative Arts Emmy Awards",
+      "organization": "Television Academy",
+      "award": "Outstanding Individual Achievement in Animation (juried)",
+      "result": "won",
+      "recipient": "Bruno Couchinho, background designer (\"When These Walls Come Tumbling Down\")",
+      "project": "Arcane",
+      "game": "arcane",
+      "musicRelated": false,
+      "songTitle": null,
+      "sourceUrls": [
+        "https://www.televisionacademy.com/shows/arcane",
+        "https://www.cartoonbrew.com/awards/arcane-emmy-animated-program-netflix-220954.html"
+      ],
+      "notes": "One of three juried animation Emmys Arcane collected in its first season.",
+      "verified": true
+    },
+    {
+      "id": "arcane-2022-emmy-juried-art-direction-georgel",
+      "year": 2022,
+      "ceremony": "74th Primetime Creative Arts Emmy Awards",
+      "organization": "Television Academy",
+      "award": "Outstanding Individual Achievement in Animation (juried)",
+      "result": "won",
+      "recipient": "Julien Georgel, art direction (\"Happy Progress Day!\")",
+      "project": "Arcane",
+      "game": "arcane",
+      "musicRelated": false,
+      "songTitle": null,
+      "sourceUrls": [
+        "https://www.televisionacademy.com/shows/arcane",
+        "https://www.cartoonbrew.com/awards/arcane-emmy-animated-program-netflix-220954.html"
+      ],
+      "notes": "Juried award for the art direction of Piltover's Progress Day episode.",
+      "verified": true
+    },
+    {
+      "id": "arcane-2022-emmy-juried-color-script-to",
+      "year": 2022,
+      "ceremony": "74th Primetime Creative Arts Emmy Awards",
+      "organization": "Television Academy",
+      "award": "Outstanding Individual Achievement in Animation (juried)",
+      "result": "won",
+      "recipient": "Anne-Laure To, color script artist (\"The Boy Savior\")",
+      "project": "Arcane",
+      "game": "arcane",
+      "musicRelated": false,
+      "songTitle": null,
+      "sourceUrls": [
+        "https://www.televisionacademy.com/shows/arcane",
+        "https://www.cartoonbrew.com/awards/arcane-emmy-animated-program-netflix-220954.html"
+      ],
+      "notes": "Juried award for color script work on episode 7.",
+      "verified": true
+    },
+    {
+      "id": "arcane-2022-emmy-sound-editing-nomination",
+      "year": 2022,
+      "ceremony": "74th Primetime Creative Arts Emmy Awards",
+      "organization": "Television Academy",
+      "award": "Outstanding Sound Editing for a Comedy or Drama Series (Half-Hour) and Animation",
+      "result": "nominated",
+      "recipient": "Brad Beaumont, Eliot Connors, Shannon Beaumont, Alex Ephraim, Alexander Temple, Alex Seaver, Dan O'Connell, John Cucci (\"When These Walls Come Tumbling Down\")",
+      "project": "Arcane",
+      "game": "arcane",
+      "musicRelated": true,
+      "songTitle": null,
+      "sourceUrls": [
+        "https://www.televisionacademy.com/shows/arcane",
+        "https://en.wikipedia.org/wiki/74th_Primetime_Creative_Arts_Emmy_Awards"
+      ],
+      "notes": "The only Season 1 Emmy nomination that did not win (Barry took the category); the nominated team includes music editors Alexander Temple and Alex Seaver (Mako).",
+      "verified": true
+    },
+    {
+      "id": "arcane-2022-ama-favorite-rock-song-enemy-nomination",
+      "year": 2022,
+      "ceremony": "American Music Awards of 2022",
+      "organization": "Dick Clark Productions",
+      "award": "Favorite Rock Song",
+      "result": "nominated",
+      "recipient": "Imagine Dragons x JID - \"Enemy\"",
+      "project": "Arcane",
+      "game": "arcane",
+      "musicRelated": true,
+      "songTitle": "Enemy",
+      "sourceUrls": [
+        "https://loudwire.com/2022-american-music-awards-rock-categories-revealed/",
+        "https://en.wikipedia.org/wiki/American_Music_Awards_of_2022"
+      ],
+      "notes": "Nominated against Maneskin's \"Beggin'\" (winner), Kate Bush and others; Imagine Dragons also performed \"Enemy\" at the show.",
+      "verified": true
+    },
+    {
+      "id": "arcane-2022-bfe-cut-above-best-edited-series-animation",
+      "year": 2022,
+      "ceremony": "BFE Cut Above Awards 2022",
+      "organization": "British Film Editors",
+      "award": "Best Edited Series: Animation",
+      "result": "won",
+      "recipient": "Ivan Bilancio, Gilad Carmel, Roberto Fernandez, Lawrence Gan, Martin Jay, Benjamin Massoubre, Ernesto Matamoros Cox, Nazim Meslem, Emmanuel Pilinski, David Ian Salter",
+      "project": "Arcane",
+      "game": "arcane",
+      "musicRelated": false,
+      "songTitle": null,
+      "sourceUrls": [
+        "https://lwks.com/blog/bfe-cut-above-awards-2022",
+        "https://twitter.com/BFEditors/status/1520129805907288069"
+      ],
+      "notes": "UK editors' guild honour for the Season 1 editing team, announced on 29 April 2022.",
+      "verified": true
+    },
+    {
+      "id": "arcane-2022-clio-entertainment-family-sound-design-bronze",
+      "year": 2022,
+      "ceremony": "Clio Entertainment Awards 2022",
+      "organization": "Clio Awards",
+      "award": "Bronze - Television/Series: Video Promo Craft (Sound Design)",
+      "result": "won",
+      "recipient": "\"Family\" promo for Arcane (Trailer Park Group)",
+      "project": "Arcane",
+      "game": "arcane",
+      "musicRelated": true,
+      "songTitle": null,
+      "sourceUrls": [
+        "https://clios.com/winners-gallery/details/148828"
+      ],
+      "notes": "Sound design craft award for a Season 1 promo.",
+      "verified": true
+    },
+    {
+      "id": "arcane-2022-clio-entertainment-arcane-campaign-bronze",
+      "year": 2022,
+      "ceremony": "Clio Entertainment Awards 2022",
+      "organization": "Clio Awards",
+      "award": "Bronze - Television/Series: Video Promo Mixed Campaign (Cartoon/Animation)",
+      "result": "won",
+      "recipient": "\"Arcane Campaign\" (Trailer Park Group)",
+      "project": "Arcane",
+      "game": "arcane",
+      "musicRelated": false,
+      "songTitle": null,
+      "sourceUrls": [
+        "https://clios.com/winners-gallery/details/152151"
+      ],
+      "notes": "Season 1 promo campaign by Trailer Park Group.",
+      "verified": true
+    },
+    {
+      "id": "arcane-2022-clio-entertainment-unlock-your-legends-gold",
+      "year": 2022,
+      "ceremony": "Clio Entertainment Awards 2022",
+      "organization": "Clio Awards",
+      "award": "Gold - Games: Digital/Mobile",
+      "result": "won",
+      "recipient": "\"Unlock Your Legends\" for Riot Games (BBH / Bartle Bogle Hegarty)",
+      "project": "Arcane",
+      "game": "arcane",
+      "musicRelated": false,
+      "songTitle": null,
+      "sourceUrls": [
+        "https://clios.com/winners-gallery/details/145592",
+        "https://campaignbriefasia.com/2022/11/23/bbh-singapore-scores-one-gold-and-five-silver-at-the-entertainment-clio-awards/"
+      ],
+      "notes": "Mobile puzzle that revealed an Arcane character depending on how players cracked it; built to support the show's launch.",
+      "verified": true
+    },
+    {
+      "id": "arcane-2022-clio-entertainment-unlock-your-legends-silver",
+      "year": 2022,
+      "ceremony": "Clio Entertainment Awards 2022",
+      "organization": "Clio Awards",
+      "award": "Silver - Television/Series: Digital/Mobile (Games)",
+      "result": "won",
+      "recipient": "\"Unlock Your Legends\" for Netflix / Riot Games (BBH / Bartle Bogle Hegarty)",
+      "project": "Arcane",
+      "game": "arcane",
+      "musicRelated": false,
+      "songTitle": null,
+      "sourceUrls": [
+        "https://clios.com/winners-gallery/details/145613",
+        "https://campaignbriefasia.com/2022/11/23/bbh-singapore-scores-one-gold-and-five-silver-at-the-entertainment-clio-awards/"
+      ],
+      "notes": "Second Clio for the same Arcane launch tie-in, in the TV/series digital category.",
+      "verified": true
+    },
+    {
+      "id": "arcane-2022-clio-music-enemy-animation-bronze",
+      "year": 2022,
+      "ceremony": "Clio Music Awards 2022",
+      "organization": "Clio Awards",
+      "award": "Bronze - Music Marketing: Film/Video Craft (Animation)",
+      "result": "won",
+      "recipient": "Imagine Dragons \"Enemy (with JID) from the series Arcane League of Legends\" (Interscope Records)",
+      "project": "Arcane",
+      "game": "arcane",
+      "musicRelated": true,
+      "songTitle": "Enemy",
+      "sourceUrls": [
+        "https://clios.com/winners-gallery/details/141907"
+      ],
+      "notes": "Animation craft award for the \"Enemy\" music video.",
+      "verified": true
+    },
+    {
+      "id": "arcane-2022-clio-music-enemy-partnerships-silver",
+      "year": 2022,
+      "ceremony": "Clio Music Awards 2022",
+      "organization": "Clio Awards",
+      "award": "Silver - Music Marketing: Partnerships & Collaborations",
+      "result": "won",
+      "recipient": "Imagine Dragons \"Enemy (with JID) from the series Arcane League of Legends\" (Interscope Records)",
+      "project": "Arcane",
+      "game": "arcane",
+      "musicRelated": true,
+      "songTitle": "Enemy",
+      "sourceUrls": [
+        "https://clios.com/winners-gallery/details/141858"
+      ],
+      "notes": "Recognised the band-and-game partnership behind the Arcane theme.",
+      "verified": true
+    },
+    {
+      "id": "arcane-2022-los40-best-international-song-enemy",
+      "year": 2022,
+      "ceremony": "LOS40 Music Awards 2022",
+      "organization": "LOS40 (PRISA Radio)",
+      "award": "Best International Song",
+      "result": "won",
+      "recipient": "Imagine Dragons - \"Enemy\"",
+      "project": "Arcane",
+      "game": "arcane",
+      "musicRelated": true,
+      "songTitle": "Enemy",
+      "sourceUrls": [
+        "https://www.lahiguera.net/musicalia/noticias/29527.html",
+        "https://www.hola.com/actualidad/20221105220384/premiados-40-music-awards-chanel-harry-style/",
+        "https://en.wikipedia.org/wiki/Los_40_Music_Awards_2022"
+      ],
+      "notes": "Won the international Best Song category at the Spanish radio network's awards in Madrid on 4 November 2022, ahead of \"As It Was\" and \"Easy on Me\".",
+      "verified": true
+    },
+    {
+      "id": "arcane-2022-marketing-week-branded-experiences",
+      "year": 2022,
+      "ceremony": "Marketing Week Awards 2022",
+      "organization": "Marketing Week",
+      "award": "Branded Experiences and Events",
+      "result": "won",
+      "recipient": "Riot Games with We Are Collider (Arcane global launch experiences)",
+      "project": "Arcane",
+      "game": "arcane",
+      "musicRelated": false,
+      "songTitle": null,
+      "sourceUrls": [
+        "https://www.marketingweek.com/riot-games-topped-netflix-charts/"
+      ],
+      "notes": "Four-week experiential campaign that staged the show's world in real locations without spoiling the plot.",
+      "verified": true
+    },
+    {
+      "id": "arcane-2022-the-game-awards-best-adaptation",
+      "year": 2022,
+      "ceremony": "The Game Awards 2022",
+      "organization": "The Game Awards",
+      "award": "Best Adaptation",
+      "result": "won",
+      "recipient": "Arcane (Fortiche, Riot Games / Netflix)",
+      "project": "Arcane",
+      "game": "arcane",
+      "musicRelated": false,
+      "songTitle": null,
+      "sourceUrls": [
+        "https://www.ign.com/articles/the-game-awards-2022-winners",
+        "https://www.thegamer.com/arcane-wins-best-adaptation-the-game-awards/"
+      ],
+      "notes": "First-ever winner of the newly created Best Adaptation category, beating Cyberpunk: Edgerunners, Uncharted and others.",
+      "verified": true
+    },
+    {
+      "id": "arcane-2022-event-marketer-grand-ex-riotx-arcane",
+      "year": 2022,
+      "ceremony": "20th Annual Ex Awards",
+      "organization": "Event Marketer",
+      "award": "Grand Ex",
+      "result": "won",
+      "recipient": "RiotX Arcane launch campaign (Riot Games with Redrock Entertainment, VTProDesign, We Are Collider and Secret Cinema)",
+      "project": "Arcane",
+      "game": "arcane",
+      "musicRelated": false,
+      "songTitle": null,
+      "sourceUrls": [
+        "https://www.eventmarketer.com/article/grand-ex-2022-riot-games-riotx-arcane/"
+      ],
+      "notes": "Top prize of the experiential marketing awards, for the hybrid premiere, Hex Expo pop-ups and Undercity Nights finale built around the Season 1 launch.",
+      "verified": true
+    },
+    {
+      "id": "arcane-2022-hugo-dramatic-presentation-short-form-nomination",
+      "year": 2022,
+      "ceremony": "2022 Hugo Awards (Chicon 8)",
+      "organization": "World Science Fiction Society",
+      "award": "Best Dramatic Presentation, Short Form",
+      "result": "nominated",
+      "recipient": "Arcane, \"The Monster You Created\" (written by Christian Linke and Alex Yee; story by Linke, Yee, Conor Sheehy and Ash Brannon; directed by Pascal Charrue and Arnaud Delord)",
+      "project": "Arcane",
+      "game": "arcane",
+      "musicRelated": false,
+      "songTitle": null,
+      "sourceUrls": [
+        "https://www.thehugoawards.org/hugo-history/2022-hugo-awards/",
+        "https://gizmodo.com/the-2022-hugo-award-nominations-are-here-1848765521"
+      ],
+      "notes": "Season 1 finale was a Hugo finalist; The Expanse episode \"Nemesis Games\" won.",
+      "verified": true
+    },
+    {
+      "id": "arcane-2023-iheartradio-alternative-song-enemy",
+      "year": 2023,
+      "ceremony": "2023 iHeartRadio Music Awards",
+      "organization": "iHeartMedia",
+      "award": "Alternative Song of the Year",
+      "result": "won",
+      "recipient": "Imagine Dragons & JID - \"Enemy (from the series Arcane League of Legends)\"",
+      "project": "Arcane",
+      "game": "arcane",
+      "musicRelated": true,
+      "songTitle": "Enemy",
+      "sourceUrls": [
+        "https://www.iheart.com/content/2023-03-26-iheartradio-music-awards-2023-see-the-entire-list-of-winners/"
+      ],
+      "notes": "The Arcane theme song topped the alternative category.",
+      "verified": true
+    },
+    {
+      "id": "arcane-2023-iheartradio-song-of-the-year-enemy-nomination",
+      "year": 2023,
+      "ceremony": "2023 iHeartRadio Music Awards",
+      "organization": "iHeartMedia",
+      "award": "Song of the Year",
+      "result": "nominated",
+      "recipient": "Imagine Dragons & JID - \"Enemy (from the series Arcane League of Legends)\"",
+      "project": "Arcane",
+      "game": "arcane",
+      "musicRelated": true,
+      "songTitle": "Enemy",
+      "sourceUrls": [
+        "https://www.iheart.com/content/2023-03-26-iheartradio-music-awards-2023-see-the-entire-list-of-winners/",
+        "https://en.wikipedia.org/wiki/2023_iHeartRadio_Music_Awards"
+      ],
+      "notes": "Nominated for the top song prize; Taylor Swift's \"Anti-Hero\" won.",
+      "verified": true
+    },
+    {
+      "id": "arcane-2024-the-game-awards-best-adaptation-nomination",
+      "year": 2024,
+      "ceremony": "The Game Awards 2024",
+      "organization": "The Game Awards",
+      "award": "Best Adaptation",
+      "result": "nominated",
+      "recipient": "Arcane Season 2 (Fortiche, Riot Games / Netflix)",
+      "project": "Arcane",
+      "game": "arcane",
+      "musicRelated": false,
+      "songTitle": null,
+      "sourceUrls": [
+        "https://deadline.com/2024/11/the-game-award-nominations-2024-1236180078/",
+        "https://en.wikipedia.org/wiki/The_Game_Awards_2024"
+      ],
+      "notes": "Nominated again for Season 2; the award went to Fallout. Arcane songs were also performed live at the show.",
+      "verified": true
+    },
+    {
+      "id": "arcane-2025-hmma-song-tv-the-line-nomination",
+      "year": 2025,
+      "ceremony": "16th Hollywood Music in Media Awards",
+      "organization": "Hollywood Music in Media Awards",
+      "award": "Song - TV Show/Limited Series",
+      "result": "nominated",
+      "recipient": "Twenty One Pilots - \"The Line\" (written by Tyler Joseph)",
+      "project": "Arcane",
+      "game": "arcane",
+      "musicRelated": true,
+      "songTitle": "The Line",
+      "sourceUrls": [
+        "https://www.hmmawards.com/2025-hmma-winners-and-nominations/",
+        "https://en.wikipedia.org/wiki/16th_Hollywood_Music_in_Media_Awards",
+        "https://www.bmi.com/news/bmi-congratulates-its-2025-hmma-award-nominees"
+      ],
+      "notes": "Season 2 song nominated for best TV song at the 19 November 2025 ceremony; Lady Gaga's \"The Dead Dance\" (Wednesday) won.",
+      "verified": true
+    },
+    {
+      "id": "arcane-2025-shorty-organic-promotion-audience-honor",
+      "year": 2025,
+      "ceremony": "17th Annual Shorty Awards",
+      "organization": "The Shorty Awards",
+      "award": "Audience Honor - Organic Promotion",
+      "result": "won",
+      "recipient": "\"Arcane: League of Legends S2 | Paint The Town Blue\" (We Are Social U.S. and Riot Games)",
+      "project": "Arcane",
+      "game": "arcane",
+      "musicRelated": true,
+      "songTitle": null,
+      "sourceUrls": [
+        "https://shortyawards.com/17th/arcane"
+      ],
+      "notes": "Audience Honor for the Season 2 social campaign, whose month-long scavenger hunt unlocked 21 soundtrack songs while Riot's channels switched their profiles to blue.",
+      "verified": true
+    },
+    {
+      "id": "arcane-2025-golden-trailer-best-action-tv-spot",
+      "year": 2025,
+      "ceremony": "25th Golden Trailer Awards",
+      "organization": "Golden Trailer Awards",
+      "award": "Best Action (TV Spot) for a TV/Streaming Series",
+      "result": "won",
+      "recipient": "\"S2: Reckoning\" spot for Arcane Season 2 (Netflix / Tiny Hero)",
+      "project": "Arcane",
+      "game": "arcane",
+      "musicRelated": false,
+      "songTitle": null,
+      "sourceUrls": [
+        "https://www.thewrap.com/golden-trailer-awards-full-winners-list/",
+        "https://www.hollywoodreporter.com/movies/movie-news/golden-trailer-awards-2025-winners-1236233223/",
+        "https://en.wikipedia.org/wiki/Golden_Trailer_Awards"
+      ],
+      "notes": "Season 2 marketing spot by trailer house Tiny Hero; presented on 29 May 2025.",
+      "verified": true
+    },
+    {
+      "id": "arcane-2025-golden-trailer-best-music-tv-spot",
+      "year": 2025,
+      "ceremony": "25th Golden Trailer Awards",
+      "organization": "Golden Trailer Awards",
+      "award": "Best Music (TV Spot) for a TV/Streaming Series",
+      "result": "won",
+      "recipient": "\"S2: Reckoning\" spot for Arcane Season 2 (Netflix / Tiny Hero)",
+      "project": "Arcane",
+      "game": "arcane",
+      "musicRelated": true,
+      "songTitle": null,
+      "sourceUrls": [
+        "https://www.thewrap.com/golden-trailer-awards-full-winners-list/",
+        "https://www.hollywoodreporter.com/movies/movie-news/golden-trailer-awards-2025-winners-1236233223/",
+        "https://en.wikipedia.org/wiki/Golden_Trailer_Awards"
+      ],
+      "notes": "The same \"Reckoning\" spot also won for its use of music (it was additionally nominated for Most Original TV spot).",
+      "verified": true
+    },
+    {
+      "id": "arcane-2025-magnolia-best-animation",
+      "year": 2025,
+      "ceremony": "30th Shanghai Television Festival Magnolia Awards",
+      "organization": "Shanghai Television Festival",
+      "award": "Best Animation",
+      "result": "won",
+      "recipient": "Arcane Season 2 (accepted by Fortiche's Pascal Charrue and Herve Dupont)",
+      "project": "Arcane",
+      "game": "arcane",
+      "musicRelated": false,
+      "songTitle": null,
+      "sourceUrls": [
+        "https://forticheprod.com/blog/projects-events/best-animation-award-at-the-2025-magnolia-awards-in-shanghai/",
+        "https://www.gamersky.com/news/102261/",
+        "https://www.ithome.com/0/897/158.htm"
+      ],
+      "notes": "China's Magnolia (Bai Yulan) Award for best animated series went to Season 2, announced in late June 2025.",
+      "verified": true
+    },
+    {
+      "id": "arcane-2025-golden-joystick-best-game-adaptation",
+      "year": 2025,
+      "ceremony": "Golden Joystick Awards 2025",
+      "organization": "GamesRadar+ (Future plc)",
+      "award": "Best Game Adaptation",
+      "result": "won",
+      "recipient": "Arcane Season 2 (Netflix)",
+      "project": "Arcane",
+      "game": "arcane",
+      "musicRelated": false,
+      "songTitle": null,
+      "sourceUrls": [
+        "https://insider-gaming.com/golden-joystick-awards-2025-all-award-winners/",
+        "https://mynintendonews.com/2025/11/21/full-list-of-golden-joystick-awards-2025-winners/",
+        "https://en.wikipedia.org/wiki/Golden_Joystick_Awards"
+      ],
+      "notes": "Season 2 beat Devil May Cry, The Last of Us Season 2, A Minecraft Movie, Secret Level and Sonic the Hedgehog 3 at the 20 November 2025 ceremony in London.",
+      "verified": true
+    },
+    {
+      "id": "arcane-2025-annie-character-animation",
+      "year": 2025,
+      "ceremony": "52nd Annie Awards",
+      "organization": "ASIFA-Hollywood",
+      "award": "Best Character Animation - TV/Media",
+      "result": "won",
+      "recipient": "Tom Gouill (Season 2 episodes)",
+      "project": "Arcane",
+      "game": "arcane",
+      "musicRelated": false,
+      "songTitle": null,
+      "sourceUrls": [
+        "https://www.cgw.com/Press-Center/News/2025/52nd-Annie-Awards-Winners-announced.aspx",
+        "https://forticheprod.com/blog/highlights/arcane-alongside-riot-games-french-animation-studio-fortiche-production-triumphs-at-the-2025-annie-awards/"
+      ],
+      "notes": "Character animation award spanning seven Season 2 episodes.",
+      "verified": true
+    },
+    {
+      "id": "arcane-2025-annie-direction",
+      "year": 2025,
+      "ceremony": "52nd Annie Awards",
+      "organization": "ASIFA-Hollywood",
+      "award": "Best Direction - TV/Media",
+      "result": "won",
+      "recipient": "Arnaud Delord, Pascal Charrue, Bart Maunoury (\"The Dirt Under Your Nails\")",
+      "project": "Arcane",
+      "game": "arcane",
+      "musicRelated": false,
+      "songTitle": null,
+      "sourceUrls": [
+        "https://www.cgw.com/Press-Center/News/2025/52nd-Annie-Awards-Winners-announced.aspx",
+        "https://forticheprod.com/blog/highlights/arcane-alongside-riot-games-french-animation-studio-fortiche-production-triumphs-at-the-2025-annie-awards/"
+      ],
+      "notes": "Second directing Annie for the same Fortiche trio.",
+      "verified": true
+    },
+    {
+      "id": "arcane-2025-annie-editorial",
+      "year": 2025,
+      "ceremony": "52nd Annie Awards",
+      "organization": "ASIFA-Hollywood",
+      "award": "Best Editorial - TV/Media",
+      "result": "won",
+      "recipient": "Nazim Meslem, Gilad Carmel, Roberto Fernandez (\"Pretend Like It's the First Time\")",
+      "project": "Arcane",
+      "game": "arcane",
+      "musicRelated": false,
+      "songTitle": null,
+      "sourceUrls": [
+        "https://www.cgw.com/Press-Center/News/2025/52nd-Annie-Awards-Winners-announced.aspx",
+        "https://forticheprod.com/blog/highlights/arcane-alongside-riot-games-french-animation-studio-fortiche-production-triumphs-at-the-2025-annie-awards/"
+      ],
+      "notes": "Editing award for Season 2 episode 7.",
+      "verified": true
+    },
+    {
+      "id": "arcane-2025-annie-fx",
+      "year": 2025,
+      "ceremony": "52nd Annie Awards",
+      "organization": "ASIFA-Hollywood",
+      "award": "Best FX - TV/Media",
+      "result": "won",
+      "recipient": "Guillaume Degroote, Aurelien Ressencourt, Adam Bachiri, Guillaume Zaouche, Jerome Dupre (\"The Dirt Under Your Nails\")",
+      "project": "Arcane",
+      "game": "arcane",
+      "musicRelated": false,
+      "songTitle": null,
+      "sourceUrls": [
+        "https://www.cgw.com/Press-Center/News/2025/52nd-Annie-Awards-Winners-announced.aspx",
+        "https://forticheprod.com/blog/highlights/arcane-alongside-riot-games-french-animation-studio-fortiche-production-triumphs-at-the-2025-annie-awards/"
+      ],
+      "notes": "Effects award for the Season 2 finale; Season 2 won all seven of its Annie nominations.",
+      "verified": true
+    },
+    {
+      "id": "arcane-2025-annie-music",
+      "year": 2025,
+      "ceremony": "52nd Annie Awards",
+      "organization": "ASIFA-Hollywood",
+      "award": "Best Music - TV/Media",
+      "result": "won",
+      "recipient": "Ryan Jillian Santiago, Alexander Seaver, Simon Wilcox (\"The Dirt Under Your Nails\")",
+      "project": "Arcane",
+      "game": "arcane",
+      "musicRelated": true,
+      "songTitle": null,
+      "sourceUrls": [
+        "https://www.cgw.com/Press-Center/News/2025/52nd-Annie-Awards-Winners-announced.aspx",
+        "https://forticheprod.com/blog/highlights/arcane-alongside-riot-games-french-animation-studio-fortiche-production-triumphs-at-the-2025-annie-awards/"
+      ],
+      "notes": "Arcane's first Annie for music, honouring the Season 2 finale.",
+      "verified": true
+    },
+    {
+      "id": "arcane-2025-annie-production-design",
+      "year": 2025,
+      "ceremony": "52nd Annie Awards",
+      "organization": "ASIFA-Hollywood",
+      "award": "Best Production Design - TV/Media",
+      "result": "won",
+      "recipient": "Arnaud-Loris Baudry, Julien Georgel, Faustine Dumontier, Charlotte O'Neil (\"The Dirt Under Your Nails\")",
+      "project": "Arcane",
+      "game": "arcane",
+      "musicRelated": false,
+      "songTitle": null,
+      "sourceUrls": [
+        "https://www.cgw.com/Press-Center/News/2025/52nd-Annie-Awards-Winners-announced.aspx",
+        "https://forticheprod.com/blog/highlights/arcane-alongside-riot-games-french-animation-studio-fortiche-production-triumphs-at-the-2025-annie-awards/"
+      ],
+      "notes": "Second production design Annie for the series.",
+      "verified": true
+    },
+    {
+      "id": "arcane-2025-annie-storyboarding",
+      "year": 2025,
+      "ceremony": "52nd Annie Awards",
+      "organization": "ASIFA-Hollywood",
+      "award": "Best Storyboarding - TV/Media",
+      "result": "won",
+      "recipient": "Josephine Meis (\"Killing Is a Cycle\")",
+      "project": "Arcane",
+      "game": "arcane",
+      "musicRelated": false,
+      "songTitle": null,
+      "sourceUrls": [
+        "https://www.cgw.com/Press-Center/News/2025/52nd-Annie-Awards-Winners-announced.aspx",
+        "https://forticheprod.com/blog/highlights/arcane-alongside-riot-games-french-animation-studio-fortiche-production-triumphs-at-the-2025-annie-awards/"
+      ],
+      "notes": "Storyboard award for Season 2 episode 8.",
+      "verified": true
+    },
+    {
+      "id": "arcane-2025-golden-reel-non-theatrical-animation",
+      "year": 2025,
+      "ceremony": "72nd Annual Golden Reel Awards",
+      "organization": "Motion Picture Sound Editors (MPSE)",
+      "award": "Outstanding Achievement in Sound Editing - Non-Theatrical Animation",
+      "result": "won",
+      "recipient": "Brad Beaumont, Eliot Connors (supervising sound editors), Stephen P. Robinson, Alexander Temple (supervising music editor), Andrew Kierszenbaum, Sebastien Najand, Alex Seaver (music editors), PJ Pascual, John Cucci, Dan O'Connell (\"The Dirt Under Your Nails\")",
+      "project": "Arcane",
+      "game": "arcane",
+      "musicRelated": true,
+      "songTitle": null,
+      "sourceUrls": [
+        "https://animationmagazine.net/2025/02/the-wild-robot-arcane-s2-secret-level-win-golden-reel-awards",
+        "https://en.wikipedia.org/wiki/Golden_Reel_Awards_2024"
+      ],
+      "notes": "Second Golden Reel in the category, for the Season 2 finale; the credited team includes music editors Alexander Temple, Andrew Kierszenbaum, Sebastien Najand and Alex Seaver.",
+      "verified": true
+    },
+    {
+      "id": "arcane-2025-emmy-outstanding-animated-program",
+      "year": 2025,
+      "ceremony": "77th Primetime Creative Arts Emmy Awards",
+      "organization": "Television Academy",
+      "award": "Outstanding Animated Program",
+      "result": "won",
+      "recipient": "Arcane, episode \"The Dirt Under Your Nails\" (Christian Linke, Alex Yee, Riot Games and Fortiche producers)",
+      "project": "Arcane",
+      "game": "arcane",
+      "musicRelated": false,
+      "songTitle": null,
+      "sourceUrls": [
+        "https://www.televisionacademy.com/shows/arcane",
+        "https://forticheprod.com/blog/highlights/4-emmys-for-arcane-season-2/"
+      ],
+      "notes": "The Season 2 finale won, giving Arcane its second Outstanding Animated Program Emmy after 2022.",
+      "verified": true
+    },
+    {
+      "id": "arcane-2025-emmy-juried-background-design-couchinho",
+      "year": 2025,
+      "ceremony": "77th Primetime Creative Arts Emmy Awards",
+      "organization": "Television Academy",
+      "award": "Outstanding Individual Achievement in Animation (juried)",
+      "result": "won",
+      "recipient": "Bruno Couchinho, background designer (\"The Dirt Under Your Nails\")",
+      "project": "Arcane",
+      "game": "arcane",
+      "musicRelated": false,
+      "songTitle": null,
+      "sourceUrls": [
+        "https://www.televisionacademy.com/shows/arcane",
+        "https://forticheprod.com/blog/highlights/4-emmys-for-arcane-season-2/",
+        "https://deadline.com/2025/08/emmys-juried-award-winners-2025-list-beyonce-1236484821/"
+      ],
+      "notes": "Couchinho's second juried Emmy for Arcane backgrounds.",
+      "verified": true
+    },
+    {
+      "id": "arcane-2025-emmy-juried-color-dumontier",
+      "year": 2025,
+      "ceremony": "77th Primetime Creative Arts Emmy Awards",
+      "organization": "Television Academy",
+      "award": "Outstanding Individual Achievement in Animation (juried)",
+      "result": "won",
+      "recipient": "Faustine Dumontier, colorscript and color keys artist (\"The Message Hidden Within the Pattern\")",
+      "project": "Arcane",
+      "game": "arcane",
+      "musicRelated": false,
+      "songTitle": null,
+      "sourceUrls": [
+        "https://www.televisionacademy.com/shows/arcane",
+        "https://forticheprod.com/blog/highlights/4-emmys-for-arcane-season-2/",
+        "https://deadline.com/2025/08/emmys-juried-award-winners-2025-list-beyonce-1236484821/"
+      ],
+      "notes": "Juried color design award for Season 2.",
+      "verified": true
+    },
+    {
+      "id": "arcane-2025-emmy-sound-editing-animated-program",
+      "year": 2025,
+      "ceremony": "77th Primetime Creative Arts Emmy Awards",
+      "organization": "Television Academy",
+      "award": "Outstanding Sound Editing for an Animated Program",
+      "result": "won",
+      "recipient": "Brad Beaumont, Eliot Connors, Stephen P. Robinson, Janet \"PJ\" Pascual, Dan O'Connell, John Cucci (\"The Dirt Under Your Nails\")",
+      "project": "Arcane",
+      "game": "arcane",
+      "musicRelated": true,
+      "songTitle": null,
+      "sourceUrls": [
+        "https://www.televisionacademy.com/shows/arcane",
+        "https://forticheprod.com/blog/highlights/4-emmys-for-arcane-season-2/",
+        "https://en.wikipedia.org/wiki/77th_Primetime_Creative_Arts_Emmy_Awards"
+      ],
+      "notes": "Supervising sound editors Brad Beaumont and Eliot Connors, nominated in 2022, won for the Season 2 finale.",
+      "verified": true
+    },
+    {
+      "id": "arcane-2025-ama-favorite-soundtrack",
+      "year": 2025,
+      "ceremony": "American Music Awards of 2025",
+      "organization": "Dick Clark Productions",
+      "award": "Favorite Soundtrack",
+      "result": "won",
+      "recipient": "Arcane League of Legends: Season 2 (Soundtrack from the Animated Series)",
+      "project": "Arcane",
+      "game": "arcane",
+      "musicRelated": true,
+      "songTitle": null,
+      "sourceUrls": [
+        "https://www.euronews.com/culture/2025/05/27/american-music-awards-2025-billie-eilish-sweeps-american-music-awards-2025-with-seven-wins",
+        "https://deadline.com/2025/05/american-music-awards-2025-winners-list-1236411280/"
+      ],
+      "notes": "The Season 2 soundtrack won over Wicked, Moana 2, Hazbin Hotel and Twisters: The Album.",
+      "verified": true
+    },
+    {
+      "id": "arcane-2025-clio-entertainment-legacy-trailer-music-bronze",
+      "year": 2025,
+      "ceremony": "Clio Entertainment Awards 2025",
+      "organization": "Clio Awards",
+      "award": "Bronze - Audio Visual Craft: Music",
+      "result": "won",
+      "recipient": "\"Legacy Trailer\" for Arcane Season 2 (Tiny Hero)",
+      "project": "Arcane",
+      "game": "arcane",
+      "musicRelated": true,
+      "songTitle": null,
+      "sourceUrls": [
+        "https://clios.com/winners-gallery/details/199800"
+      ],
+      "notes": "Music craft award for a Season 2 trailer.",
+      "verified": true
+    },
+    {
+      "id": "arcane-2025-clio-entertainment-justice-trailer-bronze",
+      "year": 2025,
+      "ceremony": "Clio Entertainment Awards 2025",
+      "organization": "Clio Awards",
+      "award": "Bronze - Audio Visual: Trailer",
+      "result": "won",
+      "recipient": "\"Justice\" trailer for Arcane Season 2 (Wild Card Creative Group)",
+      "project": "Arcane",
+      "game": "arcane",
+      "musicRelated": false,
+      "songTitle": null,
+      "sourceUrls": [
+        "https://clios.com/winners-gallery/details/193348"
+      ],
+      "notes": "Trailer award for a Season 2 spot by Wild Card Creative Group.",
+      "verified": true
+    },
+    {
+      "id": "arcane-2025-gayming-lgbtq-geek-entertainment",
+      "year": 2025,
+      "ceremony": "Gayming Awards 2025",
+      "organization": "Gayming Magazine",
+      "award": "LGBTQ+ Geek Entertainment of the Year",
+      "result": "won",
+      "recipient": "Arcane Season 2 (Netflix)",
+      "project": "Arcane",
+      "game": "arcane",
+      "musicRelated": false,
+      "songTitle": null,
+      "sourceUrls": [
+        "https://gaymingmag.com/2025/07/heres-the-gayming-awards-2025-winners/",
+        "https://www.gamesindustry.biz/dragon-age-the-veilguard-wins-game-of-the-year-at-gayming-awards-2025"
+      ],
+      "notes": "Recognised Season 2's LGBTQ+ storytelling, including Vi and Caitlyn's relationship.",
+      "verified": true
+    },
+    {
+      "id": "arcane-2025-glaad-outstanding-drama-series-nomination",
+      "year": 2025,
+      "ceremony": "36th GLAAD Media Awards",
+      "organization": "GLAAD",
+      "award": "Outstanding Drama Series",
+      "result": "nominated",
+      "recipient": "Arcane (Netflix)",
+      "project": "Arcane",
+      "game": "arcane",
+      "musicRelated": false,
+      "songTitle": null,
+      "sourceUrls": [
+        "https://www.glaad.org/mediaawards/36/nominees",
+        "https://en.wikipedia.org/wiki/36th_GLAAD_Media_Awards"
+      ],
+      "notes": "Season 2 was nominated alongside live-action dramas; 9-1-1: Lone Star won.",
+      "verified": true
+    }
+  ]
+}

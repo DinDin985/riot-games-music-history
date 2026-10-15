@@ -1,0 +1,59 @@
+{
+  "$comment": "Controlled vocabulary for /timeline. Tag ids are kebab-case and must not change once used. Every taxonomy category id (data/curated/taxonomy.json) is also a tag here with the same id. Discs are the vinyls a user can put on the turntable; `kind: game` discs match entries by gameId, `kind: collection` discs match entries carrying any of `tags` (or whose gameId is in `gameIds`).",
+  "tags": [
+    { "id": "worlds", "name": "Worlds Anthems", "kind": "event", "color": "#C89B3C", "description": "The yearly anthems and show songs of the League of Legends World Championship." },
+    { "id": "worlds-theme", "name": "Worlds Orchestral Themes", "kind": "event", "color": "#A88A4E", "description": "The orchestral World Championship themes: the score of the broadcast, the login screen and the arena." },
+    { "id": "msi", "name": "MSI", "kind": "event", "color": "#6FB7E9", "description": "Mid-Season Invitational anthems and themes." },
+    { "id": "all-stars", "name": "All-Stars", "kind": "event", "color": "#F2C14E", "description": "League of Legends All-Star event music." },
+    { "id": "valorant-champions", "name": "VALORANT Champions & VCT", "kind": "event", "color": "#FF4655", "description": "VALORANT esports anthems (Champions, Masters, VCT)." },
+    { "id": "esports", "name": "Esports", "kind": "event", "color": "#5AC8A8", "description": "Other esports music: broadcast themes, team songs, show opens, TFT and 2XKO tournaments." },
+
+    { "id": "virtual-group", "name": "Virtual Groups", "kind": "group", "color": "#C04BFF", "description": "Riot's in-universe bands and virtual artists." },
+    { "id": "k-da", "name": "K/DA", "kind": "group", "color": "#E64CB4", "description": "The K-pop girl group of Ahri, Akali, Evelynn and Kai'Sa (2018–)." },
+    { "id": "true-damage", "name": "True Damage", "kind": "group", "color": "#F2C94C", "description": "The hip-hop group of Akali, Ekko, Qiyana, Senna and Yasuo (2019–)." },
+    { "id": "pentakill", "name": "Pentakill", "kind": "group", "color": "#A8A9AD", "description": "League's heavy-metal band of Karthus, Mordekaiser, Olaf, Sona, Yorick and Kayle (2014–)." },
+    { "id": "heartsteel", "name": "HEARTSTEEL", "kind": "group", "color": "#E2495B", "description": "The boy band of Aphelios, Ezreal, Kayn, K'Sante, Sett and Yone (2023–)." },
+    { "id": "seraphine", "name": "Seraphine", "kind": "group", "color": "#F59FD0", "description": "Songs released as Seraphine, League's virtual pop-star champion." },
+
+    { "id": "cinematic", "name": "Cinematics", "kind": "format", "color": "#4A90E2", "description": "Songs and scores for season-start and game cinematics." },
+    { "id": "champion-theme", "name": "Champion Themes", "kind": "format", "color": "#56C271", "description": "Themes written for a single champion, agent or fighter." },
+    { "id": "login-screen", "name": "Login Screens", "kind": "format", "color": "#8E7CC3", "description": "Client login screen themes." },
+    { "id": "soundtrack", "name": "Game Soundtracks", "kind": "format", "color": "#7A8B99", "description": "In-game score: maps, modes, menus and full game OSTs." },
+    { "id": "remix", "name": "Remixes", "kind": "format", "color": "#FF8A3D", "description": "Official remixes and alternate versions." },
+    { "id": "animated-short", "name": "Animated Shorts", "kind": "format", "color": "#5BC0EB", "description": "Music written for Riot's animated shorts and story videos." },
+
+    { "id": "arcane", "name": "Arcane", "kind": "series", "color": "#3FA7D6", "description": "Music from Arcane, Riot Games' animated series." },
+    { "id": "skin-line", "name": "Skin Lines & Events", "kind": "series", "color": "#F28FAD", "description": "Music for skin universes and seasonal events (Star Guardian, Spirit Blossom, Lunar Revel…)." },
+    { "id": "star-guardian", "name": "Star Guardian", "kind": "series", "color": "#FF9ED8", "description": "Star Guardian skin-line music." },
+    { "id": "spirit-blossom", "name": "Spirit Blossom", "kind": "series", "color": "#F6A6B2", "description": "Spirit Blossom event and skin-line music." },
+    { "id": "soul-fighter", "name": "Soul Fighter", "kind": "series", "color": "#F0544F", "description": "Soul Fighter event music." },
+    { "id": "sessions", "name": "Sessions", "kind": "series", "color": "#9ACD32", "description": "Riot's royalty-free lo-fi albums for streamers (Sessions: Vi, Diana, Star Guardian Taliyah…)." },
+    { "id": "music-of-league", "name": "The Music of League", "kind": "series", "color": "#B08D57", "description": "The yearly 'The Music of League of Legends' season soundtracks." },
+    { "id": "warsongs", "name": "Warsongs", "kind": "series", "color": "#C0392B", "description": "Warsongs, the remix albums of League's music." },
+    { "id": "remix-rumble", "name": "Remix Rumble", "kind": "series", "color": "#FFB347", "description": "Teamfight Tactics Set 10 (Remix Rumble) soundtrack and its genre remixes." }
+  ],
+  "discs": [
+    { "id": "all", "name": "The Complete Riot Discography", "short": "ALL", "kind": "all", "color": "#1E88C8", "description": "Every song Riot Games has released, in order.", "gameIds": [], "tags": [] },
+
+    { "id": "league-of-legends", "name": "League of Legends", "short": "LoL", "kind": "game", "color": "#C89B3C", "description": "From the 2009 launch score to this year's Worlds anthem.", "gameIds": ["league-of-legends"], "tags": [] },
+    { "id": "valorant", "name": "VALORANT", "short": "VAL", "kind": "game", "color": "#FF4655", "description": "Agent themes, episode cinematics and VCT anthems.", "gameIds": ["valorant"], "tags": [] },
+    { "id": "teamfight-tactics", "name": "Teamfight Tactics", "short": "TFT", "kind": "game", "color": "#E8A33D", "description": "Set themes, Remix Rumble and the music of the Convergence.", "gameIds": ["teamfight-tactics"], "tags": [] },
+    { "id": "legends-of-runeterra", "name": "Legends of Runeterra", "short": "LoR", "kind": "game", "color": "#2F8FCE", "description": "Region themes, expansions and The Path of Champions.", "gameIds": ["legends-of-runeterra"], "tags": [] },
+    { "id": "wild-rift", "name": "League of Legends: Wild Rift", "short": "WR", "kind": "game", "color": "#4FC3F7", "description": "Wild Rift's score, event songs and esports music.", "gameIds": ["wild-rift"], "tags": [] },
+    { "id": "2xko", "name": "2XKO", "short": "2XKO", "kind": "game", "color": "#B14CFF", "description": "Fighter themes and stage music from Riot's tag fighter.", "gameIds": ["2xko"], "tags": [] },
+    { "id": "arcane", "name": "Arcane", "short": "ARCANE", "kind": "collection", "color": "#3FA7D6", "description": "Both seasons of the animated series: songs and score.", "gameIds": ["arcane"], "tags": ["arcane"] },
+    { "id": "riot-forge", "name": "Riot Forge", "short": "FORGE", "kind": "game", "color": "#7CB342", "description": "Soundtracks of the Riot Forge games (Ruined King, Hextech Mayhem, Song of Nunu…).", "gameIds": ["riot-forge"], "tags": [] },
+
+    { "id": "worlds", "name": "Worlds", "short": "WORLDS", "kind": "collection", "color": "#C89B3C", "description": "Every World Championship anthem, orchestral theme and show song.", "gameIds": [], "tags": ["worlds", "worlds-theme"] },
+    { "id": "esports", "name": "Esports Anthems", "short": "ESPORTS", "kind": "collection", "color": "#5AC8A8", "description": "MSI, All-Stars, VALORANT Champions and the rest of Riot's esports music.", "gameIds": [], "tags": ["msi", "all-stars", "valorant-champions", "esports"] },
+    { "id": "virtual-groups", "name": "Virtual Groups", "short": "BANDS", "kind": "collection", "color": "#C04BFF", "description": "K/DA, True Damage, Pentakill, HEARTSTEEL and Seraphine.", "gameIds": [], "tags": ["virtual-group", "k-da", "true-damage", "pentakill", "heartsteel", "seraphine"] },
+    { "id": "k-da", "name": "K/DA", "short": "K/DA", "kind": "collection", "color": "#E64CB4", "description": "POP/STARS, ALL OUT and everything after.", "gameIds": [], "tags": ["k-da"] },
+    { "id": "true-damage", "name": "True Damage", "short": "TD", "kind": "collection", "color": "#F2C94C", "description": "GIANTS and the rest of True Damage's catalogue.", "gameIds": [], "tags": ["true-damage"] },
+    { "id": "pentakill", "name": "Pentakill", "short": "PENTA", "kind": "collection", "color": "#A8A9AD", "description": "Smite and Ignite, Grasp of the Undying, Lost Chapter.", "gameIds": [], "tags": ["pentakill"] },
+    { "id": "heartsteel", "name": "HEARTSTEEL", "short": "HS", "kind": "collection", "color": "#E2495B", "description": "PARANOIA and the boy band's releases.", "gameIds": [], "tags": ["heartsteel"] },
+    { "id": "cinematics", "name": "Cinematics", "short": "CINE", "kind": "collection", "color": "#4A90E2", "description": "Season-start and game cinematics across every Riot game.", "gameIds": [], "tags": ["cinematic"] },
+    { "id": "champion-themes", "name": "Champion Themes", "short": "THEMES", "kind": "collection", "color": "#56C271", "description": "Themes for champions, agents and fighters.", "gameIds": [], "tags": ["champion-theme"] },
+    { "id": "login-screens", "name": "Login Screens", "short": "LOGIN", "kind": "collection", "color": "#8E7CC3", "description": "Every client login screen theme.", "gameIds": [], "tags": ["login-screen"] },
+    { "id": "skin-lines", "name": "Skin Lines & Events", "short": "EVENTS", "kind": "collection", "color": "#F28FAD", "description": "Star Guardian, Spirit Blossom, Soul Fighter and other event music.", "gameIds": [], "tags": ["skin-line", "star-guardian", "spirit-blossom", "soul-fighter"] }
+  ]
+}

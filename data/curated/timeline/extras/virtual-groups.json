@@ -1,0 +1,711 @@
+{
+  "scope": "virtual-groups",
+  "researchedAt": "2026-10-14",
+  "entries": [
+    {
+      "id": "x-vg-pop-stars-instrumental",
+      "title": "POP/STARS (Instrumental)",
+      "artists": [
+        {
+          "name": "K/DA",
+          "role": "primary"
+        },
+        {
+          "name": "Sebastien Najand",
+          "role": "composer"
+        }
+      ],
+      "gameId": "league-of-legends",
+      "categoryIds": [
+        "virtual-group",
+        "skin-line"
+      ],
+      "tags": [
+        "k-da",
+        "virtual-group"
+      ],
+      "album": "POP/STARS",
+      "date": "2018-11-06",
+      "usedFor": "Official instrumental of K/DA's debut single",
+      "background": "The vocal-free version of POP/STARS, the song that introduced K/DA (Ahri, Akali, Evelynn and Kai'Sa) at the 2018 World Championship opening ceremony. Riot added it to the League of Legends SoundCloud three days after the single, completing a two-track K/DA - POP/STARS set; it was never issued as a separate streaming release.",
+      "audioYoutubeId": null,
+      "musicVideoYoutubeId": null,
+      "musicVideoKind": null,
+      "musicVideoTitle": null,
+      "spotifyUrl": null,
+      "coverUrl": "https://i.scdn.co/image/ab67616d0000b2739703a4afd5c93a80bc13382b",
+      "sources": [
+        {
+          "title": "K/DA - POP/STARS [Instrumental] (League of Legends SoundCloud, uploaded 2018-11-06)",
+          "url": "https://soundcloud.com/leagueoflegends/kda-popstars-instrumental"
+        },
+        {
+          "title": "K/DA - POP/STARS (two-track SoundCloud set)",
+          "url": "https://soundcloud.com/leagueoflegends/sets/k-da-popstars"
+        },
+        {
+          "title": "POP/STARS (SoundCloud release with instrumental) - MusicBrainz",
+          "url": "https://musicbrainz.org/release/c744df3e-7cf0-420e-a048-c0dd4a30eb06"
+        },
+        {
+          "title": "Pop/Stars - Wikipedia (credits)",
+          "url": "https://en.wikipedia.org/wiki/Pop/Stars"
+        }
+      ],
+      "confidence": "high",
+      "notes": "Official instrumental published only on the League of Legends SoundCloud; it is not on Spotify and no official YouTube upload was found, so audioYoutubeId is null. Cover: the POP/STARS single art, identical to the SoundCloud artwork."
+    },
+    {
+      "id": "x-vg-giants-instrumental",
+      "title": "GIANTS (Instrumental)",
+      "artists": [
+        {
+          "name": "True Damage",
+          "role": "primary"
+        }
+      ],
+      "gameId": "league-of-legends",
+      "categoryIds": [
+        "virtual-group",
+        "skin-line"
+      ],
+      "tags": [
+        "true-damage",
+        "virtual-group"
+      ],
+      "album": "GIANTS",
+      "date": "2019-11-10",
+      "usedFor": "Official instrumental of True Damage's debut single",
+      "background": "The instrumental of GIANTS, the debut single of True Damage, the hip-hop group of Akali, Ekko, Qiyana, Senna and Yasuo. Riot uploaded it to the League of Legends SoundCloud on 10 November 2019, the day the group premiered the song live at the Worlds 2019 Finals in Paris.",
+      "audioYoutubeId": null,
+      "musicVideoYoutubeId": null,
+      "musicVideoKind": null,
+      "musicVideoTitle": null,
+      "spotifyUrl": null,
+      "coverUrl": "https://i.scdn.co/image/ab67616d0000b2732ed6658deccd05bc13ce7183",
+      "sources": [
+        {
+          "title": "True Damage - GIANTS [Instrumental] (League of Legends SoundCloud, 2019-11-10)",
+          "url": "https://soundcloud.com/leagueoflegends/true-damage-giants-instrumental"
+        },
+        {
+          "title": "GIANTS (SoundCloud release with instrumental) - MusicBrainz",
+          "url": "https://musicbrainz.org/release/d56fb0a5-c233-4944-a55b-9aa4dbf03581"
+        }
+      ],
+      "confidence": "high",
+      "notes": "Official instrumental published only on the League of Legends SoundCloud; it is not on Spotify and no official YouTube upload was found, so audioYoutubeId is null. Cover: the GIANTS single art, identical to the SoundCloud artwork. Producer credit not verified, so only True Damage is listed."
+    },
+    {
+      "id": "x-vg-childhood-dreams-seraphine",
+      "title": "Childhood Dreams",
+      "artists": [
+        {
+          "name": "Seraphine",
+          "role": "primary"
+        },
+        {
+          "name": "Jasmine Clarke",
+          "role": "featured"
+        },
+        {
+          "name": "Absofacto",
+          "role": "featured"
+        }
+      ],
+      "gameId": "league-of-legends",
+      "categoryIds": [
+        "virtual-group"
+      ],
+      "tags": [
+        "seraphine",
+        "virtual-group"
+      ],
+      "album": "Childhood Dreams",
+      "date": "2020-07-17",
+      "usedFor": "Seraphine's first release, a pre-launch cover",
+      "background": "Seraphine's first released song: a cover of Norwegian singer ARY's 2017 single, posted on the in-character SoundCloud (seradotwav) that Riot ran for her months before she was revealed as a League champion. Jasmine Clarke, Seraphine's singing voice, recorded it with Absofacto; it reached streaming services on 25 September 2020.",
+      "audioYoutubeId": "2y9nE6E1cow",
+      "musicVideoYoutubeId": null,
+      "musicVideoKind": null,
+      "musicVideoTitle": null,
+      "spotifyUrl": "https://open.spotify.com/track/3wwemGboQqYJOMYwNE9DIX",
+      "coverUrl": "https://i.scdn.co/image/ab67616d0000b2734d8bdaa08d83f4c952aeff60",
+      "sources": [
+        {
+          "title": "Childhood Dreams - seradotwav (SoundCloud, uploaded 2020-07-17)",
+          "url": "https://soundcloud.com/seradotwav/childhood-dreams"
+        },
+        {
+          "title": "Childhood Dreams - Spotify (Seraphine, Jasmine Clarke; 2020-09-25)",
+          "url": "https://open.spotify.com/track/3wwemGboQqYJOMYwNE9DIX"
+        },
+        {
+          "title": "Childhood Dreams - Seraphine - Topic (YouTube art track)",
+          "url": "https://www.youtube.com/watch?v=2y9nE6E1cow"
+        },
+        {
+          "title": "Childhood Dreams - MusicBrainz (label Riot Games)",
+          "url": "https://musicbrainz.org/release/91ecb033-8a3f-4178-8eff-e4a859c484ae"
+        },
+        {
+          "title": "Who is Seraphine, League of Legends' newest champion? (GGRecon)",
+          "url": "https://www.ggrecon.com/articles/who-is-seraphine-league-of-legends-newest-champion"
+        }
+      ],
+      "confidence": "high",
+      "notes": "Date is the SoundCloud upload; Spotify/YouTube Music carry 2020-09-25. Two Spotify copies exist (3wwemGboQqYJOMYwNE9DIX is the one on the artist's top tracks; 0NBkXEbOvbGyUgPHVdW3k1 is a duplicate) and two Topic art tracks (2y9nE6E1cow, listed on the Seraphine - Topic channel, and bQCg73ox1Rc). Absofacto is credited on the cover art ('with Jasmine Clarke, Absofacto'), not in the Spotify artist list."
+    },
+    {
+      "id": "x-vg-pop-stars-seraphine",
+      "title": "POP/STARS",
+      "artists": [
+        {
+          "name": "Seraphine",
+          "role": "primary"
+        },
+        {
+          "name": "Jasmine Clarke",
+          "role": "featured"
+        },
+        {
+          "name": "Absofacto",
+          "role": "featured"
+        }
+      ],
+      "gameId": "league-of-legends",
+      "categoryIds": [
+        "virtual-group"
+      ],
+      "tags": [
+        "seraphine",
+        "virtual-group"
+      ],
+      "album": "POP/STARS",
+      "date": "2020-08-22",
+      "usedFor": "Seraphine's pre-launch cover of K/DA's POP/STARS",
+      "background": "Seraphine's own cover of K/DA's POP/STARS, posted to her SoundCloud during Riot's in-character social media campaign, which hinted at her coming link to K/DA. Sung by Jasmine Clarke with Absofacto, it was released on streaming services on 25 September 2020.",
+      "audioYoutubeId": "NnpYIZo__Uk",
+      "musicVideoYoutubeId": null,
+      "musicVideoKind": null,
+      "musicVideoTitle": null,
+      "spotifyUrl": "https://open.spotify.com/track/5XgtzkAOrSu13v5Yy7jyzP",
+      "coverUrl": "https://i.scdn.co/image/ab67616d0000b273433541d2915ed1ad0013fb93",
+      "sources": [
+        {
+          "title": "POP/STARS - seradotwav (SoundCloud, uploaded 2020-08-22)",
+          "url": "https://soundcloud.com/seradotwav/popstars"
+        },
+        {
+          "title": "POP/STARS - Spotify (Seraphine, Jasmine Clarke; 2020-09-25)",
+          "url": "https://open.spotify.com/track/5XgtzkAOrSu13v5Yy7jyzP"
+        },
+        {
+          "title": "POP/STARS - Seraphine - Topic (YouTube art track)",
+          "url": "https://www.youtube.com/watch?v=NnpYIZo__Uk"
+        },
+        {
+          "title": "POP/STARS (Seraphine) - MusicBrainz (label Riot Games)",
+          "url": "https://musicbrainz.org/release/a99caae9-306e-40bc-8211-7ceafec67b31"
+        },
+        {
+          "title": "League's upcoming champion Seraphine has secret Twitter and SoundCloud accounts (GINX)",
+          "url": "https://www.ginx.tv/en/league-s-upcoming-champion-seraphine-has-secret-twitter-and-soundcloud-accounts-may-be-joining-k-da"
+        }
+      ],
+      "confidence": "high",
+      "notes": "Not the K/DA song (catalog id pop-stars): this is Seraphine's own cover, same title. Date is the SoundCloud upload; streaming date 2020-09-25. Duplicate copies: Spotify 1mcgxXkPeUN9wXwEex3poW, Topic CohZ0grl52k."
+    },
+    {
+      "id": "x-vg-all-the-things-she-said-seraphine",
+      "title": "All The Things She Said",
+      "artists": [
+        {
+          "name": "Seraphine",
+          "role": "primary"
+        },
+        {
+          "name": "Jasmine Clarke",
+          "role": "featured"
+        },
+        {
+          "name": "Absofacto",
+          "role": "featured"
+        }
+      ],
+      "gameId": "league-of-legends",
+      "categoryIds": [
+        "virtual-group"
+      ],
+      "tags": [
+        "seraphine",
+        "virtual-group"
+      ],
+      "album": "All The Things She Said",
+      "date": "2020-09-25",
+      "usedFor": "Seraphine's pre-launch cover of t.A.T.u.",
+      "background": "Seraphine's take on t.A.T.u.'s 2002 hit, the third cover from her pre-launch SoundCloud run, made with Jasmine Clarke, Absofacto and Kosuke Kasza. It appeared on SoundCloud and on streaming services on the same day, about a month before her debut with K/DA on MORE.",
+      "audioYoutubeId": "FRUq854BvKU",
+      "musicVideoYoutubeId": null,
+      "musicVideoKind": null,
+      "musicVideoTitle": null,
+      "spotifyUrl": "https://open.spotify.com/track/7piQvaNkJ2bSt5rKY2ZkGe",
+      "coverUrl": "https://i.scdn.co/image/ab67616d0000b2731df694273770b3756cc2aa52",
+      "sources": [
+        {
+          "title": "All The Things She Said - seradotwav (SoundCloud, 2020-09-25)",
+          "url": "https://soundcloud.com/seradotwav/all-the-things-she-said"
+        },
+        {
+          "title": "All The Things She Said - Spotify (Seraphine, Jasmine Clarke; 2020-09-25)",
+          "url": "https://open.spotify.com/track/7piQvaNkJ2bSt5rKY2ZkGe"
+        },
+        {
+          "title": "All The Things She Said - Seraphine - Topic (YouTube art track)",
+          "url": "https://www.youtube.com/watch?v=FRUq854BvKU"
+        },
+        {
+          "title": "All the Things She Said (Seraphine) - MusicBrainz",
+          "url": "https://musicbrainz.org/release/ffc1c31b-e023-414f-96e3-1a23de6e19b8"
+        }
+      ],
+      "confidence": "high",
+      "notes": "Kosuke Kasza is credited in the SoundCloud description only; not listed as an artist."
+    },
+    {
+      "id": "x-vg-made-me-this-way-seraphine",
+      "title": "Made Me This Way",
+      "artists": [
+        {
+          "name": "Seraphine",
+          "role": "primary"
+        },
+        {
+          "name": "Jasmine Clarke",
+          "role": "featured"
+        },
+        {
+          "name": "Absofacto",
+          "role": "featured"
+        },
+        {
+          "name": "Kosuke Kasza",
+          "role": "composer"
+        },
+        {
+          "name": "Sophia Alexa",
+          "role": "composer"
+        },
+        {
+          "name": "Chris Zane",
+          "role": "composer"
+        }
+      ],
+      "gameId": "league-of-legends",
+      "categoryIds": [
+        "virtual-group"
+      ],
+      "tags": [
+        "seraphine",
+        "virtual-group"
+      ],
+      "album": "Made Me This Way",
+      "date": "2020-10-16",
+      "usedFor": "Seraphine's pre-launch original song",
+      "background": "The only original song from Seraphine's pre-launch SoundCloud era, written and recorded with Jasmine Clarke, Absofacto, Kosuke Kasza, Sophia Alexa and Chris Zane. It came out less than two weeks before K/DA's MORE, the single that introduced Seraphine as a K/DA collaborator, and her arrival as a playable champion.",
+      "audioYoutubeId": "F91ojw4de5U",
+      "musicVideoYoutubeId": null,
+      "musicVideoKind": null,
+      "musicVideoTitle": null,
+      "spotifyUrl": "https://open.spotify.com/track/2NDmKLaGc7RZS4Gv1ySIY0",
+      "coverUrl": "https://i.scdn.co/image/ab67616d0000b2739bf3a4cd82732552956f0755",
+      "sources": [
+        {
+          "title": "Made Me This Way - seradotwav (SoundCloud, 2020-10-16)",
+          "url": "https://soundcloud.com/seradotwav/made-me-this-way"
+        },
+        {
+          "title": "Made Me This Way - Spotify (Seraphine, Jasmine Clarke; 2020-10-16)",
+          "url": "https://open.spotify.com/track/2NDmKLaGc7RZS4Gv1ySIY0"
+        },
+        {
+          "title": "Made Me This Way - Seraphine - Topic (YouTube art track)",
+          "url": "https://www.youtube.com/watch?v=F91ojw4de5U"
+        },
+        {
+          "title": "Made Me This Way - MusicBrainz",
+          "url": "https://musicbrainz.org/release/8cf57f73-11c1-4020-b1b5-e457f2ea06c8"
+        }
+      ],
+      "confidence": "high",
+      "notes": "Writing credits come from the SoundCloud description ('original song with ...')."
+    },
+    {
+      "id": "x-vg-drum-go-dum-instrumental",
+      "title": "DRUM GO DUM (Instrumental)",
+      "artists": [
+        {
+          "name": "K/DA",
+          "role": "primary"
+        },
+        {
+          "name": "Sebastien Najand",
+          "role": "composer"
+        }
+      ],
+      "gameId": "league-of-legends",
+      "categoryIds": [
+        "virtual-group",
+        "skin-line"
+      ],
+      "tags": [
+        "k-da",
+        "virtual-group"
+      ],
+      "album": "ALL OUT",
+      "date": "2020-11-06",
+      "usedFor": "Instrumental from K/DA's ALL OUT EP",
+      "background": "Instrumental of DRUM GO DUM, the percussion-heavy Kai'Sa showcase from K/DA's ALL OUT EP. It was published alongside the vocal track in the EP's SoundCloud edition on release day.",
+      "audioYoutubeId": null,
+      "musicVideoYoutubeId": null,
+      "musicVideoKind": null,
+      "musicVideoTitle": null,
+      "spotifyUrl": null,
+      "coverUrl": "https://i.scdn.co/image/ab67616d0000b2730129c39fdeb49ce2c4b57fb9",
+      "sources": [
+        {
+          "title": "K/DA - DRUM GO DUM (Instrumental) (League of Legends SoundCloud, 2020-11-06)",
+          "url": "https://soundcloud.com/leagueoflegends/kda-drum-go-dum-instrumental"
+        },
+        {
+          "title": "K/DA - ALL OUT (10-track SoundCloud album with instrumentals, League of Legends SoundCloud)",
+          "url": "https://soundcloud.com/leagueoflegends/sets/k-da-all-out"
+        },
+        {
+          "title": "ALL OUT (SoundCloud edition with instrumentals) - MusicBrainz",
+          "url": "https://musicbrainz.org/release/aeb14166-520a-4281-9fbb-eb5e33ab729e"
+        }
+      ],
+      "confidence": "high",
+      "notes": "Official instrumental published only on the League of Legends SoundCloud; it is not on Spotify and no official YouTube upload was found, so audioYoutubeId is null. Cover: the ALL OUT EP art, which is also the SoundCloud artwork of this track."
+    },
+    {
+      "id": "x-vg-ill-show-you-instrumental",
+      "title": "I'LL SHOW YOU (Instrumental)",
+      "artists": [
+        {
+          "name": "K/DA",
+          "role": "primary"
+        },
+        {
+          "name": "Sebastien Najand",
+          "role": "composer"
+        }
+      ],
+      "gameId": "league-of-legends",
+      "categoryIds": [
+        "virtual-group",
+        "skin-line"
+      ],
+      "tags": [
+        "k-da",
+        "virtual-group"
+      ],
+      "album": "ALL OUT",
+      "date": "2020-11-06",
+      "usedFor": "Instrumental from K/DA's ALL OUT EP",
+      "background": "Instrumental of I'LL SHOW YOU, Ahri's ballad from the ALL OUT EP (featuring TWICE on the vocal version). Riot released it in the EP's SoundCloud edition together with the other four instrumentals.",
+      "audioYoutubeId": null,
+      "musicVideoYoutubeId": null,
+      "musicVideoKind": null,
+      "musicVideoTitle": null,
+      "spotifyUrl": null,
+      "coverUrl": "https://i.scdn.co/image/ab67616d0000b2730129c39fdeb49ce2c4b57fb9",
+      "sources": [
+        {
+          "title": "K/DA - I'LL SHOW YOU (Instrumental) (League of Legends SoundCloud, 2020-11-06)",
+          "url": "https://soundcloud.com/leagueoflegends/kda-ill-show-you-instrumental"
+        },
+        {
+          "title": "K/DA - ALL OUT (10-track SoundCloud album with instrumentals, League of Legends SoundCloud)",
+          "url": "https://soundcloud.com/leagueoflegends/sets/k-da-all-out"
+        },
+        {
+          "title": "ALL OUT (SoundCloud edition with instrumentals) - MusicBrainz",
+          "url": "https://musicbrainz.org/release/aeb14166-520a-4281-9fbb-eb5e33ab729e"
+        }
+      ],
+      "confidence": "high",
+      "notes": "Official instrumental published only on the League of Legends SoundCloud; it is not on Spotify and no official YouTube upload was found, so audioYoutubeId is null. Cover: the ALL OUT EP art, which is also the SoundCloud artwork of this track."
+    },
+    {
+      "id": "x-vg-more-instrumental",
+      "title": "MORE (Instrumental)",
+      "artists": [
+        {
+          "name": "K/DA",
+          "role": "primary"
+        },
+        {
+          "name": "Sebastien Najand",
+          "role": "composer"
+        }
+      ],
+      "gameId": "league-of-legends",
+      "categoryIds": [
+        "virtual-group",
+        "skin-line"
+      ],
+      "tags": [
+        "k-da",
+        "virtual-group"
+      ],
+      "album": "ALL OUT",
+      "date": "2020-11-06",
+      "usedFor": "Instrumental from K/DA's ALL OUT EP",
+      "background": "Instrumental of MORE, the ALL OUT single on which K/DA were joined by Seraphine. It was released in the SoundCloud edition of the ALL OUT EP, where Riot paired every song with its official instrumental.",
+      "audioYoutubeId": null,
+      "musicVideoYoutubeId": null,
+      "musicVideoKind": null,
+      "musicVideoTitle": null,
+      "spotifyUrl": null,
+      "coverUrl": "https://i.scdn.co/image/ab67616d0000b2730129c39fdeb49ce2c4b57fb9",
+      "sources": [
+        {
+          "title": "K/DA - MORE (Instrumental) (League of Legends SoundCloud, 2020-11-06)",
+          "url": "https://soundcloud.com/leagueoflegends/kda-more-instrumental"
+        },
+        {
+          "title": "K/DA - ALL OUT (10-track SoundCloud album with instrumentals, League of Legends SoundCloud)",
+          "url": "https://soundcloud.com/leagueoflegends/sets/k-da-all-out"
+        },
+        {
+          "title": "ALL OUT (SoundCloud edition with instrumentals) - MusicBrainz",
+          "url": "https://musicbrainz.org/release/aeb14166-520a-4281-9fbb-eb5e33ab729e"
+        }
+      ],
+      "confidence": "high",
+      "notes": "Official instrumental published only on the League of Legends SoundCloud; it is not on Spotify and no official YouTube upload was found, so audioYoutubeId is null. Cover: the ALL OUT EP art, which is also the SoundCloud artwork of this track."
+    },
+    {
+      "id": "x-vg-the-baddest-instrumental",
+      "title": "THE BADDEST (Instrumental)",
+      "artists": [
+        {
+          "name": "K/DA",
+          "role": "primary"
+        },
+        {
+          "name": "Sebastien Najand",
+          "role": "composer"
+        }
+      ],
+      "gameId": "league-of-legends",
+      "categoryIds": [
+        "virtual-group",
+        "skin-line"
+      ],
+      "tags": [
+        "k-da",
+        "virtual-group"
+      ],
+      "album": "ALL OUT",
+      "date": "2020-11-06",
+      "usedFor": "Instrumental from K/DA's ALL OUT EP",
+      "background": "Instrumental of THE BADDEST, the pre-release single that opened K/DA's 2020 comeback. When the ALL OUT EP came out, Riot published a 10-track K/DA - ALL OUT album on SoundCloud that pairs each of the five songs with its official instrumental; the EP was produced by Riot composer Sebastien Najand.",
+      "audioYoutubeId": null,
+      "musicVideoYoutubeId": null,
+      "musicVideoKind": null,
+      "musicVideoTitle": null,
+      "spotifyUrl": null,
+      "coverUrl": "https://i.scdn.co/image/ab67616d0000b2730129c39fdeb49ce2c4b57fb9",
+      "sources": [
+        {
+          "title": "K/DA THE BADDEST (Instrumental) (League of Legends SoundCloud, 2020-11-06)",
+          "url": "https://soundcloud.com/leagueoflegends/kda-the-baddest-instrumental"
+        },
+        {
+          "title": "K/DA - ALL OUT (10-track SoundCloud album with instrumentals, League of Legends SoundCloud)",
+          "url": "https://soundcloud.com/leagueoflegends/sets/k-da-all-out"
+        },
+        {
+          "title": "ALL OUT (SoundCloud edition with instrumentals) - MusicBrainz",
+          "url": "https://musicbrainz.org/release/aeb14166-520a-4281-9fbb-eb5e33ab729e"
+        },
+        {
+          "title": "K/DA's new EP ALL OUT (PC Gamer)",
+          "url": "https://www.pcgamer.com/kda-ep-all-out-available"
+        }
+      ],
+      "confidence": "high",
+      "notes": "Official instrumental published only on the League of Legends SoundCloud; it is not on Spotify and no official YouTube upload was found, so audioYoutubeId is null. Cover: the ALL OUT EP art, which is also the SoundCloud artwork of this track."
+    },
+    {
+      "id": "x-vg-villain-instrumental",
+      "title": "VILLAIN (Instrumental)",
+      "artists": [
+        {
+          "name": "K/DA",
+          "role": "primary"
+        },
+        {
+          "name": "Sebastien Najand",
+          "role": "composer"
+        }
+      ],
+      "gameId": "league-of-legends",
+      "categoryIds": [
+        "virtual-group",
+        "skin-line"
+      ],
+      "tags": [
+        "k-da",
+        "virtual-group"
+      ],
+      "album": "ALL OUT",
+      "date": "2020-11-06",
+      "usedFor": "Instrumental from K/DA's ALL OUT EP",
+      "background": "Instrumental of VILLAIN, Evelynn's dark-pop track from the ALL OUT EP (sung by Madison Beer and Kim Petras on the vocal version). Riot released it with the other ALL OUT instrumentals in the EP's SoundCloud edition on release day.",
+      "audioYoutubeId": null,
+      "musicVideoYoutubeId": null,
+      "musicVideoKind": null,
+      "musicVideoTitle": null,
+      "spotifyUrl": null,
+      "coverUrl": "https://i.scdn.co/image/ab67616d0000b2730129c39fdeb49ce2c4b57fb9",
+      "sources": [
+        {
+          "title": "K/DA - VILLAIN (Instrumental) (League of Legends SoundCloud, 2020-11-06)",
+          "url": "https://soundcloud.com/leagueoflegends/kda-villain-instrumental"
+        },
+        {
+          "title": "K/DA - ALL OUT (10-track SoundCloud album with instrumentals, League of Legends SoundCloud)",
+          "url": "https://soundcloud.com/leagueoflegends/sets/k-da-all-out"
+        },
+        {
+          "title": "ALL OUT (SoundCloud edition with instrumentals) - MusicBrainz",
+          "url": "https://musicbrainz.org/release/aeb14166-520a-4281-9fbb-eb5e33ab729e"
+        }
+      ],
+      "confidence": "high",
+      "notes": "Official instrumental published only on the League of Legends SoundCloud; it is not on Spotify and no official YouTube upload was found, so audioYoutubeId is null. Cover: the ALL OUT EP art, which is also the SoundCloud artwork of this track."
+    },
+    {
+      "id": "x-vg-predator-world-ender-remix",
+      "title": "Predator (World Ender Remix)",
+      "artists": [
+        {
+          "name": "Pentakill",
+          "role": "primary"
+        },
+        {
+          "name": "Tre Watson",
+          "role": "featured"
+        },
+        {
+          "name": "TELLE",
+          "role": "featured"
+        },
+        {
+          "name": "Mark Evans",
+          "role": "featured"
+        }
+      ],
+      "gameId": "legends-of-runeterra",
+      "categoryIds": [
+        "virtual-group",
+        "remix",
+        "esports"
+      ],
+      "tags": [
+        "pentakill",
+        "virtual-group",
+        "remix",
+        "esports"
+      ],
+      "album": "Predator (World Ender Remix)",
+      "date": "2022-11-29",
+      "usedFor": "Legends of Runeterra Worlds 2022 remix",
+      "background": "A reworked Predator from Pentakill III: Lost Chapter, released by Riot as a single and as official audio on the Legends of Runeterra channel for its Worlds 2022 celebration. It arrived shortly before the Darkin Saga: World Ender expansion and the LoR World Championship of December 2022, with the original's singers Tre Watson and TELLE joined by Mark Evans.",
+      "audioYoutubeId": "j9YA0P0wCrQ",
+      "musicVideoYoutubeId": null,
+      "musicVideoKind": null,
+      "musicVideoTitle": null,
+      "spotifyUrl": "https://open.spotify.com/track/4TGcvZWUqj4PDc9ScHJg2f",
+      "coverUrl": "https://i.scdn.co/image/ab67616d0000b273b6f6be688ecee51f44b62403",
+      "sources": [
+        {
+          "title": "Pentakill - Predator (World Ender Remix) | Official Audio | Worlds 2022 - Legends of Runeterra (YouTube)",
+          "url": "https://www.youtube.com/watch?v=j9YA0P0wCrQ"
+        },
+        {
+          "title": "Predator (World Ender Remix) - Spotify",
+          "url": "https://open.spotify.com/track/4TGcvZWUqj4PDc9ScHJg2f"
+        },
+        {
+          "title": "Predator (World Ender Remix) [feat. Tre Watson, TELLE & Mark Evans] (League of Legends SoundCloud)",
+          "url": "https://soundcloud.com/leagueoflegends/predator-world-ender-remix"
+        },
+        {
+          "title": "Predator (World Ender Remix) - MusicBrainz (Riot Games, 2022-11-29)",
+          "url": "https://musicbrainz.org/release/b66147cf-658f-4f34-a600-4e47b67a8b07"
+        },
+        {
+          "title": "Aatrox buffs all Darkin in Legends of Runeterra World Ender spoilers (Dot Esports)",
+          "url": "https://dotesports.com/lor/news/aatrox-buffs-all-darkin-in-legends-of-runeterra-world-ender-spoilers"
+        }
+      ],
+      "confidence": "high",
+      "notes": "gameId is legends-of-runeterra because the official audio was published by the Legends of Runeterra channel for its Worlds 2022 event; the same remix may also turn up in the legends-of-runeterra scope (dedupe by Spotify id 4TGcvZWUqj4PDc9ScHJg2f / YouTube id j9YA0P0wCrQ). A second Spotify copy exists (track 2FmRCZSu9evGNhPiywN87F); the one listed in data/curated/spotify.json is used. Remixer not credited."
+    },
+    {
+      "id": "x-vg-know-my-name-instrumental",
+      "title": "Know My Name (Instrumental)",
+      "artists": [
+        {
+          "name": "True Damage",
+          "role": "primary"
+        },
+        {
+          "name": "Sebastien Najand",
+          "role": "composer"
+        }
+      ],
+      "gameId": "league-of-legends",
+      "categoryIds": [
+        "worlds",
+        "virtual-group"
+      ],
+      "tags": [
+        "true-damage",
+        "virtual-group",
+        "worlds"
+      ],
+      "album": "Know My Name",
+      "date": "2026-10-08",
+      "usedFor": "Instrumental of the Worlds 2026 anthem",
+      "background": "The official instrumental of Know My Name, True Damage's comeback single and the Worlds 2026 anthem. Riot posted it on the League of Legends SoundCloud on release night, next to a SoundCloud remix contest that offered fans the official stems to rework the anthem until 28 October 2026.",
+      "audioYoutubeId": null,
+      "musicVideoYoutubeId": null,
+      "musicVideoKind": null,
+      "musicVideoTitle": null,
+      "spotifyUrl": null,
+      "coverUrl": "https://i.scdn.co/image/ab67616d0000b273e64495145dfc04de9130d11e",
+      "sources": [
+        {
+          "title": "Know My Name (Instrumental) (League of Legends SoundCloud, ISRC QZH6S1901324)",
+          "url": "https://soundcloud.com/leagueoflegends/knowmynameinstrumental"
+        },
+        {
+          "title": "Know My Name (League of Legends SoundCloud, with the Remix the Anthem contest details)",
+          "url": "https://soundcloud.com/leagueoflegends/know-my-name-instrumental-teaser"
+        },
+        {
+          "title": "Worlds Anthem Presented by True Damage (LoL Esports)",
+          "url": "https://lolesports.com/en-us/news/worlds-anthem-presented-by-true-damage"
+        }
+      ],
+      "confidence": "high",
+      "notes": "Official instrumental published only on the League of Legends SoundCloud; it is not on Spotify and no official YouTube upload was found, so audioYoutubeId is null. SoundCloud upload time is 2026-10-09 01:01 UTC (evening of 8 October in Los Angeles) and its release-date metadata is 2026-10-08. Production credit for Sebastien Najand comes from the Worlds 2026 anthem announcement summarized in data/curated/news.json."
+    }
+  ]
+}

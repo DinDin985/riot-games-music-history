@@ -1,0 +1,2124 @@
+{
+  "batch": "albums-01",
+  "researchedAt": "2026-10-14",
+  "entries": [
+    {
+      "songId": "a-real-machine-blitzcrank-champion-theme",
+      "date": "2026-01-12",
+      "usedFor": "2XKO Season 0: Blitzcrank champion theme",
+      "background": "A Real Machine is Blitzcrank's champion theme in 2XKO, composed by Michael Pitman and Richard Thomson. Blitzcrank joined the 2XKO roster in 2025, ahead of early access. It is part of Season 0 (Original Soundtrack from 2XKO), the 21-track score of Riot's free-to-play 2v2 tag fighter, released on January 12, 2026, a week before the console launch; it gathers the music of the PC early-access season that began on October 7, 2025. In matches, a fighter's theme takes over when that champion tags in after a knockout.",
+      "coverUrl": null,
+      "spotifyUrl": null,
+      "sources": [
+        {
+          "title": "A Real Machine (Blitzcrank Champion Theme) - 2XKO - Topic (YouTube art track)",
+          "url": "https://www.youtube.com/watch?v=vRLzp97azyo"
+        },
+        {
+          "title": "Season 0 (Original Soundtrack from 2XKO) - official streaming link page with track list",
+          "url": "https://2xko.ffm.to/season0"
+        },
+        {
+          "title": "2XKO Will Have Unique Champion Themes - DashFight",
+          "url": "https://dashfight.com/news/2-xko-will-have-unique-champion-themes-6032"
+        }
+      ],
+      "confidence": "high",
+      "notes": "Date is the album release (topic release_date 2026-01-12, also on Spotify/Apple Music). The theme was already heard in-game during Season 0 early access (PC, from 2025-10-07), but per-track in-game debuts could not be verified."
+    },
+    {
+      "songId": "another-day-another-fight-post-match-theme",
+      "date": "2026-01-12",
+      "usedFor": "2XKO Season 0: post-match theme",
+      "background": "Another Day, Another Fight is the music of 2XKO's post-match screen, composed by Tre Watson, who wrote all three menu themes of the game. It is part of Season 0 (Original Soundtrack from 2XKO), the 21-track score of Riot's free-to-play 2v2 tag fighter, released on January 12, 2026, a week before the console launch; it gathers the music of the PC early-access season that began on October 7, 2025.",
+      "coverUrl": null,
+      "spotifyUrl": null,
+      "sources": [
+        {
+          "title": "Another Day, Another Fight (Post-Match Theme) - 2XKO - Topic (YouTube art track)",
+          "url": "https://www.youtube.com/watch?v=3YeNmWqLA_4"
+        },
+        {
+          "title": "Season 0 (Original Soundtrack from 2XKO) - official streaming link page with track list",
+          "url": "https://2xko.ffm.to/season0"
+        },
+        {
+          "title": "2XKO - Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/2XKO"
+        }
+      ],
+      "confidence": "high",
+      "notes": "Date is the album release (topic release_date 2026-01-12, also on Spotify/Apple Music). The theme was already heard in-game during Season 0 early access (PC, from 2025-10-07), but per-track in-game debuts could not be verified."
+    },
+    {
+      "songId": "brighter-beatdown-teemo-champion-theme",
+      "date": "2026-01-12",
+      "usedFor": "2XKO Season 0: Teemo champion theme",
+      "background": "Brighter Beatdown is Teemo's champion theme in 2XKO, composed by Jesse Zuretti. Teemo was one of the last fighters announced before early access, in September 2025. It is part of Season 0 (Original Soundtrack from 2XKO), the 21-track score of Riot's free-to-play 2v2 tag fighter, released on January 12, 2026, a week before the console launch; it gathers the music of the PC early-access season that began on October 7, 2025. In matches, a fighter's theme takes over when that champion tags in after a knockout.",
+      "coverUrl": null,
+      "spotifyUrl": null,
+      "sources": [
+        {
+          "title": "Brighter Beatdown (Teemo Champion Theme) - 2XKO - Topic (YouTube art track)",
+          "url": "https://www.youtube.com/watch?v=NHUfCL4LPpo"
+        },
+        {
+          "title": "Season 0 (Original Soundtrack from 2XKO) - official streaming link page with track list",
+          "url": "https://2xko.ffm.to/season0"
+        },
+        {
+          "title": "2XKO Will Have Unique Champion Themes - DashFight",
+          "url": "https://dashfight.com/news/2-xko-will-have-unique-champion-themes-6032"
+        }
+      ],
+      "confidence": "high",
+      "notes": "Date is the album release (topic release_date 2026-01-12, also on Spotify/Apple Music). The theme was already heard in-game during Season 0 early access (PC, from 2025-10-07), but per-track in-game debuts could not be verified."
+    },
+    {
+      "songId": "hit-the-pubs-the-brazen-hydra-theme",
+      "date": "2026-01-12",
+      "usedFor": "2XKO Season 0: The Brazen Hydra stage theme",
+      "background": "Hit the Pubs is the theme of the The Brazen Hydra stage in 2XKO, composed by Casey Edwards and Joe Ford. It is part of Season 0 (Original Soundtrack from 2XKO), the 21-track score of Riot's free-to-play 2v2 tag fighter, released on January 12, 2026, a week before the console launch; it gathers the music of the PC early-access season that began on October 7, 2025. Stage music plays at the start of each round until the first knockout.",
+      "coverUrl": null,
+      "spotifyUrl": null,
+      "sources": [
+        {
+          "title": "Hit the Pubs (The Brazen Hydra Theme) - 2XKO - Topic (YouTube art track)",
+          "url": "https://www.youtube.com/watch?v=5TKhhCjeF3Q"
+        },
+        {
+          "title": "Season 0 (Original Soundtrack from 2XKO) - official streaming link page with track list",
+          "url": "https://2xko.ffm.to/season0"
+        },
+        {
+          "title": "2XKO Will Have Unique Champion Themes - DashFight",
+          "url": "https://dashfight.com/news/2-xko-will-have-unique-champion-themes-6032"
+        }
+      ],
+      "confidence": "high",
+      "notes": "Date is the album release (topic release_date 2026-01-12, also on Spotify/Apple Music). The theme was already heard in-game during Season 0 early access (PC, from 2025-10-07), but per-track in-game debuts could not be verified."
+    },
+    {
+      "songId": "knockout-knockout-main-menu-theme",
+      "date": "2026-01-12",
+      "usedFor": "2XKO Season 0: main menu theme",
+      "background": "Knockout! Knockout! is the music of 2XKO's main menu, composed by Tre Watson, who wrote all three menu themes of the game. It is part of Season 0 (Original Soundtrack from 2XKO), the 21-track score of Riot's free-to-play 2v2 tag fighter, released on January 12, 2026, a week before the console launch; it gathers the music of the PC early-access season that began on October 7, 2025.",
+      "coverUrl": null,
+      "spotifyUrl": null,
+      "sources": [
+        {
+          "title": "Knockout! Knockout! (Main Menu Theme) - 2XKO - Topic (YouTube art track)",
+          "url": "https://www.youtube.com/watch?v=aJvCdiI0XKs"
+        },
+        {
+          "title": "Season 0 (Original Soundtrack from 2XKO) - official streaming link page with track list",
+          "url": "https://2xko.ffm.to/season0"
+        },
+        {
+          "title": "2XKO - Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/2XKO"
+        }
+      ],
+      "confidence": "high",
+      "notes": "Date is the album release (topic release_date 2026-01-12, also on Spotify/Apple Music). The theme was already heard in-game during Season 0 early access (PC, from 2025-10-07), but per-track in-game debuts could not be verified."
+    },
+    {
+      "songId": "lock-it-in-champion-select-theme",
+      "date": "2026-01-12",
+      "usedFor": "2XKO Season 0: champion select theme",
+      "background": "Lock It In is the music of 2XKO's champion select screen, composed by Tre Watson, who wrote all three menu themes of the game. It is part of Season 0 (Original Soundtrack from 2XKO), the 21-track score of Riot's free-to-play 2v2 tag fighter, released on January 12, 2026, a week before the console launch; it gathers the music of the PC early-access season that began on October 7, 2025.",
+      "coverUrl": null,
+      "spotifyUrl": null,
+      "sources": [
+        {
+          "title": "Lock It In (Champion Select Theme) - 2XKO - Topic (YouTube art track)",
+          "url": "https://www.youtube.com/watch?v=MMZz0qJ-LTc"
+        },
+        {
+          "title": "Season 0 (Original Soundtrack from 2XKO) - official streaming link page with track list",
+          "url": "https://2xko.ffm.to/season0"
+        },
+        {
+          "title": "2XKO - Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/2XKO"
+        }
+      ],
+      "confidence": "high",
+      "notes": "Date is the album release (topic release_date 2026-01-12, also on Spotify/Apple Music). The theme was already heard in-game during Season 0 early access (PC, from 2025-10-07), but per-track in-game debuts could not be verified."
+    },
+    {
+      "songId": "march-of-the-war-machine-annihilators-reach-theme",
+      "date": "2026-01-12",
+      "usedFor": "2XKO Season 0: Annihilator's Reach stage theme",
+      "background": "March of the War Machine is the theme of the Annihilator's Reach stage in 2XKO, composed by Jesse Zuretti. It is part of Season 0 (Original Soundtrack from 2XKO), the 21-track score of Riot's free-to-play 2v2 tag fighter, released on January 12, 2026, a week before the console launch; it gathers the music of the PC early-access season that began on October 7, 2025. Stage music plays at the start of each round until the first knockout.",
+      "coverUrl": null,
+      "spotifyUrl": null,
+      "sources": [
+        {
+          "title": "March of the War Machine (Annihilator's Reach Theme) - 2XKO - Topic (YouTube art track)",
+          "url": "https://www.youtube.com/watch?v=nJ2yHDaqAe4"
+        },
+        {
+          "title": "Season 0 (Original Soundtrack from 2XKO) - official streaming link page with track list",
+          "url": "https://2xko.ffm.to/season0"
+        },
+        {
+          "title": "2XKO Will Have Unique Champion Themes - DashFight",
+          "url": "https://dashfight.com/news/2-xko-will-have-unique-champion-themes-6032"
+        }
+      ],
+      "confidence": "high",
+      "notes": "Date is the album release (topic release_date 2026-01-12, also on Spotify/Apple Music). The theme was already heard in-game during Season 0 early access (PC, from 2025-10-07), but per-track in-game debuts could not be verified."
+    },
+    {
+      "songId": "mechanist-slam-firelight-run-theme",
+      "date": "2026-01-12",
+      "usedFor": "2XKO Season 0: Firelight Run stage theme",
+      "background": "Mechanist Slam is the theme of the Firelight Run stage in 2XKO, composed by Jesse Zuretti; the stage takes its name from Zaun's Firelights. It is part of Season 0 (Original Soundtrack from 2XKO), the 21-track score of Riot's free-to-play 2v2 tag fighter, released on January 12, 2026, a week before the console launch; it gathers the music of the PC early-access season that began on October 7, 2025. Stage music plays at the start of each round until the first knockout.",
+      "coverUrl": null,
+      "spotifyUrl": null,
+      "sources": [
+        {
+          "title": "Mechanist Slam (Firelight Run Theme) - 2XKO - Topic (YouTube art track)",
+          "url": "https://www.youtube.com/watch?v=nXyXoonWIbg"
+        },
+        {
+          "title": "Season 0 (Original Soundtrack from 2XKO) - official streaming link page with track list",
+          "url": "https://2xko.ffm.to/season0"
+        },
+        {
+          "title": "2XKO Will Have Unique Champion Themes - DashFight",
+          "url": "https://dashfight.com/news/2-xko-will-have-unique-champion-themes-6032"
+        }
+      ],
+      "confidence": "high",
+      "notes": "Date is the album release (topic release_date 2026-01-12, also on Spotify/Apple Music). The theme was already heard in-game during Season 0 early access (PC, from 2025-10-07), but per-track in-game debuts could not be verified."
+    },
+    {
+      "songId": "mindscape-ekko-champion-theme",
+      "date": "2026-01-12",
+      "usedFor": "2XKO Season 0: Ekko champion theme",
+      "background": "Mindscape is Ekko's champion theme in 2XKO, composed by Jesse Zuretti. It is part of Season 0 (Original Soundtrack from 2XKO), the 21-track score of Riot's free-to-play 2v2 tag fighter, released on January 12, 2026, a week before the console launch; it gathers the music of the PC early-access season that began on October 7, 2025. In matches, a fighter's theme takes over when that champion tags in after a knockout.",
+      "coverUrl": null,
+      "spotifyUrl": null,
+      "sources": [
+        {
+          "title": "Mindscape (Ekko Champion Theme) - 2XKO - Topic (YouTube art track)",
+          "url": "https://www.youtube.com/watch?v=aI4sqtpgqlo"
+        },
+        {
+          "title": "Season 0 (Original Soundtrack from 2XKO) - official streaming link page with track list",
+          "url": "https://2xko.ffm.to/season0"
+        },
+        {
+          "title": "2XKO Will Have Unique Champion Themes - DashFight",
+          "url": "https://dashfight.com/news/2-xko-will-have-unique-champion-themes-6032"
+        }
+      ],
+      "confidence": "high",
+      "notes": "Date is the album release (topic release_date 2026-01-12, also on Spotify/Apple Music). The theme was already heard in-game during Season 0 early access (PC, from 2025-10-07), but per-track in-game debuts could not be verified."
+    },
+    {
+      "songId": "mist-on-the-water-scuttlers-strand-theme",
+      "date": "2026-01-12",
+      "usedFor": "2XKO Season 0: Scuttler's Strand stage theme",
+      "background": "Mist on the Water is the theme of the Scuttler's Strand stage in 2XKO, composed by Casey Edwards. It is part of Season 0 (Original Soundtrack from 2XKO), the 21-track score of Riot's free-to-play 2v2 tag fighter, released on January 12, 2026, a week before the console launch; it gathers the music of the PC early-access season that began on October 7, 2025. Stage music plays at the start of each round until the first knockout.",
+      "coverUrl": null,
+      "spotifyUrl": null,
+      "sources": [
+        {
+          "title": "Mist on the Water (Scuttler's Strand Theme) - 2XKO - Topic (YouTube art track)",
+          "url": "https://www.youtube.com/watch?v=Ar_0s1hNN-w"
+        },
+        {
+          "title": "Season 0 (Original Soundtrack from 2XKO) - official streaming link page with track list",
+          "url": "https://2xko.ffm.to/season0"
+        },
+        {
+          "title": "2XKO Will Have Unique Champion Themes - DashFight",
+          "url": "https://dashfight.com/news/2-xko-will-have-unique-champion-themes-6032"
+        }
+      ],
+      "confidence": "high",
+      "notes": "Date is the album release (topic release_date 2026-01-12, also on Spotify/Apple Music). The theme was already heard in-game during Season 0 early access (PC, from 2025-10-07), but per-track in-game debuts could not be verified."
+    },
+    {
+      "songId": "primal-howl-warwick-champion-theme",
+      "date": "2026-01-12",
+      "usedFor": "2XKO Season 0: Warwick champion theme",
+      "background": "Primal Howl is Warwick's champion theme in 2XKO, composed by Michael Pitman. Warwick was confirmed in October 2025 as the eleventh champion of early access. It is part of Season 0 (Original Soundtrack from 2XKO), the 21-track score of Riot's free-to-play 2v2 tag fighter, released on January 12, 2026, a week before the console launch; it gathers the music of the PC early-access season that began on October 7, 2025. In matches, a fighter's theme takes over when that champion tags in after a knockout.",
+      "coverUrl": null,
+      "spotifyUrl": null,
+      "sources": [
+        {
+          "title": "Primal Howl (Warwick Champion Theme) - 2XKO - Topic (YouTube art track)",
+          "url": "https://www.youtube.com/watch?v=lvWJEf3j99M"
+        },
+        {
+          "title": "Season 0 (Original Soundtrack from 2XKO) - official streaming link page with track list",
+          "url": "https://2xko.ffm.to/season0"
+        },
+        {
+          "title": "2XKO Will Have Unique Champion Themes - DashFight",
+          "url": "https://dashfight.com/news/2-xko-will-have-unique-champion-themes-6032"
+        }
+      ],
+      "confidence": "high",
+      "notes": "Date is the album release (topic release_date 2026-01-12, also on Spotify/Apple Music). The theme was already heard in-game during Season 0 early access (PC, from 2025-10-07), but per-track in-game debuts could not be verified."
+    },
+    {
+      "songId": "race-across-ionia-ahri-champion-theme",
+      "date": "2026-01-12",
+      "usedFor": "2XKO Season 0: Ahri champion theme",
+      "background": "Race Across Ionia is Ahri's champion theme in 2XKO, composed by Jesse Zuretti. It is part of Season 0 (Original Soundtrack from 2XKO), the 21-track score of Riot's free-to-play 2v2 tag fighter, released on January 12, 2026, a week before the console launch; it gathers the music of the PC early-access season that began on October 7, 2025. In matches, a fighter's theme takes over when that champion tags in after a knockout.",
+      "coverUrl": null,
+      "spotifyUrl": "https://open.spotify.com/track/48uD4C17Rnh8JmXvDH1LeY",
+      "sources": [
+        {
+          "title": "Race Across Ionia (Ahri Champion Theme) - 2XKO - Topic (YouTube art track)",
+          "url": "https://www.youtube.com/watch?v=QiTxP0RrLts"
+        },
+        {
+          "title": "Season 0 (Original Soundtrack from 2XKO) - official streaming link page with track list",
+          "url": "https://2xko.ffm.to/season0"
+        },
+        {
+          "title": "2XKO Will Have Unique Champion Themes - DashFight",
+          "url": "https://dashfight.com/news/2-xko-will-have-unique-champion-themes-6032"
+        }
+      ],
+      "confidence": "high",
+      "notes": "Date is the album release (topic release_date 2026-01-12, also on Spotify/Apple Music). The theme was already heard in-game during Season 0 early access (PC, from 2025-10-07), but per-track in-game debuts could not be verified."
+    },
+    {
+      "songId": "roughhouser-vi-champion-theme",
+      "date": "2026-01-12",
+      "usedFor": "2XKO Season 0: Vi champion theme",
+      "background": "Roughhouser is Vi's champion theme in 2XKO, composed by Casey Edwards. Vi was revealed in July 2025 as the game's eighth fighter. It is part of Season 0 (Original Soundtrack from 2XKO), the 21-track score of Riot's free-to-play 2v2 tag fighter, released on January 12, 2026, a week before the console launch; it gathers the music of the PC early-access season that began on October 7, 2025. In matches, a fighter's theme takes over when that champion tags in after a knockout.",
+      "coverUrl": null,
+      "spotifyUrl": null,
+      "sources": [
+        {
+          "title": "Roughhouser (Vi Champion Theme) - 2XKO - Topic (YouTube art track)",
+          "url": "https://www.youtube.com/watch?v=8hxIDFkN6go"
+        },
+        {
+          "title": "Season 0 (Original Soundtrack from 2XKO) - official streaming link page with track list",
+          "url": "https://2xko.ffm.to/season0"
+        },
+        {
+          "title": "2XKO Will Have Unique Champion Themes - DashFight",
+          "url": "https://dashfight.com/news/2-xko-will-have-unique-champion-themes-6032"
+        }
+      ],
+      "confidence": "high",
+      "notes": "Date is the album release (topic release_date 2026-01-12, also on Spotify/Apple Music). The theme was already heard in-game during Season 0 early access (PC, from 2025-10-07), but per-track in-game debuts could not be verified."
+    },
+    {
+      "songId": "round-the-hearth-braum-champion-theme",
+      "date": "2026-01-12",
+      "usedFor": "2XKO Season 0: Braum champion theme",
+      "background": "Round the Hearth is Braum's champion theme in 2XKO, composed by Casey Edwards. It is part of Season 0 (Original Soundtrack from 2XKO), the 21-track score of Riot's free-to-play 2v2 tag fighter, released on January 12, 2026, a week before the console launch; it gathers the music of the PC early-access season that began on October 7, 2025. In matches, a fighter's theme takes over when that champion tags in after a knockout.",
+      "coverUrl": null,
+      "spotifyUrl": null,
+      "sources": [
+        {
+          "title": "Round the Hearth (Braum Champion Theme) - 2XKO - Topic (YouTube art track)",
+          "url": "https://www.youtube.com/watch?v=pvdPXO-lGgU"
+        },
+        {
+          "title": "Season 0 (Original Soundtrack from 2XKO) - official streaming link page with track list",
+          "url": "https://2xko.ffm.to/season0"
+        },
+        {
+          "title": "2XKO Will Have Unique Champion Themes - DashFight",
+          "url": "https://dashfight.com/news/2-xko-will-have-unique-champion-themes-6032"
+        }
+      ],
+      "confidence": "high",
+      "notes": "Date is the album release (topic release_date 2026-01-12, also on Spotify/Apple Music). The theme was already heard in-game during Season 0 early access (PC, from 2025-10-07), but per-track in-game debuts could not be verified."
+    },
+    {
+      "songId": "scouts-welcome-bandlewood-crossing-theme",
+      "date": "2026-01-12",
+      "usedFor": "2XKO Season 0: Bandlewood Crossing stage theme",
+      "background": "Scout's Welcome is the theme of the Bandlewood Crossing stage in 2XKO, composed by Casey Edwards. It is part of Season 0 (Original Soundtrack from 2XKO), the 21-track score of Riot's free-to-play 2v2 tag fighter, released on January 12, 2026, a week before the console launch; it gathers the music of the PC early-access season that began on October 7, 2025. Stage music plays at the start of each round until the first knockout.",
+      "coverUrl": null,
+      "spotifyUrl": null,
+      "sources": [
+        {
+          "title": "Scout's Welcome (Bandlewood Crossing Theme) - 2XKO - Topic (YouTube art track)",
+          "url": "https://www.youtube.com/watch?v=a0fNdau7D58"
+        },
+        {
+          "title": "Season 0 (Original Soundtrack from 2XKO) - official streaming link page with track list",
+          "url": "https://2xko.ffm.to/season0"
+        },
+        {
+          "title": "2XKO Will Have Unique Champion Themes - DashFight",
+          "url": "https://dashfight.com/news/2-xko-will-have-unique-champion-themes-6032"
+        }
+      ],
+      "confidence": "high",
+      "notes": "Date is the album release (topic release_date 2026-01-12, also on Spotify/Apple Music). The theme was already heard in-game during Season 0 early access (PC, from 2025-10-07), but per-track in-game debuts could not be verified."
+    },
+    {
+      "songId": "scrap-metal-jinx-champion-theme",
+      "date": "2026-01-12",
+      "usedFor": "2XKO Season 0: Jinx champion theme",
+      "background": "Scrap Metal is Jinx's champion theme in 2XKO, composed by Jesse Zuretti. It is part of Season 0 (Original Soundtrack from 2XKO), the 21-track score of Riot's free-to-play 2v2 tag fighter, released on January 12, 2026, a week before the console launch; it gathers the music of the PC early-access season that began on October 7, 2025. In matches, a fighter's theme takes over when that champion tags in after a knockout.",
+      "coverUrl": null,
+      "spotifyUrl": null,
+      "sources": [
+        {
+          "title": "Scrap Metal (Jinx Champion Theme) - 2XKO - Topic (YouTube art track)",
+          "url": "https://www.youtube.com/watch?v=rFyGDrcNfn0"
+        },
+        {
+          "title": "Season 0 (Original Soundtrack from 2XKO) - official streaming link page with track list",
+          "url": "https://2xko.ffm.to/season0"
+        },
+        {
+          "title": "2XKO Will Have Unique Champion Themes - DashFight",
+          "url": "https://dashfight.com/news/2-xko-will-have-unique-champion-themes-6032"
+        }
+      ],
+      "confidence": "high",
+      "notes": "Date is the album release (topic release_date 2026-01-12, also on Spotify/Apple Music). The theme was already heard in-game during Season 0 early access (PC, from 2025-10-07), but per-track in-game debuts could not be verified."
+    },
+    {
+      "songId": "spirit-magic-spirit-hills-theme",
+      "date": "2026-01-12",
+      "usedFor": "2XKO Season 0: Spirit Hills stage theme",
+      "background": "Spirit Magic is the theme of the Spirit Hills stage in 2XKO, composed by Michael Pitman and Richard Thomson. It is part of Season 0 (Original Soundtrack from 2XKO), the 21-track score of Riot's free-to-play 2v2 tag fighter, released on January 12, 2026, a week before the console launch; it gathers the music of the PC early-access season that began on October 7, 2025. Stage music plays at the start of each round until the first knockout.",
+      "coverUrl": null,
+      "spotifyUrl": null,
+      "sources": [
+        {
+          "title": "Spirit Magic (Spirit Hills Theme) - 2XKO - Topic (YouTube art track)",
+          "url": "https://www.youtube.com/watch?v=hDe8zFDyrPs"
+        },
+        {
+          "title": "Season 0 (Original Soundtrack from 2XKO) - official streaming link page with track list",
+          "url": "https://2xko.ffm.to/season0"
+        },
+        {
+          "title": "2XKO Will Have Unique Champion Themes - DashFight",
+          "url": "https://dashfight.com/news/2-xko-will-have-unique-champion-themes-6032"
+        }
+      ],
+      "confidence": "high",
+      "notes": "Date is the album release (topic release_date 2026-01-12, also on Spotify/Apple Music). The theme was already heard in-game during Season 0 early access (PC, from 2025-10-07), but per-track in-game debuts could not be verified."
+    },
+    {
+      "songId": "stomp-and-burn-darius-champion-theme",
+      "date": "2026-01-12",
+      "usedFor": "2XKO Season 0: Darius champion theme",
+      "background": "Stomp and Burn is Darius's champion theme in 2XKO, composed by Jesse Zuretti. It is part of Season 0 (Original Soundtrack from 2XKO), the 21-track score of Riot's free-to-play 2v2 tag fighter, released on January 12, 2026, a week before the console launch; it gathers the music of the PC early-access season that began on October 7, 2025. In matches, a fighter's theme takes over when that champion tags in after a knockout.",
+      "coverUrl": null,
+      "spotifyUrl": null,
+      "sources": [
+        {
+          "title": "Stomp and Burn (Darius Champion Theme) - 2XKO - Topic (YouTube art track)",
+          "url": "https://www.youtube.com/watch?v=t7-hdjTREoI"
+        },
+        {
+          "title": "Season 0 (Original Soundtrack from 2XKO) - official streaming link page with track list",
+          "url": "https://2xko.ffm.to/season0"
+        },
+        {
+          "title": "2XKO Will Have Unique Champion Themes - DashFight",
+          "url": "https://dashfight.com/news/2-xko-will-have-unique-champion-themes-6032"
+        }
+      ],
+      "confidence": "high",
+      "notes": "Date is the album release (topic release_date 2026-01-12, also on Spotify/Apple Music). The theme was already heard in-game during Season 0 early access (PC, from 2025-10-07), but per-track in-game debuts could not be verified."
+    },
+    {
+      "songId": "stormbringer-illaoi-champion-theme",
+      "date": "2026-01-12",
+      "usedFor": "2XKO Season 0: Illaoi champion theme",
+      "background": "Stormbringer is Illaoi's champion theme in 2XKO, composed by Joe Ford. It is part of Season 0 (Original Soundtrack from 2XKO), the 21-track score of Riot's free-to-play 2v2 tag fighter, released on January 12, 2026, a week before the console launch; it gathers the music of the PC early-access season that began on October 7, 2025. In matches, a fighter's theme takes over when that champion tags in after a knockout.",
+      "coverUrl": null,
+      "spotifyUrl": "https://open.spotify.com/track/0UVSMsBwCxviARulruQ7ej",
+      "sources": [
+        {
+          "title": "Stormbringer (Illaoi Champion Theme) - 2XKO - Topic (YouTube art track)",
+          "url": "https://www.youtube.com/watch?v=J6Uj33gS6Eo"
+        },
+        {
+          "title": "Season 0 (Original Soundtrack from 2XKO) - official streaming link page with track list",
+          "url": "https://2xko.ffm.to/season0"
+        },
+        {
+          "title": "2XKO Will Have Unique Champion Themes - DashFight",
+          "url": "https://dashfight.com/news/2-xko-will-have-unique-champion-themes-6032"
+        }
+      ],
+      "confidence": "high",
+      "notes": "Date is the album release (topic release_date 2026-01-12, also on Spotify/Apple Music). The theme was already heard in-game during Season 0 early access (PC, from 2025-10-07), but per-track in-game debuts could not be verified."
+    },
+    {
+      "songId": "the-cost-of-progress-bridge-of-progress-theme",
+      "date": "2026-01-12",
+      "usedFor": "2XKO Season 0: Bridge of Progress stage theme",
+      "background": "The Cost of Progress is the theme of the Bridge of Progress stage in 2XKO, composed by Michael Pitman and Richard Thomson; the stage is named after Piltover's landmark bridge. It is part of Season 0 (Original Soundtrack from 2XKO), the 21-track score of Riot's free-to-play 2v2 tag fighter, released on January 12, 2026, a week before the console launch; it gathers the music of the PC early-access season that began on October 7, 2025. Stage music plays at the start of each round until the first knockout.",
+      "coverUrl": null,
+      "spotifyUrl": null,
+      "sources": [
+        {
+          "title": "The Cost of Progress (Bridge of Progress Theme) - 2XKO - Topic (YouTube art track)",
+          "url": "https://www.youtube.com/watch?v=kRhAJR8DbFM"
+        },
+        {
+          "title": "Season 0 (Original Soundtrack from 2XKO) - official streaming link page with track list",
+          "url": "https://2xko.ffm.to/season0"
+        },
+        {
+          "title": "2XKO Will Have Unique Champion Themes - DashFight",
+          "url": "https://dashfight.com/news/2-xko-will-have-unique-champion-themes-6032"
+        }
+      ],
+      "confidence": "high",
+      "notes": "Date is the album release (topic release_date 2026-01-12, also on Spotify/Apple Music). The theme was already heard in-game during Season 0 early access (PC, from 2025-10-07), but per-track in-game debuts could not be verified."
+    },
+    {
+      "songId": "wind-drift-yasuo-champion-theme",
+      "date": "2026-01-12",
+      "usedFor": "2XKO Season 0: Yasuo champion theme",
+      "background": "Wind Drift is Yasuo's champion theme in 2XKO, composed by Zac Zinger. It is part of Season 0 (Original Soundtrack from 2XKO), the 21-track score of Riot's free-to-play 2v2 tag fighter, released on January 12, 2026, a week before the console launch; it gathers the music of the PC early-access season that began on October 7, 2025. In matches, a fighter's theme takes over when that champion tags in after a knockout.",
+      "coverUrl": null,
+      "spotifyUrl": null,
+      "sources": [
+        {
+          "title": "Wind Drift (Yasuo Champion Theme) - 2XKO - Topic (YouTube art track)",
+          "url": "https://www.youtube.com/watch?v=vXdEVEQ8gP0"
+        },
+        {
+          "title": "Season 0 (Original Soundtrack from 2XKO) - official streaming link page with track list",
+          "url": "https://2xko.ffm.to/season0"
+        },
+        {
+          "title": "2XKO Will Have Unique Champion Themes - DashFight",
+          "url": "https://dashfight.com/news/2-xko-will-have-unique-champion-themes-6032"
+        }
+      ],
+      "confidence": "high",
+      "notes": "Date is the album release (topic release_date 2026-01-12, also on Spotify/Apple Music). The theme was already heard in-game during Season 0 early access (PC, from 2025-10-07), but per-track in-game debuts could not be verified."
+    },
+    {
+      "songId": "a-pattern",
+      "date": "2026-02-20",
+      "usedFor": "2XKO lobby theme (The Last Hit social hub)",
+      "background": "A Pattern is one of the ten lobby themes John Scherer composed for The Last Hit, 2XKO's social hub and casual lobby, a virtual arcade where players find casual matches, challenge each other and watch games on a central screen. Riot released the themes as The Last Hit (Original Soundtrack from 2XKO) on February 20, 2026, a month after the game's console launch; A Pattern is track 1 of the album.",
+      "coverUrl": null,
+      "spotifyUrl": "https://open.spotify.com/album/2rn6h5TCJuPUkwp0PQ8uLL",
+      "sources": [
+        {
+          "title": "A Pattern - 2XKO - Topic (YouTube art track)",
+          "url": "https://www.youtube.com/watch?v=6exSeNWTcHY"
+        },
+        {
+          "title": "The Last Hit (Original Soundtrack from 2XKO) | 2XKO Lobby Tracklist - 2XKO (YouTube)",
+          "url": "https://www.youtube.com/watch?v=zbMVT1y2xkw"
+        },
+        {
+          "title": "Welcome to The Last Hit: 2XKO's Social Hub & Casual Lobby (X post, August 2024)",
+          "url": "https://x.com/2XKOintel/status/1821218723631390810"
+        }
+      ],
+      "confidence": "high",
+      "notes": "Album release date (topic release_date 2026-02-20; Apple Music/Audiomack agree). The Last Hit hub was revealed in August 2024, so its lobby music may have been heard in earlier playtests or early access; not verifiable per track."
+    },
+    {
+      "songId": "bueno",
+      "date": "2026-02-20",
+      "usedFor": "2XKO lobby theme (The Last Hit social hub)",
+      "background": "Bueno is one of the ten lobby themes John Scherer composed for The Last Hit, 2XKO's social hub and casual lobby, a virtual arcade where players find casual matches, challenge each other and watch games on a central screen. Riot released the themes as The Last Hit (Original Soundtrack from 2XKO) on February 20, 2026, a month after the game's console launch; Bueno is track 2 of the album.",
+      "coverUrl": null,
+      "spotifyUrl": "https://open.spotify.com/album/2rn6h5TCJuPUkwp0PQ8uLL",
+      "sources": [
+        {
+          "title": "Bueno - 2XKO - Topic (YouTube art track)",
+          "url": "https://www.youtube.com/watch?v=DJ8EuKGcj0k"
+        },
+        {
+          "title": "The Last Hit (Original Soundtrack from 2XKO) | 2XKO Lobby Tracklist - 2XKO (YouTube)",
+          "url": "https://www.youtube.com/watch?v=zbMVT1y2xkw"
+        },
+        {
+          "title": "Welcome to The Last Hit: 2XKO's Social Hub & Casual Lobby (X post, August 2024)",
+          "url": "https://x.com/2XKOintel/status/1821218723631390810"
+        }
+      ],
+      "confidence": "high",
+      "notes": "Album release date (topic release_date 2026-02-20; Apple Music/Audiomack agree). The Last Hit hub was revealed in August 2024, so its lobby music may have been heard in earlier playtests or early access; not verifiable per track."
+    },
+    {
+      "songId": "empty-day",
+      "date": "2026-02-20",
+      "usedFor": "2XKO lobby theme (The Last Hit social hub)",
+      "background": "Empty Day is one of the ten lobby themes John Scherer composed for The Last Hit, 2XKO's social hub and casual lobby, a virtual arcade where players find casual matches, challenge each other and watch games on a central screen. Riot released the themes as The Last Hit (Original Soundtrack from 2XKO) on February 20, 2026, a month after the game's console launch; Empty Day is track 3 of the album.",
+      "coverUrl": null,
+      "spotifyUrl": "https://open.spotify.com/album/2rn6h5TCJuPUkwp0PQ8uLL",
+      "sources": [
+        {
+          "title": "Empty Day - 2XKO - Topic (YouTube art track)",
+          "url": "https://www.youtube.com/watch?v=tIQy-LgSlyY"
+        },
+        {
+          "title": "The Last Hit (Original Soundtrack from 2XKO) | 2XKO Lobby Tracklist - 2XKO (YouTube)",
+          "url": "https://www.youtube.com/watch?v=zbMVT1y2xkw"
+        },
+        {
+          "title": "Welcome to The Last Hit: 2XKO's Social Hub & Casual Lobby (X post, August 2024)",
+          "url": "https://x.com/2XKOintel/status/1821218723631390810"
+        }
+      ],
+      "confidence": "high",
+      "notes": "Album release date (topic release_date 2026-02-20; Apple Music/Audiomack agree). The Last Hit hub was revealed in August 2024, so its lobby music may have been heard in earlier playtests or early access; not verifiable per track."
+    },
+    {
+      "songId": "endless-stage",
+      "date": "2026-02-20",
+      "usedFor": "2XKO lobby theme (The Last Hit social hub)",
+      "background": "Endless Stage is one of the ten lobby themes John Scherer composed for The Last Hit, 2XKO's social hub and casual lobby, a virtual arcade where players find casual matches, challenge each other and watch games on a central screen. Riot released the themes as The Last Hit (Original Soundtrack from 2XKO) on February 20, 2026, a month after the game's console launch; Endless Stage is track 4 of the album.",
+      "coverUrl": null,
+      "spotifyUrl": "https://open.spotify.com/album/2rn6h5TCJuPUkwp0PQ8uLL",
+      "sources": [
+        {
+          "title": "Endless Stage - 2XKO - Topic (YouTube art track)",
+          "url": "https://www.youtube.com/watch?v=D83shQuptc4"
+        },
+        {
+          "title": "The Last Hit (Original Soundtrack from 2XKO) | 2XKO Lobby Tracklist - 2XKO (YouTube)",
+          "url": "https://www.youtube.com/watch?v=zbMVT1y2xkw"
+        },
+        {
+          "title": "Welcome to The Last Hit: 2XKO's Social Hub & Casual Lobby (X post, August 2024)",
+          "url": "https://x.com/2XKOintel/status/1821218723631390810"
+        }
+      ],
+      "confidence": "high",
+      "notes": "Album release date (topic release_date 2026-02-20; Apple Music/Audiomack agree). The Last Hit hub was revealed in August 2024, so its lobby music may have been heard in earlier playtests or early access; not verifiable per track."
+    },
+    {
+      "songId": "favorite-food",
+      "date": "2026-02-20",
+      "usedFor": "2XKO lobby theme (The Last Hit social hub)",
+      "background": "Favorite Food is one of the ten lobby themes John Scherer composed for The Last Hit, 2XKO's social hub and casual lobby, a virtual arcade where players find casual matches, challenge each other and watch games on a central screen. Riot released the themes as The Last Hit (Original Soundtrack from 2XKO) on February 20, 2026, a month after the game's console launch; Favorite Food is track 5 of the album.",
+      "coverUrl": null,
+      "spotifyUrl": "https://open.spotify.com/album/2rn6h5TCJuPUkwp0PQ8uLL",
+      "sources": [
+        {
+          "title": "Favorite Food - 2XKO - Topic (YouTube art track)",
+          "url": "https://www.youtube.com/watch?v=I4QQ1Pu4yD4"
+        },
+        {
+          "title": "The Last Hit (Original Soundtrack from 2XKO) | 2XKO Lobby Tracklist - 2XKO (YouTube)",
+          "url": "https://www.youtube.com/watch?v=zbMVT1y2xkw"
+        },
+        {
+          "title": "Welcome to The Last Hit: 2XKO's Social Hub & Casual Lobby (X post, August 2024)",
+          "url": "https://x.com/2XKOintel/status/1821218723631390810"
+        }
+      ],
+      "confidence": "high",
+      "notes": "Album release date (topic release_date 2026-02-20; Apple Music/Audiomack agree). The Last Hit hub was revealed in August 2024, so its lobby music may have been heard in earlier playtests or early access; not verifiable per track."
+    },
+    {
+      "songId": "head-heart-and-hands",
+      "date": "2026-02-20",
+      "usedFor": "2XKO lobby theme (The Last Hit social hub)",
+      "background": "Head, Heart and Hands is one of the ten lobby themes John Scherer composed for The Last Hit, 2XKO's social hub and casual lobby, a virtual arcade where players find casual matches, challenge each other and watch games on a central screen. Riot released the themes as The Last Hit (Original Soundtrack from 2XKO) on February 20, 2026, a month after the game's console launch; Head, Heart and Hands is track 6 of the album.",
+      "coverUrl": null,
+      "spotifyUrl": "https://open.spotify.com/album/2rn6h5TCJuPUkwp0PQ8uLL",
+      "sources": [
+        {
+          "title": "Head, Heart and Hands - 2XKO - Topic (YouTube art track)",
+          "url": "https://www.youtube.com/watch?v=Dj0PxYJ7wp0"
+        },
+        {
+          "title": "The Last Hit (Original Soundtrack from 2XKO) | 2XKO Lobby Tracklist - 2XKO (YouTube)",
+          "url": "https://www.youtube.com/watch?v=zbMVT1y2xkw"
+        },
+        {
+          "title": "Welcome to The Last Hit: 2XKO's Social Hub & Casual Lobby (X post, August 2024)",
+          "url": "https://x.com/2XKOintel/status/1821218723631390810"
+        }
+      ],
+      "confidence": "high",
+      "notes": "Album release date (topic release_date 2026-02-20; Apple Music/Audiomack agree). The Last Hit hub was revealed in August 2024, so its lobby music may have been heard in earlier playtests or early access; not verifiable per track."
+    },
+    {
+      "songId": "special-low",
+      "date": "2026-02-20",
+      "usedFor": "2XKO lobby theme (The Last Hit social hub)",
+      "background": "Special Low is one of the ten lobby themes John Scherer composed for The Last Hit, 2XKO's social hub and casual lobby, a virtual arcade where players find casual matches, challenge each other and watch games on a central screen. Riot released the themes as The Last Hit (Original Soundtrack from 2XKO) on February 20, 2026, a month after the game's console launch; Special Low is track 7 of the album.",
+      "coverUrl": null,
+      "spotifyUrl": "https://open.spotify.com/album/2rn6h5TCJuPUkwp0PQ8uLL",
+      "sources": [
+        {
+          "title": "Special Low - 2XKO - Topic (YouTube art track)",
+          "url": "https://www.youtube.com/watch?v=tuKxBbppeYo"
+        },
+        {
+          "title": "The Last Hit (Original Soundtrack from 2XKO) | 2XKO Lobby Tracklist - 2XKO (YouTube)",
+          "url": "https://www.youtube.com/watch?v=zbMVT1y2xkw"
+        },
+        {
+          "title": "Welcome to The Last Hit: 2XKO's Social Hub & Casual Lobby (X post, August 2024)",
+          "url": "https://x.com/2XKOintel/status/1821218723631390810"
+        }
+      ],
+      "confidence": "high",
+      "notes": "Album release date (topic release_date 2026-02-20; Apple Music/Audiomack agree). The Last Hit hub was revealed in August 2024, so its lobby music may have been heard in earlier playtests or early access; not verifiable per track."
+    },
+    {
+      "songId": "star-stuff",
+      "date": "2026-02-20",
+      "usedFor": "2XKO lobby theme (The Last Hit social hub)",
+      "background": "Star Stuff is one of the ten lobby themes John Scherer composed for The Last Hit, 2XKO's social hub and casual lobby, a virtual arcade where players find casual matches, challenge each other and watch games on a central screen. Riot released the themes as The Last Hit (Original Soundtrack from 2XKO) on February 20, 2026, a month after the game's console launch; Star Stuff is track 8 of the album.",
+      "coverUrl": null,
+      "spotifyUrl": "https://open.spotify.com/album/2rn6h5TCJuPUkwp0PQ8uLL",
+      "sources": [
+        {
+          "title": "Star Stuff - 2XKO - Topic (YouTube art track)",
+          "url": "https://www.youtube.com/watch?v=pke0BqblC4k"
+        },
+        {
+          "title": "The Last Hit (Original Soundtrack from 2XKO) | 2XKO Lobby Tracklist - 2XKO (YouTube)",
+          "url": "https://www.youtube.com/watch?v=zbMVT1y2xkw"
+        },
+        {
+          "title": "Welcome to The Last Hit: 2XKO's Social Hub & Casual Lobby (X post, August 2024)",
+          "url": "https://x.com/2XKOintel/status/1821218723631390810"
+        }
+      ],
+      "confidence": "high",
+      "notes": "Album release date (topic release_date 2026-02-20; Apple Music/Audiomack agree). The Last Hit hub was revealed in August 2024, so its lobby music may have been heard in earlier playtests or early access; not verifiable per track."
+    },
+    {
+      "songId": "straight-up",
+      "date": "2026-02-20",
+      "usedFor": "2XKO lobby theme (The Last Hit social hub)",
+      "background": "Straight Up is one of the ten lobby themes John Scherer composed for The Last Hit, 2XKO's social hub and casual lobby, a virtual arcade where players find casual matches, challenge each other and watch games on a central screen. Riot released the themes as The Last Hit (Original Soundtrack from 2XKO) on February 20, 2026, a month after the game's console launch; Straight Up is track 9 of the album.",
+      "coverUrl": null,
+      "spotifyUrl": "https://open.spotify.com/album/2rn6h5TCJuPUkwp0PQ8uLL",
+      "sources": [
+        {
+          "title": "Straight Up - 2XKO - Topic (YouTube art track)",
+          "url": "https://www.youtube.com/watch?v=91JHNMU4olc"
+        },
+        {
+          "title": "The Last Hit (Original Soundtrack from 2XKO) | 2XKO Lobby Tracklist - 2XKO (YouTube)",
+          "url": "https://www.youtube.com/watch?v=zbMVT1y2xkw"
+        },
+        {
+          "title": "Welcome to The Last Hit: 2XKO's Social Hub & Casual Lobby (X post, August 2024)",
+          "url": "https://x.com/2XKOintel/status/1821218723631390810"
+        }
+      ],
+      "confidence": "high",
+      "notes": "Album release date (topic release_date 2026-02-20; Apple Music/Audiomack agree). The Last Hit hub was revealed in August 2024, so its lobby music may have been heard in earlier playtests or early access; not verifiable per track."
+    },
+    {
+      "songId": "us-and-us",
+      "date": "2026-02-20",
+      "usedFor": "2XKO lobby theme (The Last Hit social hub)",
+      "background": "Us & Us is one of the ten lobby themes John Scherer composed for The Last Hit, 2XKO's social hub and casual lobby, a virtual arcade where players find casual matches, challenge each other and watch games on a central screen. Riot released the themes as The Last Hit (Original Soundtrack from 2XKO) on February 20, 2026, a month after the game's console launch; Us & Us is track 10 of the album.",
+      "coverUrl": null,
+      "spotifyUrl": "https://open.spotify.com/album/2rn6h5TCJuPUkwp0PQ8uLL",
+      "sources": [
+        {
+          "title": "Us & Us - 2XKO - Topic (YouTube art track)",
+          "url": "https://www.youtube.com/watch?v=1p-E_mzfeuI"
+        },
+        {
+          "title": "The Last Hit (Original Soundtrack from 2XKO) | 2XKO Lobby Tracklist - 2XKO (YouTube)",
+          "url": "https://www.youtube.com/watch?v=zbMVT1y2xkw"
+        },
+        {
+          "title": "Welcome to The Last Hit: 2XKO's Social Hub & Casual Lobby (X post, August 2024)",
+          "url": "https://x.com/2XKOintel/status/1821218723631390810"
+        }
+      ],
+      "confidence": "high",
+      "notes": "Album release date (topic release_date 2026-02-20; Apple Music/Audiomack agree). The Last Hit hub was revealed in August 2024, so its lobby music may have been heard in earlier playtests or early access; not verifiable per track."
+    },
+    {
+      "songId": "come-play",
+      "date": "2024-10-16",
+      "usedFor": "Arcane Season 2 single and series trailer",
+      "background": "Come Play by Stray Kids, Young Miko and Tom Morello was the second single from the Arcane Season 2 soundtrack, released on October 16, 2024 together with a Season 2 trailer set to the song. It was written by a team including Tom Morello and Young Miko and produced by Kill Dave, Morello, Sebastien Najand and Alex Seaver, and it plays in the season's ninth episode. VALORANT later used it in the trailer for its Arcane Season 2 collector's set skins.",
+      "coverUrl": null,
+      "spotifyUrl": "https://open.spotify.com/track/37ozVDmL5b6NNVWFYgAlkz",
+      "sources": [
+        {
+          "title": "Come Play (song) - Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Come_Play_(song)"
+        },
+        {
+          "title": "Arcane: \"Come Play\" Series Trailer - League of Legends (YouTube, 2024-10-16)",
+          "url": "https://www.youtube.com/watch?v=Sl-xmZTH6GE"
+        },
+        {
+          "title": "Come Play (from the series Arcane League of Legends) - Spotify (2024-10-16)",
+          "url": "https://open.spotify.com/album/6Eb8iWappWpZgkqxDWiIGU"
+        }
+      ],
+      "confidence": "high",
+      "notes": "Official visualizer followed on 2024-10-18; a Kordhell remix was added to the Extended Edition (2025-04-04)."
+    },
+    {
+      "songId": "blood-sweat-and-tears",
+      "date": "2024-10-26",
+      "usedFor": "Ambessa / Chosen of the Wolf music video",
+      "background": "Blood Sweat & Tears, sung by Sheryl Lee Ralph, premiered on October 26, 2024 as a League of Legends music video made with Fortiche that shows Ambessa, close to death, receiving a vision tied to her devotion to the Wolf. It heralded Ambessa's arrival in League and the Chosen of the Wolf skin line on November 6, 2024, and was then included on the Arcane Season 2 soundtrack. Its writers include Woodkid, Tanguy Destable, Ester Dean and Alex Seaver.",
+      "coverUrl": "https://i.scdn.co/image/ab67616d0000b273e3abf9d8b2da7a0c452179a8",
+      "spotifyUrl": "https://open.spotify.com/track/0ftoT1YpcxirRkamObuop0",
+      "sources": [
+        {
+          "title": "Blood Sweat & Tears ft. Sheryl Lee Ralph | Official Music Video - League of Legends (YouTube)",
+          "url": "https://www.youtube.com/watch?v=rhTZTy1rZhw"
+        },
+        {
+          "title": "Universe: Blood Sweat & Tears - League of Legends Wiki",
+          "url": "https://wiki.leagueoflegends.com/en-us/Universe:Blood_Sweat_&_Tears"
+        },
+        {
+          "title": "Blood Sweat & Tears (from the series Arcane League of Legends) - Spotify (2024-10-27)",
+          "url": "https://open.spotify.com/album/6r8UT9MVb36K5XeGVUCqVA"
+        }
+      ],
+      "confidence": "high",
+      "notes": "Spotify single is dated 2024-10-27 (one day after the video premiere)."
+    },
+    {
+      "songId": "ishas-song",
+      "date": "2024-11-07",
+      "usedFor": "Arcane Season 2 soundtrack (Act 2)",
+      "background": "这样很好 (Isha's Song) is a Mandarin-language song by Hong Kong singer Eason Chan for Arcane Season 2, named after Isha, the young girl who becomes Jinx's companion in the season. Its music video premiered on November 7, 2024, two days before the season, and the track reached streaming services with Act 2 on November 16. It was written by Zheng Nan and Lyu Yiqiu and produced by Zheng Nan, with additional production by Sebastien Najand and Greg Wells.",
+      "coverUrl": "https://i.scdn.co/image/ab67616d0000b2733ac90d4b207411590a26ab95",
+      "spotifyUrl": "https://open.spotify.com/track/355ygyd1nLXeJAz7Zbapwj",
+      "sources": [
+        {
+          "title": "Eason Chan - \"这样很好 (Isha's Song)\" (from Arcane Season 2) [Official Music Video] (YouTube)",
+          "url": "https://www.youtube.com/watch?v=n68BF6IlGhk"
+        },
+        {
+          "title": "这样很好 (Isha's Song) (from the series Arcane League of Legends) - Spotify (2024-11-16)",
+          "url": "https://open.spotify.com/album/2ZIqGTUu9YpNm8R6cKfdJV"
+        },
+        {
+          "title": "Arcane (Soundtrack) - League of Legends Wiki, Season 2",
+          "url": "https://wiki.leagueoflegends.com/en-us/Arcane_(Soundtrack)#Season_2"
+        }
+      ],
+      "confidence": "high",
+      "notes": "MV description announces the streaming release for 2024-11-16 (the Spotify single date)."
+    },
+    {
+      "songId": "sucker",
+      "date": "2024-11-08",
+      "usedFor": "Arcane Season 2 soundtrack (Act 1)",
+      "background": "Sucker, performed by blues-rock singer and guitarist Marcus King, was released on November 8, 2024, the day before Arcane Season 2 premiered, as one of the Act 1 songs of the Arcane Season 2 soundtrack. It was written by executive music producer Alex Seaver and produced by Seaver with Scott Bruzenak III.",
+      "coverUrl": "https://i.scdn.co/image/ab67616d0000b27383efca72d00ee0a33d2e7b49",
+      "spotifyUrl": "https://open.spotify.com/track/540k1IRl5UPMhVhpu1LRQ3",
+      "sources": [
+        {
+          "title": "Marcus King - \"Sucker\" (from Arcane Season 2) [Official Visualizer] (YouTube)",
+          "url": "https://www.youtube.com/watch?v=8sekyV_o2pM"
+        },
+        {
+          "title": "Sucker (from the series Arcane League of Legends) - Spotify (2024-11-08)",
+          "url": "https://open.spotify.com/album/7hQaRZQoy3R7ni0PzKajXT"
+        },
+        {
+          "title": "Arcane (Soundtrack) - League of Legends Wiki, Season 2",
+          "url": "https://wiki.leagueoflegends.com/en-us/Arcane_(Soundtrack)#Season_2"
+        }
+      ],
+      "confidence": "high"
+    },
+    {
+      "songId": "hellfire",
+      "date": "2024-11-09",
+      "usedFor": "Arcane Season 2 soundtrack (Act 1)",
+      "background": "Hellfire by Fever 333 is one of the Act 1 songs of the Arcane Season 2 soundtrack, released with the season's premiere on November 9, 2024. It was written by frontman Jason Aalon Butler with Sebastien Najand and Alex Seaver, who also produced it.",
+      "coverUrl": "https://i.scdn.co/image/ab67616d0000b2731f6245c1ccdc3541f2d1a201",
+      "spotifyUrl": "https://open.spotify.com/track/4ei9nlTAa7KUp0ZuqryhXC",
+      "sources": [
+        {
+          "title": "Fever 333 - \"Hellfire\" (from Arcane Season 2) [Official Visualizer] (YouTube)",
+          "url": "https://www.youtube.com/watch?v=ksFovPa5kaQ"
+        },
+        {
+          "title": "Hellfire (from the series Arcane League of Legends) - Spotify (2024-11-09)",
+          "url": "https://open.spotify.com/album/1UkORGUOXXrQlWXV9g35fE"
+        },
+        {
+          "title": "Arcane (Soundtrack) - League of Legends Wiki, Season 2",
+          "url": "https://wiki.leagueoflegends.com/en-us/Arcane_(Soundtrack)#Season_2"
+        }
+      ],
+      "confidence": "high"
+    },
+    {
+      "songId": "i-cant-hear-it-now",
+      "date": "2024-11-09",
+      "usedFor": "Arcane Season 2 soundtrack (Act 1)",
+      "background": "I Can't Hear It Now by British singer-songwriter Freya Ridings is one of the Act 1 songs of the Arcane Season 2 soundtrack, released with the season's premiere on November 9, 2024. It was written by Alex Seaver and produced by Seaver and Cyrus Reynolds; a Live From Vevo performance was added to the Extended Edition in April 2025.",
+      "coverUrl": "https://i.scdn.co/image/ab67616d0000b273f53a65a2d8ea809c4f1e5e93",
+      "spotifyUrl": "https://open.spotify.com/track/4pqTJ9xe9iDnxKbmGpGQby",
+      "sources": [
+        {
+          "title": "Freya Ridings - \"I Can't Hear It Now\" (from Arcane Season 2) [Official Visualizer] (YouTube)",
+          "url": "https://www.youtube.com/watch?v=uz1mjoGk1Yg"
+        },
+        {
+          "title": "I Can't Hear It Now (from the series Arcane League of Legends) - Spotify (2024-11-09)",
+          "url": "https://open.spotify.com/album/6ON4aKmVxx5g2cqnts3AMu"
+        },
+        {
+          "title": "Arcane (Soundtrack) - League of Legends Wiki, Season 2",
+          "url": "https://wiki.leagueoflegends.com/en-us/Arcane_(Soundtrack)#Season_2"
+        }
+      ],
+      "confidence": "high"
+    },
+    {
+      "songId": "renegade-we-never-run",
+      "date": "2024-11-09",
+      "usedFor": "Arcane Season 2 soundtrack (Act 1)",
+      "background": "Renegade (We Never Run), by British rapper Stefflon Don and Raja Kumari featuring Jarina De Marco, is one of the Act 1 songs of the Arcane Season 2 soundtrack, released on November 9, 2024. Produced by Sebastien Najand and Alex Seaver, it also scored the trailer of Teamfight Tactics' Into the Arcane set.",
+      "coverUrl": "https://i.scdn.co/image/ab67616d0000b273e0c1a96a201de147125d1c3b",
+      "spotifyUrl": "https://open.spotify.com/track/1UxZRq4SloZD0k7nQxD2EC",
+      "sources": [
+        {
+          "title": "Stefflon Don, Raja Kumari feat. Jarina de Marco - \"Renegade (We Never Run)\" [Official Visualizer] (YouTube)",
+          "url": "https://www.youtube.com/watch?v=xhkMbMZQV1Q"
+        },
+        {
+          "title": "Arcane League of Legends: Season 2 (Soundtrack from the Animated Series) - Spotify (2024-11-25)",
+          "url": "https://open.spotify.com/album/18r1yGUJUNHXYj1DQU0qIE"
+        },
+        {
+          "title": "Arcane (Soundtrack) - League of Legends Wiki, Season 2",
+          "url": "https://wiki.leagueoflegends.com/en-us/Arcane_(Soundtrack)#Season_2"
+        }
+      ],
+      "confidence": "high",
+      "notes": "Renegade has no Spotify single in spotify.json; cover is the Arcane Season 2 album art."
+    },
+    {
+      "songId": "to-ashes-and-blood",
+      "date": "2024-11-09",
+      "usedFor": "Arcane Season 2 soundtrack (Act 1)",
+      "background": "To Ashes and Blood is French artist Woodkid's song for Arcane Season 2, released with the Act 1 songs on November 9, 2024; he had already contributed Guns for Hire to the first season. It was written by Tanguy Destable, Yoann Lemoine (Woodkid) and Alex Seaver.",
+      "coverUrl": "https://i.scdn.co/image/ab67616d0000b273751209b5848226d25a4f2c86",
+      "spotifyUrl": "https://open.spotify.com/track/1clsf1YjKNHVUonDva4fnk",
+      "sources": [
+        {
+          "title": "Woodkid - \"To Ashes and Blood\" (from Arcane Season 2) [Official Visualizer] (YouTube)",
+          "url": "https://www.youtube.com/watch?v=Gj-jmBi0aK8"
+        },
+        {
+          "title": "To Ashes and Blood (from the series Arcane League of Legends) - Spotify (2024-11-09)",
+          "url": "https://open.spotify.com/album/3tm2lX4PPpYX1aRAJrgl2R"
+        },
+        {
+          "title": "Arcane (Soundtrack) - League of Legends Wiki, Season 2",
+          "url": "https://wiki.leagueoflegends.com/en-us/Arcane_(Soundtrack)#Season_2"
+        }
+      ],
+      "confidence": "high"
+    },
+    {
+      "songId": "cocktail-molotov",
+      "date": "2024-11-16",
+      "usedFor": "Arcane Season 2 soundtrack (Act 2)",
+      "background": "Cocktail Molotov by ZAND is one of the Act 2 songs of the Arcane Season 2 soundtrack, released on November 16, 2024. It was written by Zander Sweeney (ZAND) and Daniel Weller and produced by Weller.",
+      "coverUrl": "https://i.scdn.co/image/ab67616d0000b273dbd88da4e53a22ad8123d6ca",
+      "spotifyUrl": "https://open.spotify.com/track/4zSeX6VgtIZHLgIz2hJT3p",
+      "sources": [
+        {
+          "title": "ZAND - \"Cocktail Molotov\" (from Arcane Season 2) [Official Visualizer] (YouTube)",
+          "url": "https://www.youtube.com/watch?v=CvgR2TFIHSc"
+        },
+        {
+          "title": "Cocktail Molotov (from the series Arcane League of Legends) - Spotify (2024-11-16)",
+          "url": "https://open.spotify.com/album/4wrT09KQQ6TV4fv3gIYqvA"
+        },
+        {
+          "title": "Arcane (Soundtrack) - League of Legends Wiki, Season 2",
+          "url": "https://wiki.leagueoflegends.com/en-us/Arcane_(Soundtrack)#Season_2"
+        }
+      ],
+      "confidence": "high"
+    },
+    {
+      "songId": "rebel-heart",
+      "date": "2024-11-16",
+      "usedFor": "Arcane Season 2 soundtrack (Act 2)",
+      "background": "Rebel Heart by Norwegian rock band Djerv is one of the Act 2 songs of the Arcane Season 2 soundtrack, released on November 16, 2024. It was written by the band's Erlend Gjerde, Agnete Kjølsrud and Martin Selen and produced by Selen.",
+      "coverUrl": null,
+      "spotifyUrl": "https://open.spotify.com/track/3bpkjtiwxCmEFIHkuNf3Oc",
+      "sources": [
+        {
+          "title": "Djerv - \"Rebel Heart\" (from Arcane Season 2) [Official Visualizer] (YouTube)",
+          "url": "https://www.youtube.com/watch?v=Tg7VGqlR95Y"
+        },
+        {
+          "title": "Rebel Heart (from the series Arcane League of Legends) - Spotify (2024-11-16)",
+          "url": "https://open.spotify.com/album/7o5vPpHkPBYyjmZY57HgVg"
+        },
+        {
+          "title": "Arcane (Soundtrack) - League of Legends Wiki, Season 2",
+          "url": "https://wiki.leagueoflegends.com/en-us/Arcane_(Soundtrack)#Season_2"
+        }
+      ],
+      "confidence": "high"
+    },
+    {
+      "songId": "the-beast",
+      "date": "2024-11-16",
+      "usedFor": "Arcane Season 2 soundtrack (Act 2)",
+      "background": "The Beast by Periphery guitarist Misha Mansoor is one of the Act 2 songs of the Arcane Season 2 soundtrack, released on November 16, 2024. He wrote it with Riot composer Alexander Temple, and it was produced by Mansoor and Sebastien Najand with additional production by Alex Seaver and Arcane co-creator Christian Linke.",
+      "coverUrl": "https://i.scdn.co/image/ab67616d0000b2736541fa7e718a9eaf22830866",
+      "spotifyUrl": "https://open.spotify.com/track/5gnV1vGdGf8FMFn5Fjpu1H",
+      "sources": [
+        {
+          "title": "Misha Mansoor - \"The Beast\" (from Arcane Season 2) [Official Visualizer] (YouTube)",
+          "url": "https://www.youtube.com/watch?v=CCUrsBqFh_8"
+        },
+        {
+          "title": "The Beast (from the series Arcane League of Legends) - Spotify (2024-11-16)",
+          "url": "https://open.spotify.com/album/01Jm3RRsLElEzefWJHtTBa"
+        },
+        {
+          "title": "Arcane (Soundtrack) - League of Legends Wiki, Season 2",
+          "url": "https://wiki.leagueoflegends.com/en-us/Arcane_(Soundtrack)#Season_2"
+        }
+      ],
+      "confidence": "high"
+    },
+    {
+      "songId": "what-have-they-done-to-us",
+      "date": "2024-11-16",
+      "usedFor": "Arcane Season 2 soundtrack (Act 2)",
+      "background": "What Have They Done To Us by Mako and the duo Grey is one of the Act 2 songs of the Arcane Season 2 soundtrack, released on November 16, 2024. It was written by Cory Enemy, Alex Seaver and Grey's Kyle and Michael Trewartha; a new version featuring Sasha Alex Sloan followed in January 2025 as the first preview of the Extended Edition.",
+      "coverUrl": "https://i.scdn.co/image/ab67616d0000b273e0c1a96a201de147125d1c3b",
+      "spotifyUrl": "https://open.spotify.com/track/4bnYpAnGz4ZYETD13fknsP",
+      "sources": [
+        {
+          "title": "Mako, Grey - \"What Have They Done To Us\" (from Arcane Season 2) [Official Visualizer] (YouTube)",
+          "url": "https://www.youtube.com/watch?v=l_ZERCKc8qk"
+        },
+        {
+          "title": "Arcane League of Legends: Season 2 (Soundtrack from the Animated Series) - Spotify (2024-11-25)",
+          "url": "https://open.spotify.com/album/18r1yGUJUNHXYj1DQU0qIE"
+        },
+        {
+          "title": "Arcane (Soundtrack) - League of Legends Wiki, Season 2",
+          "url": "https://wiki.leagueoflegends.com/en-us/Arcane_(Soundtrack)#Season_2"
+        }
+      ],
+      "confidence": "high",
+      "notes": "No Spotify single in spotify.json; cover is the Arcane Season 2 album art."
+    },
+    {
+      "songId": "the-line",
+      "date": "2024-11-22",
+      "usedFor": "Arcane Season 2 soundtrack (Act 3)",
+      "background": "The Line was written by Twenty One Pilots' Tyler Joseph for a pivotal moment in the third and final act of Arcane Season 2. The single came out on November 22, 2024, a day before Act 3 premiered, and its music video followed on November 25; the band performed the song live for the first time at The Game Awards in December 2024.",
+      "coverUrl": "https://i.scdn.co/image/ab67616d0000b2738a577010b0baa62c836e330b",
+      "spotifyUrl": "https://open.spotify.com/track/3qrTll9OQ9wcejTxPFY0qg",
+      "sources": [
+        {
+          "title": "The Line (from the series Arcane League of Legends) - Spotify (2024-11-22)",
+          "url": "https://open.spotify.com/album/4aE8ZrEif8MgWvFNIbz8I6"
+        },
+        {
+          "title": "Twenty One Pilots - \"The Line\" (from Arcane Season 2) [Official Music Video] (YouTube)",
+          "url": "https://www.youtube.com/watch?v=E2Rj2gQAyPA"
+        },
+        {
+          "title": "Listen to new Twenty One Pilots track The Line - Kerrang!",
+          "url": "https://www.kerrang.com/listen-to-new-twenty-one-pilots-track-the-line"
+        }
+      ],
+      "confidence": "medium",
+      "notes": "Spotify single date 2024-11-22; press coverage ties the release to the Act 3 premiere on 2024-11-23."
+    },
+    {
+      "songId": "fantastic",
+      "date": "2024-11-23",
+      "usedFor": "Arcane Season 2 soundtrack (Act 3)",
+      "background": "Fantastic by King Princess is one of the Act 3 songs of the Arcane Season 2 soundtrack, released on November 23, 2024, with an official music video the next day. It was written by a team including Mikaela Straus (King Princess) and Ryan Tedder; a demo version and a Live From Vevo performance were added to the Extended Edition in 2025.",
+      "coverUrl": "https://i.scdn.co/image/ab67616d0000b273722ad563d79a4e6baa2e3a7c",
+      "spotifyUrl": "https://open.spotify.com/track/5Qq9uvUXZU5zNDh0MlkBu8",
+      "sources": [
+        {
+          "title": "King Princess - \"Fantastic\" (from Arcane Season 2) [Official Visualizer] (YouTube, 2024-11-23)",
+          "url": "https://www.youtube.com/watch?v=ieHUdRGZKiU"
+        },
+        {
+          "title": "Fantastic (from the series Arcane League of Legends) - Spotify (2024-11-23)",
+          "url": "https://open.spotify.com/album/0GqyJ9KqSEo1DlDnt1TIsg"
+        },
+        {
+          "title": "Arcane (Soundtrack) - League of Legends Wiki, Season 2",
+          "url": "https://wiki.leagueoflegends.com/en-us/Arcane_(Soundtrack)#Season_2"
+        }
+      ],
+      "confidence": "high"
+    },
+    {
+      "songId": "ma-meilleure-ennemie",
+      "date": "2024-11-23",
+      "usedFor": "Arcane Season 2 soundtrack (Act 3)",
+      "background": "Ma Meilleure Ennemie is a French-language duet by Stromae and Pomme written for Arcane Season 2 and released with the Act 3 songs on November 23, 2024. The two singers wrote it with Luc Van Haver and Alex Seaver; a full music video followed in March 2025 and an extended version featuring Coldplay in April 2025.",
+      "coverUrl": "https://i.scdn.co/image/ab67616d0000b273e0c1a96a201de147125d1c3b",
+      "spotifyUrl": "https://open.spotify.com/track/3pid9SdBo28hjELHNT6B8N",
+      "sources": [
+        {
+          "title": "Stromae, Pomme - \"Ma Meilleure Ennemie\" (from Arcane Season 2) [Official Visualizer] (YouTube, 2024-11-23)",
+          "url": "https://www.youtube.com/watch?v=1F3OGIFnW1k"
+        },
+        {
+          "title": "Arcane League of Legends: Season 2 (Soundtrack from the Animated Series) - Spotify (2024-11-25)",
+          "url": "https://open.spotify.com/album/18r1yGUJUNHXYj1DQU0qIE"
+        },
+        {
+          "title": "Arcane (Soundtrack) - League of Legends Wiki, Season 2",
+          "url": "https://wiki.leagueoflegends.com/en-us/Arcane_(Soundtrack)#Season_2"
+        }
+      ],
+      "confidence": "high",
+      "notes": "No Spotify single in spotify.json; cover is the Arcane Season 2 album art. Official MV (j-RpvIuazmc) uploaded 2025-03-20."
+    },
+    {
+      "songId": "spin-the-wheel",
+      "date": "2024-11-23",
+      "usedFor": "Arcane Season 2 soundtrack (Act 3)",
+      "background": "Spin The Wheel is a song from the final act of Arcane Season 2, performed by Mick Wingert, the voice of Heimerdinger in the series. Written and produced by Alex Seaver, it was released on November 23, 2024, and a music video followed on December 6; several dubbed language versions exist.",
+      "coverUrl": "https://i.scdn.co/image/ab67616d0000b273f9d11959ffe274dcd201eeee",
+      "spotifyUrl": "https://open.spotify.com/track/0kjLUmIAgxVaZFjWDv5Z0x",
+      "sources": [
+        {
+          "title": "Mick Wingert - \"Spin The Wheel\" (from Arcane Season 2) [Official Visualizer] (YouTube, 2024-11-23)",
+          "url": "https://www.youtube.com/watch?v=Ns0N8bcB95I"
+        },
+        {
+          "title": "Spin The Wheel (from the series Arcane League of Legends) - Spotify (2024-11-23)",
+          "url": "https://open.spotify.com/album/4BiMFhWtxsZXExNbDrFoez"
+        },
+        {
+          "title": "Arcane (Soundtrack) - League of Legends Wiki, Season 2",
+          "url": "https://wiki.leagueoflegends.com/en-us/Arcane_(Soundtrack)#Season_2"
+        }
+      ],
+      "confidence": "high"
+    },
+    {
+      "songId": "wasteland",
+      "date": "2024-11-23",
+      "usedFor": "Arcane Season 2 soundtrack (Act 3)",
+      "background": "Wasteland by Royal & the Serpent is one of the Act 3 songs of the Arcane Season 2 soundtrack, released on November 23, 2024, with a music video on November 29. It was written by Ryan Santiago (Royal & the Serpent), Alex Seaver and Simon Wilcox; a Live From Vevo performance was added to the Extended Edition in April 2025.",
+      "coverUrl": "https://i.scdn.co/image/ab67616d0000b27390d7c2223cf5fa97a2fcf993",
+      "spotifyUrl": "https://open.spotify.com/track/3rF6JPHGnDf5fIQPqHW7U3",
+      "sources": [
+        {
+          "title": "Royal & the Serpent - \"Wasteland\" (from Arcane Season 2) [Official Visualizer] (YouTube, 2024-11-23)",
+          "url": "https://www.youtube.com/watch?v=mlJWzAOprrI"
+        },
+        {
+          "title": "Wasteland (from the series Arcane League of Legends) - Spotify (2024-11-23)",
+          "url": "https://open.spotify.com/album/3Q5TWpLZTd3b4Zmmu6KF1i"
+        },
+        {
+          "title": "Arcane (Soundtrack) - League of Legends Wiki, Season 2",
+          "url": "https://wiki.leagueoflegends.com/en-us/Arcane_(Soundtrack)#Season_2"
+        }
+      ],
+      "confidence": "high"
+    },
+    {
+      "songId": "ma-meilleure-ennemie-coldplay",
+      "date": "2025-04-04",
+      "usedFor": "Arcane S2 Extended Edition: Coldplay version",
+      "background": "This extended version of Stromae and Pomme's Arcane Season 2 duet adds an English verse sung by Coldplay's Chris Martin, who joins the writing credits, plus additional vocals by Elyanna. It was released on April 4, 2025 on the Arcane Season 2 Extended Edition soundtrack, together with an official lyric video.",
+      "coverUrl": "https://i.scdn.co/image/ab67616d0000b273183fc5de03ccc82fb1154774",
+      "spotifyUrl": "https://open.spotify.com/track/1ZHvGQZNz6HLbxhAtu7pin",
+      "sources": [
+        {
+          "title": "Stromae, Pomme, Coldplay - \"Ma Meilleure Ennemie ft. Coldplay\" (from Arcane) [Official Lyric Video] (YouTube)",
+          "url": "https://www.youtube.com/watch?v=XbLemOwzdxk"
+        },
+        {
+          "title": "Ma Meilleure Ennemie ft. Coldplay - Spotify (2025-04-04)",
+          "url": "https://open.spotify.com/album/26yUJYL8DYzp2HunSKzmsG"
+        },
+        {
+          "title": "Ma Meilleure Ennemie (Extended Version) - Coldpedia",
+          "url": "https://coldplay.fandom.com/wiki/Ma_Meilleure_Ennemie_(Extended_Version)"
+        }
+      ],
+      "confidence": "high",
+      "notes": "Catalog releaseDate 2024-11-25 is the Season 2 album date, not this version's release."
+    },
+    {
+      "songId": "what-have-they-done-to-us-sasha-alex-sloan",
+      "date": "2025-01-31",
+      "usedFor": "Arcane S2 Extended Edition: Sasha Alex Sloan version",
+      "background": "This version of Mako and Grey's Arcane Season 2 song adds vocals by singer-songwriter Sasha Alex Sloan alongside Mako. Released on January 31, 2025, it was the first preview of the Arcane Season 2 Extended Edition soundtrack, which followed on April 4, 2025.",
+      "coverUrl": "https://i.scdn.co/image/ab67616d0000b2731168bda06865ff230d3e4fbb",
+      "spotifyUrl": "https://open.spotify.com/track/1VcFPlHTGkUuKv7emjBNVp",
+      "sources": [
+        {
+          "title": "What Have They Done To Us (ft. Sasha Alex Sloan) (from the series Arcane League of Legends) - Spotify (2025-01-31)",
+          "url": "https://open.spotify.com/album/0g1gjMqa230nBKXvHvPPR3"
+        },
+        {
+          "title": "Arcane (Soundtrack) - League of Legends Wiki, Season 2",
+          "url": "https://wiki.leagueoflegends.com/en-us/Arcane_(Soundtrack)#Season_2"
+        },
+        {
+          "title": "Mako, Grey ft. Sasha Alex Sloan - \"What Have They Done To Us\" (Arcane S2 OST) [Extended Edition] (YouTube)",
+          "url": "https://www.youtube.com/watch?v=VSrQi92AvF8"
+        }
+      ],
+      "confidence": "high",
+      "notes": "Catalog releaseDate 2024-11-25 is the Season 2 album date; the official audio upload is 2025-02-07."
+    },
+    {
+      "songId": "enemy",
+      "date": "2021-10-28",
+      "usedFor": "Arcane Season 1 title song",
+      "background": "Enemy by Imagine Dragons with rapper JID is the title song of Arcane, written by the band with JID, Justin Tranter and producers Mattman & Robin. It was released on October 28, 2021 with an animated music video, ahead of the show's Netflix premiere on November 6, and performed in the Worlds 2021 show open in Reykjavik. It became a worldwide hit and returned as an opening-title version on the Season 2 soundtrack.",
+      "coverUrl": "https://i.scdn.co/image/ab67616d0000b273aa597e50829169e6994eb403",
+      "spotifyUrl": "https://open.spotify.com/track/1r9xUipOqoNwggBpENDsvJ",
+      "sources": [
+        {
+          "title": "Imagine Dragons & JID - Enemy (from the series Arcane: League of Legends) | Official Music Video (YouTube)",
+          "url": "https://www.youtube.com/watch?v=F5tSoaJ93ac"
+        },
+        {
+          "title": "Universe: Enemy - League of Legends Wiki",
+          "url": "https://wiki.leagueoflegends.com/en-us/Universe:Enemy"
+        },
+        {
+          "title": "Enemy (with JID) [from the series Arcane League of Legends] - Spotify (2021-10-28)",
+          "url": "https://open.spotify.com/album/1bTgKomQYSkKYPD9UI9W4b"
+        }
+      ],
+      "confidence": "high",
+      "notes": "Spotify also lists the Imagine Dragons solo single 'Enemy' as 2021-10-27 (likely a time-zone offset); Riot, the LoL wiki and the MV give 2021-10-28."
+    },
+    {
+      "songId": "goodbye",
+      "date": "2021-11-06",
+      "usedFor": "Arcane Season 1 soundtrack (Act 1)",
+      "background": "Goodbye, sung by Ramsey and written and produced by Alex Seaver of Mako, is one of the three Act 1 songs of Arcane's first season, released when the show premiered on November 6, 2021. It accompanies the closing moments of the first act, and its music video followed on November 12.",
+      "coverUrl": "https://i.scdn.co/image/ab67616d0000b27383f1bd6eea9766c1b9917b52",
+      "spotifyUrl": "https://open.spotify.com/track/50qY6EQTt33QAUQnDgbYOS",
+      "sources": [
+        {
+          "title": "Riot Games reveal Arcane OST artists and tracklist - Bandwagon",
+          "url": "https://www.bandwagon.asia/articles/riot-games-reveal-netflix-tencent-arcane-ost-artists-tracklist-imagine-dragons-miyavi-sting-bea-miller-pusha-t-denzel-curry-ray-chen-bones-uk"
+        },
+        {
+          "title": "Goodbye (from the series Arcane League of Legends) - Spotify (2021-11-05)",
+          "url": "https://open.spotify.com/album/7q2FV4zz7UvTr29VroExbu"
+        },
+        {
+          "title": "Ramsey - Goodbye | Arcane League of Legends | Riot Games Music (YouTube)",
+          "url": "https://www.youtube.com/watch?v=omgSWqwVTjY"
+        }
+      ],
+      "confidence": "high",
+      "notes": "Riot's tracklist and the LoL wiki date the Act 1 songs to 2021-11-06; Spotify's single pages show 2021-11-05."
+    },
+    {
+      "songId": "our-love",
+      "date": "2021-11-06",
+      "usedFor": "Arcane Season 1 soundtrack (Act 1)",
+      "background": "Our Love by soul singer Curtis Harding featuring Jazmine Sullivan, written by Harding and Sam Cohen and produced by Cohen, is one of the three Act 1 songs of Arcane's first season, released on November 6, 2021. An instrumental version later scored the Teamfight Tactics mini cinematic Memories of Zaun (2024).",
+      "coverUrl": "https://i.scdn.co/image/ab67616d0000b273bb2af20f9b2be970f2e07348",
+      "spotifyUrl": "https://open.spotify.com/track/58JG1aDmXbh6CNt2kaePz1",
+      "sources": [
+        {
+          "title": "Riot Games reveal Arcane OST artists and tracklist - Bandwagon",
+          "url": "https://www.bandwagon.asia/articles/riot-games-reveal-netflix-tencent-arcane-ost-artists-tracklist-imagine-dragons-miyavi-sting-bea-miller-pusha-t-denzel-curry-ray-chen-bones-uk"
+        },
+        {
+          "title": "Our Love (From the series Arcane League of Legends) - Spotify (2021-11-05)",
+          "url": "https://open.spotify.com/album/1tIhcMv442xiVxVs9ryq62"
+        },
+        {
+          "title": "Curtis Harding ft. Jazmine Sullivan - Our Love | Arcane League of Legends | Riot Games Music (YouTube)",
+          "url": "https://www.youtube.com/watch?v=2Yr3sKPi8mM"
+        }
+      ],
+      "confidence": "high",
+      "notes": "Riot's tracklist and the LoL wiki date the Act 1 songs to 2021-11-06; Spotify's single pages show 2021-11-05."
+    },
+    {
+      "songId": "playground",
+      "date": "2021-11-06",
+      "usedFor": "Arcane Season 1 soundtrack (Act 1)",
+      "background": "Playground by Bea Miller, written and produced by Alex Seaver of Mako and Sebastien Najand, is one of the three Act 1 songs of Arcane's first season, released on November 6, 2021. Bea Miller performed it as Welcome to the Playground in the Worlds 2021 show open the same day, and a Baby Tate remix marked the show's first anniversary in November 2022.",
+      "coverUrl": "https://i.scdn.co/image/ab67616d0000b273b9ab3c3eb284ec2f4d15fbff",
+      "spotifyUrl": "https://open.spotify.com/track/0eSKFjwdh7uOJZ7me6YbaN",
+      "sources": [
+        {
+          "title": "Riot Games reveal Arcane OST artists and tracklist - Bandwagon",
+          "url": "https://www.bandwagon.asia/articles/riot-games-reveal-netflix-tencent-arcane-ost-artists-tracklist-imagine-dragons-miyavi-sting-bea-miller-pusha-t-denzel-curry-ray-chen-bones-uk"
+        },
+        {
+          "title": "Playground (from the series Arcane League of Legends) - Spotify (2021-11-05)",
+          "url": "https://open.spotify.com/album/5Cpryyv5Q7sPkLuRh82gvo"
+        },
+        {
+          "title": "Welcome to the Playground (Bea Miller) - Worlds 2021 Show Open (YouTube)",
+          "url": "https://www.youtube.com/watch?v=pzFnYYXsKtw"
+        }
+      ],
+      "confidence": "high",
+      "notes": "Riot's tracklist and the LoL wiki date the Act 1 songs to 2021-11-06; Spotify's single pages show 2021-11-05."
+    },
+    {
+      "songId": "dirty-little-animals",
+      "date": "2021-11-13",
+      "usedFor": "Arcane Season 1 soundtrack (Act 2)",
+      "background": "Dirty Little Animals by British rock duo Bones UK, written by Rosie Oddie and Carmen Vandenberg with producer Sebastien Najand, is one of the Act 2 songs of Arcane's first season, released on November 13, 2021.",
+      "coverUrl": "https://i.scdn.co/image/ab67616d0000b2736058c1a432b1d05f587d2e44",
+      "spotifyUrl": "https://open.spotify.com/track/1DMp5Y9596jKrZTBYgi7fV",
+      "sources": [
+        {
+          "title": "Riot Games reveal Arcane OST artists and tracklist - Bandwagon",
+          "url": "https://www.bandwagon.asia/articles/riot-games-reveal-netflix-tencent-arcane-ost-artists-tracklist-imagine-dragons-miyavi-sting-bea-miller-pusha-t-denzel-curry-ray-chen-bones-uk"
+        },
+        {
+          "title": "Dirty Little Animals (From the series Arcane League of Legends) - Spotify (2021-11-13)",
+          "url": "https://open.spotify.com/album/73R7KvHJv47usynIkosEeL"
+        },
+        {
+          "title": "Bones UK - Dirty Little Animals | Arcane League of Legends | Riot Games Music (YouTube)",
+          "url": "https://www.youtube.com/watch?v=w88d-uKh_Uw"
+        }
+      ],
+      "confidence": "high"
+    },
+    {
+      "songId": "guns-for-hire",
+      "date": "2021-11-13",
+      "usedFor": "Arcane Season 1 soundtrack (Act 2)",
+      "background": "Guns for Hire is French singer and director Woodkid's song for Arcane's first season, written by Alex Seaver of Mako and produced by Seaver and Woodkid. It was released with the Act 2 songs on November 13, 2021; Woodkid returned for Season 2 with To Ashes and Blood.",
+      "coverUrl": "https://i.scdn.co/image/ab67616d0000b2738a4aa9f5c68f7f8aed473671",
+      "spotifyUrl": "https://open.spotify.com/track/38x5NsjgoLaYCnhAghHdyo",
+      "sources": [
+        {
+          "title": "Riot Games reveal Arcane OST artists and tracklist - Bandwagon",
+          "url": "https://www.bandwagon.asia/articles/riot-games-reveal-netflix-tencent-arcane-ost-artists-tracklist-imagine-dragons-miyavi-sting-bea-miller-pusha-t-denzel-curry-ray-chen-bones-uk"
+        },
+        {
+          "title": "Guns for Hire (from the series Arcane League of Legends) - Spotify (2021-11-13)",
+          "url": "https://open.spotify.com/album/5NgVCpHat6HmhlEISyXdIV"
+        },
+        {
+          "title": "Woodkid - Guns for Hire | Arcane League of Legends | Riot Games Music (YouTube)",
+          "url": "https://www.youtube.com/watch?v=pKNEx-9OqRM"
+        }
+      ],
+      "confidence": "high"
+    },
+    {
+      "songId": "dynasties-and-dystopia",
+      "date": "2021-11-20",
+      "usedFor": "Arcane Season 1 soundtrack (Act 3)",
+      "background": "Dynasties & Dystopia by Denzel Curry, Gizzle and Bren Joy, written by the three artists and produced by Sebastien Najand, is one of the Act 3 songs of Arcane's first season, released on November 20, 2021. Denzel Curry also performed in the Worlds 2021 show open that brought Arcane to the Worlds stage.",
+      "coverUrl": "https://i.scdn.co/image/ab67616d0000b273066d6510ec1d62cd1f55153a",
+      "spotifyUrl": "https://open.spotify.com/track/28487fkXVQa2e6F2z73CBO",
+      "sources": [
+        {
+          "title": "Riot Games reveal Arcane OST artists and tracklist - Bandwagon",
+          "url": "https://www.bandwagon.asia/articles/riot-games-reveal-netflix-tencent-arcane-ost-artists-tracklist-imagine-dragons-miyavi-sting-bea-miller-pusha-t-denzel-curry-ray-chen-bones-uk"
+        },
+        {
+          "title": "Dynasties & Dystopia (from the series Arcane League of Legends) - Spotify (2021-11-20)",
+          "url": "https://open.spotify.com/album/3l2cEVlSiNrjnPLfPwzvnR"
+        },
+        {
+          "title": "Denzel Curry, Gizzle, Bren Joy - Dynasties & Dystopia | Arcane League of Legends | Riot Games Music (YouTube)",
+          "url": "https://www.youtube.com/watch?v=y_fB0IMbq54"
+        }
+      ],
+      "confidence": "high"
+    },
+    {
+      "songId": "misfit-toys",
+      "date": "2021-11-20",
+      "usedFor": "Arcane Season 1 soundtrack (Act 3)",
+      "background": "Misfit Toys pairs rapper Pusha T with Mako; it was written by Pusha T, Alex Seaver, Joshua Goods and Sebastien Najand and produced by Seaver and Najand. It is one of the Act 3 songs of Arcane's first season, released on November 20, 2021.",
+      "coverUrl": "https://i.scdn.co/image/ab67616d0000b2731cf0815a0d7310568149932c",
+      "spotifyUrl": "https://open.spotify.com/track/0oKPOxrcUkvJ8YVaV79qE8",
+      "sources": [
+        {
+          "title": "Riot Games reveal Arcane OST artists and tracklist - Bandwagon",
+          "url": "https://www.bandwagon.asia/articles/riot-games-reveal-netflix-tencent-arcane-ost-artists-tracklist-imagine-dragons-miyavi-sting-bea-miller-pusha-t-denzel-curry-ray-chen-bones-uk"
+        },
+        {
+          "title": "Misfit Toys (from the series Arcane League of Legends) - Spotify (2021-11-20)",
+          "url": "https://open.spotify.com/album/76wOGJh4irz8szcQ0PsgUU"
+        },
+        {
+          "title": "Pusha T & Mako - Misfit Toys | Arcane League of Legends | Riot Games Music (YouTube)",
+          "url": "https://www.youtube.com/watch?v=f_Z1E32mxGg"
+        }
+      ],
+      "confidence": "high"
+    },
+    {
+      "songId": "snakes",
+      "date": "2021-11-20",
+      "usedFor": "Arcane Season 1 soundtrack (Act 3)",
+      "background": "Snakes is a collaboration between PVRIS singer Lyndsey Gunnulfsen and Japanese guitarist Miyavi, written by the two and produced by JT Daly. It is one of the Act 3 songs of Arcane's first season, released on November 20, 2021.",
+      "coverUrl": "https://i.scdn.co/image/ab67616d0000b27319d67f7438589b6b572653eb",
+      "spotifyUrl": "https://open.spotify.com/track/62AdLIvL8qZYX0FhxVJLND",
+      "sources": [
+        {
+          "title": "Riot Games reveal Arcane OST artists and tracklist - Bandwagon",
+          "url": "https://www.bandwagon.asia/articles/riot-games-reveal-netflix-tencent-arcane-ost-artists-tracklist-imagine-dragons-miyavi-sting-bea-miller-pusha-t-denzel-curry-ray-chen-bones-uk"
+        },
+        {
+          "title": "Snakes (from the series Arcane League of Legends) - Spotify (2021-11-20)",
+          "url": "https://open.spotify.com/album/2OpCTw15JLMqUTeBAA2yd7"
+        },
+        {
+          "title": "Miyavi & PVRIS - Snakes | Arcane League of Legends | Riot Games Music (YouTube)",
+          "url": "https://www.youtube.com/watch?v=4UprHuO_zCc"
+        }
+      ],
+      "confidence": "high"
+    },
+    {
+      "songId": "what-could-have-been",
+      "date": "2021-11-20",
+      "usedFor": "Arcane Season 1 soundtrack (Act 3)",
+      "background": "What Could Have Been is sung by Sting with violinist Ray Chen and was written and produced by Alex Seaver of Mako. Released with the Act 3 songs on November 20, 2021, it is the final track of Arcane's Season 1 soundtrack album; Ray Chen also plays on several cues of the show's original score.",
+      "coverUrl": "https://i.scdn.co/image/ab67616d0000b27390d1dd89316f336262258965",
+      "spotifyUrl": "https://open.spotify.com/track/6YB9jhzVEzw8CKeXD7Vx8j",
+      "sources": [
+        {
+          "title": "Riot Games reveal Arcane OST artists and tracklist - Bandwagon",
+          "url": "https://www.bandwagon.asia/articles/riot-games-reveal-netflix-tencent-arcane-ost-artists-tracklist-imagine-dragons-miyavi-sting-bea-miller-pusha-t-denzel-curry-ray-chen-bones-uk"
+        },
+        {
+          "title": "Arcane League of Legends (Soundtrack from the Animated Series) - Spotify (2021-11-20)",
+          "url": "https://open.spotify.com/album/0jV32pIk8l3vTaU3thTaW2"
+        },
+        {
+          "title": "Sting - What Could Have Been | Arcane League of Legends | Riot Games Music (YouTube)",
+          "url": "https://www.youtube.com/watch?v=liPu1_aPH5k"
+        }
+      ],
+      "confidence": "high",
+      "notes": "No Spotify single in spotify.json; cover is the Arcane Season 1 album art."
+    },
+    {
+      "songId": "when-everything-went-wrong",
+      "date": "2021-11-20",
+      "usedFor": "Arcane Season 1 soundtrack (Act 3)",
+      "background": "When Everything Went Wrong was written, produced and sung by Fantastic Negrito (Xavier Dphrepaulezz). It is one of the Act 3 songs of Arcane's first season, released on November 20, 2021.",
+      "coverUrl": "https://i.scdn.co/image/ab67616d0000b273d76b3dc60002351424ea91c6",
+      "spotifyUrl": "https://open.spotify.com/track/5fW9gRfANuXLNgopaNTrHi",
+      "sources": [
+        {
+          "title": "Riot Games reveal Arcane OST artists and tracklist - Bandwagon",
+          "url": "https://www.bandwagon.asia/articles/riot-games-reveal-netflix-tencent-arcane-ost-artists-tracklist-imagine-dragons-miyavi-sting-bea-miller-pusha-t-denzel-curry-ray-chen-bones-uk"
+        },
+        {
+          "title": "When Everything Went Wrong (from the series Arcane League of Legends) - Spotify (2021-11-20)",
+          "url": "https://open.spotify.com/album/2mwGEdmUVr7RjkDlxzjRzJ"
+        },
+        {
+          "title": "Fantastic Negrito - When Everything Went Wrong | Arcane League of Legends | Riot Games Music (YouTube)",
+          "url": "https://www.youtube.com/watch?v=G0XE4OHoqn8"
+        }
+      ],
+      "confidence": "high"
+    },
+    {
+      "songId": "forged-in-fury",
+      "date": "2026-02-27",
+      "usedFor": "Shyvana champion update trailer (2026)",
+      "background": "Forged in Fury is Kole Hicks' score for the Shyvana champion update trailer, made with 2:10 Animation and released on February 27, 2026, ahead of her visual and gameplay update in Act II of the For Demacia season. The music was later included on the season's soundtrack album, For Demacia, on April 13, 2026.",
+      "coverUrl": null,
+      "spotifyUrl": "https://open.spotify.com/track/4iWF78yjosKGw5itZlQsPf",
+      "sources": [
+        {
+          "title": "Forged in Fury | Shyvana Champion Update Trailer - League of Legends (YouTube)",
+          "url": "https://www.youtube.com/watch?v=Xoq33mAQFlg"
+        },
+        {
+          "title": "For Demacia - Season One 2026 | Original Soundtrack from League of Legends (YouTube)",
+          "url": "https://www.youtube.com/watch?v=aPf9EcHbWHE"
+        },
+        {
+          "title": "For Demacia - League of Legends Wiki",
+          "url": "https://wiki.leagueoflegends.com/en-us/For_Demacia"
+        }
+      ],
+      "confidence": "high",
+      "notes": "Topic track (108 s) matches the 107 s trailer; the trailer upload is the first public appearance."
+    },
+    {
+      "songId": "shyvana-the-half-dragon",
+      "date": "2026-03-27",
+      "usedFor": "Shyvana champion theme (2026 update)",
+      "background": "Shyvana, the Half-Dragon is the orchestral and choral champion theme Kole Hicks wrote for Shyvana's 2026 champion update, conducted by Bill Hemstapat. It was released with an official video on March 27, 2026, during Act II of the For Demacia season, and later appeared on the season's soundtrack album.",
+      "coverUrl": null,
+      "spotifyUrl": "https://open.spotify.com/track/63zObxLRXOiErspLBNZaTp",
+      "sources": [
+        {
+          "title": "Shyvana, the Half-Dragon | Official Champion Theme - League of Legends (YouTube)",
+          "url": "https://www.youtube.com/watch?v=IAtPS0qc770"
+        },
+        {
+          "title": "For Demacia - Season One 2026 | Original Soundtrack from League of Legends (YouTube)",
+          "url": "https://www.youtube.com/watch?v=aPf9EcHbWHE"
+        },
+        {
+          "title": "Music - League of Legends Wiki (Champion Themes)",
+          "url": "https://wiki.leagueoflegends.com/en-us/Music#Champion_Themes"
+        }
+      ],
+      "confidence": "high"
+    },
+    {
+      "songId": "arrival-of-a-dragon",
+      "date": "2026-04-13",
+      "usedFor": "Season One 2026 (For Demacia) soundtrack",
+      "background": "Arrival of a Dragon is a piece by J.D. Spears and Kole Hicks from League of Legends' Season One 2026 soundtrack. It is part of For Demacia (Original Soundtrack from League of Legends), the 21-track score of League's first 2026 season (January 8 to April 29, 2026), released on April 13, 2026 near the end of Act II; the music was recorded with a brass ensemble on the Eastwood Scoring Stage under conductor Bill Hemstapat and a chamber choir in London. It is track 18 of the album, placed right before Shyvana's champion theme.",
+      "coverUrl": null,
+      "spotifyUrl": "https://open.spotify.com/track/2VgL4iwD1xaB6q78pt3IuJ",
+      "sources": [
+        {
+          "title": "Arrival of a Dragon - League Of Legends - Topic (YouTube art track)",
+          "url": "https://www.youtube.com/watch?v=n34QuwWyCuk"
+        },
+        {
+          "title": "For Demacia - Season One 2026 | Original Soundtrack from League of Legends (YouTube)",
+          "url": "https://www.youtube.com/watch?v=aPf9EcHbWHE"
+        },
+        {
+          "title": "For Demacia - League of Legends Wiki",
+          "url": "https://wiki.leagueoflegends.com/en-us/For_Demacia"
+        }
+      ],
+      "confidence": "high",
+      "notes": "Album release date (topic release_date, Spotify and the official OST video all 2026-04-13). Some cues may have been heard earlier in the client (season lobby music, the Demacia Rising metagame from 2026-01-08), but no per-track debut could be verified."
+    },
+    {
+      "songId": "burden-of-hope",
+      "date": "2026-04-13",
+      "usedFor": "Season One 2026 (For Demacia) soundtrack",
+      "background": "Burden of Hope is a piece by J.D. Spears from League of Legends' Season One 2026 soundtrack. It is part of For Demacia (Original Soundtrack from League of Legends), the 21-track score of League's first 2026 season (January 8 to April 29, 2026), released on April 13, 2026 near the end of Act II; the music was recorded with a brass ensemble on the Eastwood Scoring Stage under conductor Bill Hemstapat and a chamber choir in London. It is track 3 of the album.",
+      "coverUrl": null,
+      "spotifyUrl": "https://open.spotify.com/track/5Mk70M2aA5SCbbE6h0s5Mi",
+      "sources": [
+        {
+          "title": "Burden of Hope - League Of Legends - Topic (YouTube art track)",
+          "url": "https://www.youtube.com/watch?v=IEGCUJumMgc"
+        },
+        {
+          "title": "For Demacia - Season One 2026 | Original Soundtrack from League of Legends (YouTube)",
+          "url": "https://www.youtube.com/watch?v=aPf9EcHbWHE"
+        },
+        {
+          "title": "For Demacia - League of Legends Wiki",
+          "url": "https://wiki.leagueoflegends.com/en-us/For_Demacia"
+        }
+      ],
+      "confidence": "high",
+      "notes": "Album release date (topic release_date, Spotify and the official OST video all 2026-04-13). Some cues may have been heard earlier in the client (season lobby music, the Demacia Rising metagame from 2026-01-08), but no per-track debut could be verified."
+    },
+    {
+      "songId": "conquest",
+      "date": "2026-04-13",
+      "usedFor": "Season One 2026 (For Demacia) soundtrack",
+      "background": "Conquest is a piece by Bill Hemstapat from League of Legends' Season One 2026 soundtrack. It is part of For Demacia (Original Soundtrack from League of Legends), the 21-track score of League's first 2026 season (January 8 to April 29, 2026), released on April 13, 2026 near the end of Act II; the music was recorded with a brass ensemble on the Eastwood Scoring Stage under conductor Bill Hemstapat and a chamber choir in London. It is track 7 of the album.",
+      "coverUrl": null,
+      "spotifyUrl": "https://open.spotify.com/track/4RCR0MZdC2mDoD0NjaRoSs",
+      "sources": [
+        {
+          "title": "Conquest - League Of Legends - Topic (YouTube art track)",
+          "url": "https://www.youtube.com/watch?v=UQBzx_1sGg4"
+        },
+        {
+          "title": "For Demacia - Season One 2026 | Original Soundtrack from League of Legends (YouTube)",
+          "url": "https://www.youtube.com/watch?v=aPf9EcHbWHE"
+        },
+        {
+          "title": "For Demacia - League of Legends Wiki",
+          "url": "https://wiki.leagueoflegends.com/en-us/For_Demacia"
+        }
+      ],
+      "confidence": "high",
+      "notes": "Album release date (topic release_date, Spotify and the official OST video all 2026-04-13). Some cues may have been heard earlier in the client (season lobby music, the Demacia Rising metagame from 2026-01-08), but no per-track debut could be verified."
+    },
+    {
+      "songId": "demacia-rising-reprise",
+      "date": "2026-04-13",
+      "usedFor": "Season One 2026 (For Demacia) soundtrack",
+      "background": "Demacia Rising Reprise is a piece by Bill Hemstapat and Michael Barry from League of Legends' Season One 2026 soundtrack. It is part of For Demacia (Original Soundtrack from League of Legends), the 21-track score of League's first 2026 season (January 8 to April 29, 2026), released on April 13, 2026 near the end of Act II; the music was recorded with a brass ensemble on the Eastwood Scoring Stage under conductor Bill Hemstapat and a chamber choir in London. Its title revisits Demacia Rising, the Demacian theme first released in 2015 on The Music of League of Legends Vol. 1; Demacia Rising was also the name of the season's city-building metagame in the client.",
+      "coverUrl": null,
+      "spotifyUrl": "https://open.spotify.com/track/5T8HICjDq0nujQoCwLCJyb",
+      "sources": [
+        {
+          "title": "Demacia Rising Reprise - League Of Legends - Topic (YouTube art track)",
+          "url": "https://www.youtube.com/watch?v=B4RKxjABpwA"
+        },
+        {
+          "title": "For Demacia - Season One 2026 | Original Soundtrack from League of Legends (YouTube)",
+          "url": "https://www.youtube.com/watch?v=aPf9EcHbWHE"
+        },
+        {
+          "title": "For Demacia - League of Legends Wiki",
+          "url": "https://wiki.leagueoflegends.com/en-us/For_Demacia"
+        }
+      ],
+      "confidence": "high",
+      "notes": "Album release date (topic release_date, Spotify and the official OST video all 2026-04-13). Some cues may have been heard earlier in the client (season lobby music, the Demacia Rising metagame from 2026-01-08), but no per-track debut could be verified."
+    },
+    {
+      "songId": "demacian-heart",
+      "date": "2026-04-13",
+      "usedFor": "Season One 2026 (For Demacia) soundtrack",
+      "background": "Demacian Heart is a piece by Bill Hemstapat from League of Legends' Season One 2026 soundtrack. It is part of For Demacia (Original Soundtrack from League of Legends), the 21-track score of League's first 2026 season (January 8 to April 29, 2026), released on April 13, 2026 near the end of Act II; the music was recorded with a brass ensemble on the Eastwood Scoring Stage under conductor Bill Hemstapat and a chamber choir in London. It closes the album as track 21.",
+      "coverUrl": null,
+      "spotifyUrl": "https://open.spotify.com/track/0TRAmWdN4x8BAjRXwKHELZ",
+      "sources": [
+        {
+          "title": "Demacian Heart - League Of Legends - Topic (YouTube art track)",
+          "url": "https://www.youtube.com/watch?v=zq-zR8Pgnto"
+        },
+        {
+          "title": "For Demacia - Season One 2026 | Original Soundtrack from League of Legends (YouTube)",
+          "url": "https://www.youtube.com/watch?v=aPf9EcHbWHE"
+        },
+        {
+          "title": "For Demacia - League of Legends Wiki",
+          "url": "https://wiki.leagueoflegends.com/en-us/For_Demacia"
+        }
+      ],
+      "confidence": "high",
+      "notes": "Album release date (topic release_date, Spotify and the official OST video all 2026-04-13). Some cues may have been heard earlier in the client (season lobby music, the Demacia Rising metagame from 2026-01-08), but no per-track debut could be verified."
+    },
+    {
+      "songId": "farewell-to-the-seneschal",
+      "date": "2026-04-13",
+      "usedFor": "Season One 2026 (For Demacia) soundtrack",
+      "background": "Farewell to the Seneschal is a piece by Seth Tsui from League of Legends' Season One 2026 soundtrack. It is part of For Demacia (Original Soundtrack from League of Legends), the 21-track score of League's first 2026 season (January 8 to April 29, 2026), released on April 13, 2026 near the end of Act II; the music was recorded with a brass ensemble on the Eastwood Scoring Stage under conductor Bill Hemstapat and a chamber choir in London. The title refers to Xin Zhao, the Seneschal of Demacia, whose death and Demacian funeral are part of the season's story.",
+      "coverUrl": null,
+      "spotifyUrl": "https://open.spotify.com/track/6uyLuzYL24ANTF8tp0sC3z",
+      "sources": [
+        {
+          "title": "Farewell to the Seneschal - League Of Legends - Topic (YouTube art track)",
+          "url": "https://www.youtube.com/watch?v=6_ehnYKkufg"
+        },
+        {
+          "title": "For Demacia - Season One 2026 | Original Soundtrack from League of Legends (YouTube)",
+          "url": "https://www.youtube.com/watch?v=aPf9EcHbWHE"
+        },
+        {
+          "title": "For Demacia - League of Legends Wiki",
+          "url": "https://wiki.leagueoflegends.com/en-us/For_Demacia"
+        }
+      ],
+      "confidence": "high",
+      "notes": "Album release date (topic release_date, Spotify and the official OST video all 2026-04-13). Some cues may have been heard earlier in the client (season lobby music, the Demacia Rising metagame from 2026-01-08), but no per-track debut could be verified."
+    },
+    {
+      "songId": "for-demacia",
+      "date": "2026-04-13",
+      "usedFor": "Season One 2026 (For Demacia) soundtrack",
+      "background": "For Demacia! is a piece by J.D. Spears from League of Legends' Season One 2026 soundtrack. It is part of For Demacia (Original Soundtrack from League of Legends), the 21-track score of League's first 2026 season (January 8 to April 29, 2026), released on April 13, 2026 near the end of Act II; the music was recorded with a brass ensemble on the Eastwood Scoring Stage under conductor Bill Hemstapat and a chamber choir in London. The track shares its title with the season and with Demacia's famous battle cry.",
+      "coverUrl": null,
+      "spotifyUrl": "https://open.spotify.com/track/3cWWk9UiOnkTMXLtHIpygw",
+      "sources": [
+        {
+          "title": "For Demacia! - League Of Legends - Topic (YouTube art track)",
+          "url": "https://www.youtube.com/watch?v=hyxdbkWZpys"
+        },
+        {
+          "title": "For Demacia - Season One 2026 | Original Soundtrack from League of Legends (YouTube)",
+          "url": "https://www.youtube.com/watch?v=aPf9EcHbWHE"
+        },
+        {
+          "title": "For Demacia - League of Legends Wiki",
+          "url": "https://wiki.leagueoflegends.com/en-us/For_Demacia"
+        }
+      ],
+      "confidence": "high",
+      "notes": "Album release date (topic release_date, Spotify and the official OST video all 2026-04-13). Some cues may have been heard earlier in the client (season lobby music, the Demacia Rising metagame from 2026-01-08), but no per-track debut could be verified."
+    },
+    {
+      "songId": "for-the-fallen",
+      "date": "2026-04-13",
+      "usedFor": "Season One 2026 (For Demacia) soundtrack",
+      "background": "For the Fallen is a piece by veteran game composer Peter McConnell from League of Legends' Season One 2026 soundtrack. It is part of For Demacia (Original Soundtrack from League of Legends), the 21-track score of League's first 2026 season (January 8 to April 29, 2026), released on April 13, 2026 near the end of Act II; the music was recorded with a brass ensemble on the Eastwood Scoring Stage under conductor Bill Hemstapat and a chamber choir in London. It shares its title with For the Fallen, one of the season's motion comics (listed under Act I; on YouTube from April 15, 2026).",
+      "coverUrl": null,
+      "spotifyUrl": "https://open.spotify.com/track/6ILmMe98jaNBeG7u0Hmqk8",
+      "sources": [
+        {
+          "title": "For the Fallen - League Of Legends - Topic (YouTube art track)",
+          "url": "https://www.youtube.com/watch?v=gIy-tD_oUAk"
+        },
+        {
+          "title": "For Demacia - Season One 2026 | Original Soundtrack from League of Legends (YouTube)",
+          "url": "https://www.youtube.com/watch?v=aPf9EcHbWHE"
+        },
+        {
+          "title": "For Demacia: For the Fallen | Motion Comic - League of Legends (YouTube, 2026-04-15)",
+          "url": "https://www.youtube.com/watch?v=XdH00TCaDJI"
+        }
+      ],
+      "confidence": "medium",
+      "notes": "Album release date (topic release_date, Spotify and the official OST video all 2026-04-13). Some cues may have been heard earlier in the client (season lobby music, the Demacia Rising metagame from 2026-01-08), but no per-track debut could be verified. The LoL wiki lists this motion comic under the season's acts, so its score may have debuted in the client before the album; the YouTube upload (2026-04-15) is two days after the album."
+    },
+    {
+      "songId": "from-greatness",
+      "date": "2026-04-13",
+      "usedFor": "Season One 2026 (For Demacia) soundtrack",
+      "background": "From Greatness is a piece by J.D. Spears from League of Legends' Season One 2026 soundtrack. It is part of For Demacia (Original Soundtrack from League of Legends), the 21-track score of League's first 2026 season (January 8 to April 29, 2026), released on April 13, 2026 near the end of Act II; the music was recorded with a brass ensemble on the Eastwood Scoring Stage under conductor Bill Hemstapat and a chamber choir in London. It follows the season cinematic song Salvation as track 2 of the album.",
+      "coverUrl": null,
+      "spotifyUrl": "https://open.spotify.com/track/1ExXLWoXBxDkZiQKqKXJXp",
+      "sources": [
+        {
+          "title": "From Greatness - League Of Legends - Topic (YouTube art track)",
+          "url": "https://www.youtube.com/watch?v=4p_q2ww5Cno"
+        },
+        {
+          "title": "For Demacia - Season One 2026 | Original Soundtrack from League of Legends (YouTube)",
+          "url": "https://www.youtube.com/watch?v=aPf9EcHbWHE"
+        },
+        {
+          "title": "For Demacia - League of Legends Wiki",
+          "url": "https://wiki.leagueoflegends.com/en-us/For_Demacia"
+        }
+      ],
+      "confidence": "high",
+      "notes": "Album release date (topic release_date, Spotify and the official OST video all 2026-04-13). Some cues may have been heard earlier in the client (season lobby music, the Demacia Rising metagame from 2026-01-08), but no per-track debut could be verified."
+    },
+    {
+      "songId": "halls-of-high-silvermere",
+      "date": "2026-04-13",
+      "usedFor": "Season One 2026 (For Demacia) soundtrack",
+      "background": "Halls of High Silvermere is a piece by Bill Hemstapat and J.D. Spears from League of Legends' Season One 2026 soundtrack. It is part of For Demacia (Original Soundtrack from League of Legends), the 21-track score of League's first 2026 season (January 8 to April 29, 2026), released on April 13, 2026 near the end of Act II; the music was recorded with a brass ensemble on the Eastwood Scoring Stage under conductor Bill Hemstapat and a chamber choir in London. It is track 9 of the album.",
+      "coverUrl": null,
+      "spotifyUrl": "https://open.spotify.com/track/0CmhmqmST4RtJOVsTDUE9I",
+      "sources": [
+        {
+          "title": "Halls of High Silvermere - League Of Legends - Topic (YouTube art track)",
+          "url": "https://www.youtube.com/watch?v=g5Nj_JfVO48"
+        },
+        {
+          "title": "For Demacia - Season One 2026 | Original Soundtrack from League of Legends (YouTube)",
+          "url": "https://www.youtube.com/watch?v=aPf9EcHbWHE"
+        },
+        {
+          "title": "For Demacia - League of Legends Wiki",
+          "url": "https://wiki.leagueoflegends.com/en-us/For_Demacia"
+        }
+      ],
+      "confidence": "high",
+      "notes": "Album release date (topic release_date, Spotify and the official OST video all 2026-04-13). Some cues may have been heard earlier in the client (season lobby music, the Demacia Rising metagame from 2026-01-08), but no per-track debut could be verified."
+    },
+    {
+      "songId": "historys-course",
+      "date": "2026-04-13",
+      "usedFor": "Season One 2026 (For Demacia) soundtrack",
+      "background": "History's Course is a piece by Bill Hemstapat from League of Legends' Season One 2026 soundtrack. It is part of For Demacia (Original Soundtrack from League of Legends), the 21-track score of League's first 2026 season (January 8 to April 29, 2026), released on April 13, 2026 near the end of Act II; the music was recorded with a brass ensemble on the Eastwood Scoring Stage under conductor Bill Hemstapat and a chamber choir in London. It is track 6 of the album.",
+      "coverUrl": null,
+      "spotifyUrl": "https://open.spotify.com/track/7Ig2WdjSc7aKKCkYcwmXWG",
+      "sources": [
+        {
+          "title": "History's Course - League Of Legends - Topic (YouTube art track)",
+          "url": "https://www.youtube.com/watch?v=GBqrcX_BEW4"
+        },
+        {
+          "title": "For Demacia - Season One 2026 | Original Soundtrack from League of Legends (YouTube)",
+          "url": "https://www.youtube.com/watch?v=aPf9EcHbWHE"
+        },
+        {
+          "title": "For Demacia - League of Legends Wiki",
+          "url": "https://wiki.leagueoflegends.com/en-us/For_Demacia"
+        }
+      ],
+      "confidence": "high",
+      "notes": "Album release date (topic release_date, Spotify and the official OST video all 2026-04-13). Some cues may have been heard earlier in the client (season lobby music, the Demacia Rising metagame from 2026-01-08), but no per-track debut could be verified."
+    },
+    {
+      "songId": "in-requiem",
+      "date": "2026-04-13",
+      "usedFor": "Season One 2026 (For Demacia) soundtrack",
+      "background": "In Requiem is a piece by Seth Tsui from League of Legends' Season One 2026 soundtrack. It is part of For Demacia (Original Soundtrack from League of Legends), the 21-track score of League's first 2026 season (January 8 to April 29, 2026), released on April 13, 2026 near the end of Act II; the music was recorded with a brass ensemble on the Eastwood Scoring Stage under conductor Bill Hemstapat and a chamber choir in London. Its title echoes Requiem, one of the season's motion comics (listed under Act II; on YouTube from April 15, 2026).",
+      "coverUrl": null,
+      "spotifyUrl": "https://open.spotify.com/track/3broPC7JN33gYIgoDihimG",
+      "sources": [
+        {
+          "title": "In Requiem - League Of Legends - Topic (YouTube art track)",
+          "url": "https://www.youtube.com/watch?v=tUS2grGxWco"
+        },
+        {
+          "title": "For Demacia - Season One 2026 | Original Soundtrack from League of Legends (YouTube)",
+          "url": "https://www.youtube.com/watch?v=aPf9EcHbWHE"
+        },
+        {
+          "title": "For Demacia: Requiem | Motion Comic - League of Legends (YouTube, 2026-04-15)",
+          "url": "https://www.youtube.com/watch?v=3S9e-OrkaIQ"
+        }
+      ],
+      "confidence": "medium",
+      "notes": "Album release date (topic release_date, Spotify and the official OST video all 2026-04-13). Some cues may have been heard earlier in the client (season lobby music, the Demacia Rising metagame from 2026-01-08), but no per-track debut could be verified. The LoL wiki lists this motion comic under the season's acts, so its score may have debuted in the client before the album; the YouTube upload (2026-04-15) is two days after the album."
+    },
+    {
+      "songId": "spearhead",
+      "date": "2026-04-13",
+      "usedFor": "Season One 2026 (For Demacia) soundtrack",
+      "background": "Spearhead is a piece by Minyang \"Merlin\" Cen from League of Legends' Season One 2026 soundtrack. It is part of For Demacia (Original Soundtrack from League of Legends), the 21-track score of League's first 2026 season (January 8 to April 29, 2026), released on April 13, 2026 near the end of Act II; the music was recorded with a brass ensemble on the Eastwood Scoring Stage under conductor Bill Hemstapat and a chamber choir in London. It shares its title with Spearhead, one of the season's motion comics (listed under Act I; on YouTube from April 15, 2026).",
+      "coverUrl": null,
+      "spotifyUrl": "https://open.spotify.com/track/0tow9DqB4UoTuorDmmkUue",
+      "sources": [
+        {
+          "title": "Spearhead - League Of Legends - Topic (YouTube art track)",
+          "url": "https://www.youtube.com/watch?v=lb_EMZYiBa4"
+        },
+        {
+          "title": "For Demacia - Season One 2026 | Original Soundtrack from League of Legends (YouTube)",
+          "url": "https://www.youtube.com/watch?v=aPf9EcHbWHE"
+        },
+        {
+          "title": "For Demacia: Spearhead | Motion Comic - League of Legends (YouTube, 2026-04-15)",
+          "url": "https://www.youtube.com/watch?v=0YmxvsgMSdE"
+        }
+      ],
+      "confidence": "medium",
+      "notes": "Album release date (topic release_date, Spotify and the official OST video all 2026-04-13). Some cues may have been heard earlier in the client (season lobby music, the Demacia Rising metagame from 2026-01-08), but no per-track debut could be verified. The LoL wiki lists this motion comic under the season's acts, so its score may have debuted in the client before the album; the YouTube upload (2026-04-15) is two days after the album."
+    },
+    {
+      "songId": "the-last-flight-of-aegis",
+      "date": "2026-04-13",
+      "usedFor": "Season One 2026 (For Demacia) soundtrack",
+      "background": "The Last Flight of Aegis is a piece by J.D. Spears and Michael Barry from League of Legends' Season One 2026 soundtrack. It is part of For Demacia (Original Soundtrack from League of Legends), the 21-track score of League's first 2026 season (January 8 to April 29, 2026), released on April 13, 2026 near the end of Act II; the music was recorded with a brass ensemble on the Eastwood Scoring Stage under conductor Bill Hemstapat and a chamber choir in London. It is track 17 of the album.",
+      "coverUrl": null,
+      "spotifyUrl": "https://open.spotify.com/track/6RvNHhgx1m78oq7naJdWUs",
+      "sources": [
+        {
+          "title": "The Last Flight of Aegis - League Of Legends - Topic (YouTube art track)",
+          "url": "https://www.youtube.com/watch?v=XEsdk_eXBsk"
+        },
+        {
+          "title": "For Demacia - Season One 2026 | Original Soundtrack from League of Legends (YouTube)",
+          "url": "https://www.youtube.com/watch?v=aPf9EcHbWHE"
+        },
+        {
+          "title": "For Demacia - League of Legends Wiki",
+          "url": "https://wiki.leagueoflegends.com/en-us/For_Demacia"
+        }
+      ],
+      "confidence": "high",
+      "notes": "Album release date (topic release_date, Spotify and the official OST video all 2026-04-13). Some cues may have been heard earlier in the client (season lobby music, the Demacia Rising metagame from 2026-01-08), but no per-track debut could be verified."
+    },
+    {
+      "songId": "the-vanguards-march",
+      "date": "2026-04-13",
+      "usedFor": "Season One 2026 (For Demacia) soundtrack",
+      "background": "The Vanguard's March is a piece by Bill Hemstapat from League of Legends' Season One 2026 soundtrack. It is part of For Demacia (Original Soundtrack from League of Legends), the 21-track score of League's first 2026 season (January 8 to April 29, 2026), released on April 13, 2026 near the end of Act II; the music was recorded with a brass ensemble on the Eastwood Scoring Stage under conductor Bill Hemstapat and a chamber choir in London. It is track 8 of the album.",
+      "coverUrl": null,
+      "spotifyUrl": "https://open.spotify.com/track/0Pn6MxPBv6mzs7NTWn2BA9",
+      "sources": [
+        {
+          "title": "The Vanguard's March - League Of Legends - Topic (YouTube art track)",
+          "url": "https://www.youtube.com/watch?v=GYE_A-YWgPY"
+        },
+        {
+          "title": "For Demacia - Season One 2026 | Original Soundtrack from League of Legends (YouTube)",
+          "url": "https://www.youtube.com/watch?v=aPf9EcHbWHE"
+        },
+        {
+          "title": "For Demacia - League of Legends Wiki",
+          "url": "https://wiki.leagueoflegends.com/en-us/For_Demacia"
+        }
+      ],
+      "confidence": "high",
+      "notes": "Album release date (topic release_date, Spotify and the official OST video all 2026-04-13). Some cues may have been heard earlier in the client (season lobby music, the Demacia Rising metagame from 2026-01-08), but no per-track debut could be verified."
+    },
+    {
+      "songId": "wall-of-stone",
+      "date": "2026-04-13",
+      "usedFor": "Season One 2026 (For Demacia) soundtrack",
+      "background": "Wall of Stone is a piece by J.D. Spears from League of Legends' Season One 2026 soundtrack. It is part of For Demacia (Original Soundtrack from League of Legends), the 21-track score of League's first 2026 season (January 8 to April 29, 2026), released on April 13, 2026 near the end of Act II; the music was recorded with a brass ensemble on the Eastwood Scoring Stage under conductor Bill Hemstapat and a chamber choir in London. It is track 4 of the album.",
+      "coverUrl": null,
+      "spotifyUrl": "https://open.spotify.com/track/6erp9cqHDEbfDXuuCiI10H",
+      "sources": [
+        {
+          "title": "Wall of Stone - League Of Legends - Topic (YouTube art track)",
+          "url": "https://www.youtube.com/watch?v=Dr9JYiisYqw"
+        },
+        {
+          "title": "For Demacia - Season One 2026 | Original Soundtrack from League of Legends (YouTube)",
+          "url": "https://www.youtube.com/watch?v=aPf9EcHbWHE"
+        },
+        {
+          "title": "For Demacia - League of Legends Wiki",
+          "url": "https://wiki.leagueoflegends.com/en-us/For_Demacia"
+        }
+      ],
+      "confidence": "high",
+      "notes": "Album release date (topic release_date, Spotify and the official OST video all 2026-04-13). Some cues may have been heard earlier in the client (season lobby music, the Demacia Rising metagame from 2026-01-08), but no per-track debut could be verified."
+    },
+    {
+      "songId": "war-table-tune",
+      "date": "2026-04-13",
+      "usedFor": "Season One 2026 (For Demacia) soundtrack",
+      "background": "War Table Tune is a piece by Bill Hemstapat from League of Legends' Season One 2026 soundtrack. It is part of For Demacia (Original Soundtrack from League of Legends), the 21-track score of League's first 2026 season (January 8 to April 29, 2026), released on April 13, 2026 near the end of Act II; the music was recorded with a brass ensemble on the Eastwood Scoring Stage under conductor Bill Hemstapat and a chamber choir in London. It is track 10 of the album.",
+      "coverUrl": null,
+      "spotifyUrl": "https://open.spotify.com/track/6yvH8HPMMtczHeqy665M0v",
+      "sources": [
+        {
+          "title": "War Table Tune - League Of Legends - Topic (YouTube art track)",
+          "url": "https://www.youtube.com/watch?v=NGDpBf_g8D8"
+        },
+        {
+          "title": "For Demacia - Season One 2026 | Original Soundtrack from League of Legends (YouTube)",
+          "url": "https://www.youtube.com/watch?v=aPf9EcHbWHE"
+        },
+        {
+          "title": "For Demacia - League of Legends Wiki",
+          "url": "https://wiki.leagueoflegends.com/en-us/For_Demacia"
+        }
+      ],
+      "confidence": "high",
+      "notes": "Album release date (topic release_date, Spotify and the official OST video all 2026-04-13). Some cues may have been heard earlier in the client (season lobby music, the Demacia Rising metagame from 2026-01-08), but no per-track debut could be verified."
+    },
+    {
+      "songId": "zeffiras-last-stand",
+      "date": "2026-04-13",
+      "usedFor": "Season One 2026 (For Demacia) soundtrack",
+      "background": "Zeffira's Last Stand is a piece by Bill Hemstapat from League of Legends' Season One 2026 soundtrack. It is part of For Demacia (Original Soundtrack from League of Legends), the 21-track score of League's first 2026 season (January 8 to April 29, 2026), released on April 13, 2026 near the end of Act II; the music was recorded with a brass ensemble on the Eastwood Scoring Stage under conductor Bill Hemstapat and a chamber choir in London. Zeffira is Demacia's ancient former capital and the player's home settlement in the season's Demacia Rising client metagame.",
+      "coverUrl": null,
+      "spotifyUrl": "https://open.spotify.com/track/2REfpt7dQxtHPkIRUtmEfv",
+      "sources": [
+        {
+          "title": "Zeffira's Last Stand - League Of Legends - Topic (YouTube art track)",
+          "url": "https://www.youtube.com/watch?v=5xyhlqhzyYU"
+        },
+        {
+          "title": "For Demacia - Season One 2026 | Original Soundtrack from League of Legends (YouTube)",
+          "url": "https://www.youtube.com/watch?v=aPf9EcHbWHE"
+        },
+        {
+          "title": "For Demacia - League of Legends Wiki",
+          "url": "https://wiki.leagueoflegends.com/en-us/For_Demacia"
+        }
+      ],
+      "confidence": "high",
+      "notes": "Album release date (topic release_date, Spotify and the official OST video all 2026-04-13). Some cues may have been heard earlier in the client (season lobby music, the Demacia Rising metagame from 2026-01-08), but no per-track debut could be verified."
+    },
+    {
+      "songId": "locke-the-ashen-exorcist",
+      "date": "2026-06-26",
+      "usedFor": "Locke champion theme",
+      "background": "Locke, the Ashen Exorcist is the champion theme of Locke, the demon hunter who reached the Rift on June 24, 2026 as the new champion of the Pandemonium season's second act. It was made by the studio Pressure Cooker, composed by Elben Schutte with vocals by Asandisa Siswana and Zolina Ngejana, and released as a video on June 26, 2026 before appearing on the Pandemonium soundtrack.",
+      "coverUrl": null,
+      "spotifyUrl": "https://open.spotify.com/track/5p9edZKcZ8XZklaajAtSko",
+      "sources": [
+        {
+          "title": "Locke, the Ashen Exorcist | Champion Theme - League of Legends (YouTube)",
+          "url": "https://www.youtube.com/watch?v=nakzw9Y_CLI"
+        },
+        {
+          "title": "Pandemonium (Original Soundtrack from League of Legends) - Spotify",
+          "url": "https://open.spotify.com/album/78RpNOe76RHMhCRZbJS68n"
+        },
+        {
+          "title": "Pandemonium - League of Legends Wiki",
+          "url": "https://wiki.leagueoflegends.com/en-us/Pandemonium"
+        }
+      ],
+      "confidence": "high"
+    },
+    {
+      "songId": "black-magic",
+      "date": "2026-07-29",
+      "usedFor": "Season Two 2026 (Pandemonium) soundtrack",
+      "background": "Black Magic is a track by Sterling Maffe from League of Legends' Season Two 2026 soundtrack. It is part of Pandemonium (Original Soundtrack from League of Legends), the nine-track score of League's second 2026 season (April 29 to July 22, 2026), themed around demons on the outskirts of Demacia; the album came out on July 29, 2026, a week after the season ended.",
+      "coverUrl": null,
+      "spotifyUrl": "https://open.spotify.com/track/09bjdTUVB3h6ACDxM5XBCd",
+      "sources": [
+        {
+          "title": "Black Magic - League Of Legends - Topic (YouTube art track)",
+          "url": "https://www.youtube.com/watch?v=lZldrZrsXAU"
+        },
+        {
+          "title": "Pandemonium (Original Soundtrack from League of Legends) - Spotify",
+          "url": "https://open.spotify.com/album/78RpNOe76RHMhCRZbJS68n"
+        },
+        {
+          "title": "Pandemonium - League of Legends Wiki",
+          "url": "https://wiki.leagueoflegends.com/en-us/Pandemonium"
+        }
+      ],
+      "confidence": "high",
+      "notes": "Album release date (topic release_date and Spotify 2026-07-29). The track may have been heard earlier in the client (the wiki lists lobby music for both acts) or in trailers, but no per-track debut could be verified."
+    },
+    {
+      "songId": "final-hour",
+      "date": "2026-07-29",
+      "usedFor": "Season Two 2026 (Pandemonium) soundtrack",
+      "background": "Final Hour is a track by Sterling Maffe from League of Legends' Season Two 2026 soundtrack. It is part of Pandemonium (Original Soundtrack from League of Legends), the nine-track score of League's second 2026 season (April 29 to July 22, 2026), themed around demons on the outskirts of Demacia; the album came out on July 29, 2026, a week after the season ended.",
+      "coverUrl": null,
+      "spotifyUrl": "https://open.spotify.com/track/5N1bYd0wXq8v1050kGz9Ag",
+      "sources": [
+        {
+          "title": "Final Hour - League Of Legends - Topic (YouTube art track)",
+          "url": "https://www.youtube.com/watch?v=_IuGwHRJ0fQ"
+        },
+        {
+          "title": "Pandemonium (Original Soundtrack from League of Legends) - Spotify",
+          "url": "https://open.spotify.com/album/78RpNOe76RHMhCRZbJS68n"
+        },
+        {
+          "title": "Pandemonium - League of Legends Wiki",
+          "url": "https://wiki.leagueoflegends.com/en-us/Pandemonium"
+        }
+      ],
+      "confidence": "high",
+      "notes": "Album release date (topic release_date and Spotify 2026-07-29). The track may have been heard earlier in the client (the wiki lists lobby music for both acts) or in trailers, but no per-track debut could be verified."
+    },
+    {
+      "songId": "from-dust-to-dust",
+      "date": "2026-07-29",
+      "usedFor": "Season Two 2026 (Pandemonium) soundtrack",
+      "background": "From Dust to Dust is a track by Pressure Cooker (composer Elben Schutte) from League of Legends' Season Two 2026 soundtrack. It is part of Pandemonium (Original Soundtrack from League of Legends), the nine-track score of League's second 2026 season (April 29 to July 22, 2026), themed around demons on the outskirts of Demacia; the album came out on July 29, 2026, a week after the season ended. Pressure Cooker also scored the season's Act I gameplay trailer and Locke's cinematic Back from the Brink.",
+      "coverUrl": null,
+      "spotifyUrl": "https://open.spotify.com/track/3srruaUaOJq4Lshr28JJ7I",
+      "sources": [
+        {
+          "title": "From Dust to Dust - League Of Legends - Topic (YouTube art track)",
+          "url": "https://www.youtube.com/watch?v=2UBzJZIDHB8"
+        },
+        {
+          "title": "Pandemonium (Original Soundtrack from League of Legends) - Spotify",
+          "url": "https://open.spotify.com/album/78RpNOe76RHMhCRZbJS68n"
+        },
+        {
+          "title": "Pandemonium - League of Legends Wiki",
+          "url": "https://wiki.leagueoflegends.com/en-us/Pandemonium"
+        }
+      ],
+      "confidence": "high",
+      "notes": "Album release date (topic release_date and Spotify 2026-07-29). The track may have been heard earlier in the client (the wiki lists lobby music for both acts) or in trailers, but no per-track debut could be verified. The Act I gameplay trailer (2026-04-15, music by Pressure Cooker/Elben Schutte) may use one of the Pressure Cooker tracks; not matched."
+    },
+    {
+      "songId": "no-salvation-for-the-prey",
+      "date": "2026-07-29",
+      "usedFor": "Season Two 2026 (Pandemonium) soundtrack",
+      "background": "No Salvation for the Prey is a track by Sterling Maffe from League of Legends' Season Two 2026 soundtrack. It is part of Pandemonium (Original Soundtrack from League of Legends), the nine-track score of League's second 2026 season (April 29 to July 22, 2026), themed around demons on the outskirts of Demacia; the album came out on July 29, 2026, a week after the season ended.",
+      "coverUrl": null,
+      "spotifyUrl": "https://open.spotify.com/track/5knL9KZJgAbgL8yaNmUVfC",
+      "sources": [
+        {
+          "title": "No Salvation for the Prey - League Of Legends - Topic (YouTube art track)",
+          "url": "https://www.youtube.com/watch?v=0xFNWhIPDqw"
+        },
+        {
+          "title": "Pandemonium (Original Soundtrack from League of Legends) - Spotify",
+          "url": "https://open.spotify.com/album/78RpNOe76RHMhCRZbJS68n"
+        },
+        {
+          "title": "Pandemonium - League of Legends Wiki",
+          "url": "https://wiki.leagueoflegends.com/en-us/Pandemonium"
+        }
+      ],
+      "confidence": "high",
+      "notes": "Album release date (topic release_date and Spotify 2026-07-29). The track may have been heard earlier in the client (the wiki lists lobby music for both acts) or in trailers, but no per-track debut could be verified."
+    },
+    {
+      "songId": "way-past-forgiveness",
+      "date": "2026-07-29",
+      "usedFor": "Season Two 2026 (Pandemonium) soundtrack",
+      "background": "Way Past Forgiveness is a track by Pressure Cooker (composer Elben Schutte) from League of Legends' Season Two 2026 soundtrack. It is part of Pandemonium (Original Soundtrack from League of Legends), the nine-track score of League's second 2026 season (April 29 to July 22, 2026), themed around demons on the outskirts of Demacia; the album came out on July 29, 2026, a week after the season ended. Pressure Cooker also scored the season's Act I gameplay trailer and Locke's cinematic Back from the Brink.",
+      "coverUrl": null,
+      "spotifyUrl": "https://open.spotify.com/track/367zlWAimJVreVaGbPXTXz",
+      "sources": [
+        {
+          "title": "Way Past Forgiveness - League Of Legends - Topic (YouTube art track)",
+          "url": "https://www.youtube.com/watch?v=UagU9R0iRzc"
+        },
+        {
+          "title": "Pandemonium (Original Soundtrack from League of Legends) - Spotify",
+          "url": "https://open.spotify.com/album/78RpNOe76RHMhCRZbJS68n"
+        },
+        {
+          "title": "Pandemonium - League of Legends Wiki",
+          "url": "https://wiki.leagueoflegends.com/en-us/Pandemonium"
+        }
+      ],
+      "confidence": "high",
+      "notes": "Album release date (topic release_date and Spotify 2026-07-29). The track may have been heard earlier in the client (the wiki lists lobby music for both acts) or in trailers, but no per-track debut could be verified. The Act I gameplay trailer (2026-04-15, music by Pressure Cooker/Elben Schutte) may use one of the Pressure Cooker tracks; not matched."
+    },
+    {
+      "songId": "what-we-face",
+      "date": "2026-06-25",
+      "usedFor": "Pandemonium motion comic: What We Face",
+      "background": "What We Face is Minyang \"Merlin\" Cen's score for What We Face, the motion comic of the Pandemonium season's second act, published on June 25, 2026. It is part of Pandemonium (Original Soundtrack from League of Legends), the nine-track score of League's second 2026 season (April 29 to July 22, 2026), themed around demons on the outskirts of Demacia; the album came out on July 29, 2026, a week after the season ended.",
+      "coverUrl": null,
+      "spotifyUrl": "https://open.spotify.com/track/4gtUL3ghRyZPJuBWgOpzw1",
+      "sources": [
+        {
+          "title": "Pandemonium: What We Face | Motion Comic - League of Legends (YouTube, 2026-06-25)",
+          "url": "https://www.youtube.com/watch?v=eIgrvU9BcOE"
+        },
+        {
+          "title": "What We Face - League Of Legends - Topic (YouTube art track)",
+          "url": "https://www.youtube.com/watch?v=y0qMUhI0RwY"
+        },
+        {
+          "title": "Pandemonium - League of Legends Wiki",
+          "url": "https://wiki.leagueoflegends.com/en-us/Pandemonium"
+        }
+      ],
+      "confidence": "medium",
+      "notes": "Date is the motion comic upload (its score is the matching Topic track per the video classification); the album track followed on 2026-07-29."
+    },
+    {
+      "songId": "what-we-fear",
+      "date": "2026-05-06",
+      "usedFor": "Pandemonium motion comic: What We Fear",
+      "background": "What We Fear is Minyang \"Merlin\" Cen's score for What We Fear, the motion comic of the Pandemonium season's first act, published on May 6, 2026. It is part of Pandemonium (Original Soundtrack from League of Legends), the nine-track score of League's second 2026 season (April 29 to July 22, 2026), themed around demons on the outskirts of Demacia; the album came out on July 29, 2026, a week after the season ended. It opens the album.",
+      "coverUrl": null,
+      "spotifyUrl": "https://open.spotify.com/track/6pAhDJi2utbjt7OVazIpr7",
+      "sources": [
+        {
+          "title": "Pandemonium: What We Fear | Motion Comic - League of Legends (YouTube, 2026-05-06)",
+          "url": "https://www.youtube.com/watch?v=REiS2F2zCOc"
+        },
+        {
+          "title": "What We Fear - League Of Legends - Topic (YouTube art track)",
+          "url": "https://www.youtube.com/watch?v=kjP7UpgtJ2Y"
+        },
+        {
+          "title": "Pandemonium - League of Legends Wiki",
+          "url": "https://wiki.leagueoflegends.com/en-us/Pandemonium"
+        }
+      ],
+      "confidence": "medium",
+      "notes": "Date is the motion comic upload (its score is the matching Topic track per the video classification); the album track followed on 2026-07-29."
+    }
+  ]
+}

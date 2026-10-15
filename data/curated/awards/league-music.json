@@ -1,0 +1,957 @@
+{
+  "domain": "league-music",
+  "awards": [
+    {
+      "id": "lol-2014-itunes-metal-no1-smite-and-ignite",
+      "year": 2014,
+      "ceremony": "iTunes Metal Albums chart (June 2014)",
+      "organization": "Apple iTunes",
+      "award": "No. 1 - iTunes Metal chart",
+      "result": "won",
+      "recipient": "Pentakill - Smite and Ignite",
+      "project": "Pentakill",
+      "game": "league-of-legends",
+      "musicRelated": true,
+      "songTitle": null,
+      "sourceUrls": [
+        "https://www.engadget.com/2014-06-04-league-of-legends-takes-the-top-spot-in-itunes-metal-albums.html"
+      ],
+      "notes": "The virtual metal band's debut album reached the top of the iTunes metal chart days after release.",
+      "verified": true
+    },
+    {
+      "id": "lol-2014-telly-bronze-worlds-2013-broadcast",
+      "year": 2014,
+      "ceremony": "35th Annual Telly Awards",
+      "organization": "The Telly Awards",
+      "award": "Bronze - Internet/Online Video: Live Events",
+      "result": "won",
+      "recipient": "League of Legends: 2013 World Final Broadcast (Riot Games)",
+      "project": "Worlds 2013",
+      "game": "league-of-legends",
+      "musicRelated": false,
+      "songTitle": null,
+      "sourceUrls": [
+        "https://www.tellyawards.com/winners/2014/online-video/internetonline-video-live-events/league-of-legends-2013-world-final-braodcast/78983"
+      ],
+      "notes": "Bronze Telly for the live stream of the Season 3 World Final.",
+      "verified": true
+    },
+    {
+      "id": "lol-2015-telly-bronze-warriors",
+      "year": 2015,
+      "ceremony": "36th Annual Telly Awards",
+      "organization": "The Telly Awards",
+      "award": "Bronze - Online Webisodes, Segments or Promotional Pieces: Music Video/Concert",
+      "result": "won",
+      "recipient": "Warriors - 2014 World Championship (Imagine Dragons) - Riot Games",
+      "project": "Worlds 2014",
+      "game": "league-of-legends",
+      "musicRelated": true,
+      "songTitle": "Warriors",
+      "sourceUrls": [
+        "https://www.tellyawards.com/winners/2015/online-video/online-webisodes-segments-or-promotional-pieces-music-videoconcert/warriors-2014-world-championship-imagine-dragon/131248"
+      ],
+      "notes": "Music video award for Imagine Dragons' \"Warriors\", the first song written as a Worlds anthem.",
+      "verified": true
+    },
+    {
+      "id": "lol-2015-telly-bronze-worlds-2014-final-live",
+      "year": 2015,
+      "ceremony": "36th Annual Telly Awards",
+      "organization": "The Telly Awards",
+      "award": "Bronze - Online Video: Live Events",
+      "result": "won",
+      "recipient": "League of Legends World Final - Live (Riot Games)",
+      "project": "Worlds 2014",
+      "game": "league-of-legends",
+      "musicRelated": false,
+      "songTitle": null,
+      "sourceUrls": [
+        "https://www.tellyawards.com/winners/2015/online-video/online-video-live-events/league-of-legends-world-final-live/135083"
+      ],
+      "notes": "Bronze Telly for the live broadcast of the Worlds 2014 final.",
+      "verified": true
+    },
+    {
+      "id": "lol-2015-webby-peoples-voice-worlds-2014-broadcast",
+      "year": 2015,
+      "ceremony": "19th Annual Webby Awards",
+      "organization": "The Webby Awards (IADAS)",
+      "award": "People's Voice - Online Film & Video: Events & Live Streams",
+      "result": "won",
+      "recipient": "The 2014 League of Legends World Championship Broadcast from Seoul, Korea (Riot Games)",
+      "project": "Worlds 2014",
+      "game": "league-of-legends",
+      "musicRelated": false,
+      "songTitle": null,
+      "sourceUrls": [
+        "https://winners.webbyawards.com/2015/online-film-video/general-video-film/events-live-streams/159083/the-2014-league-of-legends-world-championship-broadcast-from-seoul-korea"
+      ],
+      "notes": "Fan-voted People's Voice award for the Worlds 2014 broadcast; it was also a Webby nominee in the category.",
+      "verified": true
+    },
+    {
+      "id": "lol-2017-itunes-metal-no1-grasp-of-the-undying",
+      "year": 2017,
+      "ceremony": "US iTunes Metal chart (August 2017)",
+      "organization": "Apple iTunes",
+      "award": "No. 1 - iTunes Metal chart",
+      "result": "won",
+      "recipient": "Pentakill - II: Grasp of the Undying",
+      "project": "Pentakill",
+      "game": "league-of-legends",
+      "musicRelated": true,
+      "songTitle": null,
+      "sourceUrls": [
+        "https://musicfeeds.com.au/news/fictional-band-topped-itunes-metal-charts/",
+        "https://www.theguardian.com/music/shortcuts/2017/aug/06/pentakill-how-a-metal-band-that-doesnt-exist-made-it-to-no-1"
+      ],
+      "notes": "Pentakill's second album hit No. 1 on the US iTunes metal chart on release.",
+      "verified": true
+    },
+    {
+      "id": "lol-2017-clio-sports-bronze-worlds-2016-final",
+      "year": 2017,
+      "ceremony": "Clio Sports 2017",
+      "organization": "Clio Awards",
+      "award": "Bronze - Events/Experiential",
+      "result": "won",
+      "recipient": "2016 League of Legends World Championship Final - Troika for Riot Games",
+      "project": "Worlds 2016",
+      "game": "league-of-legends",
+      "musicRelated": false,
+      "songTitle": null,
+      "sourceUrls": [
+        "https://clios.com/winners-gallery/details/52814"
+      ],
+      "notes": "Bronze Clio in the events/experiential medium for the Worlds 2016 final, entered by agency Troika for Riot Games.",
+      "verified": true
+    },
+    {
+      "id": "lol-2018-billboard-world-digital-no1-popstars",
+      "year": 2018,
+      "ceremony": "Billboard World Digital Song Sales chart (dated November 17, 2018)",
+      "organization": "Billboard",
+      "award": "No. 1 - World Digital Song Sales",
+      "result": "won",
+      "recipient": "K/DA - \"POP/STARS\" (with Madison Beer, (G)I-DLE and Jaira Burns)",
+      "project": "K/DA",
+      "game": "league-of-legends",
+      "musicRelated": true,
+      "songTitle": "POP/STARS",
+      "sourceUrls": [
+        "https://www.billboard.com/pro/kda-pop-stars-madison-beer-gidle-jaira-burns-no-1-world-digital-songs-league-of-legends/",
+        "https://dotesports.com/news/k-das-pop-stars-reaches-no-1-on-billboards-world-digital-song-sales-chart"
+      ],
+      "notes": "Debuted at No. 1 on 9,000 US downloads, making K/DA only the fourth K-pop girl group to top the chart.",
+      "verified": true
+    },
+    {
+      "id": "lol-2018-sports-emmy-live-graphic-design-worlds-2017",
+      "year": 2018,
+      "ceremony": "39th Sports Emmy Awards",
+      "organization": "National Academy of Television Arts and Sciences (NATAS)",
+      "award": "Outstanding Live Graphic Design",
+      "result": "won",
+      "recipient": "League of Legends (YouTube) [Riot Games] - 2017 World Championship broadcast",
+      "project": "Worlds 2017",
+      "game": "league-of-legends",
+      "musicRelated": false,
+      "songTitle": null,
+      "sourceUrls": [
+        "https://programminginsider.com/39th-annual-sports-emmy-award-winners-announced/",
+        "https://www.invenglobal.com/articles/4973/riot-games-won-a-sports-emmy-for-outstanding-live-graphic-design",
+        "https://www.gamespress.com/en-US/Worlds-2023-Wins-Sports-Emmy-for-Outstanding-Esports-Championship-Cove",
+        "https://en.wikipedia.org/wiki/Legends_Never_Die_(Against_the_Current_song)"
+      ],
+      "notes": "Riot's first Sports Emmy. The Worlds 2017 final broadcast from Beijing included the AR Elder Dragon that swooped through the stadium during the opening-ceremony performance of \"Legends Never Die\".",
+      "verified": true
+    },
+    {
+      "id": "lol-2018-youtube-record-popstars-debut-24h",
+      "year": 2018,
+      "ceremony": "YouTube first-24-hour views (November 2018)",
+      "organization": "YouTube",
+      "award": "Most-viewed K-pop group debut music video in its first 24 hours (record at the time)",
+      "result": "won",
+      "recipient": "K/DA - POP/STARS (Official Music Video)",
+      "project": "K/DA",
+      "game": "league-of-legends",
+      "musicRelated": true,
+      "songTitle": "POP/STARS",
+      "sourceUrls": [
+        "https://web.archive.org/web/20181129074841/https://www.foxsportsasia.com/esports/lol/968760/league-of-legends-k-pop-group-k-das-debut-music-video-hits-record-breaking-13-million-views-on-youtube/",
+        "https://en.wikipedia.org/wiki/K/DA"
+      ],
+      "notes": "About 5 million views in 24 hours beat IZ*ONE's \"La Vie en Rose\"; the video went on to pass 100 million views within a month.",
+      "verified": true
+    },
+    {
+      "id": "lol-2019-clio-sports-silver-rise",
+      "year": 2019,
+      "ceremony": "Clio Sports 2019",
+      "organization": "Clio Awards",
+      "award": "Silver - Film Technique: Animation",
+      "result": "won",
+      "recipient": "RISE (Riot Games)",
+      "project": "Worlds 2018",
+      "game": "league-of-legends",
+      "musicRelated": true,
+      "songTitle": "RISE",
+      "sourceUrls": [
+        "https://clios.com/winners-gallery/details/88053",
+        "https://lovethework.com/work-awards/campaigns/rise-2018-world-championship-musical-anthem-619243"
+      ],
+      "notes": "Silver for the animation of the music video for \"RISE\", the Worlds 2018 anthem, entered by Riot Games.",
+      "verified": true
+    },
+    {
+      "id": "lol-2019-sports-emmy-nomination-rise",
+      "year": 2019,
+      "ceremony": "40th Sports Emmy Awards",
+      "organization": "National Academy of Television Arts and Sciences (NATAS)",
+      "award": "Outstanding Post-Produced Graphic Design",
+      "result": "nominated",
+      "recipient": "League of Legends World Championship - \"RISE\" (YouTube) [Riot Games]",
+      "project": "Worlds 2018",
+      "game": "league-of-legends",
+      "musicRelated": true,
+      "songTitle": "RISE",
+      "sourceUrls": [
+        "https://programminginsider.com/nominations-for-40th-annual-sports-emmy-awards-announced/"
+      ],
+      "notes": "The animated music video for the Worlds 2018 anthem (The Glitch Mob, Mako and The Word Alive) was nominated against network sports graphics packages; it did not win.",
+      "verified": true
+    },
+    {
+      "id": "lol-2019-shorty-games-kda-popstars",
+      "year": 2019,
+      "ceremony": "11th Annual Shorty Awards",
+      "organization": "The Shorty Awards",
+      "award": "Winner - Games",
+      "result": "won",
+      "recipient": "K/DA - POP/STARS (Riot Games)",
+      "project": "K/DA",
+      "game": "league-of-legends",
+      "musicRelated": true,
+      "songTitle": "POP/STARS",
+      "sourceUrls": [
+        "https://shortyawards.com/11th/kda-popstars",
+        "https://en.wikipedia.org/wiki/K/DA"
+      ],
+      "notes": "Category winner for the K/DA launch campaign (song, music video, skins and AR Worlds performance); also a finalist in Multi-Platform Campaign.",
+      "verified": true
+    },
+    {
+      "id": "lol-2020-billboard-world-digital-no1-more",
+      "year": 2020,
+      "ceremony": "Billboard World Digital Song Sales chart (November 2020)",
+      "organization": "Billboard",
+      "award": "No. 1 - World Digital Song Sales",
+      "result": "won",
+      "recipient": "K/DA - \"MORE\" (with Madison Beer, (G)I-DLE, Lexie Liu, Jaira Burns and Seraphine)",
+      "project": "K/DA",
+      "game": "league-of-legends",
+      "musicRelated": true,
+      "songTitle": "MORE",
+      "sourceUrls": [
+        "https://www.koreajoongangdaily.com/entertainment/virtual-girl-group-k/da-reaches-top-of-billboards-world-digital-song-sales-chart/11274680",
+        "https://www.billboard.com/pro/kda-all-out-ep-stream/"
+      ],
+      "notes": "Entered at No. 2 with partial tracking (per Billboard), then reached No. 1 in November 2020.",
+      "verified": true
+    },
+    {
+      "id": "lol-2020-billboard-world-digital-no1-the-baddest",
+      "year": 2020,
+      "ceremony": "Billboard World Digital Song Sales chart (September 2020)",
+      "organization": "Billboard",
+      "award": "No. 1 - World Digital Song Sales",
+      "result": "won",
+      "recipient": "K/DA - \"THE BADDEST\" (with (G)I-DLE, Bea Miller and Wolftyla)",
+      "project": "K/DA",
+      "game": "league-of-legends",
+      "musicRelated": true,
+      "songTitle": "THE BADDEST",
+      "sourceUrls": [
+        "https://www.billboard.com/pro/kda-all-out-ep-stream/"
+      ],
+      "notes": "K/DA's comeback pre-release single topped the chart on release.",
+      "verified": true
+    },
+    {
+      "id": "lol-2020-esports-awards-creative-piece-warriors-2020",
+      "year": 2020,
+      "ceremony": "Esports Awards 2020",
+      "organization": "Esports Awards",
+      "award": "Esports Creative Piece of the Year",
+      "result": "won",
+      "recipient": "League of Legends 2020 Season Opening - \"Warriors\" (Riot Games)",
+      "project": "League of Legends",
+      "game": "league-of-legends",
+      "musicRelated": true,
+      "songTitle": "Warriors",
+      "sourceUrls": [
+        "https://deadline.com/2020/11/2020-esports-awards-honors-riot-games-team-secret-michal-nisha-jankowski-1234620028",
+        "https://www.dexerto.com/esports/esports-awards-2020-categories-finalists-more-1396433",
+        "https://en.wikipedia.org/wiki/Warriors_(Imagine_Dragons_song)"
+      ],
+      "notes": "The 2020 season-opening cinematic, set to 2WEI and Edda Hayes' cover of \"Warriors\", was named creative piece of the year.",
+      "verified": true
+    },
+    {
+      "id": "lol-2020-gang-best-original-song-giants",
+      "year": 2020,
+      "ceremony": "18th Annual G.A.N.G. Awards",
+      "organization": "Game Audio Network Guild (G.A.N.G.)",
+      "award": "Best Original Song",
+      "result": "won",
+      "recipient": "\"GIANTS\" - Jared Lee, Jessica Karpov, Kole Hicks, Umar Ibrahim (Riot Games)",
+      "project": "True Damage",
+      "game": "league-of-legends",
+      "musicRelated": true,
+      "songTitle": "GIANTS",
+      "sourceUrls": [
+        "https://www.asoundeffect.com/gang-award-winners-2020",
+        "https://www.mixonline.com/news/18th-annual-g-a-n-g-award-winners-best-in-videogame-sound"
+      ],
+      "notes": "True Damage's debut single beat songs from Death Stranding, Resident Evil 2 and Days Gone in the game-audio guild's song category.",
+      "verified": true
+    },
+    {
+      "id": "lol-2020-sports-emmy-esports-coverage-worlds-2019",
+      "year": 2020,
+      "ceremony": "41st Sports Emmy Awards",
+      "organization": "National Academy of Television Arts and Sciences (NATAS)",
+      "award": "Outstanding Esports Coverage",
+      "result": "won",
+      "recipient": "League of Legends World Final (YouTube) [Riot Games]",
+      "project": "Worlds 2019",
+      "game": "league-of-legends",
+      "musicRelated": false,
+      "songTitle": null,
+      "sourceUrls": [
+        "https://theemmys.tv/wp-content/uploads/2021/02/sports-41st-winners-v4-1.pdf",
+        "https://www.gamespress.com/en-US/Worlds-2023-Wins-Sports-Emmy-for-Outstanding-Esports-Championship-Cove"
+      ],
+      "notes": "First year of the esports category; Riot's coverage of the Worlds 2019 final in Paris took the inaugural award (winners announced August 11, 2020).",
+      "verified": true
+    },
+    {
+      "id": "lol-2020-qq-music-boom-boom-kda",
+      "year": 2020,
+      "ceremony": "1st QQ Music Boom Boom Awards",
+      "organization": "QQ Music (Tencent Music Entertainment)",
+      "award": "Honoree - virtual idol",
+      "result": "won",
+      "recipient": "K/DA",
+      "project": "K/DA",
+      "game": "league-of-legends",
+      "musicRelated": true,
+      "songTitle": null,
+      "sourceUrls": [
+        "https://web.archive.org/web/20201221003610/http://ex.chinadaily.com.cn/exchange/partners/82/rss/channel/cn/columns/snl9a7/stories/WS5fcdc3d0a3101e7ce9733b65.html",
+        "https://en.wikipedia.org/wiki/K/DA"
+      ],
+      "notes": "QQ Music's first year-end honours (December 2020) named K/DA among the winners as a virtual idol; Wikipedia gives the category as Best Visual Idol.",
+      "verified": true
+    },
+    {
+      "id": "lol-2021-gang-best-original-song-more",
+      "year": 2021,
+      "ceremony": "19th Annual G.A.N.G. Awards",
+      "organization": "Game Audio Network Guild (G.A.N.G.)",
+      "award": "Best Original Song",
+      "result": "won",
+      "recipient": "K/DA - \"MORE\" (music by Rebecca Johnson, Sebastien Najand, Riot Music Team and Bekuh BOOM)",
+      "project": "K/DA",
+      "game": "league-of-legends",
+      "musicRelated": true,
+      "songTitle": "MORE",
+      "sourceUrls": [
+        "https://variety.com/2021/awards/awards/gang-awards-winners-list-last-of-us-part-two-1234962237/",
+        "https://en.wikipedia.org/wiki/Game_Audio_Network_Guild_Awards"
+      ],
+      "notes": "Second straight Best Original Song for a League virtual group; performed by (G)I-DLE's Miyeon and Soyeon, Madison Beer, Jaira Burns, Lexie Liu and Seraphine.",
+      "verified": true
+    },
+    {
+      "id": "lol-2021-hmma-song-video-game-burn-it-all-down",
+      "year": 2021,
+      "ceremony": "12th Hollywood Music in Media Awards",
+      "organization": "Hollywood Music in Media Awards",
+      "award": "Song - Video Game",
+      "result": "won",
+      "recipient": "\"Burn It All Down\" - written by Riot Music Team and Alex Seaver of Mako; performed by PVRIS",
+      "project": "Worlds 2021",
+      "game": "league-of-legends",
+      "musicRelated": true,
+      "songTitle": "Burn It All Down",
+      "sourceUrls": [
+        "https://www.hmmawards.com/hmma-winners/",
+        "https://en.wikipedia.org/wiki/12th_Hollywood_Music_in_Media_Awards"
+      ],
+      "notes": "The Worlds 2021 anthem won the video game song category at the November 17, 2021 ceremony.",
+      "verified": true
+    },
+    {
+      "id": "lol-2021-hmma-song-video-game-the-baddest",
+      "year": 2021,
+      "ceremony": "11th Hollywood Music in Media Awards",
+      "organization": "Hollywood Music in Media Awards",
+      "award": "Outstanding Song - Video Game",
+      "result": "won",
+      "recipient": "\"THE BADDEST\" - written by Riot Music Team and Bekuh BOOM; vocals by Soyeon and Miyeon of (G)I-DLE, Bea Miller and Wolftyla",
+      "project": "K/DA",
+      "game": "league-of-legends",
+      "musicRelated": true,
+      "songTitle": "THE BADDEST",
+      "sourceUrls": [
+        "https://www.hmmawards.com/hmma-winners/",
+        "https://www.billboard.com/music/awards/diane-warren-james-newton-howard-winners-2021-hollywood-music-in-media-awards-9517388/"
+      ],
+      "notes": "The HMMAs for 2020 releases were held virtually on January 27, 2021; K/DA's pre-release single from the ALL OUT EP took the video game song award.",
+      "verified": true
+    },
+    {
+      "id": "lol-2021-sports-emmy-esports-coverage-worlds-2020",
+      "year": 2021,
+      "ceremony": "42nd Sports Emmy Awards",
+      "organization": "National Academy of Television Arts and Sciences (NATAS)",
+      "award": "Outstanding Esports Coverage",
+      "result": "won",
+      "recipient": "League of Legends World Final: DAMWON vs. Suning (YouTube) [Riot Games]",
+      "project": "Worlds 2020",
+      "game": "league-of-legends",
+      "musicRelated": false,
+      "songTitle": null,
+      "sourceUrls": [
+        "https://theemmys.tv/wp-content/uploads/2021/06/sports-42nd-winners-release-full-v2.pdf",
+        "https://en.wikipedia.org/wiki/42nd_Sports_Emmy_Awards"
+      ],
+      "notes": "Second straight esports Emmy, for the Shanghai final whose opening ceremony featured K/DA performing \"MORE\".",
+      "verified": true
+    },
+    {
+      "id": "lol-2021-shorty-audience-honor-kda-more",
+      "year": 2021,
+      "ceremony": "13th Annual Shorty Awards",
+      "organization": "The Shorty Awards",
+      "award": "Audience Honor - Games and Video",
+      "result": "won",
+      "recipient": "K/DA - MORE (Official Music Video) - AXIS Studios, Riot Games",
+      "project": "K/DA",
+      "game": "league-of-legends",
+      "musicRelated": true,
+      "songTitle": "MORE",
+      "sourceUrls": [
+        "https://shortyawards.com/13th/kdas-more-music-video-3"
+      ],
+      "notes": "The same entry also won the public-vote Audience Honor in both the Games and Video categories.",
+      "verified": true
+    },
+    {
+      "id": "lol-2021-shorty-gold-video-kda-more",
+      "year": 2021,
+      "ceremony": "13th Annual Shorty Awards",
+      "organization": "The Shorty Awards",
+      "award": "Gold Honor - Video",
+      "result": "won",
+      "recipient": "K/DA - MORE ft. Madison Beer, (G)I-DLE, Lexie Liu, Jaira Burns, Seraphine (Official Music Video) - AXIS Studios, Riot Games",
+      "project": "K/DA",
+      "game": "league-of-legends",
+      "musicRelated": true,
+      "songTitle": "MORE",
+      "sourceUrls": [
+        "https://shortyawards.com/13th/kdas-more-music-video-3"
+      ],
+      "notes": "Gold Honor for the ALL OUT comeback music video animated by AXIS Studios.",
+      "verified": true
+    },
+    {
+      "id": "lol-2021-webby-peoples-voice-kda-more",
+      "year": 2021,
+      "ceremony": "25th Annual Webby Awards",
+      "organization": "The Webby Awards (IADAS)",
+      "award": "People's Voice - Video: Music (Branded)",
+      "result": "won",
+      "recipient": "K/DA - MORE (Official Music Video) - Riot Games with AXIS Studios",
+      "project": "K/DA",
+      "game": "league-of-legends",
+      "musicRelated": true,
+      "songTitle": "MORE",
+      "sourceUrls": [
+        "https://winners.webbyawards.com/2021/video/branded-entertainment/music-branded/172039/kda-more-official-music-video",
+        "https://en.wikipedia.org/wiki/K/DA"
+      ],
+      "notes": "Public-vote winner in the branded music category; the same video was also named a Webby Honoree for Music Video.",
+      "verified": true
+    },
+    {
+      "id": "lol-2021-webby-peoples-voice-seraphine",
+      "year": 2021,
+      "ceremony": "25th Annual Webby Awards",
+      "organization": "The Webby Awards (IADAS)",
+      "award": "People's Voice - Social: Best Influencer",
+      "result": "won",
+      "recipient": "Seraphine (Riot Games)",
+      "project": "Seraphine",
+      "game": "league-of-legends",
+      "musicRelated": true,
+      "songTitle": null,
+      "sourceUrls": [
+        "https://winners.webbyawards.com/2021/social/features/best-influencer/172477/seraphine"
+      ],
+      "notes": "Riot ran Seraphine as a virtual singer-influencer on social media before she joined K/DA on \"MORE\"; fans voted the campaign best influencer.",
+      "verified": true
+    },
+    {
+      "id": "lol-2022-sports-emmy-nomination-worlds-2021",
+      "year": 2022,
+      "ceremony": "43rd Sports Emmy Awards",
+      "organization": "National Academy of Television Arts and Sciences (NATAS)",
+      "award": "Outstanding Esports Championship Coverage",
+      "result": "nominated",
+      "recipient": "League of Legends Worlds 2021 Final: DAMWON KIA vs. Edward Gaming [Riot Games]",
+      "project": "Worlds 2021",
+      "game": "league-of-legends",
+      "musicRelated": false,
+      "songTitle": null,
+      "sourceUrls": [
+        "https://theemmys.tv/wp-content/uploads/2022/04/sports-43rd-nominations.pdf",
+        "https://en.wikipedia.org/wiki/43rd_Sports_Emmy_Awards"
+      ],
+      "notes": "Nominated for the Reykjavik final; The International 10 (Dota 2) won the category that year.",
+      "verified": true
+    },
+    {
+      "id": "lol-2022-riaa-gold-legends-never-die",
+      "year": 2022,
+      "ceremony": "RIAA Gold & Platinum certification (February 22, 2022)",
+      "organization": "Recording Industry Association of America (RIAA)",
+      "award": "Gold - single",
+      "result": "won",
+      "recipient": "League of Legends and Against the Current - \"Legends Never Die\"",
+      "project": "Worlds 2017",
+      "game": "league-of-legends",
+      "musicRelated": true,
+      "songTitle": "Legends Never Die",
+      "sourceUrls": [
+        "https://www.riaa.com/gold-platinum/?tab_active=default-award&ar=League%20of%20Legends&ti=&format=&type=#search_section",
+        "https://en.wikipedia.org/wiki/Legends_Never_Die_(Against_the_Current_song)"
+      ],
+      "notes": "The Worlds 2017 anthem passed 500,000 US units.",
+      "verified": true
+    },
+    {
+      "id": "lol-2022-riaa-gold-rise",
+      "year": 2022,
+      "ceremony": "RIAA Gold & Platinum certification (February 22, 2022)",
+      "organization": "Recording Industry Association of America (RIAA)",
+      "award": "Gold - single",
+      "result": "won",
+      "recipient": "League of Legends, The Glitch Mob and Mako - \"RISE\" (ft. The Word Alive)",
+      "project": "Worlds 2018",
+      "game": "league-of-legends",
+      "musicRelated": true,
+      "songTitle": "RISE",
+      "sourceUrls": [
+        "https://www.riaa.com/gold-platinum/?tab_active=default-award&ar=League%20of%20Legends&ti=&format=&type=#search_section"
+      ],
+      "notes": "Certified Gold in the US on the same day as \"Legends Never Die\".",
+      "verified": true
+    },
+    {
+      "id": "lol-2022-riaa-platinum-popstars",
+      "year": 2022,
+      "ceremony": "RIAA Gold & Platinum certification (August 10, 2022)",
+      "organization": "Recording Industry Association of America (RIAA)",
+      "award": "Platinum - single",
+      "result": "won",
+      "recipient": "K/DA - \"POP/STARS\"",
+      "project": "K/DA",
+      "game": "league-of-legends",
+      "musicRelated": true,
+      "songTitle": "POP/STARS",
+      "sourceUrls": [
+        "https://www.riaa.com/gold-platinum/?tab_active=default-award&ar=K%2FDA&ti=&format=&type=#search_section",
+        "https://en.wikipedia.org/wiki/K/DA"
+      ],
+      "notes": "Platinum in the US; Wikipedia notes it made K/DA and (G)I-DLE the first K-pop girl groups to reach the milestone.",
+      "verified": true
+    },
+    {
+      "id": "lol-2022-webby-pentakill-lost-chapter",
+      "year": 2022,
+      "ceremony": "26th Annual Webby Awards",
+      "organization": "The Webby Awards (IADAS)",
+      "award": "Webby Award - Virtual & Remote: Games - Music",
+      "result": "won",
+      "recipient": "Pentakill: Lost Chapter - The Mill with Wave and Riot Games",
+      "project": "Pentakill",
+      "game": "league-of-legends",
+      "musicRelated": true,
+      "songTitle": null,
+      "sourceUrls": [
+        "https://winners.webbyawards.com/2022/virtual-remote/games-general/music/214703/pentakill-lost-chapter",
+        "https://www.themill.com/newsfeed/a-virtual-metal-gig-in-a-metaverse-game-world/"
+      ],
+      "notes": "Juried Webby for the interactive virtual concert that premiered Pentakill's third album, III: Lost Chapter; it was also a Technical Achievement honoree.",
+      "verified": true
+    },
+    {
+      "id": "lol-2023-sports-emmy-esports-championship-worlds-2022",
+      "year": 2023,
+      "ceremony": "44th Sports Emmy Awards",
+      "organization": "National Academy of Television Arts and Sciences (NATAS)",
+      "award": "Outstanding Esports Championship Coverage",
+      "result": "won",
+      "recipient": "League of Legends Worlds 2022 Final: T1 vs DRX (LoLEsports.com / Twitch / YouTube) [Riot Games]",
+      "project": "Worlds 2022",
+      "game": "league-of-legends",
+      "musicRelated": false,
+      "songTitle": null,
+      "sourceUrls": [
+        "https://theemmys.tv/wp-content/uploads/2023/05/sports-44th-winners-release.pdf",
+        "https://www.sportsvideo.org/2023/05/24/2023-sports-emmys-riot-games-dave-stewart-on-increasing-the-popularity-of-esports-with-the-league-of-legends-world-championship/"
+      ],
+      "notes": "Won for the final at San Francisco's Chase Center, the event whose opening ceremony starred Lil Nas X performing \"STAR WALKIN'\".",
+      "verified": true
+    },
+    {
+      "id": "lol-2023-riaa-2x-platinum-warriors",
+      "year": 2023,
+      "ceremony": "RIAA Gold & Platinum certification (April 28, 2023)",
+      "organization": "Recording Industry Association of America (RIAA)",
+      "award": "2x Platinum - single",
+      "result": "won",
+      "recipient": "Imagine Dragons - \"Warriors\"",
+      "project": "Worlds 2014",
+      "game": "league-of-legends",
+      "musicRelated": true,
+      "songTitle": "Warriors",
+      "sourceUrls": [
+        "https://www.riaa.com/gold-platinum/?tab_active=default-award&ar=Imagine%20Dragons&ti=Warriors&format=&type=#search_section",
+        "https://en.wikipedia.org/wiki/Warriors_(Imagine_Dragons_song)"
+      ],
+      "notes": "The original 2014 Worlds anthem reached double Platinum in the US.",
+      "verified": true
+    },
+    {
+      "id": "lol-2023-riaa-gold-more",
+      "year": 2023,
+      "ceremony": "RIAA Gold & Platinum certification (November 3, 2023)",
+      "organization": "Recording Industry Association of America (RIAA)",
+      "award": "Gold - single",
+      "result": "won",
+      "recipient": "K/DA, Madison Beer and (G)I-DLE - \"MORE\" (ft. Lexie Liu, Jaira Burns, Seraphine and League of Legends)",
+      "project": "K/DA",
+      "game": "league-of-legends",
+      "musicRelated": true,
+      "songTitle": "MORE",
+      "sourceUrls": [
+        "https://www.riaa.com/gold-platinum/?tab_active=default-award&ar=League%20of%20Legends&ti=&format=&type=#search_section"
+      ],
+      "notes": "K/DA's second US certification.",
+      "verified": true
+    },
+    {
+      "id": "lol-2023-shorty-silver-gaming-worlds-2022",
+      "year": 2023,
+      "ceremony": "15th Annual Shorty Awards",
+      "organization": "The Shorty Awards",
+      "award": "Silver Honor - Gaming",
+      "result": "won",
+      "recipient": "League of Legends World Championship - Riot Games Music (MOCEAN, Riot Games Music)",
+      "project": "Worlds 2022",
+      "game": "league-of-legends",
+      "musicRelated": true,
+      "songTitle": "STAR WALKIN'",
+      "sourceUrls": [
+        "https://shortyawards.com/15th/league-of-legends-world-championships-riot-games-music"
+      ],
+      "notes": "Honours the Worlds 2022 music campaign in which Lil Nas X played Riot's 'President' to hype his anthem \"STAR WALKIN'\" and the opening ceremony.",
+      "verified": true
+    },
+    {
+      "id": "lol-2023-shorty-silver-live-events-worlds-2022-opening-ceremony",
+      "year": 2023,
+      "ceremony": "15th Annual Shorty Awards",
+      "organization": "The Shorty Awards",
+      "award": "Silver Honor - Live Events",
+      "result": "won",
+      "recipient": "League of Legends World Championship Opening Ceremony (Riot Games Music)",
+      "project": "Worlds 2022",
+      "game": "league-of-legends",
+      "musicRelated": true,
+      "songTitle": null,
+      "sourceUrls": [
+        "https://shortyawards.com/15th/league-of-legends-world-championships-opening-ceremony"
+      ],
+      "notes": "Silver for the Worlds 2022 opening ceremony at Chase Center, with Edda Hayes (\"The Call\"), Jackson Wang (\"Fire to the Fuse\") and Lil Nas X (\"STAR WALKIN'\").",
+      "verified": true
+    },
+    {
+      "id": "lol-2023-youtube-gods-most-watched-anthem-first-day",
+      "year": 2023,
+      "ceremony": "YouTube first-24-hour views (October 2023)",
+      "organization": "YouTube",
+      "award": "Most-watched Worlds anthem on its first day",
+      "result": "won",
+      "recipient": "GODS ft. NewJeans (Official Music Video) - Worlds 2023 Anthem",
+      "project": "Worlds 2023",
+      "game": "league-of-legends",
+      "musicRelated": true,
+      "songTitle": "GODS",
+      "sourceUrls": [
+        "https://www.koreajoongangdaily.com/business/newjeanss-lol-worlds-anthem-gods-surpasses-17m-views-on-youtube/10641237"
+      ],
+      "notes": "7.8 million views in its first 24 hours, the biggest first day for any Worlds anthem up to then.",
+      "verified": true
+    },
+    {
+      "id": "lol-2024-clio-silver-heartsteel-paranoia",
+      "year": 2024,
+      "ceremony": "Clio Awards 2024",
+      "organization": "Clio Awards",
+      "award": "Silver - Film Craft: Animation",
+      "result": "won",
+      "recipient": "Heartsteel - PARANOIA (SAUVAGE.TV for League of Legends)",
+      "project": "HEARTSTEEL",
+      "game": "league-of-legends",
+      "musicRelated": true,
+      "songTitle": "PARANOIA",
+      "sourceUrls": [
+        "https://clios.com/winners-gallery/details/19346"
+      ],
+      "notes": "Animation craft Silver for HEARTSTEEL's debut music video, made by Barcelona studio SAUVAGE.TV.",
+      "verified": true
+    },
+    {
+      "id": "lol-2024-esports-awards-content-of-the-year-gods",
+      "year": 2024,
+      "ceremony": "Esports Awards 2024",
+      "organization": "Esports Awards",
+      "award": "Esports Content of the Year",
+      "result": "won",
+      "recipient": "GODS ft. NewJeans (Official Music Video) - Worlds 2023 Anthem (Riot Games)",
+      "project": "Worlds 2023",
+      "game": "league-of-legends",
+      "musicRelated": true,
+      "songTitle": "GODS",
+      "sourceUrls": [
+        "https://esportsinsider.com/2024/08/valorant-team-liquid-and-red-bull-among-esports-awards-2024-winners",
+        "https://en.wikipedia.org/wiki/Esports_Awards"
+      ],
+      "notes": "The Worlds 2023 anthem video sung by NewJeans was voted the year's top esports content.",
+      "verified": true
+    },
+    {
+      "id": "lol-2024-sports-emmy-esports-championship-worlds-2023",
+      "year": 2024,
+      "ceremony": "45th Sports Emmy Awards",
+      "organization": "National Academy of Television Arts and Sciences (NATAS)",
+      "award": "Outstanding Esports Championship Coverage",
+      "result": "won",
+      "recipient": "League of Legends Worlds 2023 Final: T1 vs Weibo Gaming (LoLEsports.com / Twitch / YouTube) [Riot Games]",
+      "project": "Worlds 2023",
+      "game": "league-of-legends",
+      "musicRelated": false,
+      "songTitle": null,
+      "sourceUrls": [
+        "https://www.gamespress.com/en-US/Worlds-2023-Wins-Sports-Emmy-for-Outstanding-Esports-Championship-Cove",
+        "https://esportsadvocate.net/2024/05/riot-games-wins-sports-emmy-for-worlds-2023-finals/"
+      ],
+      "notes": "Riot's fourth win in the esports category and fifth Sports Emmy overall, for the final at Seoul's Gocheok Sky Dome.",
+      "verified": true
+    },
+    {
+      "id": "lol-2024-riaa-platinum-star-walkin",
+      "year": 2024,
+      "ceremony": "RIAA Gold & Platinum certification (April 5, 2024)",
+      "organization": "Recording Industry Association of America (RIAA)",
+      "award": "Platinum - single",
+      "result": "won",
+      "recipient": "Lil Nas X - \"STAR WALKIN' (League of Legends Worlds Anthem)\"",
+      "project": "Worlds 2022",
+      "game": "league-of-legends",
+      "musicRelated": true,
+      "songTitle": "STAR WALKIN'",
+      "sourceUrls": [
+        "https://www.riaa.com/gold-platinum/?tab_active=default-award&ar=League%20of%20Legends&ti=&format=&type=#search_section",
+        "https://en.wikipedia.org/wiki/Star_Walkin%27"
+      ],
+      "notes": "The Worlds 2022 anthem went Platinum in the US.",
+      "verified": true
+    },
+    {
+      "id": "lol-2025-billboard-mainstream-rock-airplay-no1-heavy-is-the-crown",
+      "year": 2025,
+      "ceremony": "Billboard Mainstream Rock Airplay chart (dated February 15, 2025)",
+      "organization": "Billboard",
+      "award": "No. 1 - Mainstream Rock Airplay",
+      "result": "won",
+      "recipient": "Linkin Park - \"Heavy Is the Crown\"",
+      "project": "Worlds 2024",
+      "game": "league-of-legends",
+      "musicRelated": true,
+      "songTitle": "Heavy Is the Crown",
+      "sourceUrls": [
+        "https://www.billboard.com/charts/hot-mainstream-rock-tracks/2025-02-15/",
+        "https://en.wikipedia.org/wiki/Heavy_Is_the_Crown_(Linkin_Park_song)"
+      ],
+      "notes": "The Worlds 2024 anthem also topped Mainstream Rock Airplay, three weeks after leading Rock & Alternative Airplay.",
+      "verified": true
+    },
+    {
+      "id": "lol-2025-billboard-rock-alternative-airplay-no1-heavy-is-the-crown",
+      "year": 2025,
+      "ceremony": "Billboard Rock & Alternative Airplay chart (dated January 25, 2025)",
+      "organization": "Billboard",
+      "award": "No. 1 - Rock & Alternative Airplay",
+      "result": "won",
+      "recipient": "Linkin Park - \"Heavy Is the Crown\"",
+      "project": "Worlds 2024",
+      "game": "league-of-legends",
+      "musicRelated": true,
+      "songTitle": "Heavy Is the Crown",
+      "sourceUrls": [
+        "https://www.billboard.com/music/chart-beat/linkin-park-heavy-is-the-crown-number-1-rock-alternative-airplay-chart-1235878411/"
+      ],
+      "notes": "Linkin Park's seventh No. 1 on the chart, giving them sole possession of the third-most No. 1s in its history.",
+      "verified": true
+    },
+    {
+      "id": "lol-2025-hmma-score-video-game-welcome-to-noxus",
+      "year": 2025,
+      "ceremony": "16th Hollywood Music in Media Awards",
+      "organization": "Hollywood Music in Media Awards",
+      "award": "Score - Video Game (Console & PC)",
+      "result": "won",
+      "recipient": "League of Legends: Welcome to Noxus - Bill Hemstapat, Sebastien Najand, Alex Seaver, J.D. Spears, Alexander Temple, Richard Thomson, Seth Tsui, Gong Ao, Merlin Cen",
+      "project": "League of Legends",
+      "game": "league-of-legends",
+      "musicRelated": true,
+      "songTitle": null,
+      "sourceUrls": [
+        "https://www.shootonline.com/shoot_column/sinners-tops-hollywood-music-in-media-awards-with-3-wins/",
+        "https://en.wikipedia.org/wiki/16th_Hollywood_Music_in_Media_Awards"
+      ],
+      "notes": "Riot's in-house composers won the console/PC score award for the 2025 Noxus season music, ahead of Death Stranding 2 and Ghost of Yotei.",
+      "verified": true
+    },
+    {
+      "id": "lol-2025-sports-emmy-nomination-worlds-2024",
+      "year": 2025,
+      "ceremony": "46th Sports Emmy Awards",
+      "organization": "National Academy of Television Arts and Sciences (NATAS)",
+      "award": "Outstanding Esports Championship Coverage",
+      "result": "nominated",
+      "recipient": "League of Legends Worlds 2024 Final: T1 vs BiliBili Gaming (LoL Esports) [Riot Games]",
+      "project": "Worlds 2024",
+      "game": "league-of-legends",
+      "musicRelated": false,
+      "songTitle": null,
+      "sourceUrls": [
+        "https://theemmys.tv/sports-46th-nominations/",
+        "https://deadline.com/2025/05/2025-sports-emmys-winners-list-1236406860/"
+      ],
+      "notes": "The London final was nominated; Riot's own VALORANT Champions 2024 Grand Final won the category.",
+      "verified": true
+    },
+    {
+      "id": "lol-2025-webby-peoples-voice-heavy-is-the-crown",
+      "year": 2025,
+      "ceremony": "29th Annual Webby Awards",
+      "organization": "The Webby Awards (IADAS)",
+      "award": "People's Voice - Advertising, Media & PR: Branded Content - Media & Entertainment",
+      "result": "won",
+      "recipient": "Heavy Is The Crown ft. Linkin Park (Official Music Video) - Warner Records with Riot Games and Machine Shop Entertainment",
+      "project": "Worlds 2024",
+      "game": "league-of-legends",
+      "musicRelated": true,
+      "songTitle": "Heavy Is the Crown",
+      "sourceUrls": [
+        "https://winners.webbyawards.com/2025/advertising-media-pr/branded-content/media-entertainment/332572/heavy-is-the-crown-ft-linkin-park-official-music-video-league-of-legends-worlds-2024-anthemlink",
+        "https://en.wikipedia.org/wiki/Heavy_Is_the_Crown_(Linkin_Park_song)"
+      ],
+      "notes": "Public-vote award for the animated music video of the Worlds 2024 anthem, which casts Faker as the crowned king.",
+      "verified": true
+    },
+    {
+      "id": "riot-2025-variety-hitmakers-interactive-music-in-media",
+      "year": 2025,
+      "ceremony": "Variety Hitmakers 2025",
+      "organization": "Variety",
+      "award": "Interactive Music in Media Award",
+      "result": "won",
+      "recipient": "Riot Games (accepted by Maria Egan, head of global music)",
+      "project": "Riot Games Music",
+      "game": "riot-games",
+      "musicRelated": true,
+      "songTitle": null,
+      "sourceUrls": [
+        "https://variety.com/2025/music/news/riot-games-maria-egan-variety-hitmakers-interactive-award-1236602625/"
+      ],
+      "notes": "The first Interactive Music in Media Award went to Riot for bringing bespoke songs by major artists into League of Legends and VALORANT.",
+      "verified": true
+    },
+    {
+      "id": "lol-2026-clio-music-silver-welcome-to-noxus",
+      "year": 2026,
+      "ceremony": "Clio Music 2026",
+      "organization": "Clio Awards",
+      "award": "Silver - Use of Music in Film, TV and Games: Video Games",
+      "result": "won",
+      "recipient": "League of Legends: Welcome to Noxus (Riot Games)",
+      "project": "League of Legends",
+      "game": "league-of-legends",
+      "musicRelated": true,
+      "songTitle": null,
+      "sourceUrls": [
+        "https://clios.com/winners-gallery/details/208847"
+      ],
+      "notes": "Clio Music Silver for the use of music in the 2025 'Welcome to Noxus' season campaign, entered by Riot Games.",
+      "verified": true
+    },
+    {
+      "id": "lol-2026-sports-emmy-nomination-worlds-2025",
+      "year": 2026,
+      "ceremony": "47th Sports Emmy Awards",
+      "organization": "National Academy of Television Arts and Sciences (NATAS)",
+      "award": "Outstanding Esports Championship Coverage",
+      "result": "nominated",
+      "recipient": "League of Legends Worlds 2025 Final: T1 vs KT Rolster (LoL Esports) [Riot Games]",
+      "project": "Worlds 2025",
+      "game": "league-of-legends",
+      "musicRelated": false,
+      "songTitle": null,
+      "sourceUrls": [
+        "https://deadline.com/2026/03/sports-emmys-nominations-2026-list-1236764734/",
+        "https://deadline.com/2026/05/2026-sports-emmys-winners-list-1236921362/"
+      ],
+      "notes": "Nominated alongside VALORANT Champions 2025; the 2025 Call of Duty League Championship won.",
+      "verified": true
+    },
+    {
+      "id": "lol-2026-iheartradio-rock-song-heavy-is-the-crown",
+      "year": 2026,
+      "ceremony": "2026 iHeartRadio Music Awards",
+      "organization": "iHeartMedia",
+      "award": "Rock Song of the Year",
+      "result": "won",
+      "recipient": "Linkin Park - \"Heavy Is the Crown\"",
+      "project": "Worlds 2024",
+      "game": "league-of-legends",
+      "musicRelated": true,
+      "songTitle": "Heavy Is the Crown",
+      "sourceUrls": [
+        "https://www.iheart.com/content/2026-03-25-2026-iheartradio-music-awards-see-the-complete-list-of-winners-revealed/",
+        "https://en.wikipedia.org/wiki/Heavy_Is_the_Crown_(Linkin_Park_song)"
+      ],
+      "notes": "The Worlds 2024 anthem beat songs by Evanescence, Falling In Reverse, Shinedown and Papa Roach.",
+      "verified": true
+    }
+  ]
+}

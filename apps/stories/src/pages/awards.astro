@@ -1,0 +1,73 @@
+---
+import { Trophy } from "lucide-react"
+import AwardsExplorer from "../components/awards/AwardsExplorer.tsx"
+import Base from "../layouts/Base.astro"
+import { games, loadArchive } from "../lib/data.ts"
+import type { GameInfo } from "../lib/types.ts"
+
+const { awards } = await loadArchive()
+
+const wins = awards.filter((a) => a.result === "won").length
+const nominations = awards.length - wins
+const musicWins = awards.filter((a) => a.result === "won" && a.musicRelated).length
+const years = awards.map((a) => a.year)
+const span = years.length > 0 ? `${Math.min(...years)}–${Math.max(...years)}` : "—"
+const ceremonies = new Set(awards.map((a) => a.ceremony)).size
+const gameMap: Record<string, GameInfo> = Object.fromEntries(games())
+
+const stats = [
+  { label: "Wins", value: wins.toLocaleString("en"), accent: true },
+  { label: "Nominations", value: nominations.toLocaleString("en"), hint: "not won" },
+  { label: "Music-related wins", value: musicWins.toLocaleString("en") },
+  { label: "Years", value: span, hint: `${ceremonies} ceremonies` },
+]
+---
+
+<Base
+  title="Awards"
+  description="Every award and nomination for Riot Games' music and the projects around it — Arcane's Emmys and Annies, chart records and more."
+>
+  <section class="relative overflow-hidden border-b border-border/60">
+    <div
+      class="pointer-events-none absolute inset-0 bg-[radial-gradient(60rem_24rem_at_15%_-10%,color-mix(in_oklab,var(--gold)_22%,transparent),transparent),radial-gradient(40rem_20rem_at_95%_10%,color-mix(in_oklab,var(--riot-red)_14%,transparent),transparent)]"
+      aria-hidden="true"
+    >
+    </div>
+    <div class="relative mx-auto flex max-w-6xl flex-col gap-8 px-4 py-12 sm:px-6 md:py-16">
+      <div class="flex max-w-3xl flex-col gap-4">
+        <p class="flex items-center gap-2 text-sm font-medium tracking-wide text-gold uppercase">
+          <Trophy className="size-4" aria-hidden="true" /> Awards & recognition
+        </p>
+        <h1 class="text-4xl font-bold tracking-tight text-balance sm:text-5xl">
+          The trophies behind the music
+        </h1>
+        <p class="text-lg text-pretty text-muted-foreground">
+          Emmys, Annies, chart-toppers and industry honours won by Riot Games' music and the shows, anthems and virtual
+          bands it lives in. Every entry links to its sources.
+        </p>
+      </div>
+      <dl class="grid grid-cols-2 gap-3 md:grid-cols-4">
+        {
+          stats.map((s) => (
+            <div class="rounded-xl border bg-card/70 p-4 backdrop-blur-sm">
+              <dt class="text-sm text-muted-foreground">{s.label}</dt>
+              <dd
+                class:list={[
+                  "mt-1 text-3xl font-bold tracking-tight tabular-nums md:text-4xl",
+                  s.accent && "text-gold",
+                ]}
+              >
+                {s.value}
+              </dd>
+              {s.hint ? <dd class="text-xs text-muted-foreground">{s.hint}</dd> : null}
+            </div>
+          ))
+        }
+      </dl>
+    </div>
+  </section>
+
+  <div class="mx-auto max-w-6xl px-4 py-10 sm:px-6">
+    <AwardsExplorer client:load awards={awards} games={gameMap} />
+  </div>
+</Base>

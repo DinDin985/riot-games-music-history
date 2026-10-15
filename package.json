@@ -1,0 +1,35 @@
+{
+  "name": "riot-games-music-history",
+  "version": "0.0.1",
+  "private": true,
+  "scripts": {
+    "dev": "npm run build:stories && npm run dev -w web",
+    "dev:stories": "npm run dev -w stories",
+    "build": "npm run build:stories && npm run build -w web",
+    "start": "npm run start -w web",
+    "build:stories": "npm run build -w stories",
+    "test": "npm run test -w @workspace/db -w @workspace/pipeline -w web",
+    "lint": "turbo lint",
+    "format": "turbo format",
+    "typecheck": "turbo typecheck",
+    "pipeline": "tsx packages/pipeline/src/cli.ts",
+    "data:download": "npm run pipeline -- enumerate && npm run pipeline -- download-audio && npm run pipeline -- download-video --list data/lists/videos.txt && npm run pipeline -- download-audio --list data/lists/audio-extra.txt",
+    "data:build": "npm run pipeline -- catalog && npm run pipeline -- extract-audio && npm run pipeline -- analyze && npm run pipeline -- covers && npm run pipeline -- align && npm run pipeline -- gifs && npm run pipeline -- build-db"
+  },
+  "devDependencies": {
+    "@workspace/eslint-config": "*",
+    "@workspace/typescript-config": "*",
+    "prettier": "^3.9.9",
+    "prettier-plugin-tailwindcss": "^0.8.1",
+    "turbo": "^2.11.7",
+    "typescript": "^5"
+  },
+  "packageManager": "npm@11.17.0",
+  "engines": {
+    "node": ">=20.9.0"
+  },
+  "workspaces": [
+    "apps/*",
+    "packages/*"
+  ]
+}

@@ -1,0 +1,624 @@
+{
+  "scope": "legends-of-runeterra",
+  "researchedAt": "2026-10-14",
+  "entries": [
+    {
+      "id": "x-lor-launch-announcement-cinematic",
+      "title": "Launch Announcement (Cinematic Trailer)",
+      "artists": [
+        {
+          "name": "Riot Games Music",
+          "role": "composer"
+        }
+      ],
+      "gameId": "legends-of-runeterra",
+      "categoryIds": [
+        "cinematic"
+      ],
+      "tags": [
+        "cinematic"
+      ],
+      "album": null,
+      "date": "2020-04-04",
+      "usedFor": "Legends of Runeterra launch announcement cinematic",
+      "background": "A CG cinematic animated by Unit Image and directed by Ben Hibon that announced the full launch of Legends of Runeterra about four weeks before the game left beta on 30 April 2020. The upload credits the studio and director but names no composer, and its score has never been released as a separate track.",
+      "audioYoutubeId": null,
+      "musicVideoYoutubeId": "BkPpgMwPss0",
+      "musicVideoKind": "cinematic",
+      "musicVideoTitle": "Launch Announcement | Cinematic Trailer - Legends of Runeterra",
+      "spotifyUrl": null,
+      "coverUrl": null,
+      "sources": [
+        {
+          "title": "Launch Announcement | Cinematic Trailer - Legends of Runeterra (YouTube)",
+          "url": "https://www.youtube.com/watch?v=BkPpgMwPss0"
+        },
+        {
+          "title": "Stash: \"Legends of Runeterra\" Launch Trailer by Ben Hibon",
+          "url": "https://www.stashmedia.tv/legends-runeterra-launch-trailer-ben-hibon"
+        }
+      ],
+      "confidence": "medium",
+      "notes": "The upload credits no composer and no audio-only release exists; artist set to Riot Games Music, following the catalog convention for uncredited Riot cinematics. Not the same audio as the Breathe launch video (that upload credits the song; this one does not)."
+    },
+    {
+      "id": "x-lor-breathe",
+      "title": "Breathe (Legends of Runeterra Version)",
+      "artists": [
+        {
+          "name": "Fleurie",
+          "role": "primary"
+        },
+        {
+          "name": "Tommee Profitt",
+          "role": "composer"
+        },
+        {
+          "name": "Riot Games Music",
+          "role": "remixer"
+        }
+      ],
+      "gameId": "legends-of-runeterra",
+      "categoryIds": [
+        "cinematic"
+      ],
+      "tags": [
+        "cinematic"
+      ],
+      "album": "Breathe (Legends of Runeterra Version)",
+      "date": "2020-04-30",
+      "usedFor": "Legends of Runeterra launch video",
+      "background": "Riot's music team remixed 'Breathe', the 2019 song by Tommee Profitt and Fleurie, for the launch of Legends of Runeterra. The new version scores the official launch video, a Unit Image cinematic directed by Ben Hibon starring Cithria, Darius and Zed, which premiered on 30 April 2020 as the game went live on PC and mobile. It came out the same day as a single credited to Fleurie and Legends of Runeterra.",
+      "audioYoutubeId": "e4dZVZP-v2c",
+      "musicVideoYoutubeId": "TNhKAJwlj04",
+      "musicVideoKind": "cinematic",
+      "musicVideoTitle": "“BREATHE” | Official Launch Video - Legends of Runeterra",
+      "spotifyUrl": "https://open.spotify.com/track/43MZ2K6xe4fvg93C95Fays",
+      "coverUrl": "https://i.scdn.co/image/ab67616d0000b273b0d6813456b083bd1f3901a9",
+      "sources": [
+        {
+          "title": "“BREATHE” | Official Launch Video - Legends of Runeterra (YouTube)",
+          "url": "https://www.youtube.com/watch?v=TNhKAJwlj04"
+        },
+        {
+          "title": "Breathe (Legends of Runeterra Version) - Fleurie - Topic (YouTube)",
+          "url": "https://www.youtube.com/watch?v=e4dZVZP-v2c"
+        },
+        {
+          "title": "Spotify: Breathe - Legends of Runeterra Version",
+          "url": "https://open.spotify.com/track/43MZ2K6xe4fvg93C95Fays"
+        },
+        {
+          "title": "Deezer: Breathe (Legends of Runeterra Version), released 2020-04-30",
+          "url": "https://www.deezer.com/album/143145102"
+        },
+        {
+          "title": "Deezer: Breathe (Tommee Profitt & Fleurie, Cinematic Songs Vol. 2, 2019)",
+          "url": "https://www.deezer.com/track/642688692"
+        },
+        {
+          "title": "League of Legends Wiki: Universe:Breathe",
+          "url": "https://wiki.leagueoflegends.com/en-us/Universe:Breathe"
+        }
+      ],
+      "confidence": "high",
+      "notes": "Not to be confused with the catalog song 'breathe' by BIDØ (Sessions: Vi), a different track."
+    },
+    {
+      "id": "x-lor-call-of-the-mountain",
+      "title": "Call of the Mountain (Launch Trailer)",
+      "artists": [
+        {
+          "name": "Riot Games Music",
+          "role": "composer"
+        }
+      ],
+      "gameId": "legends-of-runeterra",
+      "categoryIds": [
+        "cinematic"
+      ],
+      "tags": [
+        "cinematic"
+      ],
+      "album": null,
+      "date": "2020-08-26",
+      "usedFor": "Call of the Mountain expansion launch cinematic",
+      "background": "Unit Image and director Ben Hibon returned for this cinematic launch trailer for Call of the Mountain, the August 2020 expansion that brought the Targon region to Legends of Runeterra. No composer is credited in the upload and the score has no standalone release.",
+      "audioYoutubeId": null,
+      "musicVideoYoutubeId": "PrPFeEHegik",
+      "musicVideoKind": "cinematic",
+      "musicVideoTitle": "New Expansion & Region: Call of the Mountain | Launch Trailer - Legends of Runeterra",
+      "spotifyUrl": null,
+      "coverUrl": null,
+      "sources": [
+        {
+          "title": "New Expansion & Region: Call of the Mountain | Launch Trailer - Legends of Runeterra (YouTube)",
+          "url": "https://www.youtube.com/watch?v=PrPFeEHegik"
+        },
+        {
+          "title": "Legends of Runeterra YouTube channel (video listing)",
+          "url": "https://www.youtube.com/@PlayRuneterra/videos"
+        }
+      ],
+      "confidence": "medium",
+      "notes": "The upload credits no composer and no audio-only release exists; artist set to Riot Games Music, following the catalog convention for uncredited Riot cinematics."
+    },
+    {
+      "id": "x-lor-kda-beats-for-lo-fi-legends",
+      "title": "K/DA Beats for Lo-fi Legends",
+      "artists": [
+        {
+          "name": "K/DA",
+          "role": "primary"
+        },
+        {
+          "name": "Riot Games Music",
+          "role": "remixer"
+        }
+      ],
+      "gameId": "legends-of-runeterra",
+      "categoryIds": [
+        "virtual-group",
+        "remix"
+      ],
+      "tags": [
+        "k-da",
+        "virtual-group",
+        "remix"
+      ],
+      "album": null,
+      "date": "2020-10-29",
+      "usedFor": "K/DA ALL OUT event lo-fi mix",
+      "background": "A roughly six-minute mix of lo-fi K/DA beats that the Legends of Runeterra channel posted for its K/DA ALL OUT event, which added a K/DA game board, a Lab mode, K/DA Epic Spells and an event pass to the card game. Riot pitched it as relaxed background music for deckbuilding and ranked play; the event's K/DA board plays arrangements of POP/STARS, THE BADDEST and MORE.",
+      "audioYoutubeId": "Wc72E1j9RRY",
+      "musicVideoYoutubeId": "Wc72E1j9RRY",
+      "musicVideoKind": "soundtrack_compilation",
+      "musicVideoTitle": "K/DA Beats for Lo-fi Legends | Legends of Runeterra",
+      "spotifyUrl": null,
+      "coverUrl": null,
+      "sources": [
+        {
+          "title": "K/DA Beats for Lo-fi Legends | Legends of Runeterra (YouTube)",
+          "url": "https://www.youtube.com/watch?v=Wc72E1j9RRY"
+        },
+        {
+          "title": "K/DA ALL OUT | Event Trailer - Legends of Runeterra (YouTube)",
+          "url": "https://www.youtube.com/watch?v=VCNz5AvyCBs"
+        },
+        {
+          "title": "League of Legends Wiki: Music (Legends of Runeterra) - K/DA Board Theme",
+          "url": "https://wiki.leagueoflegends.com/en-us/Music_(Legends_of_Runeterra)"
+        }
+      ],
+      "confidence": "medium",
+      "notes": "Official LoR-channel upload; the track list and arrangers are not credited and no streaming release was found. The video itself is the only audio source."
+    },
+    {
+      "id": "x-lor-empires-of-the-ascended",
+      "title": "Empires of the Ascended (Cinematic Trailer)",
+      "artists": [
+        {
+          "name": "Riot Games Music",
+          "role": "composer"
+        }
+      ],
+      "gameId": "legends-of-runeterra",
+      "categoryIds": [
+        "cinematic"
+      ],
+      "tags": [
+        "cinematic"
+      ],
+      "album": null,
+      "date": "2021-02-18",
+      "usedFor": "Empires of the Ascended expansion cinematic",
+      "background": "Unit Image cinematic directed by Ben Hibon that revealed Empires of the Ascended, the March 2021 expansion that added Shurima to Legends of Runeterra, framed around a buried empire, a brother's betrayal and a relic of great power. The upload credits no composer and the score was never released on its own.",
+      "audioYoutubeId": null,
+      "musicVideoYoutubeId": "zr6qzJfh148",
+      "musicVideoKind": "cinematic",
+      "musicVideoTitle": "New Expansion: Empires of the Ascended | Cinematic Trailer - Legends of Runeterra",
+      "spotifyUrl": null,
+      "coverUrl": null,
+      "sources": [
+        {
+          "title": "New Expansion: Empires of the Ascended | Cinematic Trailer - Legends of Runeterra (YouTube)",
+          "url": "https://www.youtube.com/watch?v=zr6qzJfh148"
+        },
+        {
+          "title": "Stash: Legends of Runeterra \"Empires of the Ascended\" Trailer by Ben Hibon and Unit Image",
+          "url": "https://www.stashmedia.tv/legends-of-runeterra-empires-of-the-ascended-trailer-by-ben-hibon-and-unit-image/"
+        }
+      ],
+      "confidence": "medium",
+      "notes": "The upload credits no composer and no audio-only release exists; artist set to Riot Games Music, following the catalog convention for uncredited Riot cinematics. About 2.2 million views on the LoR channel listing (2026-10)."
+    },
+    {
+      "id": "x-lor-guardians-of-the-ancient",
+      "title": "Guardians of the Ancient (Expansion Trailer)",
+      "artists": [
+        {
+          "name": "Riot Games Music",
+          "role": "composer"
+        }
+      ],
+      "gameId": "legends-of-runeterra",
+      "categoryIds": [
+        "cinematic"
+      ],
+      "tags": [
+        "cinematic"
+      ],
+      "album": null,
+      "date": "2021-04-26",
+      "usedFor": "Guardians of the Ancient expansion trailer",
+      "background": "Animated trailer by Sun Creature, directed by Mike&Payne, for the Guardians of the Ancient expansion of April 2021, set as Noxian warships sail for Ionia's shores. Its score is uncredited and has not been released as a track.",
+      "audioYoutubeId": null,
+      "musicVideoYoutubeId": "xKarEOxXa3s",
+      "musicVideoKind": "cinematic",
+      "musicVideoTitle": "New Expansion: Guardians of the Ancient | Legends of Runeterra",
+      "spotifyUrl": null,
+      "coverUrl": null,
+      "sources": [
+        {
+          "title": "New Expansion: Guardians of the Ancient | Legends of Runeterra (YouTube)",
+          "url": "https://www.youtube.com/watch?v=xKarEOxXa3s"
+        },
+        {
+          "title": "Legends of Runeterra YouTube channel (video listing)",
+          "url": "https://www.youtube.com/@PlayRuneterra/videos"
+        }
+      ],
+      "confidence": "medium",
+      "notes": "The upload credits no composer and no audio-only release exists; artist set to Riot Games Music, following the catalog convention for uncredited Riot cinematics."
+    },
+    {
+      "id": "x-lor-rise-of-the-underworlds",
+      "title": "Rise of the Underworlds (Cinematic Trailer)",
+      "artists": [
+        {
+          "name": "Riot Games Music",
+          "role": "composer"
+        }
+      ],
+      "gameId": "legends-of-runeterra",
+      "categoryIds": [
+        "cinematic"
+      ],
+      "tags": [
+        "cinematic"
+      ],
+      "album": null,
+      "date": "2021-06-21",
+      "usedFor": "Rise of the Underworlds expansion cinematic",
+      "background": "Sun Creature and directors Mike&Payne followed Guardians of the Ancient with this cinematic for Rise of the Underworlds, the June 2021 expansion about the scoundrels who surface from the sea, the sands and the city's depths. The music is uncredited and unreleased.",
+      "audioYoutubeId": null,
+      "musicVideoYoutubeId": "lCjlFAefDnI",
+      "musicVideoKind": "cinematic",
+      "musicVideoTitle": "New Expansion: Rise of the Underworlds | Cinematic Trailer - Legends of Runeterra",
+      "spotifyUrl": null,
+      "coverUrl": null,
+      "sources": [
+        {
+          "title": "New Expansion: Rise of the Underworlds | Cinematic Trailer - Legends of Runeterra (YouTube)",
+          "url": "https://www.youtube.com/watch?v=lCjlFAefDnI"
+        },
+        {
+          "title": "Legends of Runeterra YouTube channel (video listing)",
+          "url": "https://www.youtube.com/@PlayRuneterra/videos"
+        }
+      ],
+      "confidence": "medium",
+      "notes": "The upload credits no composer and no audio-only release exists; artist set to Riot Games Music, following the catalog convention for uncredited Riot cinematics."
+    },
+    {
+      "id": "x-lor-beyond-the-bandlewood",
+      "title": "Beyond the Bandlewood (Cinematic Trailer)",
+      "artists": [
+        {
+          "name": "Riot Games Music",
+          "role": "composer"
+        }
+      ],
+      "gameId": "legends-of-runeterra",
+      "categoryIds": [
+        "cinematic"
+      ],
+      "tags": [
+        "cinematic"
+      ],
+      "album": null,
+      "date": "2021-08-11",
+      "usedFor": "Beyond the Bandlewood expansion cinematic",
+      "background": "First episode of a three-part Sun Creature story about Ava, made for Beyond the Bandlewood, the August 2021 expansion that brought Bandle City to Legends of Runeterra as its final region. The tale continued in the Magic Misadventures (November 2021) and A Curious Journey (February 2022) trailers; none of the episodes credit a composer or have a released score.",
+      "audioYoutubeId": null,
+      "musicVideoYoutubeId": "h3YIKmjFpoo",
+      "musicVideoKind": "cinematic",
+      "musicVideoTitle": "New Expansion: Beyond the Bandlewood | Cinematic Trailer - Legends of Runeterra",
+      "spotifyUrl": null,
+      "coverUrl": null,
+      "sources": [
+        {
+          "title": "New Expansion: Beyond the Bandlewood | Cinematic Trailer - Legends of Runeterra (YouTube)",
+          "url": "https://www.youtube.com/watch?v=h3YIKmjFpoo"
+        },
+        {
+          "title": "New Expansion: Beyond the Bandlewood | Magic Misadventures Trailer (YouTube)",
+          "url": "https://www.youtube.com/watch?v=IoSTm4jwGEo"
+        },
+        {
+          "title": "New Expansion: Beyond the Bandlewood | A Curious Journey Trailer (YouTube)",
+          "url": "https://www.youtube.com/watch?v=kAr0IfSMe1w"
+        }
+      ],
+      "confidence": "medium",
+      "notes": "The upload credits no composer and no audio-only release exists; artist set to Riot Games Music, following the catalog convention for uncredited Riot cinematics. Episodes 2 (IoSTm4jwGEo, 2021-11-29) and 3 (kAr0IfSMe1w, 2022-02-07) were not added as separate entries."
+    },
+    {
+      "id": "x-lor-predator-world-ender-remix",
+      "title": "Predator (World Ender Remix)",
+      "artists": [
+        {
+          "name": "Pentakill",
+          "role": "primary"
+        },
+        {
+          "name": "Tre Watson",
+          "role": "featured"
+        },
+        {
+          "name": "TELLE",
+          "role": "featured"
+        },
+        {
+          "name": "Mark Evans",
+          "role": "remixer"
+        }
+      ],
+      "gameId": "legends-of-runeterra",
+      "categoryIds": [
+        "virtual-group",
+        "remix"
+      ],
+      "tags": [
+        "pentakill",
+        "virtual-group",
+        "remix"
+      ],
+      "album": "Predator (World Ender Remix)",
+      "date": "2022-11-29",
+      "usedFor": "Anthem of the World Ender expansion",
+      "background": "Mark Evans remixed Pentakill's 'Predator' from Lost Chapter (2021), originally written with Tre Watson and TELLE, as the anthem of World Ender, the December 2022 Legends of Runeterra expansion that closed The Darkin Saga. The LoR channel released it as official audio branded for its Worlds 2022 season, and it came out as a single on streaming services the same day.",
+      "audioYoutubeId": "jMgfANmlfyY",
+      "musicVideoYoutubeId": "j9YA0P0wCrQ",
+      "musicVideoKind": "official_audio",
+      "musicVideoTitle": "Pentakill - Predator (World Ender Remix) | Official Audio | Worlds 2022 - Legends of Runeterra",
+      "spotifyUrl": "https://open.spotify.com/track/4TGcvZWUqj4PDc9ScHJg2f",
+      "coverUrl": "https://i.scdn.co/image/ab67616d0000b273b6f6be688ecee51f44b62403",
+      "sources": [
+        {
+          "title": "Pentakill - Predator (World Ender Remix) | Official Audio | Worlds 2022 - Legends of Runeterra (YouTube)",
+          "url": "https://www.youtube.com/watch?v=j9YA0P0wCrQ"
+        },
+        {
+          "title": "Predator (World Ender Remix) - Pentakill - Topic (YouTube)",
+          "url": "https://www.youtube.com/watch?v=jMgfANmlfyY"
+        },
+        {
+          "title": "Spotify: Predator - World Ender Remix (single listed in data/curated/spotify.json)",
+          "url": "https://open.spotify.com/track/4TGcvZWUqj4PDc9ScHJg2f"
+        },
+        {
+          "title": "Deezer: Predator (World Ender Remix), Riot Games, released 2022-11-29",
+          "url": "https://www.deezer.com/album/801339971"
+        },
+        {
+          "title": "League of Legends Wiki: Universe:Riot Records/Pentakill",
+          "url": "https://wiki.leagueoflegends.com/en-us/Universe:Riot_Records/Pentakill"
+        }
+      ],
+      "confidence": "high",
+      "notes": "Distinct from the catalog song 'Predator' (predator-pentakill, Lost Chapter, 2021). DUPLICATE ACROSS SCOPES: the same song is x-vg-predator-world-ender-remix in extras/virtual-groups.json; dedupe by Spotify 4TGcvZWUqj4PDc9ScHJg2f / YouTube j9YA0P0wCrQ (this entry adds the Pentakill - Topic art track jMgfANmlfyY and credits Mark Evans as remixer, per the upload's credits). A second Spotify copy of the single exists (track 2FmRCZSu9evGNhPiywN87F, linked from the official found.ee smart link)."
+    },
+    {
+      "id": "x-lor-shine-on",
+      "title": "Shine On",
+      "artists": [
+        {
+          "name": "Brain Tan",
+          "role": "primary"
+        },
+        {
+          "name": "Abigail Osborn",
+          "role": "featured"
+        }
+      ],
+      "gameId": "legends-of-runeterra",
+      "categoryIds": [
+        "soundtrack"
+      ],
+      "tags": [
+        "soundtrack"
+      ],
+      "album": "Shine On",
+      "date": "2023-06-21",
+      "usedFor": "Heart of the Huntress expansion song",
+      "background": "Song by Brain Tan featuring Abigail Osborn, produced with Woolly Music for Riot Games Music to promote Heart of the Huntress, the June 2023 Legends of Runeterra expansion. It samples 'Pulse' by Dilip and Neeko's champion theme 'Neeko, the Curious Chameleon', and premiered as an official audio visualizer alongside a single release.",
+      "audioYoutubeId": "keyv5Ug0LuQ",
+      "musicVideoYoutubeId": "4r3S5jbP0Uk",
+      "musicVideoKind": "visualizer",
+      "musicVideoTitle": "Shine On (Brain Tan ft. Abigail Osborn) | Official Audio Visualizer - Heart of the Huntress",
+      "spotifyUrl": "https://open.spotify.com/track/1FVW2SF7kKckDO02gWTh8z",
+      "coverUrl": "https://i.scdn.co/image/ab67616d0000b2737b151d11c394cfc26b65025a",
+      "sources": [
+        {
+          "title": "Shine On (Brain Tan ft. Abigail Osborn) | Official Audio Visualizer - Heart of the Huntress (YouTube)",
+          "url": "https://www.youtube.com/watch?v=4r3S5jbP0Uk"
+        },
+        {
+          "title": "Shine On - Legends of Runeterra - Topic (YouTube)",
+          "url": "https://www.youtube.com/watch?v=keyv5Ug0LuQ"
+        },
+        {
+          "title": "Spotify: Shine On (single)",
+          "url": "https://open.spotify.com/album/6MGhEpsnWIEblOuLfDEyCw"
+        },
+        {
+          "title": "Deezer: Shine On, Riot Games, released 2023-06-21",
+          "url": "https://www.deezer.com/album/800956491"
+        }
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "x-lor-dance-into-the-dark",
+      "title": "Dance Into the Dark",
+      "artists": [
+        {
+          "name": "Riot Games Music",
+          "role": "primary"
+        },
+        {
+          "name": "Chandler Leighton",
+          "role": "featured"
+        },
+        {
+          "name": "Tommy Will",
+          "role": "featured"
+        },
+        {
+          "name": "BigBreeze",
+          "role": "featured"
+        },
+        {
+          "name": "Mark Evans",
+          "role": "composer"
+        }
+      ],
+      "gameId": "legends-of-runeterra",
+      "categoryIds": [
+        "soundtrack"
+      ],
+      "tags": [
+        "soundtrack"
+      ],
+      "album": null,
+      "date": "2023-12-13",
+      "usedFor": "Fate's Voyage: Beyond update song",
+      "background": "Song made by Riot Games Music with The Crystal Creative for Fate's Voyage: Beyond, the December 2023 Legends of Runeterra update, released the day before the game's 2023 World Championship. Mark Evans composed it and wrote the lyrics with vocalists Chandler Leighton, Tommy Will and BigBreeze, building it on a sample of Riot's 'Coven' music. It was published as an audio visualizer; no streaming single was found.",
+      "audioYoutubeId": "7vdn1Jz4hX0",
+      "musicVideoYoutubeId": "7vdn1Jz4hX0",
+      "musicVideoKind": "visualizer",
+      "musicVideoTitle": "Dance Into the Dark (ft. Chandler Leighton, Tommy Will & BigBreeze) | Fate's Voyage Audio Visualizer",
+      "spotifyUrl": null,
+      "coverUrl": null,
+      "sources": [
+        {
+          "title": "Dance Into the Dark (ft. Chandler Leighton, Tommy Will & BigBreeze) | Fate's Voyage Audio Visualizer (YouTube)",
+          "url": "https://www.youtube.com/watch?v=7vdn1Jz4hX0"
+        },
+        {
+          "title": "Legends of Runeterra YouTube channel (video listing)",
+          "url": "https://www.youtube.com/@PlayRuneterra/videos"
+        }
+      ],
+      "confidence": "high",
+      "notes": "Not on the Legends of Runeterra Spotify/Deezer/YouTube Topic artist pages; the audio visualizer is the only official audio."
+    },
+    {
+      "id": "x-lor-unstoppable",
+      "title": "Unstoppable (Legends of Runeterra Version)",
+      "artists": [
+        {
+          "name": "burnboy",
+          "role": "primary"
+        },
+        {
+          "name": "NEONI",
+          "role": "featured"
+        }
+      ],
+      "gameId": "legends-of-runeterra",
+      "categoryIds": [
+        "cinematic"
+      ],
+      "tags": [
+        "cinematic"
+      ],
+      "album": "Unstoppable (Legends of Runeterra Version)",
+      "date": "2024-10-08",
+      "usedFor": "Welcome to Runeterror cinematic trailer",
+      "background": "burnboy and NEONI recorded this Legends of Runeterra version of 'Unstoppable' for the Welcome to Runeterror cinematic trailer, made with Eddy.tv to launch Welcome to Runeterror, an October 2024 update to The Path of Champions. Penelope Aretos was music director with Riot Games Music supervising, and the track was released as a single the same day.",
+      "audioYoutubeId": "LKfCSAJmMOY",
+      "musicVideoYoutubeId": "3Gx2FZgnDAc",
+      "musicVideoKind": "cinematic",
+      "musicVideoTitle": "Unstoppable (burnboy ft. NEONI) | Welcome to Runeterror Cinematic Trailer - Legends of Runeterra",
+      "spotifyUrl": "https://open.spotify.com/track/6n3uxTrMV1ghDdrjz2Zbbq",
+      "coverUrl": "https://i.scdn.co/image/ab67616d0000b27394942db6749ea3b3ce28ac3f",
+      "sources": [
+        {
+          "title": "Unstoppable (burnboy ft. NEONI) | Welcome to Runeterror Cinematic Trailer - Legends of Runeterra (YouTube)",
+          "url": "https://www.youtube.com/watch?v=3Gx2FZgnDAc"
+        },
+        {
+          "title": "Unstoppable (Legends of Runeterra Version) - Legends of Runeterra - Topic (YouTube)",
+          "url": "https://www.youtube.com/watch?v=LKfCSAJmMOY"
+        },
+        {
+          "title": "Spotify: Unstoppable - Legends of Runeterra Version",
+          "url": "https://open.spotify.com/track/6n3uxTrMV1ghDdrjz2Zbbq"
+        },
+        {
+          "title": "Deezer: Unstoppable (Legends of Runeterra Version), Riot Games, released 2024-10-08",
+          "url": "https://www.deezer.com/album/801593941"
+        }
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "x-lor-roos-lantern",
+      "title": "Roo's Lantern",
+      "artists": [
+        {
+          "name": "Hillel Teplitzki",
+          "role": "composer"
+        },
+        {
+          "name": "Stephanie Olmanni",
+          "role": "featured"
+        }
+      ],
+      "gameId": "legends-of-runeterra",
+      "categoryIds": [
+        "cinematic",
+        "skin-line"
+      ],
+      "tags": [
+        "cinematic",
+        "spirit-blossom",
+        "skin-line"
+      ],
+      "album": null,
+      "date": "2025-08-12",
+      "usedFor": "Spirit Blossom: First Bloom & Afterglow cinematic",
+      "background": "Two-part animated tale about Roo and his lantern, made with Eddy.tv for Legends of Runeterra's 2025 Spirit Blossom events. Part 1 debuted for Spirit Blossom: First Bloom in August 2025 and the full cinematic followed in September for Spirit Blossom: Afterglow. Hillel Teplitzki composed the music, sung by Stephanie Olmanni and produced and mixed by Nir Shor.",
+      "audioYoutubeId": null,
+      "musicVideoYoutubeId": "xFPt9Lc3INA",
+      "musicVideoKind": "cinematic",
+      "musicVideoTitle": "Roo's Lantern | Spirit Blossom: Afterglow | Full Cinematic - Legends of Runeterra",
+      "spotifyUrl": null,
+      "coverUrl": null,
+      "sources": [
+        {
+          "title": "Roo's Lantern (Pt 1) | Spirit Blossom: First Bloom | Cinematic Trailer - Legends of Runeterra (YouTube)",
+          "url": "https://www.youtube.com/watch?v=PIFf57ev924"
+        },
+        {
+          "title": "Roo's Lantern | Spirit Blossom: Afterglow | Full Cinematic - Legends of Runeterra (YouTube)",
+          "url": "https://www.youtube.com/watch?v=xFPt9Lc3INA"
+        }
+      ],
+      "confidence": "high",
+      "notes": "Credits come from the Part 1 upload (PIFf57ev924, 2025-08-12); the full cinematic (Parts 1+2, 2025-09-09) lists none. No audio-only or streaming release found."
+    }
+  ]
+}

@@ -1,0 +1,128 @@
+---
+import { ArrowRight, Flame } from "lucide-react"
+import { Badge } from "@workspace/ui/components/badge"
+// `asChild` cannot wrap Astro markup, so links get the button styles directly.
+import { buttonVariants } from "@workspace/ui/components/button"
+import FeaturedMedia from "../../components/FeaturedMedia.astro"
+import MiniPlayer from "../../components/player/MiniPlayer.tsx"
+import PlayButton from "../../components/player/PlayButton.tsx"
+import Base from "../../layouts/Base.astro"
+import { loadArchive } from "../../lib/data.ts"
+import { renderInlineMarkdown } from "../../lib/markdown.ts"
+import { trackOf } from "../../lib/types.ts"
+
+const { stories } = await loadArchive()
+const rankOf = (rank: number, index: number) => (rank > 0 && rank < 999 ? rank : index + 1)
+---
+
+<Base
+  title="Most impactful songs"
+  description="The Riot Games songs that changed what game music could be — Warriors, and the anthems, cinematics and virtual bands that followed."
+  withPlayer
+>
+  <section class="relative overflow-hidden border-b border-border/60">
+    <div
+      class="pointer-events-none absolute inset-0 bg-[radial-gradient(55rem_22rem_at_80%_-20%,color-mix(in_oklab,var(--riot-red)_20%,transparent),transparent),radial-gradient(45rem_22rem_at_0%_0%,color-mix(in_oklab,var(--gold)_16%,transparent),transparent)]"
+      aria-hidden="true"
+    >
+    </div>
+    <div class="relative mx-auto flex max-w-6xl flex-col gap-4 px-4 py-12 sm:px-6 md:py-16">
+      <p class="flex items-center gap-2 text-sm font-medium tracking-wide text-gold uppercase">
+        <Flame className="size-4" aria-hidden="true" /> Impact
+      </p>
+      <h1 class="max-w-3xl text-4xl font-bold tracking-tight text-balance sm:text-5xl">
+        The songs that changed the game
+      </h1>
+      <p class="max-w-2xl text-lg text-pretty text-muted-foreground">
+        Anthems that filled stadiums, cinematics that became cultural moments and songs that crossed far beyond the Rift —
+        ranked, with the stories, numbers and scenes that made them matter.
+      </p>
+    </div>
+  </section>
+
+  <div class="mx-auto max-w-6xl px-4 py-10 sm:px-6">
+    {
+      stories.length === 0 ? (
+        <p class="rounded-xl border border-dashed p-12 text-center text-muted-foreground">
+          The impact stories are still being researched. Check back after the next build.
+        </p>
+      ) : (
+        <ol class="flex flex-col gap-8 md:gap-10">
+          {stories.map((view, index) => {
+            const { story, song, game } = view
+            const rank = rankOf(story.rank, index)
+            const topStat = story.stats[0]
+            const lead = rank === 1
+            return (
+              <li>
+                <article
+                  class:list={[
+                    "group grid overflow-hidden rounded-2xl border bg-card text-card-foreground shadow-sm",
+                    lead ? "lg:grid-cols-[1.35fr_1fr]" : "md:grid-cols-[1.1fr_1fr]",
+                  ]}
+                >
+                  <a
+                    href={`/impact/${story.slug}`}
+                    class:list={[
+                      "relative block",
+                      !lead && index % 2 === 1 && "md:order-last",
+                    ]}
+                    aria-label={`${story.song} — read the story`}
+                    tabindex="-1"
+                  >
+                    <FeaturedMedia view={view} class="aspect-video size-full md:min-h-72">
+                      <span
+                        class:list={[
+                          "absolute top-3 left-3 rounded-lg bg-black/55 px-2.5 py-1 font-bold tracking-tight text-white tabular-nums backdrop-blur-sm",
+                          lead ? "text-2xl md:text-3xl" : "text-xl",
+                        ]}
+                      >
+                        #{rank}
+                      </span>
+                    </FeaturedMedia>
+                  </a>
+                  <div class:list={["flex flex-col gap-4 p-5 sm:p-6", lead && "lg:p-8"]}>
+                    <div class="flex flex-wrap items-center gap-1.5">
+                      {game ? (
+                        <Badge variant="secondary">
+                          <span class="size-2 rounded-full" style={{ background: game.color }} aria-hidden="true" />
+                          {game.name}
+                        </Badge>
+                      ) : null}
+                      {story.year ? <Badge variant="outline">{story.year}</Badge> : null}
+                    </div>
+                    <div class="flex flex-col gap-1">
+                      <h2 class:list={["font-bold tracking-tight", lead ? "text-3xl md:text-4xl" : "text-2xl md:text-3xl"]}>
+                        <a href={`/impact/${story.slug}`} class="hover:underline hover:decoration-gold hover:underline-offset-4">
+                          {story.song}
+                        </a>
+                      </h2>
+                      <p class="text-muted-foreground">{song.displayArtist || story.artists.join(", ")}</p>
+                    </div>
+                    {story.tagline ? (
+                      <p class="text-lg leading-snug text-pretty" set:html={renderInlineMarkdown(story.tagline)} />
+                    ) : null}
+                    {topStat ? (
+                      <p class="flex items-baseline gap-2 text-sm text-muted-foreground">
+                        <span class="text-2xl font-bold text-gold tabular-nums">{topStat.value}</span>
+                        <span>{topStat.label}</span>
+                      </p>
+                    ) : null}
+                    <div class="mt-auto flex flex-wrap items-center gap-2 pt-2">
+                      <PlayButton client:visible track={trackOf(song)} label="Play" />
+                      <a href={`/impact/${story.slug}`} class={buttonVariants({ size: "lg", variant: "outline" })}>
+                        Read the story <ArrowRight data-icon="inline-end" />
+                      </a>
+                    </div>
+                  </div>
+                </article>
+              </li>
+            )
+          })}
+        </ol>
+      )
+    }
+  </div>
+
+  <MiniPlayer client:load slot="player" />
+</Base>

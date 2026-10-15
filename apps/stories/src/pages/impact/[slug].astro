@@ -1,0 +1,349 @@
+---
+import { ArrowLeft, ArrowRight, ArrowUpRight, CircleCheck, Clapperboard, ExternalLink, ListMusic } from "lucide-react"
+import { Badge } from "@workspace/ui/components/badge"
+// `asChild` cannot wrap Astro markup, so links get the button styles directly.
+import { buttonVariants } from "@workspace/ui/components/button"
+import { Separator } from "@workspace/ui/components/separator"
+import FeaturedMedia from "../../components/FeaturedMedia.astro"
+import MiniPlayer from "../../components/player/MiniPlayer.tsx"
+import PlayButton from "../../components/player/PlayButton.tsx"
+import WatchMoment from "../../components/WatchMoment.tsx"
+import Base from "../../layouts/Base.astro"
+import { games, loadArchive, momentLink, thumbnailUrl } from "../../lib/data.ts"
+import { formatClock, formatDate, hostOf, kindLabel } from "../../lib/format.ts"
+import { renderInlineMarkdown, renderMarkdown } from "../../lib/markdown.ts"
+import { trackOf, type StoryView } from "../../lib/types.ts"
+
+export async function getStaticPaths() {
+  const { stories } = await loadArchive()
+  return stories.map((view, index) => ({
+    params: { slug: view.story.slug },
+    props: { view, prev: stories[index - 1] ?? null, next: stories[index + 1] ?? null, index },
+  }))
+}
+
+interface Props {
+  readonly view: StoryView
+  readonly prev: StoryView | null
+  readonly next: StoryView | null
+  readonly index: number
+}
+
+const { view, prev, next, index } = Astro.props
+const { story, song, game, featuredWatch } = view
+const rank = story.rank > 0 && story.rank < 999 ? story.rank : index + 1
+const track = trackOf(song)
+const videoTitle = (id: string) => story.videos.find((v) => v.youtubeId === id)?.title ?? null
+const categoryNames: Record<string, string> = { worlds: "Worlds", cinematic: "Cinematic", arcane: "Arcane" }
+const [c1 = "#C89B3C", c2 = "#0c1d2e"] = song.palette
+const featuredVideoTitle = story.featuredClip ? videoTitle(story.featuredClip.youtubeId) : null
+
+const moments = story.keyMoments.map((m) => ({ ...m, link: momentLink(song, m.youtubeId, m.t), video: videoTitle(m.youtubeId) }))
+const videos = story.videos.map((v) => ({ ...v, link: momentLink(song, v.youtubeId, 0), thumb: thumbnailUrl(v.youtubeId) }))
+const storyGames = games()
+---
+
+<Base title={`${story.song} — impact story`} description={story.tagline || story.headline || story.summary.slice(0, 160)} withPlayer>
+  <section class="relative isolate overflow-hidden border-b border-border/60">
+    <div
+      class="absolute inset-0 -z-10 opacity-60"
+      style={{ background: `radial-gradient(70rem 30rem at 85% -10%, ${c1}55, transparent 70%), radial-gradient(50rem 26rem at 0% 110%, ${c2}, transparent 70%)` }}
+      aria-hidden="true"
+    >
+    </div>
+    <div class="mx-auto grid max-w-6xl items-center gap-8 px-4 py-10 sm:px-6 md:py-14 lg:grid-cols-[minmax(0,1fr)_minmax(0,1.25fr)] lg:gap-12">
+      <div class="flex min-w-0 flex-col gap-5">
+        <nav aria-label="Breadcrumb" class="flex items-center gap-2 text-sm text-muted-foreground">
+          <a href="/impact" class="inline-flex items-center gap-1 hover:text-foreground">
+            <ArrowLeft className="size-3.5" aria-hidden="true" /> Most impactful
+          </a>
+          <span aria-hidden="true">/</span>
+          <span class="font-semibold text-gold">#{rank}</span>
+        </nav>
+        <div class="flex flex-wrap gap-1.5">
+          {
+            game ? (
+              <Badge variant="secondary">
+                <span class="size-2 rounded-full" style={{ background: game.color }} aria-hidden="true" />
+                {game.name}
+              </Badge>
+            ) : null
+          }
+          {story.year ? <Badge variant="outline">{story.year}</Badge> : null}
+          {story.categories.map((c) => <Badge variant="outline">{categoryNames[c] ?? kindLabel(c)}</Badge>)}
+        </div>
+        <div class="flex flex-col gap-2">
+          <h1 class="text-4xl font-bold tracking-tight text-balance sm:text-5xl lg:text-6xl">{story.song}</h1>
+          <p class="text-lg text-muted-foreground">{song.displayArtist || story.artists.join(", ")}</p>
+        </div>
+        {story.tagline ? <p class="text-xl leading-snug text-pretty" set:html={renderInlineMarkdown(story.tagline)} /> : null}
+        <div class="flex flex-wrap items-center gap-2">
+          <PlayButton client:load track={track} label="Play the song" />
+          {
+            featuredWatch ? (
+              <WatchMoment
+                client:visible
+                href={featuredWatch.href}
+                external={featuredWatch.external}
+                localVideoUrl={featuredWatch.localVideoUrl}
+                start={featuredWatch.start}
+                title={featuredVideoTitle ?? story.song}
+                description={story.featuredClip?.description ?? null}
+              />
+            ) : null
+          }
+          {
+            song.id ? (
+              <a href={`/songs/${encodeURIComponent(song.id)}`} class={buttonVariants({ size: "lg", variant: "ghost" })}>
+                <ListMusic data-icon="inline-start" /> Song page
+              </a>
+            ) : null
+          }
+        </div>
+      </div>
+      <figure class="flex min-w-0 flex-col gap-3">
+        <FeaturedMedia view={view} class="aspect-video w-full rounded-2xl shadow-2xl ring-1 ring-white/10" />
+        {
+          story.featuredClip ? (
+            <figcaption class="flex items-start gap-2 text-sm text-muted-foreground">
+              <Clapperboard className="mt-0.5 size-4 shrink-0 text-gold" aria-hidden="true" />
+              <span>
+                {story.featuredClip.description}
+                {featuredVideoTitle ? (
+                  <span class="text-muted-foreground/70">
+                    {" "}
+                    — {featuredVideoTitle}, {formatClock(story.featuredClip.start)}
+                  </span>
+                ) : null}
+              </span>
+            </figcaption>
+          ) : null
+        }
+      </figure>
+    </div>
+  </section>
+
+  <div class="mx-auto grid max-w-6xl gap-x-12 gap-y-10 px-4 py-10 sm:px-6 md:py-14 lg:grid-cols-[minmax(0,1fr)_21rem] lg:grid-rows-[auto_1fr]">
+    <!-- Lead -->
+    <div class="flex min-w-0 flex-col gap-5">
+      {story.headline ? <p class="text-2xl leading-snug font-semibold tracking-tight text-balance md:text-3xl">{story.headline}</p> : null}
+      {story.summary ? <div class="story-prose text-lg md:text-xl md:leading-9" set:html={renderMarkdown(story.summary)} /> : null}
+    </div>
+
+    <!-- Aside: numbers and moments (after the lead on mobile, a sidebar on desktop) -->
+    <aside class="flex min-w-0 flex-col gap-8 lg:col-start-2 lg:row-span-2 lg:row-start-1">
+      {
+        story.stats.length > 0 ? (
+          <section aria-labelledby="stats-title" class="flex flex-col gap-3">
+            <h2 id="stats-title" class="text-sm font-semibold tracking-wide text-muted-foreground uppercase">
+              By the numbers
+            </h2>
+            <dl class="grid grid-cols-2 gap-2 lg:grid-cols-1">
+              {story.stats.map((s) => (
+                <div class="flex flex-col gap-1 rounded-xl border bg-card p-3.5">
+                  <dd class="text-2xl font-bold tracking-tight text-gold tabular-nums">{s.value}</dd>
+                  <dt class="text-sm leading-snug">{s.label}</dt>
+                  <dd class="flex flex-wrap items-center gap-x-2 text-xs text-muted-foreground">
+                    {s.asOf ? <span>as of {formatDate(s.asOf)}</span> : null}
+                    {s.sourceUrl ? (
+                      <a href={s.sourceUrl} target="_blank" rel="noreferrer" class="inline-flex items-center gap-0.5 hover:text-foreground">
+                        {hostOf(s.sourceUrl)} <ArrowUpRight className="size-3" aria-hidden="true" />
+                      </a>
+                    ) : null}
+                  </dd>
+                </div>
+              ))}
+            </dl>
+          </section>
+        ) : null
+      }
+      {
+        moments.length > 0 ? (
+          <section aria-labelledby="moments-title" class="flex flex-col gap-3">
+            <h2 id="moments-title" class="text-sm font-semibold tracking-wide text-muted-foreground uppercase">
+              Key moments
+            </h2>
+            <ol class="flex flex-col gap-1">
+              {moments.map((m) => (
+                <li>
+                  <a
+                    href={m.link.href}
+                    {...(m.link.external ? { target: "_blank", rel: "noreferrer" } : {})}
+                    class="group flex gap-3 rounded-lg p-2 transition-colors hover:bg-muted"
+                  >
+                    <span class="relative aspect-video w-24 shrink-0 overflow-hidden rounded-md bg-muted">
+                      <img src={thumbnailUrl(m.youtubeId)} alt="" loading="lazy" class="size-full object-cover" />
+                      <span class="absolute right-1 bottom-1 rounded bg-black/75 px-1 font-mono text-[0.6875rem] text-white">
+                        {formatClock(m.t)}
+                      </span>
+                    </span>
+                    <span class="flex min-w-0 flex-col gap-0.5">
+                      <span class="flex items-center gap-1 text-sm leading-snug font-medium">
+                        {m.label}
+                        {m.link.external ? (
+                          <ExternalLink className="size-3 shrink-0 opacity-50" aria-label="YouTube" />
+                        ) : null}
+                      </span>
+                      <span class="line-clamp-2 text-xs text-muted-foreground">{m.description}</span>
+                      {m.video ? <span class="truncate text-[0.6875rem] text-muted-foreground/70">{m.video}</span> : null}
+                    </span>
+                  </a>
+                </li>
+              ))}
+            </ol>
+          </section>
+        ) : null
+      }
+    </aside>
+
+    <!-- Body -->
+    <div class="flex min-w-0 flex-col gap-12">
+      {
+        story.story.length > 0 ? (
+          <article class="flex flex-col gap-10">
+            {story.story.map((section) => (
+              <section class="flex flex-col gap-3">
+                {section.heading ? <h2 class="text-2xl font-bold tracking-tight">{section.heading}</h2> : null}
+                <div class="story-prose" set:html={renderMarkdown(section.body)} />
+              </section>
+            ))}
+          </article>
+        ) : null
+      }
+
+      {
+        story.whyItMatters.length > 0 ? (
+          <section aria-labelledby="why-title" class="flex flex-col gap-4 rounded-2xl border bg-card p-5 sm:p-6">
+            <h2 id="why-title" class="text-2xl font-bold tracking-tight">Why it matters</h2>
+            <ul class="flex flex-col gap-3">
+              {story.whyItMatters.map((point) => (
+                <li class="flex gap-3">
+                  <CircleCheck className="mt-0.5 size-5 shrink-0 text-gold" aria-hidden="true" />
+                  <span class="leading-relaxed" set:html={renderInlineMarkdown(point)} />
+                </li>
+              ))}
+            </ul>
+          </section>
+        ) : null
+      }
+
+      {
+        story.communityMoments.length > 0 ? (
+          <section aria-labelledby="community-title" class="flex flex-col gap-5">
+            <h2 id="community-title" class="text-2xl font-bold tracking-tight">Community moments</h2>
+            <ol class="relative flex flex-col gap-6 border-l border-border pl-6">
+              {story.communityMoments.map((m) => (
+                <li class="relative">
+                  <span
+                    class="absolute top-1.5 -left-[1.95rem] size-3 rounded-full border-2 border-background bg-gold"
+                    aria-hidden="true"
+                  />
+                  {m.date ? (
+                    <time datetime={m.date} class="text-xs font-medium tracking-wide text-muted-foreground uppercase">
+                      {formatDate(m.date)}
+                    </time>
+                  ) : null}
+                  <h3 class="mt-0.5 font-semibold">{m.title}</h3>
+                  <p class="mt-1 text-sm leading-relaxed text-muted-foreground" set:html={renderInlineMarkdown(m.description)} />
+                  {m.sourceUrl ? (
+                    <a
+                      href={m.sourceUrl}
+                      target="_blank"
+                      rel="noreferrer"
+                      class="mt-1 inline-flex items-center gap-1 text-xs text-muted-foreground hover:text-foreground"
+                    >
+                      {hostOf(m.sourceUrl)} <ArrowUpRight className="size-3" aria-hidden="true" />
+                    </a>
+                  ) : null}
+                </li>
+              ))}
+            </ol>
+          </section>
+        ) : null
+      }
+
+      {
+        videos.length > 0 ? (
+          <section aria-labelledby="videos-title" class="flex flex-col gap-4">
+            <h2 id="videos-title" class="text-2xl font-bold tracking-tight">Related videos</h2>
+            <ul class="grid gap-4 sm:grid-cols-2">
+              {videos.map((v) => (
+                <li>
+                  <a
+                    href={v.link.href}
+                    {...(v.link.external ? { target: "_blank", rel: "noreferrer" } : {})}
+                    class="group flex h-full flex-col overflow-hidden rounded-xl border bg-card transition-colors hover:border-foreground/30"
+                  >
+                    <span class="relative aspect-video overflow-hidden bg-muted">
+                      <img
+                        src={v.thumb}
+                        alt=""
+                        loading="lazy"
+                        class="size-full object-cover transition-transform duration-500 group-hover:scale-[1.03]"
+                      />
+                      <Badge className="absolute top-2 left-2 bg-black/70 text-white">{kindLabel(v.kind)}</Badge>
+                    </span>
+                    <span class="flex items-start justify-between gap-2 p-3 text-sm leading-snug font-medium">
+                      {v.title}
+                      {v.link.external ? (
+                        <ExternalLink className="mt-0.5 size-3.5 shrink-0 opacity-50" aria-label="YouTube" />
+                      ) : null}
+                    </span>
+                  </a>
+                </li>
+              ))}
+            </ul>
+          </section>
+        ) : null
+      }
+
+      {
+        story.sources.length > 0 ? (
+          <section aria-labelledby="sources-title" class="flex flex-col gap-3">
+            <h2 id="sources-title" class="text-2xl font-bold tracking-tight">Sources</h2>
+            <ol class="flex list-decimal flex-col gap-1.5 pl-5 text-sm text-muted-foreground marker:text-muted-foreground/60">
+              {story.sources.map((s) => (
+                <li>
+                  <a href={s.url} target="_blank" rel="noreferrer" class="text-foreground hover:underline">
+                    {s.title}
+                  </a>
+                  {s.publisher ? <span> — {s.publisher}</span> : <span> — {hostOf(s.url)}</span>}
+                </li>
+              ))}
+            </ol>
+          </section>
+        ) : null
+      }
+
+      <Separator />
+      <nav aria-label="More impact stories" class="grid gap-3 sm:grid-cols-2">
+        {
+          prev ? (
+            <a href={`/impact/${prev.story.slug}`} class="flex flex-col gap-1 rounded-xl border p-4 hover:bg-muted">
+              <span class="flex items-center gap-1 text-xs text-muted-foreground">
+                <ArrowLeft className="size-3" aria-hidden="true" /> Previous
+              </span>
+              <span class="font-semibold">{prev.story.song}</span>
+              <span class="text-xs text-muted-foreground">{storyGames.get(prev.story.game)?.name ?? ""} · {prev.story.year}</span>
+            </a>
+          ) : (
+            <span />
+          )
+        }
+        {
+          next ? (
+            <a href={`/impact/${next.story.slug}`} class="flex flex-col items-end gap-1 rounded-xl border p-4 text-right hover:bg-muted">
+              <span class="flex items-center gap-1 text-xs text-muted-foreground">
+                Next <ArrowRight className="size-3" aria-hidden="true" />
+              </span>
+              <span class="font-semibold">{next.story.song}</span>
+              <span class="text-xs text-muted-foreground">{storyGames.get(next.story.game)?.name ?? ""} · {next.story.year}</span>
+            </a>
+          ) : null
+        }
+      </nav>
+    </div>
+  </div>
+
+  <MiniPlayer client:load slot="player" defaultTrack={track} />
+</Base>

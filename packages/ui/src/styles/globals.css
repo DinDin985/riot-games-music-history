@@ -1,0 +1,222 @@
+@import "tailwindcss";
+@import "tw-animate-css";
+@import "shadcn/tailwind.css";
+
+@custom-variant dark (&:is(.dark *));
+@source "../../../apps/**/*.{ts,tsx}";
+@source "../../../components/**/*.{ts,tsx}";
+@source "../**/*.{ts,tsx}";
+
+/*
+ * Riot Games Music Archive theme.
+ *
+ * Dark (the default — next-themes puts `class="dark"` on <html>; Astro pages
+ * must do the same) is a deep navy taken from the waveform reference
+ * (#0c1d2e) with crisp white text, the League gold (#C89B3C) as primary and
+ * the Riot red (#D13639) as a sparing highlight.
+ *
+ * Fonts: apps set two CSS variables on <html> — `--font-sans` (body, Geist)
+ * and `--font-display-family` (Bebas Neue). h1/h2 and the `font-display`
+ * utility use the display face and fall back to the sans font without it.
+ */
+
+@theme inline {
+    /* Small component titles (CardTitle, DialogTitle…) stay in the sans font. */
+    --font-heading: var(--font-sans);
+    /* `font-display`: big headings, hero numbers. */
+    --font-display: var(--font-display-family, var(--font-sans));
+    --color-sidebar-ring: var(--sidebar-ring);
+    --color-sidebar-border: var(--sidebar-border);
+    --color-sidebar-accent-foreground: var(--sidebar-accent-foreground);
+    --color-sidebar-accent: var(--sidebar-accent);
+    --color-sidebar-primary-foreground: var(--sidebar-primary-foreground);
+    --color-sidebar-primary: var(--sidebar-primary);
+    --color-sidebar-foreground: var(--sidebar-foreground);
+    --color-sidebar: var(--sidebar);
+    --color-chart-5: var(--chart-5);
+    --color-chart-4: var(--chart-4);
+    --color-chart-3: var(--chart-3);
+    --color-chart-2: var(--chart-2);
+    --color-chart-1: var(--chart-1);
+    --color-ring: var(--ring);
+    --color-input: var(--input);
+    --color-border: var(--border);
+    --color-destructive: var(--destructive);
+    --color-accent-foreground: var(--accent-foreground);
+    --color-accent: var(--accent);
+    --color-muted-foreground: var(--muted-foreground);
+    --color-muted: var(--muted);
+    --color-secondary-foreground: var(--secondary-foreground);
+    --color-secondary: var(--secondary);
+    --color-primary-foreground: var(--primary-foreground);
+    --color-primary: var(--primary);
+    --color-popover-foreground: var(--popover-foreground);
+    --color-popover: var(--popover);
+    --color-card-foreground: var(--card-foreground);
+    --color-card: var(--card);
+    --color-foreground: var(--foreground);
+    --color-background: var(--background);
+    /* Brand colours (same in both themes): bg-gold, text-riot-red, bg-navy-900 … */
+    --color-gold: var(--gold);
+    --color-gold-foreground: var(--gold-foreground);
+    --color-riot-red: var(--riot-red);
+    --color-riot-red-foreground: var(--riot-red-foreground);
+    --color-navy-950: #071320;
+    --color-navy-900: #0c1d2e;
+    --color-navy-800: #11263a;
+    --color-navy-700: #173149;
+    --color-navy-600: #1f3d5a;
+    --radius-sm: calc(var(--radius) * 0.6);
+    --radius-md: calc(var(--radius) * 0.8);
+    --radius-lg: var(--radius);
+    --radius-xl: calc(var(--radius) * 1.4);
+    --radius-2xl: calc(var(--radius) * 1.8);
+    --radius-3xl: calc(var(--radius) * 2.2);
+    --radius-4xl: calc(var(--radius) * 2.6);
+    --font-sans: var(--font-sans);
+    --animate-palette-drift: palette-drift 18s ease-in-out infinite alternate;
+    --animate-palette-spin: palette-spin 40s linear infinite;
+}
+
+@keyframes palette-drift {
+    0% {
+        transform: translate3d(-6%, -4%, 0) scale(1.05);
+    }
+    50% {
+        transform: translate3d(4%, 6%, 0) scale(1.15);
+    }
+    100% {
+        transform: translate3d(6%, -6%, 0) scale(1.08);
+    }
+}
+
+@keyframes palette-spin {
+    to {
+        transform: rotate(1turn);
+    }
+}
+
+/* Light theme (opt-in). */
+:root {
+    --background: oklch(0.985 0.004 250);
+    --foreground: oklch(0.2 0.04 250);
+    --card: oklch(1 0 0);
+    --card-foreground: oklch(0.2 0.04 250);
+    --popover: oklch(1 0 0);
+    --popover-foreground: oklch(0.2 0.04 250);
+    --primary: oklch(0.58 0.12 75);
+    --primary-foreground: oklch(0.99 0 0);
+    --secondary: oklch(0.95 0.01 250);
+    --secondary-foreground: oklch(0.25 0.04 250);
+    --muted: oklch(0.95 0.01 250);
+    --muted-foreground: oklch(0.5 0.03 250);
+    --accent: oklch(0.93 0.015 250);
+    --accent-foreground: oklch(0.25 0.04 250);
+    --destructive: oklch(0.56 0.2 25);
+    --border: oklch(0.9 0.01 250);
+    --input: oklch(0.9 0.01 250);
+    --ring: oklch(0.58 0.12 75);
+    --chart-1: oklch(0.58 0.12 75);
+    --chart-2: oklch(0.56 0.2 25);
+    --chart-3: oklch(0.62 0.12 230);
+    --chart-4: oklch(0.6 0.12 170);
+    --chart-5: oklch(0.55 0.18 300);
+    --radius: 0.75rem;
+    --sidebar: oklch(0.97 0.006 250);
+    --sidebar-foreground: oklch(0.2 0.04 250);
+    --sidebar-primary: oklch(0.58 0.12 75);
+    --sidebar-primary-foreground: oklch(0.99 0 0);
+    --sidebar-accent: oklch(0.93 0.015 250);
+    --sidebar-accent-foreground: oklch(0.25 0.04 250);
+    --sidebar-border: oklch(0.9 0.01 250);
+    --sidebar-ring: oklch(0.58 0.12 75);
+    --gold: #b0852c;
+    --gold-foreground: #ffffff;
+    --riot-red: #d13639;
+    --riot-red-foreground: #ffffff;
+    /* Waveform bars: white on navy in dark, navy on light. */
+    --waveform: #0c1d2e;
+}
+
+/* Dark theme (default): deep navy, crisp white, League gold, Riot red. */
+.dark {
+    --background: #0c1d2e;
+    --foreground: #f4f7fb;
+    --card: #10243a;
+    --card-foreground: #f4f7fb;
+    --popover: #0f2236;
+    --popover-foreground: #f4f7fb;
+    --primary: #c89b3c;
+    --primary-foreground: #0c1d2e;
+    --secondary: #16304a;
+    --secondary-foreground: #f4f7fb;
+    --muted: #15304a;
+    --muted-foreground: #9db0c4;
+    --accent: #1a3855;
+    --accent-foreground: #ffffff;
+    --destructive: #e0484b;
+    --border: rgb(255 255 255 / 9%);
+    --input: rgb(255 255 255 / 13%);
+    --ring: #c89b3c;
+    --chart-1: #c89b3c;
+    --chart-2: #d13639;
+    --chart-3: #3fa7d6;
+    --chart-4: #4fd1b5;
+    --chart-5: #b14cff;
+    --sidebar: #0a1827;
+    --sidebar-foreground: #f4f7fb;
+    --sidebar-primary: #c89b3c;
+    --sidebar-primary-foreground: #0c1d2e;
+    --sidebar-accent: #16304a;
+    --sidebar-accent-foreground: #ffffff;
+    --sidebar-border: rgb(255 255 255 / 8%);
+    --sidebar-ring: #c89b3c;
+    --gold: #c89b3c;
+    --gold-foreground: #0c1d2e;
+    --riot-red: #d13639;
+    --riot-red-foreground: #ffffff;
+    --waveform: #ffffff;
+}
+
+@layer base {
+  * {
+    @apply border-border outline-ring/50;
+  }
+  html {
+    color-scheme: light;
+  }
+  html.dark {
+    color-scheme: dark;
+  }
+  body {
+    @apply bg-background text-foreground;
+  }
+  h1,
+  h2 {
+    font-family: var(--font-display-family, var(--font-sans));
+    font-weight: 400;
+    font-synthesis: none;
+    letter-spacing: 0.02em;
+  }
+  ::selection {
+    background: color-mix(in oklab, var(--gold) 45%, transparent);
+  }
+}
+
+@layer utilities {
+  /* Subtle navy glow behind hero sections. */
+  .bg-riot-radial {
+    background:
+      radial-gradient(120% 80% at 50% 0%, color-mix(in oklab, var(--gold) 10%, transparent) 0%, transparent 55%),
+      radial-gradient(90% 60% at 100% 100%, color-mix(in oklab, var(--riot-red) 8%, transparent) 0%, transparent 60%);
+  }
+  .text-balance {
+    text-wrap: balance;
+  }
+  .scrollbar-none {
+    scrollbar-width: none;
+  }
+  .scrollbar-none::-webkit-scrollbar {
+    display: none;
+  }
+}

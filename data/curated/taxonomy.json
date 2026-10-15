@@ -1,0 +1,52 @@
+{
+  "$comment": "Controlled vocabularies shared by the pipeline, the curated research files and the web apps. Ids are kebab-case and must not change once used.",
+  "games": [
+    { "id": "league-of-legends", "name": "League of Legends", "short": "LoL", "color": "#C89B3C" },
+    { "id": "valorant", "name": "VALORANT", "short": "VAL", "color": "#FF4655" },
+    { "id": "arcane", "name": "Arcane", "short": "Arcane", "color": "#3FA7D6" },
+    { "id": "teamfight-tactics", "name": "Teamfight Tactics", "short": "TFT", "color": "#E8A33D" },
+    { "id": "legends-of-runeterra", "name": "Legends of Runeterra", "short": "LoR", "color": "#2F8FCE", "hidden": true },
+    { "id": "wild-rift", "name": "League of Legends: Wild Rift", "short": "WR", "color": "#4FC3F7" },
+    { "id": "2xko", "name": "2XKO", "short": "2XKO", "color": "#B14CFF" },
+    { "id": "riot-forge", "name": "Riot Forge", "short": "Forge", "color": "#7CB342" },
+    { "id": "riot-games", "name": "Riot Games", "short": "Riot", "color": "#D13639", "hidden": true }
+  ],
+  "categories": [
+    { "id": "worlds", "name": "Worlds Anthems", "description": "The yearly anthems and show songs of the League of Legends World Championship." },
+    { "id": "worlds-theme", "name": "Worlds Orchestral Themes", "description": "The orchestral World Championship themes: the score of the broadcast, the login screen and the arena." },
+    { "id": "msi", "name": "MSI", "description": "Mid-Season Invitational anthems and themes." },
+    { "id": "valorant-champions", "name": "VALORANT Champions & VCT", "description": "VALORANT esports anthems (Champions, Masters, VCT)." },
+    { "id": "champion-theme", "name": "Champion Themes", "description": "Themes written for a single champion, agent or fighter." },
+    { "id": "cinematic", "name": "Cinematics", "description": "Songs and scores for season-start and game cinematics." },
+    { "id": "arcane", "name": "Arcane", "description": "Music from Arcane, Riot Games' first animated series." },
+    { "id": "virtual-group", "name": "Virtual Groups", "description": "K/DA, True Damage, Pentakill, HEARTSTEEL and other in-universe bands." },
+    { "id": "login-screen", "name": "Login Screens", "description": "Client login screen themes." },
+    { "id": "skin-line", "name": "Skin Lines & Events", "description": "Music for skin universes and seasonal events (Star Guardian, Spirit Blossom, Lunar Revel…)." },
+    { "id": "soundtrack", "name": "Game Soundtracks", "description": "In-game score: maps, modes, menus and full game OSTs." },
+    { "id": "esports", "name": "Esports", "description": "Other esports music: broadcast themes, team songs, show opens." },
+    { "id": "remix", "name": "Remixes", "description": "Official remixes and alternate versions." }
+  ],
+  "videoKinds": [
+    "music_video",
+    "official_audio",
+    "lyric_video",
+    "visualizer",
+    "cinematic",
+    "login_screen",
+    "champion_theme",
+    "live_performance",
+    "remix",
+    "animated_short",
+    "skin_trailer_song",
+    "making_of",
+    "soundtrack_compilation",
+    "not_music"
+  ],
+  "videoRoles": {
+    "primary_mv": "The definitive watchable video for a song (official MV, cinematic, lyric video or visualizer). Downloaded at 1080p and used by the 'Watch music video' popup.",
+    "audio_source": "Official audio upload for a song that has no Topic art track. Its audio becomes the song's playable track.",
+    "related": "Worth linking from the song page (live performance, remix video, making-of, alternate cut) but not downloaded.",
+    "skip": "Not music, or not useful for the archive."
+  },
+  "artistRoles": ["primary", "featured", "remixer", "composer"]
+}

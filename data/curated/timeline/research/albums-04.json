@@ -1,0 +1,1682 @@
+{
+  "batch": "albums-04",
+  "researchedAt": "2026-10-14",
+  "entries": [
+    {
+      "songId": "battlecast-prime-cho-gath",
+      "date": "2012-08-03",
+      "usedFor": "Login screen: Battlecast Prime Cho'Gath skin",
+      "background": "Login screen theme by Christian Linke for Battlecast Prime Cho'Gath, a skin from the robotic Battlecast line that the client featured in August 2012. At the time, the League client opened on an animated login screen with its own music for each new champion, featured skin or event. It is part of The Music of League of Legends: Season 2, the compilation of client and map music from League's second season (late 2011 to 2012) that Riot put on streaming services in October 2019.",
+      "coverUrl": null,
+      "spotifyUrl": "https://open.spotify.com/track/0hQAu7y232YfMSfU4tFDHB",
+      "sources": [
+        {
+          "title": "Login Screen - dated list of every login screen (League of Legends Wiki)",
+          "url": "https://wiki.leagueoflegends.com/en-us/Login_Screen"
+        },
+        {
+          "title": "Battlecast Prime Cho'Gath | Login Screen - League of Legends (YouTube, 2015 upload)",
+          "url": "https://www.youtube.com/watch?v=09IKI8utQ3g"
+        }
+      ],
+      "confidence": "medium",
+      "notes": "Wiki login list: 2012-08-03. The login video was only uploaded on 2015-05-26 and the Topic art track (release date 2019-10-08) on 2025-08-12."
+    },
+    {
+      "songId": "darius-the-hand-of-noxus",
+      "date": "2012-05-23",
+      "usedFor": "Darius champion login theme",
+      "background": "Login screen theme written for the launch of Darius, the Hand of Noxus; composed by Christian Linke. At the time, the League client opened on an animated login screen with its own music for each new champion, featured skin or event. It is part of The Music of League of Legends: Season 2, the compilation of client and map music from League's second season (late 2011 to 2012) that Riot put on streaming services in October 2019.",
+      "coverUrl": null,
+      "spotifyUrl": "https://open.spotify.com/track/2FwG1WoGC6LmdFpGBCJflk",
+      "sources": [
+        {
+          "title": "Login Screen - dated list of every login screen (League of Legends Wiki)",
+          "url": "https://wiki.leagueoflegends.com/en-us/Login_Screen"
+        },
+        {
+          "title": "List of champions - release dates (League of Legends Wiki)",
+          "url": "https://wiki.leagueoflegends.com/en-us/List_of_champions"
+        },
+        {
+          "title": "Darius, the Hand of Noxus | Login Screen - League of Legends (YouTube)",
+          "url": "https://www.youtube.com/watch?v=upgwV0pIpXY"
+        }
+      ],
+      "confidence": "high",
+      "notes": "Login screen and champion release both 2012-05-23 (wiki). YouTube login upload 2015-05-26; Topic track 2025-08-12."
+    },
+    {
+      "songId": "dark-candy-fiddlesticks",
+      "date": "2012-12-14",
+      "usedFor": "Login screen: Dark Candy Fiddlesticks skin",
+      "background": "Login screen theme by Christian Linke for the candy-themed Dark Candy Fiddlesticks skin, featured in the client in December 2012. At the time, the League client opened on an animated login screen with its own music for each new champion, featured skin or event. It is part of The Music of League of Legends: Season 2, the compilation of client and map music from League's second season (late 2011 to 2012) that Riot put on streaming services in October 2019.",
+      "coverUrl": null,
+      "spotifyUrl": "https://open.spotify.com/track/4KkkqhwuIxRUvYeHu1qFf5",
+      "sources": [
+        {
+          "title": "Login Screen - dated list of every login screen (League of Legends Wiki)",
+          "url": "https://wiki.leagueoflegends.com/en-us/Login_Screen"
+        },
+        {
+          "title": "Dark Candy Fiddlesticks | Login Screen - League of Legends (YouTube)",
+          "url": "https://www.youtube.com/watch?v=3-Gfn2a6tBM"
+        }
+      ],
+      "confidence": "medium",
+      "notes": "Wiki login list: 2012-12-14. YouTube login upload 2015-05-26; Topic track 2025-08-12."
+    },
+    {
+      "songId": "diana-scorn-of-the-moon",
+      "date": "2012-08-07",
+      "usedFor": "Diana champion login theme",
+      "background": "Login screen theme written for the launch of Diana, Scorn of the Moon; Christian Linke is credited as composer and Lisa Thorn sings on it. At the time, the League client opened on an animated login screen with its own music for each new champion, featured skin or event. Riot later shared the theme as 'Daylight's End', the title of its longer version on The Music of League of Legends Vol. 1 (2015). It is part of The Music of League of Legends: Season 2, the compilation of client and map music from League's second season (late 2011 to 2012) that Riot put on streaming services in October 2019.",
+      "coverUrl": null,
+      "spotifyUrl": "https://open.spotify.com/track/0ILtH4lbI7HPMNk36BsdxZ",
+      "sources": [
+        {
+          "title": "Login Screen - dated list of every login screen (League of Legends Wiki)",
+          "url": "https://wiki.leagueoflegends.com/en-us/Login_Screen"
+        },
+        {
+          "title": "List of champions - release dates (League of Legends Wiki)",
+          "url": "https://wiki.leagueoflegends.com/en-us/List_of_champions"
+        },
+        {
+          "title": "Diana, Scorn of the Moon | Login Screen (ft. Lisa Thorn) - League of Legends (YouTube)",
+          "url": "https://www.youtube.com/watch?v=ay_o-BGVhL4"
+        }
+      ],
+      "confidence": "high",
+      "notes": "Login screen and champion release both 2012-08-07. The login video description links the theme as 'daylights-end-dianas-theme' on SoundCloud."
+    },
+    {
+      "songId": "dominion-pt-1",
+      "date": "2011-09-26",
+      "usedFor": "Dominion (Crystal Scar) in-game music",
+      "background": "The first of three in-game music cues Daniel Vulcano composed for Dominion. Dominion was League's capture-and-hold mode on the Crystal Scar map; it went live on 2011-09-26 with patch V1.0.0.125 and was retired in February 2016. It is part of The Music of League of Legends: Season 2, the compilation of client and map music from League's second season (late 2011 to 2012) that Riot put on streaming services in October 2019.",
+      "coverUrl": null,
+      "spotifyUrl": "https://open.spotify.com/track/2Ovg7t9CQpgfadm61LuHQc",
+      "sources": [
+        {
+          "title": "Dominion (League of Legends Wiki) - released 2011-09-26 in V1.0.0.125",
+          "url": "https://wiki.leagueoflegends.com/en-us/Dominion"
+        },
+        {
+          "title": "League of Legends: Dominion mode launches (GameSpot, 2011-09-26)",
+          "url": "https://www.gamespot.com/articles/league-of-legends-dominion-mode-launches/1100-6336613/"
+        },
+        {
+          "title": "The Music of League of Legends: Season 2 (Original Game Soundtrack) - Spotify (composer credits)",
+          "url": "https://open.spotify.com/album/7ufpWh7GHxntWMcuEB9SbH"
+        }
+      ],
+      "confidence": "high",
+      "notes": "Dated to the Dominion launch (2011-09-26). Although Dominion launched before Season Two began, Riot filed its music on the Season 2 album; the Topic art track is a 2025 upload."
+    },
+    {
+      "songId": "dominion-pt-2",
+      "date": "2011-09-26",
+      "usedFor": "Dominion (Crystal Scar) in-game music",
+      "background": "The second of three in-game music cues Daniel Vulcano composed for Dominion. Dominion was League's capture-and-hold mode on the Crystal Scar map; it went live on 2011-09-26 with patch V1.0.0.125 and was retired in February 2016. It is part of The Music of League of Legends: Season 2, the compilation of client and map music from League's second season (late 2011 to 2012) that Riot put on streaming services in October 2019.",
+      "coverUrl": null,
+      "spotifyUrl": "https://open.spotify.com/track/1HutE7HbW23qqP6HxwiTCk",
+      "sources": [
+        {
+          "title": "Dominion (League of Legends Wiki) - released 2011-09-26 in V1.0.0.125",
+          "url": "https://wiki.leagueoflegends.com/en-us/Dominion"
+        },
+        {
+          "title": "League of Legends: Dominion mode launches (GameSpot, 2011-09-26)",
+          "url": "https://www.gamespot.com/articles/league-of-legends-dominion-mode-launches/1100-6336613/"
+        },
+        {
+          "title": "The Music of League of Legends: Season 2 (Original Game Soundtrack) - Spotify (composer credits)",
+          "url": "https://open.spotify.com/album/7ufpWh7GHxntWMcuEB9SbH"
+        }
+      ],
+      "confidence": "high",
+      "notes": "Dated to the Dominion launch (2011-09-26). Although Dominion launched before Season Two began, Riot filed its music on the Season 2 album; the Topic art track is a 2025 upload."
+    },
+    {
+      "songId": "dominion-pt-3",
+      "date": "2011-09-26",
+      "usedFor": "Dominion (Crystal Scar) in-game music",
+      "background": "The third of three in-game music cues Daniel Vulcano composed for Dominion. Dominion was League's capture-and-hold mode on the Crystal Scar map; it went live on 2011-09-26 with patch V1.0.0.125 and was retired in February 2016. It is part of The Music of League of Legends: Season 2, the compilation of client and map music from League's second season (late 2011 to 2012) that Riot put on streaming services in October 2019.",
+      "coverUrl": null,
+      "spotifyUrl": "https://open.spotify.com/track/02eGIN8vbicepVhCTKjRXZ",
+      "sources": [
+        {
+          "title": "Dominion (League of Legends Wiki) - released 2011-09-26 in V1.0.0.125",
+          "url": "https://wiki.leagueoflegends.com/en-us/Dominion"
+        },
+        {
+          "title": "League of Legends: Dominion mode launches (GameSpot, 2011-09-26)",
+          "url": "https://www.gamespot.com/articles/league-of-legends-dominion-mode-launches/1100-6336613/"
+        },
+        {
+          "title": "The Music of League of Legends: Season 2 (Original Game Soundtrack) - Spotify (composer credits)",
+          "url": "https://open.spotify.com/album/7ufpWh7GHxntWMcuEB9SbH"
+        }
+      ],
+      "confidence": "high",
+      "notes": "Dated to the Dominion launch (2011-09-26). Although Dominion launched before Season Two began, Riot filed its music on the Season 2 album; the Topic art track is a 2025 upload."
+    },
+    {
+      "songId": "dominion-theme",
+      "date": "2011-09-26",
+      "usedFor": "Dominion mode theme and login screen",
+      "background": "Main theme of the Dominion game mode, credited to Christian Linke and Daniel Vulcano, which also played on the Dominion login screen when the mode launched. Dominion was League's capture-and-hold mode on the Crystal Scar map; it went live on 2011-09-26 with patch V1.0.0.125 and was retired in February 2016. It is part of The Music of League of Legends: Season 2, the compilation of client and map music from League's second season (late 2011 to 2012) that Riot put on streaming services in October 2019.",
+      "coverUrl": null,
+      "spotifyUrl": "https://open.spotify.com/track/0yPRDKoYi1Z25uJcREfbDi",
+      "sources": [
+        {
+          "title": "Dominion (League of Legends Wiki) - released 2011-09-26 in V1.0.0.125",
+          "url": "https://wiki.leagueoflegends.com/en-us/Dominion"
+        },
+        {
+          "title": "Login Screen - dated list of every login screen (League of Legends Wiki)",
+          "url": "https://wiki.leagueoflegends.com/en-us/Login_Screen"
+        },
+        {
+          "title": "The Music of League of Legends: Season 2 (Original Game Soundtrack) - Spotify (composer credits)",
+          "url": "https://open.spotify.com/album/7ufpWh7GHxntWMcuEB9SbH"
+        }
+      ],
+      "confidence": "high",
+      "notes": "Wiki login list: 'Dominion - Login Screen' 2011-09-26 (V1.0.0.125). Audio check: the first ~60 s of this track match the 72 s Hecarim, the Shadow of War login video (83s03_rSjRs, 2012-04-18), so Hecarim's login reused this theme."
+    },
+    {
+      "songId": "dominion-champion-select-blind-pick",
+      "date": "2011-09-26",
+      "usedFor": "Dominion champion select (Blind Pick)",
+      "background": "Champion-select music by Daniel Vulcano that played while players picked champions for Blind Pick games of Dominion. Dominion was League's capture-and-hold mode on the Crystal Scar map; it went live on 2011-09-26 with patch V1.0.0.125 and was retired in February 2016. It is part of The Music of League of Legends: Season 2, the compilation of client and map music from League's second season (late 2011 to 2012) that Riot put on streaming services in October 2019.",
+      "coverUrl": null,
+      "spotifyUrl": "https://open.spotify.com/track/2K0kg7PZ58sx0GMoj4dBnx",
+      "sources": [
+        {
+          "title": "Dominion (League of Legends Wiki) - released 2011-09-26 in V1.0.0.125",
+          "url": "https://wiki.leagueoflegends.com/en-us/Dominion"
+        },
+        {
+          "title": "League of Legends: Dominion mode launches (GameSpot, 2011-09-26)",
+          "url": "https://www.gamespot.com/articles/league-of-legends-dominion-mode-launches/1100-6336613/"
+        },
+        {
+          "title": "The Music of League of Legends: Season 2 (Original Game Soundtrack) - Spotify (composer credits)",
+          "url": "https://open.spotify.com/album/7ufpWh7GHxntWMcuEB9SbH"
+        }
+      ],
+      "confidence": "high",
+      "notes": "Dated to the Dominion launch (2011-09-26); Topic art track uploaded 2025-08-12."
+    },
+    {
+      "songId": "dominion-champion-select-draft-pick",
+      "date": "2011-09-26",
+      "usedFor": "Dominion champion select (Draft Pick)",
+      "background": "Champion-select music by Daniel Vulcano that played while players picked champions for Draft Pick games of Dominion. Dominion was League's capture-and-hold mode on the Crystal Scar map; it went live on 2011-09-26 with patch V1.0.0.125 and was retired in February 2016. It is part of The Music of League of Legends: Season 2, the compilation of client and map music from League's second season (late 2011 to 2012) that Riot put on streaming services in October 2019.",
+      "coverUrl": null,
+      "spotifyUrl": "https://open.spotify.com/track/3BenizsLMdBo7oMG6apjvg",
+      "sources": [
+        {
+          "title": "Dominion (League of Legends Wiki) - released 2011-09-26 in V1.0.0.125",
+          "url": "https://wiki.leagueoflegends.com/en-us/Dominion"
+        },
+        {
+          "title": "League of Legends: Dominion mode launches (GameSpot, 2011-09-26)",
+          "url": "https://www.gamespot.com/articles/league-of-legends-dominion-mode-launches/1100-6336613/"
+        },
+        {
+          "title": "The Music of League of Legends: Season 2 (Original Game Soundtrack) - Spotify (composer credits)",
+          "url": "https://open.spotify.com/album/7ufpWh7GHxntWMcuEB9SbH"
+        }
+      ],
+      "confidence": "high",
+      "notes": "Dated to the Dominion launch (2011-09-26); Topic art track uploaded 2025-08-12."
+    },
+    {
+      "songId": "draven-the-glorious-executioner",
+      "date": "2012-06-05",
+      "usedFor": "Draven champion login theme",
+      "background": "Login screen theme written for the launch of Draven, the Glorious Executioner; composed by Christian Linke. At the time, the League client opened on an animated login screen with its own music for each new champion, featured skin or event. It is part of The Music of League of Legends: Season 2, the compilation of client and map music from League's second season (late 2011 to 2012) that Riot put on streaming services in October 2019.",
+      "coverUrl": null,
+      "spotifyUrl": "https://open.spotify.com/track/0GezBJeT85lhaCYQfBUisy",
+      "sources": [
+        {
+          "title": "Login Screen - dated list of every login screen (League of Legends Wiki)",
+          "url": "https://wiki.leagueoflegends.com/en-us/Login_Screen"
+        },
+        {
+          "title": "List of champions - release dates (League of Legends Wiki)",
+          "url": "https://wiki.leagueoflegends.com/en-us/List_of_champions"
+        },
+        {
+          "title": "Draven, the Glorious Executioner | Login Screen - League of Legends (YouTube)",
+          "url": "https://www.youtube.com/watch?v=H1xHayXetLU"
+        }
+      ],
+      "confidence": "high",
+      "notes": "Login screen 2012-06-05 (patch day per wiki); Draven himself is listed as released 2012-06-06."
+    },
+    {
+      "songId": "elise-the-spider-queen",
+      "date": "2012-10-26",
+      "usedFor": "Elise champion login theme",
+      "background": "Login screen theme written for the launch of Elise, the Spider Queen; composed by Christian Linke. At the time, the League client opened on an animated login screen with its own music for each new champion, featured skin or event. It is part of The Music of League of Legends: Season 2, the compilation of client and map music from League's second season (late 2011 to 2012) that Riot put on streaming services in October 2019.",
+      "coverUrl": null,
+      "spotifyUrl": "https://open.spotify.com/track/0BfaTNIDUGrNlvILKxd7z4",
+      "sources": [
+        {
+          "title": "Login Screen - dated list of every login screen (League of Legends Wiki)",
+          "url": "https://wiki.leagueoflegends.com/en-us/Login_Screen"
+        },
+        {
+          "title": "List of champions - release dates (League of Legends Wiki)",
+          "url": "https://wiki.leagueoflegends.com/en-us/List_of_champions"
+        },
+        {
+          "title": "Elise, the Spider Queen | Login Screen - League of Legends (YouTube)",
+          "url": "https://www.youtube.com/watch?v=skD_I-SHk30"
+        }
+      ],
+      "confidence": "high",
+      "notes": "Login screen and champion release both 2012-10-26. Audio check: this Topic track (zXVlCG0QbCo) is sample-identical to the 'Haunted Zyra' Topic track (y7J7PVNpZOg), and the two login videos carry the same music."
+    },
+    {
+      "songId": "eternum-nocturne",
+      "date": "2012-12-05",
+      "usedFor": "Login screen: Eternum Nocturne skin",
+      "background": "Login screen theme by Christian Linke for the Eternum Nocturne skin, featured in the client in December 2012. At the time, the League client opened on an animated login screen with its own music for each new champion, featured skin or event. It is part of The Music of League of Legends: Season 2, the compilation of client and map music from League's second season (late 2011 to 2012) that Riot put on streaming services in October 2019.",
+      "coverUrl": null,
+      "spotifyUrl": "https://open.spotify.com/track/2yObVBOL8Cnj94egQyi8NT",
+      "sources": [
+        {
+          "title": "Login Screen - dated list of every login screen (League of Legends Wiki)",
+          "url": "https://wiki.leagueoflegends.com/en-us/Login_Screen"
+        },
+        {
+          "title": "Eternum Nocturne | Login Screen - League of Legends (YouTube)",
+          "url": "https://www.youtube.com/watch?v=rgbKA01lSS8"
+        }
+      ],
+      "confidence": "medium",
+      "notes": "Wiki login list: 2012-12-05. YouTube login upload 2015-05-26; Topic track 2025-08-12."
+    },
+    {
+      "songId": "gatekeeper-galio",
+      "date": "2012-04-23",
+      "usedFor": "Login screen: Gatekeeper Galio skin",
+      "background": "Login screen theme by Christian Linke for the Gatekeeper Galio skin, featured in the client in April 2012. At the time, the League client opened on an animated login screen with its own music for each new champion, featured skin or event. It is part of The Music of League of Legends: Season 2, the compilation of client and map music from League's second season (late 2011 to 2012) that Riot put on streaming services in October 2019.",
+      "coverUrl": null,
+      "spotifyUrl": "https://open.spotify.com/track/0rrnbw9aLIvk8HW0Q26Lfq",
+      "sources": [
+        {
+          "title": "Login Screen - dated list of every login screen (League of Legends Wiki)",
+          "url": "https://wiki.leagueoflegends.com/en-us/Login_Screen"
+        },
+        {
+          "title": "Gatekeeper Galio | Login Screen - League of Legends (YouTube)",
+          "url": "https://www.youtube.com/watch?v=1Tnx6eNCH7Q"
+        }
+      ],
+      "confidence": "medium",
+      "notes": "Wiki login list: 2012-04-23. YouTube login upload 2015-05-26; Topic track 2025-08-12."
+    },
+    {
+      "songId": "jayce-the-defender-of-tomorrow",
+      "date": "2012-07-07",
+      "usedFor": "Jayce champion login theme",
+      "background": "Login screen theme written for the launch of Jayce, the Defender of Tomorrow; composed by Christian Linke. At the time, the League client opened on an animated login screen with its own music for each new champion, featured skin or event. It is part of The Music of League of Legends: Season 2, the compilation of client and map music from League's second season (late 2011 to 2012) that Riot put on streaming services in October 2019.",
+      "coverUrl": null,
+      "spotifyUrl": "https://open.spotify.com/track/1s0J4sFnUbt5F8BNI6dv1q",
+      "sources": [
+        {
+          "title": "Login Screen - dated list of every login screen (League of Legends Wiki)",
+          "url": "https://wiki.leagueoflegends.com/en-us/Login_Screen"
+        },
+        {
+          "title": "List of champions - release dates (League of Legends Wiki)",
+          "url": "https://wiki.leagueoflegends.com/en-us/List_of_champions"
+        },
+        {
+          "title": "Jayce, the Defender of Tomorrow | Login Screen - League of Legends (YouTube)",
+          "url": "https://www.youtube.com/watch?v=OcIE8UQKXdQ"
+        }
+      ],
+      "confidence": "high",
+      "notes": "Login screen and champion release both 2012-07-07."
+    },
+    {
+      "songId": "khazix-the-voidreaver",
+      "date": "2012-09-27",
+      "usedFor": "Kha'Zix champion login theme",
+      "background": "Login screen theme written for the launch of Kha'Zix, the Voidreaver; composed by Christian Linke. At the time, the League client opened on an animated login screen with its own music for each new champion, featured skin or event. It is part of The Music of League of Legends: Season 2, the compilation of client and map music from League's second season (late 2011 to 2012) that Riot put on streaming services in October 2019.",
+      "coverUrl": null,
+      "spotifyUrl": "https://open.spotify.com/track/2ULCLD3vvSQhQ2WcRYj0b6",
+      "sources": [
+        {
+          "title": "Login Screen - dated list of every login screen (League of Legends Wiki)",
+          "url": "https://wiki.leagueoflegends.com/en-us/Login_Screen"
+        },
+        {
+          "title": "List of champions - release dates (League of Legends Wiki)",
+          "url": "https://wiki.leagueoflegends.com/en-us/List_of_champions"
+        },
+        {
+          "title": "Kha'Zix, the Voidreaver | Login Screen - League of Legends (YouTube)",
+          "url": "https://www.youtube.com/watch?v=27CRdopEhNM"
+        }
+      ],
+      "confidence": "high",
+      "notes": "Login screen and champion release both 2012-09-27."
+    },
+    {
+      "songId": "lulu-the-fae-sorceress",
+      "date": "2012-03-20",
+      "usedFor": "Lulu champion login theme",
+      "background": "Login screen theme written for the launch of Lulu, the Fae Sorceress; composed by Christian Linke. At the time, the League client opened on an animated login screen with its own music for each new champion, featured skin or event. It is part of The Music of League of Legends: Season 2, the compilation of client and map music from League's second season (late 2011 to 2012) that Riot put on streaming services in October 2019.",
+      "coverUrl": null,
+      "spotifyUrl": "https://open.spotify.com/track/6VjoeSYFwnvKggTHzv3RV0",
+      "sources": [
+        {
+          "title": "Login Screen - dated list of every login screen (League of Legends Wiki)",
+          "url": "https://wiki.leagueoflegends.com/en-us/Login_Screen"
+        },
+        {
+          "title": "List of champions - release dates (League of Legends Wiki)",
+          "url": "https://wiki.leagueoflegends.com/en-us/List_of_champions"
+        },
+        {
+          "title": "Lulu, the Fae Sorceress | Login Screen - League of Legends (YouTube)",
+          "url": "https://www.youtube.com/watch?v=0zuUxjv2bb4"
+        }
+      ],
+      "confidence": "high",
+      "notes": "Login screen and champion release both 2012-03-20; the login video was only uploaded in 2017."
+    },
+    {
+      "songId": "nami-the-tidecaller",
+      "date": "2012-12-07",
+      "usedFor": "Nami champion login theme",
+      "background": "Login screen theme written for the launch of Nami, the Tidecaller; composed by Christian Linke. At the time, the League client opened on an animated login screen with its own music for each new champion, featured skin or event. It is part of The Music of League of Legends: Season 2, the compilation of client and map music from League's second season (late 2011 to 2012) that Riot put on streaming services in October 2019.",
+      "coverUrl": null,
+      "spotifyUrl": "https://open.spotify.com/track/6ccnNwcCUBJrECp4yNuCBN",
+      "sources": [
+        {
+          "title": "Login Screen - dated list of every login screen (League of Legends Wiki)",
+          "url": "https://wiki.leagueoflegends.com/en-us/Login_Screen"
+        },
+        {
+          "title": "List of champions - release dates (League of Legends Wiki)",
+          "url": "https://wiki.leagueoflegends.com/en-us/List_of_champions"
+        },
+        {
+          "title": "Nami, the Tidecaller | Login Screen - League of Legends (YouTube)",
+          "url": "https://www.youtube.com/watch?v=WN5OA1Qv1N4"
+        }
+      ],
+      "confidence": "high",
+      "notes": "Login screen and champion release both 2012-12-07."
+    },
+    {
+      "songId": "pulsefire-ezreal",
+      "date": "2012-06-29",
+      "usedFor": "Login screen: Pulsefire Ezreal ultimate skin",
+      "background": "Login screen theme by Christian Linke for Pulsefire Ezreal, League's first ultimate skin, which had been revealed with a trailer earlier that June. The login screen came with patch V1.0.0.141, and Riot re-released it with updated art in October 2018 (patch 8.19). It is part of The Music of League of Legends: Season 2, the compilation of client and map music from League's second season (late 2011 to 2012) that Riot put on streaming services in October 2019.",
+      "coverUrl": null,
+      "spotifyUrl": "https://open.spotify.com/track/2YDsUgxzUtgOnnFZtAM4jF",
+      "sources": [
+        {
+          "title": "Login Screen - dated list of every login screen (League of Legends Wiki)",
+          "url": "https://wiki.leagueoflegends.com/en-us/Login_Screen"
+        },
+        {
+          "title": "Pulsefire Ezreal | Login Screen - League of Legends (YouTube, original login)",
+          "url": "https://www.youtube.com/watch?v=TK72r5NTDnQ"
+        },
+        {
+          "title": "Pulsefire Ezreal | Login Screen Update - League of Legends (YouTube, 2018-10-03)",
+          "url": "https://www.youtube.com/watch?v=NSM31U-4Eik"
+        }
+      ],
+      "confidence": "medium",
+      "notes": "Wiki: original login 2012-06-29 (V1.0.0.141); 'Login Screen Update' 2018-10-03 (V8.19). The catalog's music video is the 2018 update; the 111 s Topic track matches that video, while the original login upload (TK72r5NTDnQ) is a 74 s cut."
+    },
+    {
+      "songId": "rengar-the-pridestalker",
+      "date": "2012-08-21",
+      "usedFor": "Rengar champion login theme",
+      "background": "Login screen theme written for the launch of Rengar, the Pridestalker; composed by Christian Linke. At the time, the League client opened on an animated login screen with its own music for each new champion, featured skin or event. It is part of The Music of League of Legends: Season 2, the compilation of client and map music from League's second season (late 2011 to 2012) that Riot put on streaming services in October 2019.",
+      "coverUrl": null,
+      "spotifyUrl": "https://open.spotify.com/track/26SUL0ZMdwAx8c4PxCI6SN",
+      "sources": [
+        {
+          "title": "Login Screen - dated list of every login screen (League of Legends Wiki)",
+          "url": "https://wiki.leagueoflegends.com/en-us/Login_Screen"
+        },
+        {
+          "title": "List of champions - release dates (League of Legends Wiki)",
+          "url": "https://wiki.leagueoflegends.com/en-us/List_of_champions"
+        },
+        {
+          "title": "Rengar, the Pridestalker | Login Screen - League of Legends (YouTube)",
+          "url": "https://www.youtube.com/watch?v=0axsibJhIco"
+        }
+      ],
+      "confidence": "high",
+      "notes": "Login screen and champion release both 2012-08-21."
+    },
+    {
+      "songId": "syndra-the-dark-sovereign",
+      "date": "2012-09-12",
+      "usedFor": "Syndra champion login theme",
+      "background": "Login screen theme written for the launch of Syndra, the Dark Sovereign; composed by Christian Linke. At the time, the League client opened on an animated login screen with its own music for each new champion, featured skin or event. It is part of The Music of League of Legends: Season 2, the compilation of client and map music from League's second season (late 2011 to 2012) that Riot put on streaming services in October 2019.",
+      "coverUrl": null,
+      "spotifyUrl": "https://open.spotify.com/track/59O70pSrzx5jT6io75XBie",
+      "sources": [
+        {
+          "title": "Login Screen - dated list of every login screen (League of Legends Wiki)",
+          "url": "https://wiki.leagueoflegends.com/en-us/Login_Screen"
+        },
+        {
+          "title": "List of champions - release dates (League of Legends Wiki)",
+          "url": "https://wiki.leagueoflegends.com/en-us/List_of_champions"
+        },
+        {
+          "title": "Syndra, the Dark Sovereign | Login Screen - League of Legends (YouTube)",
+          "url": "https://www.youtube.com/watch?v=k73RLHTjn8A"
+        }
+      ],
+      "confidence": "high",
+      "notes": "Login screen 2012-09-12 (patch day per wiki); Syndra is listed as released 2012-09-13."
+    },
+    {
+      "songId": "twisted-treeline-pt-1",
+      "date": "2012-10-25",
+      "usedFor": "Twisted Treeline (2012 remake) map music",
+      "background": "The first of three in-game music cues Duncan Watt composed for the remade Twisted Treeline. The remade Twisted Treeline, League's 3v3 map with a new layout, altars and the boss Vilemaw, replaced the original version in patch V1.0.0.150 on 2012-10-25. It is part of The Music of League of Legends: Season 2, the compilation of client and map music from League's second season (late 2011 to 2012) that Riot put on streaming services in October 2019.",
+      "coverUrl": null,
+      "spotifyUrl": "https://open.spotify.com/track/7gedTMNSpYEl8B0ryanfJt",
+      "sources": [
+        {
+          "title": "Patch/Season Two (2012) - V1.0.0.150, 2012-10-25: Twisted Treeline remake (League of Legends Wiki)",
+          "url": "https://wiki.leagueoflegends.com/en-us/Patch/Season_Two"
+        },
+        {
+          "title": "Shadow Isles patch notes, V1.0.0.150 (Surrender at 20, October 2012)",
+          "url": "https://www.surrenderat20.net/2012/10/shadow-isles-patch-notes.html"
+        },
+        {
+          "title": "The Music of League of Legends: Season 2 (Original Game Soundtrack) - Spotify (composer credits)",
+          "url": "https://open.spotify.com/album/7ufpWh7GHxntWMcuEB9SbH"
+        }
+      ],
+      "confidence": "medium",
+      "notes": "Dated to the Twisted Treeline remake patch (V1.0.0.150, 2012-10-25); its placement on the Season 2 album and Duncan Watt's credit point to the remake rather than the 2010 original. Topic art track uploaded 2025-08-12."
+    },
+    {
+      "songId": "twisted-treeline-pt-2",
+      "date": "2012-10-25",
+      "usedFor": "Twisted Treeline (2012 remake) map music",
+      "background": "The second of three in-game music cues Duncan Watt composed for the remade Twisted Treeline. The remade Twisted Treeline, League's 3v3 map with a new layout, altars and the boss Vilemaw, replaced the original version in patch V1.0.0.150 on 2012-10-25. It is part of The Music of League of Legends: Season 2, the compilation of client and map music from League's second season (late 2011 to 2012) that Riot put on streaming services in October 2019.",
+      "coverUrl": null,
+      "spotifyUrl": "https://open.spotify.com/track/6KHlJquMSnC5eviXENFZHg",
+      "sources": [
+        {
+          "title": "Patch/Season Two (2012) - V1.0.0.150, 2012-10-25: Twisted Treeline remake (League of Legends Wiki)",
+          "url": "https://wiki.leagueoflegends.com/en-us/Patch/Season_Two"
+        },
+        {
+          "title": "Shadow Isles patch notes, V1.0.0.150 (Surrender at 20, October 2012)",
+          "url": "https://www.surrenderat20.net/2012/10/shadow-isles-patch-notes.html"
+        },
+        {
+          "title": "The Music of League of Legends: Season 2 (Original Game Soundtrack) - Spotify (composer credits)",
+          "url": "https://open.spotify.com/album/7ufpWh7GHxntWMcuEB9SbH"
+        }
+      ],
+      "confidence": "medium",
+      "notes": "Dated to the Twisted Treeline remake patch (V1.0.0.150, 2012-10-25); its placement on the Season 2 album and Duncan Watt's credit point to the remake rather than the 2010 original. Topic art track uploaded 2025-08-12."
+    },
+    {
+      "songId": "twisted-treeline-pt-3",
+      "date": "2012-10-25",
+      "usedFor": "Twisted Treeline (2012 remake) map music",
+      "background": "The third of three in-game music cues Duncan Watt composed for the remade Twisted Treeline. The remade Twisted Treeline, League's 3v3 map with a new layout, altars and the boss Vilemaw, replaced the original version in patch V1.0.0.150 on 2012-10-25. It is part of The Music of League of Legends: Season 2, the compilation of client and map music from League's second season (late 2011 to 2012) that Riot put on streaming services in October 2019.",
+      "coverUrl": null,
+      "spotifyUrl": "https://open.spotify.com/track/1pyfUBBGAOg03injM2aaxp",
+      "sources": [
+        {
+          "title": "Patch/Season Two (2012) - V1.0.0.150, 2012-10-25: Twisted Treeline remake (League of Legends Wiki)",
+          "url": "https://wiki.leagueoflegends.com/en-us/Patch/Season_Two"
+        },
+        {
+          "title": "Shadow Isles patch notes, V1.0.0.150 (Surrender at 20, October 2012)",
+          "url": "https://www.surrenderat20.net/2012/10/shadow-isles-patch-notes.html"
+        },
+        {
+          "title": "The Music of League of Legends: Season 2 (Original Game Soundtrack) - Spotify (composer credits)",
+          "url": "https://open.spotify.com/album/7ufpWh7GHxntWMcuEB9SbH"
+        }
+      ],
+      "confidence": "medium",
+      "notes": "Dated to the Twisted Treeline remake patch (V1.0.0.150, 2012-10-25); its placement on the Season 2 album and Duncan Watt's credit point to the remake rather than the 2010 original. Topic art track uploaded 2025-08-12."
+    },
+    {
+      "songId": "varus-the-arrow-of-retribution",
+      "date": "2012-05-08",
+      "usedFor": "Varus champion login theme",
+      "background": "Login screen theme written for the launch of Varus, the Arrow of Retribution; composed by Christian Linke. At the time, the League client opened on an animated login screen with its own music for each new champion, featured skin or event. It is part of The Music of League of Legends: Season 2, the compilation of client and map music from League's second season (late 2011 to 2012) that Riot put on streaming services in October 2019.",
+      "coverUrl": null,
+      "spotifyUrl": "https://open.spotify.com/track/1zS0DWXGfLtOnsnOh38sdp",
+      "sources": [
+        {
+          "title": "Login Screen - dated list of every login screen (League of Legends Wiki)",
+          "url": "https://wiki.leagueoflegends.com/en-us/Login_Screen"
+        },
+        {
+          "title": "List of champions - release dates (League of Legends Wiki)",
+          "url": "https://wiki.leagueoflegends.com/en-us/List_of_champions"
+        },
+        {
+          "title": "Varus, the Arrow of Retribution | Login Screen - League of Legends (YouTube)",
+          "url": "https://www.youtube.com/watch?v=J4ZE-lFqf4w"
+        }
+      ],
+      "confidence": "high",
+      "notes": "Login screen and champion release both 2012-05-08."
+    },
+    {
+      "songId": "vi-the-piltover-enforcer-here-comes-vi",
+      "date": "2012-12-19",
+      "usedFor": "Vi champion login theme",
+      "background": "Login screen theme written for the launch of Vi, the Piltover Enforcer; Christian Linke is credited as composer and Nicki Taylor sings on it; the album lists it with the subtitle 'Here Comes Vi'. At the time, the League client opened on an animated login screen with its own music for each new champion, featured skin or event. It is part of The Music of League of Legends: Season 2, the compilation of client and map music from League's second season (late 2011 to 2012) that Riot put on streaming services in October 2019.",
+      "coverUrl": null,
+      "spotifyUrl": "https://open.spotify.com/track/6AiWyPOrEuChWNW78zPCcV",
+      "sources": [
+        {
+          "title": "Login Screen - dated list of every login screen (League of Legends Wiki)",
+          "url": "https://wiki.leagueoflegends.com/en-us/Login_Screen"
+        },
+        {
+          "title": "List of champions - release dates (League of Legends Wiki)",
+          "url": "https://wiki.leagueoflegends.com/en-us/List_of_champions"
+        },
+        {
+          "title": "Vi, the Piltover Enforcer | Login Screen (ft. Nicki Taylor) - League of Legends (YouTube)",
+          "url": "https://www.youtube.com/watch?v=18yK0G9hHts"
+        }
+      ],
+      "confidence": "high",
+      "notes": "Login screen and champion release both 2012-12-19."
+    },
+    {
+      "songId": "zed-the-master-of-shadows",
+      "date": "2012-11-13",
+      "usedFor": "Zed champion login theme",
+      "background": "Login screen theme written for the launch of Zed, the Master of Shadows; composed by Christian Linke. At the time, the League client opened on an animated login screen with its own music for each new champion, featured skin or event. It is part of The Music of League of Legends: Season 2, the compilation of client and map music from League's second season (late 2011 to 2012) that Riot put on streaming services in October 2019.",
+      "coverUrl": null,
+      "spotifyUrl": "https://open.spotify.com/track/5dfNGS3psiZmy4QX4z41ty",
+      "sources": [
+        {
+          "title": "Login Screen - dated list of every login screen (League of Legends Wiki)",
+          "url": "https://wiki.leagueoflegends.com/en-us/Login_Screen"
+        },
+        {
+          "title": "List of champions - release dates (League of Legends Wiki)",
+          "url": "https://wiki.leagueoflegends.com/en-us/List_of_champions"
+        },
+        {
+          "title": "Zed, the Master of Shadows | Login Screen - League of Legends (YouTube)",
+          "url": "https://www.youtube.com/watch?v=8kr6J2I-0qk"
+        }
+      ],
+      "confidence": "high",
+      "notes": "Login screen and champion release both 2012-11-13."
+    },
+    {
+      "songId": "zyra-rise-of-the-thorns",
+      "date": "2012-07-19",
+      "usedFor": "Zyra champion login theme",
+      "background": "Login screen theme written for the launch of Zyra, Rise of the Thorns; composed by Christian Linke. At the time, the League client opened on an animated login screen with its own music for each new champion, featured skin or event. It is part of The Music of League of Legends: Season 2, the compilation of client and map music from League's second season (late 2011 to 2012) that Riot put on streaming services in October 2019.",
+      "coverUrl": null,
+      "spotifyUrl": "https://open.spotify.com/track/3TkakGHH20pYv0vreG5wR1",
+      "sources": [
+        {
+          "title": "Login Screen - dated list of every login screen (League of Legends Wiki)",
+          "url": "https://wiki.leagueoflegends.com/en-us/Login_Screen"
+        },
+        {
+          "title": "List of champions - release dates (League of Legends Wiki)",
+          "url": "https://wiki.leagueoflegends.com/en-us/List_of_champions"
+        },
+        {
+          "title": "Patch 1.0.0.143 (Rift Patch Notes) - Zyra's release patch, 2012-07-19",
+          "url": "https://www.riftpatchnotes.com/lol/patch/1-0-0-143"
+        }
+      ],
+      "confidence": "medium",
+      "notes": "The wiki login list dates this login '2019-07-19' but links it to V1.0.0.143 and lists it among the 2012 logins: an obvious typo for 2012-07-19, the V1.0.0.143 patch day. The champion list gives Zyra's release as 2012-07-24."
+    },
+    {
+      "songId": "pulsefire-ezreal-trailer",
+      "date": "2012-06-13",
+      "usedFor": "Pulsefire Ezreal skin trailer",
+      "background": "Christian Linke's music for the trailer that introduced Pulsefire Ezreal, League's first ultimate skin, on 2012-06-13. It is a separate cue from the skin's login screen theme. It is part of The Music of League of Legends: Season 2, the compilation of client and map music from League's second season (late 2011 to 2012) that Riot put on streaming services in October 2019.",
+      "coverUrl": null,
+      "spotifyUrl": "https://open.spotify.com/track/2pcXIusEDaSAqv8NJTVrHG",
+      "sources": [
+        {
+          "title": "Pulsefire Ezreal | Skins Trailer - League of Legends (YouTube, 2012-06-13)",
+          "url": "https://www.youtube.com/watch?v=7ebQTanjbys"
+        },
+        {
+          "title": "The Music of League of Legends: Season 2 (Original Game Soundtrack) - Spotify (composer credits)",
+          "url": "https://open.spotify.com/album/7ufpWh7GHxntWMcuEB9SbH"
+        }
+      ],
+      "confidence": "high",
+      "notes": "The trailer upload (2012-06-13) is the original; the Topic art track is a 2025 upload."
+    },
+    {
+      "songId": "aatrox-the-darkin-blade-classic-login",
+      "date": "2013-06-13",
+      "usedFor": "Aatrox champion login theme (original)",
+      "background": "Login screen theme written for the launch of Aatrox, the Darkin Blade; composed by Christian Linke. At the time, the League client opened on an animated login screen with its own music for each new champion, featured skin or event. 'Classic Login' tells it apart from the new theme Aatrox got with his 2018 rework. It is part of The Music of League of Legends: Season 3, the compilation of client and map music from the 2013 season that Riot put on streaming services in October 2019.",
+      "coverUrl": null,
+      "spotifyUrl": "https://open.spotify.com/track/1BF2FjOMCgDzKcLLJ2dZq3",
+      "sources": [
+        {
+          "title": "Login Screen - dated list of every login screen (League of Legends Wiki)",
+          "url": "https://wiki.leagueoflegends.com/en-us/Login_Screen"
+        },
+        {
+          "title": "List of champions - release dates (League of Legends Wiki)",
+          "url": "https://wiki.leagueoflegends.com/en-us/List_of_champions"
+        },
+        {
+          "title": "Aatrox, the Darkin Blade | Login Screen - League of Legends (YouTube)",
+          "url": "https://www.youtube.com/watch?v=vsHsGLYR4WM"
+        }
+      ],
+      "confidence": "high",
+      "notes": "Login screen and champion release both 2013-06-13."
+    },
+    {
+      "songId": "aether-wing-kayle",
+      "date": "2013-01-16",
+      "usedFor": "Login screen: Aether Wing Kayle skin",
+      "background": "Login screen theme by Christian Linke for the Aether Wing Kayle skin, featured in the client in January 2013. At the time, the League client opened on an animated login screen with its own music for each new champion, featured skin or event. It is part of The Music of League of Legends: Season 3, the compilation of client and map music from the 2013 season that Riot put on streaming services in October 2019.",
+      "coverUrl": null,
+      "spotifyUrl": "https://open.spotify.com/track/2hrHNP4rNAcQ32B3qKuNoW",
+      "sources": [
+        {
+          "title": "Login Screen - dated list of every login screen (League of Legends Wiki)",
+          "url": "https://wiki.leagueoflegends.com/en-us/Login_Screen"
+        },
+        {
+          "title": "Aether Wing Kayle | Login Screen - League of Legends (YouTube)",
+          "url": "https://www.youtube.com/watch?v=bHGANyPJjYc"
+        }
+      ],
+      "confidence": "medium",
+      "notes": "Wiki login list: 2013-01-16. YouTube login upload 2015-05-26; Topic track 2025-08-12."
+    },
+    {
+      "songId": "forecast-janna",
+      "date": "2013-09-05",
+      "usedFor": "Login screen: Forecast Janna legendary skin",
+      "background": "Login screen theme by Jason Willey for Forecast Janna, a legendary skin that casts Janna as a TV weather presenter, released in September 2013. At the time, the League client opened on an animated login screen with its own music for each new champion, featured skin or event. It is part of The Music of League of Legends: Season 3, the compilation of client and map music from the 2013 season that Riot put on streaming services in October 2019.",
+      "coverUrl": null,
+      "spotifyUrl": "https://open.spotify.com/track/6veosXmNfMI8BBYgoF4AyC",
+      "sources": [
+        {
+          "title": "Login Screen - dated list of every login screen (League of Legends Wiki)",
+          "url": "https://wiki.leagueoflegends.com/en-us/Login_Screen"
+        },
+        {
+          "title": "Janna skins - Forecast Janna, legendary, released 2013-09-05 (MobaFire)",
+          "url": "https://www.mobafire.com/league-of-legends/skins/janna"
+        }
+      ],
+      "confidence": "high",
+      "notes": "Wiki login list and skin listings both give 2013-09-05."
+    },
+    {
+      "songId": "haunted-zyra",
+      "date": "2013-10-29",
+      "usedFor": "Login screen: Haunted Zyra (Harrowing 2013)",
+      "background": "Login screen for the Haunted Zyra skin, released for the Harrowing Halloween event in October 2013 and credited to Christian Linke. Its music is the same as the 2012 login theme of Elise, the Spider Queen. It is part of The Music of League of Legends: Season 3, the compilation of client and map music from the 2013 season that Riot put on streaming services in October 2019.",
+      "coverUrl": null,
+      "spotifyUrl": "https://open.spotify.com/track/2kR9Sfa11oIYa1iunpZ0Nf",
+      "sources": [
+        {
+          "title": "Login Screen - dated list of every login screen (League of Legends Wiki)",
+          "url": "https://wiki.leagueoflegends.com/en-us/Login_Screen"
+        },
+        {
+          "title": "Haunted Zyra | Login Screen - League of Legends (YouTube)",
+          "url": "https://www.youtube.com/watch?v=B91NcKEQAMU"
+        },
+        {
+          "title": "Elise, the Spider Queen | Login Screen - League of Legends (YouTube)",
+          "url": "https://www.youtube.com/watch?v=skD_I-SHk30"
+        }
+      ],
+      "confidence": "medium",
+      "notes": "Wiki login list: 2013-10-29. Audio check: the Topic track y7J7PVNpZOg is sample-identical to Elise's Topic track zXVlCG0QbCo (both 126.07 s), and the Haunted Zyra and Elise login videos line up segment by segment, so the Haunted Zyra login reused Elise's theme."
+    },
+    {
+      "songId": "howling-abyss-champion-select",
+      "date": "2013-04-30",
+      "usedFor": "Howling Abyss champion select music",
+      "background": "Alexander Temple composed the champion-select music for the Howling Abyss ARAM map. The Howling Abyss, a single-lane bridge in the Freljord, became the home of ARAM when the Freljord patch (3.6) added a matchmade ARAM queue on 2013-04-30. It is part of The Music of League of Legends: Season 3, the compilation of client and map music from the 2013 season that Riot put on streaming services in October 2019.",
+      "coverUrl": null,
+      "spotifyUrl": "https://open.spotify.com/track/2oDUBFrDDbcJ2qU6ISRQTA",
+      "sources": [
+        {
+          "title": "ARAM (League of Legends Wiki) - Howling Abyss replaced the Proving Grounds",
+          "url": "https://wiki.leagueoflegends.com/en-us/ARAM"
+        },
+        {
+          "title": "Matchmaking available on Howling Abyss - patch 3.6 (Surrender at 20, 2013-04-30)",
+          "url": "https://www.surrenderat20.net/2013/04/matchmaking-available-on-howling-abyss.html"
+        },
+        {
+          "title": "The Music of League of Legends: Season 3 (Original Game Soundtrack) - Spotify (composer credits)",
+          "url": "https://open.spotify.com/album/12Wkzjt1vkH0F5TLChsscq"
+        }
+      ],
+      "confidence": "high",
+      "notes": "Dated to patch 3.6 (2013-04-30), when the Howling Abyss went live with its ARAM queue; it had been on the PBE since March 2013. Topic art track uploaded 2025-08-12."
+    },
+    {
+      "songId": "howling-abyss-death",
+      "date": "2013-04-30",
+      "usedFor": "Howling Abyss death cue",
+      "background": "Alexander Temple composed the short cue that plays when your champion dies for the Howling Abyss ARAM map. The Howling Abyss, a single-lane bridge in the Freljord, became the home of ARAM when the Freljord patch (3.6) added a matchmade ARAM queue on 2013-04-30. It is part of The Music of League of Legends: Season 3, the compilation of client and map music from the 2013 season that Riot put on streaming services in October 2019.",
+      "coverUrl": null,
+      "spotifyUrl": "https://open.spotify.com/track/3SqbeNUWNA5I92App2z6vF",
+      "sources": [
+        {
+          "title": "ARAM (League of Legends Wiki) - Howling Abyss replaced the Proving Grounds",
+          "url": "https://wiki.leagueoflegends.com/en-us/ARAM"
+        },
+        {
+          "title": "Matchmaking available on Howling Abyss - patch 3.6 (Surrender at 20, 2013-04-30)",
+          "url": "https://www.surrenderat20.net/2013/04/matchmaking-available-on-howling-abyss.html"
+        },
+        {
+          "title": "The Music of League of Legends: Season 3 (Original Game Soundtrack) - Spotify (composer credits)",
+          "url": "https://open.spotify.com/album/12Wkzjt1vkH0F5TLChsscq"
+        }
+      ],
+      "confidence": "high",
+      "notes": "Dated to patch 3.6 (2013-04-30), when the Howling Abyss went live with its ARAM queue; it had been on the PBE since March 2013. Topic art track uploaded 2025-08-12."
+    },
+    {
+      "songId": "howling-abyss-defeat",
+      "date": "2013-04-30",
+      "usedFor": "Howling Abyss defeat music",
+      "background": "Alexander Temple composed the end-of-game defeat music for the Howling Abyss ARAM map. The Howling Abyss, a single-lane bridge in the Freljord, became the home of ARAM when the Freljord patch (3.6) added a matchmade ARAM queue on 2013-04-30. It is part of The Music of League of Legends: Season 3, the compilation of client and map music from the 2013 season that Riot put on streaming services in October 2019.",
+      "coverUrl": null,
+      "spotifyUrl": "https://open.spotify.com/track/46H9BTLNn11LET7rvREK7K",
+      "sources": [
+        {
+          "title": "ARAM (League of Legends Wiki) - Howling Abyss replaced the Proving Grounds",
+          "url": "https://wiki.leagueoflegends.com/en-us/ARAM"
+        },
+        {
+          "title": "Matchmaking available on Howling Abyss - patch 3.6 (Surrender at 20, 2013-04-30)",
+          "url": "https://www.surrenderat20.net/2013/04/matchmaking-available-on-howling-abyss.html"
+        },
+        {
+          "title": "The Music of League of Legends: Season 3 (Original Game Soundtrack) - Spotify (composer credits)",
+          "url": "https://open.spotify.com/album/12Wkzjt1vkH0F5TLChsscq"
+        }
+      ],
+      "confidence": "high",
+      "notes": "Dated to patch 3.6 (2013-04-30), when the Howling Abyss went live with its ARAM queue; it had been on the PBE since March 2013. Topic art track uploaded 2025-08-12."
+    },
+    {
+      "songId": "howling-abyss-early-game",
+      "date": "2013-04-30",
+      "usedFor": "Howling Abyss in-game music (early game)",
+      "background": "Alexander Temple composed the early-game music for the Howling Abyss ARAM map. The Howling Abyss, a single-lane bridge in the Freljord, became the home of ARAM when the Freljord patch (3.6) added a matchmade ARAM queue on 2013-04-30. It is part of The Music of League of Legends: Season 3, the compilation of client and map music from the 2013 season that Riot put on streaming services in October 2019.",
+      "coverUrl": null,
+      "spotifyUrl": "https://open.spotify.com/track/59eZz6OYXaGBwnslFOeOLD",
+      "sources": [
+        {
+          "title": "ARAM (League of Legends Wiki) - Howling Abyss replaced the Proving Grounds",
+          "url": "https://wiki.leagueoflegends.com/en-us/ARAM"
+        },
+        {
+          "title": "Matchmaking available on Howling Abyss - patch 3.6 (Surrender at 20, 2013-04-30)",
+          "url": "https://www.surrenderat20.net/2013/04/matchmaking-available-on-howling-abyss.html"
+        },
+        {
+          "title": "The Music of League of Legends: Season 3 (Original Game Soundtrack) - Spotify (composer credits)",
+          "url": "https://open.spotify.com/album/12Wkzjt1vkH0F5TLChsscq"
+        }
+      ],
+      "confidence": "high",
+      "notes": "Dated to patch 3.6 (2013-04-30), when the Howling Abyss went live with its ARAM queue; it had been on the PBE since March 2013. Topic art track uploaded 2025-08-12."
+    },
+    {
+      "songId": "howling-abyss-late-game",
+      "date": "2013-04-30",
+      "usedFor": "Howling Abyss in-game music (late game)",
+      "background": "Alexander Temple composed the late-game music for the Howling Abyss ARAM map. The Howling Abyss, a single-lane bridge in the Freljord, became the home of ARAM when the Freljord patch (3.6) added a matchmade ARAM queue on 2013-04-30. It is part of The Music of League of Legends: Season 3, the compilation of client and map music from the 2013 season that Riot put on streaming services in October 2019.",
+      "coverUrl": null,
+      "spotifyUrl": "https://open.spotify.com/track/5ixOfR6E7DDdvfn3FE5402",
+      "sources": [
+        {
+          "title": "ARAM (League of Legends Wiki) - Howling Abyss replaced the Proving Grounds",
+          "url": "https://wiki.leagueoflegends.com/en-us/ARAM"
+        },
+        {
+          "title": "Matchmaking available on Howling Abyss - patch 3.6 (Surrender at 20, 2013-04-30)",
+          "url": "https://www.surrenderat20.net/2013/04/matchmaking-available-on-howling-abyss.html"
+        },
+        {
+          "title": "The Music of League of Legends: Season 3 (Original Game Soundtrack) - Spotify (composer credits)",
+          "url": "https://open.spotify.com/album/12Wkzjt1vkH0F5TLChsscq"
+        }
+      ],
+      "confidence": "high",
+      "notes": "Dated to patch 3.6 (2013-04-30), when the Howling Abyss went live with its ARAM queue; it had been on the PBE since March 2013. Topic art track uploaded 2025-08-12."
+    },
+    {
+      "songId": "howling-abyss-mid-game",
+      "date": "2013-04-30",
+      "usedFor": "Howling Abyss in-game music (mid game)",
+      "background": "Alexander Temple composed the mid-game music for the Howling Abyss ARAM map. The Howling Abyss, a single-lane bridge in the Freljord, became the home of ARAM when the Freljord patch (3.6) added a matchmade ARAM queue on 2013-04-30. It is part of The Music of League of Legends: Season 3, the compilation of client and map music from the 2013 season that Riot put on streaming services in October 2019.",
+      "coverUrl": null,
+      "spotifyUrl": "https://open.spotify.com/track/7zuZRYQSHlV2Xa5KApZC3I",
+      "sources": [
+        {
+          "title": "ARAM (League of Legends Wiki) - Howling Abyss replaced the Proving Grounds",
+          "url": "https://wiki.leagueoflegends.com/en-us/ARAM"
+        },
+        {
+          "title": "Matchmaking available on Howling Abyss - patch 3.6 (Surrender at 20, 2013-04-30)",
+          "url": "https://www.surrenderat20.net/2013/04/matchmaking-available-on-howling-abyss.html"
+        },
+        {
+          "title": "The Music of League of Legends: Season 3 (Original Game Soundtrack) - Spotify (composer credits)",
+          "url": "https://open.spotify.com/album/12Wkzjt1vkH0F5TLChsscq"
+        }
+      ],
+      "confidence": "high",
+      "notes": "Dated to patch 3.6 (2013-04-30), when the Howling Abyss went live with its ARAM queue; it had been on the PBE since March 2013. Topic art track uploaded 2025-08-12."
+    },
+    {
+      "songId": "howling-abyss-theme",
+      "date": "2013-04-30",
+      "usedFor": "Howling Abyss (ARAM map) theme",
+      "background": "Main theme of the Howling Abyss ARAM map, composed by Alexander Temple. The Howling Abyss, a single-lane bridge in the Freljord, became the home of ARAM when the Freljord patch (3.6) added a matchmade ARAM queue on 2013-04-30. The same music also accompanied the login screen of Lissandra, the Ice Witch, who launched in that patch. It is part of The Music of League of Legends: Season 3, the compilation of client and map music from the 2013 season that Riot put on streaming services in October 2019.",
+      "coverUrl": null,
+      "spotifyUrl": "https://open.spotify.com/track/0RFqbMdpuYknxw9HKbjsD7",
+      "sources": [
+        {
+          "title": "ARAM (League of Legends Wiki) - Howling Abyss replaced the Proving Grounds",
+          "url": "https://wiki.leagueoflegends.com/en-us/ARAM"
+        },
+        {
+          "title": "Matchmaking available on Howling Abyss - patch 3.6 (Surrender at 20, 2013-04-30)",
+          "url": "https://www.surrenderat20.net/2013/04/matchmaking-available-on-howling-abyss.html"
+        },
+        {
+          "title": "Login Screen - dated list of every login screen (League of Legends Wiki)",
+          "url": "https://wiki.leagueoflegends.com/en-us/Login_Screen"
+        }
+      ],
+      "confidence": "high",
+      "notes": "Audio check: this track and the Lissandra, the Ice Witch login video (gLuVXfZoOAk, 208 s, wiki login date 2013-04-30, V3.6) are the same music in slightly different mixes."
+    },
+    {
+      "songId": "howling-abyss-victory",
+      "date": "2013-04-30",
+      "usedFor": "Howling Abyss victory music",
+      "background": "Alexander Temple composed the end-of-game victory music for the Howling Abyss ARAM map. The Howling Abyss, a single-lane bridge in the Freljord, became the home of ARAM when the Freljord patch (3.6) added a matchmade ARAM queue on 2013-04-30. It is part of The Music of League of Legends: Season 3, the compilation of client and map music from the 2013 season that Riot put on streaming services in October 2019.",
+      "coverUrl": null,
+      "spotifyUrl": "https://open.spotify.com/track/2H4z0w00wVHFaFPvIPTwZ6",
+      "sources": [
+        {
+          "title": "ARAM (League of Legends Wiki) - Howling Abyss replaced the Proving Grounds",
+          "url": "https://wiki.leagueoflegends.com/en-us/ARAM"
+        },
+        {
+          "title": "Matchmaking available on Howling Abyss - patch 3.6 (Surrender at 20, 2013-04-30)",
+          "url": "https://www.surrenderat20.net/2013/04/matchmaking-available-on-howling-abyss.html"
+        },
+        {
+          "title": "The Music of League of Legends: Season 3 (Original Game Soundtrack) - Spotify (composer credits)",
+          "url": "https://open.spotify.com/album/12Wkzjt1vkH0F5TLChsscq"
+        }
+      ],
+      "confidence": "high",
+      "notes": "Dated to patch 3.6 (2013-04-30), when the Howling Abyss went live with its ARAM queue; it had been on the PBE since March 2013. Topic art track uploaded 2025-08-12."
+    },
+    {
+      "songId": "infernal-nasus",
+      "date": "2013-11-16",
+      "usedFor": "Login screen: Infernal Nasus skin",
+      "background": "Login screen theme by Christian Linke for the Infernal Nasus skin, featured in the client in November 2013. At the time, the League client opened on an animated login screen with its own music for each new champion, featured skin or event. It is part of The Music of League of Legends: Season 3, the compilation of client and map music from the 2013 season that Riot put on streaming services in October 2019.",
+      "coverUrl": null,
+      "spotifyUrl": "https://open.spotify.com/track/7LqiZtkwx3Luefoy8fO9Ii",
+      "sources": [
+        {
+          "title": "Login Screen - dated list of every login screen (League of Legends Wiki)",
+          "url": "https://wiki.leagueoflegends.com/en-us/Login_Screen"
+        },
+        {
+          "title": "Infernal Nasus | Login Screen - League of Legends (YouTube)",
+          "url": "https://www.youtube.com/watch?v=LHWVpb5lQ0Y"
+        }
+      ],
+      "confidence": "medium",
+      "notes": "Wiki login list: 2013-11-16. YouTube login upload 2015-05-26; Topic track 2025-08-12."
+    },
+    {
+      "songId": "jinx-the-loose-cannon",
+      "date": "2013-10-08",
+      "usedFor": "Jinx champion login theme (Get Jinxed)",
+      "background": "Login screen music for the launch of Jinx, the Loose Cannon: it is 'Get Jinxed', with vocals by Agnete Kjølsrud of the Norwegian band Djerv, and Christian Linke credited as composer. The song premiered with its music video on 2013-10-08, and the login screen arrived with Jinx's release on 2013-10-10. It is part of The Music of League of Legends: Season 3, the compilation of client and map music from the 2013 season that Riot put on streaming services in October 2019.",
+      "coverUrl": null,
+      "spotifyUrl": "https://open.spotify.com/track/5bVwQyXxxom4CyBt2DzFYO",
+      "sources": [
+        {
+          "title": "Get Jinxed (ft. Djerv) | Official Music Video - League of Legends (YouTube, 2013-10-08)",
+          "url": "https://www.youtube.com/watch?v=0nlJuwO0GDs"
+        },
+        {
+          "title": "Jinx, the Loose Cannon (ft. Djerv) | Login Screen - League of Legends (YouTube)",
+          "url": "https://www.youtube.com/watch?v=JoHRzfKrdtk"
+        },
+        {
+          "title": "Login Screen - dated list of every login screen (League of Legends Wiki)",
+          "url": "https://wiki.leagueoflegends.com/en-us/Login_Screen"
+        }
+      ],
+      "confidence": "high",
+      "notes": "Audio check: this Topic track (9JF-i1n7EBk) is sample-identical to the 'Get Jinxed' Topic track (dFwFm8e49Vs), both 154.96 s. Wiki login date 2013-10-10; champion release 2013-10-10."
+    },
+    {
+      "songId": "lunar-revel-2013",
+      "date": "2013-02-08",
+      "usedFor": "Login screen: Lunar Revel 2013 (Panda Annie)",
+      "background": "Login screen theme by Christian Linke for Lunar Revel 2013, League's Lunar New Year event; the screen featured the Panda Annie skin. At the time, the League client opened on an animated login screen with its own music for each new champion, featured skin or event. It is part of The Music of League of Legends: Season 3, the compilation of client and map music from the 2013 season that Riot put on streaming services in October 2019.",
+      "coverUrl": null,
+      "spotifyUrl": "https://open.spotify.com/track/4tniDXfI0ZJNsbCkl93e70",
+      "sources": [
+        {
+          "title": "Login Screen - dated list of every login screen (League of Legends Wiki)",
+          "url": "https://wiki.leagueoflegends.com/en-us/Login_Screen"
+        },
+        {
+          "title": "Panda Annie | Login Screen - League of Legends (YouTube)",
+          "url": "https://www.youtube.com/watch?v=drACMJveGMA"
+        }
+      ],
+      "confidence": "medium",
+      "notes": "Wiki login list: 'Panda Annie' 2013-02-08. YouTube login upload 2015-05-26; Topic track 2025-08-12."
+    },
+    {
+      "songId": "pool-party-2013",
+      "date": "2013-09-10",
+      "usedFor": "Login screen: Pool Party skins (2013)",
+      "background": "Login screen theme by Jason Willey for the 2013 Pool Party skins, a beach-holiday skin line. At the time, the League client opened on an animated login screen with its own music for each new champion, featured skin or event. It is part of The Music of League of Legends: Season 3, the compilation of client and map music from the 2013 season that Riot put on streaming services in October 2019.",
+      "coverUrl": null,
+      "spotifyUrl": "https://open.spotify.com/track/2Q7aChMX9EOkeb5ipBEFav",
+      "sources": [
+        {
+          "title": "Login Screen - dated list of every login screen (League of Legends Wiki)",
+          "url": "https://wiki.leagueoflegends.com/en-us/Login_Screen"
+        },
+        {
+          "title": "Pool Party | Login Screen - League of Legends (YouTube)",
+          "url": "https://www.youtube.com/watch?v=lVrMJepoj6A"
+        }
+      ],
+      "confidence": "medium",
+      "notes": "Wiki login list: 'Pool Party' 2013-09-10. YouTube login upload 2015-05-26; Topic track 2025-08-12."
+    },
+    {
+      "songId": "quinn-demacias-wings",
+      "date": "2013-03-01",
+      "usedFor": "Quinn champion login theme",
+      "background": "Login screen theme written for the launch of Quinn, Demacia's Wings; composed by Christian Linke. At the time, the League client opened on an animated login screen with its own music for each new champion, featured skin or event. Riot shared it as 'Quinn and Valor', the title of its longer version on The Music of League of Legends Vol. 1 (2015). It is part of The Music of League of Legends: Season 3, the compilation of client and map music from the 2013 season that Riot put on streaming services in October 2019.",
+      "coverUrl": null,
+      "spotifyUrl": "https://open.spotify.com/track/2DmEVrqNxoqaOkJVsjdPbW",
+      "sources": [
+        {
+          "title": "Login Screen - dated list of every login screen (League of Legends Wiki)",
+          "url": "https://wiki.leagueoflegends.com/en-us/Login_Screen"
+        },
+        {
+          "title": "List of champions - release dates (League of Legends Wiki)",
+          "url": "https://wiki.leagueoflegends.com/en-us/List_of_champions"
+        },
+        {
+          "title": "Quinn, Demacia's Wings | Login Screen - League of Legends (YouTube)",
+          "url": "https://www.youtube.com/watch?v=gZ61j3SxQPA"
+        }
+      ],
+      "confidence": "high",
+      "notes": "Login screen and champion release both 2013-03-01. The login video description links the theme as 'quinn-and-valor' on SoundCloud."
+    },
+    {
+      "songId": "snowdown-2013",
+      "date": "2013-12-20",
+      "usedFor": "Login screen: Snowdown Showdown 2013",
+      "background": "Login screen theme by Christian Linke for Snowdown Showdown 2013, League's winter holiday event. At the time, the League client opened on an animated login screen with its own music for each new champion, featured skin or event. It is part of The Music of League of Legends: Season 3, the compilation of client and map music from the 2013 season that Riot put on streaming services in October 2019.",
+      "coverUrl": null,
+      "spotifyUrl": "https://open.spotify.com/track/72CNziFtOnhjG2Ht7PAI4Z",
+      "sources": [
+        {
+          "title": "Login Screen - dated list of every login screen (League of Legends Wiki)",
+          "url": "https://wiki.leagueoflegends.com/en-us/Login_Screen"
+        },
+        {
+          "title": "Snowdown Showdown 2013 | Login Screen - League of Legends (YouTube)",
+          "url": "https://www.youtube.com/watch?v=yX4TlL_egts"
+        }
+      ],
+      "confidence": "medium",
+      "notes": "Wiki login list: 'Snowdown 2013' 2013-12-20. YouTube login upload 2015-05-26; Topic track 2025-08-12."
+    },
+    {
+      "songId": "spirit-guard-udyr",
+      "date": "2013-07-17",
+      "usedFor": "Login screen: Spirit Guard Udyr legendary skin",
+      "background": "Login screen theme for Spirit Guard Udyr, a legendary skin, credited to the trailer-music company Ninja Tracks. At the time, the League client opened on an animated login screen with its own music for each new champion, featured skin or event. It is part of The Music of League of Legends: Season 3, the compilation of client and map music from the 2013 season that Riot put on streaming services in October 2019.",
+      "coverUrl": null,
+      "spotifyUrl": "https://open.spotify.com/track/3T7CD2dVhcml907FdvjrEU",
+      "sources": [
+        {
+          "title": "Login Screen - dated list of every login screen (League of Legends Wiki)",
+          "url": "https://wiki.leagueoflegends.com/en-us/Login_Screen"
+        },
+        {
+          "title": "Spirit Guard Udyr | Login Screen - League of Legends (YouTube)",
+          "url": "https://www.youtube.com/watch?v=DGT20ihvGDU"
+        }
+      ],
+      "confidence": "medium",
+      "notes": "Wiki login list: 2013-07-17. YouTube login upload 2015-05-26; Topic track 2025-08-12."
+    },
+    {
+      "songId": "thresh-the-chain-warden",
+      "date": "2013-01-23",
+      "usedFor": "Thresh champion login theme",
+      "background": "Login screen theme written for the launch of Thresh, the Chain Warden; composed by Christian Linke. At the time, the League client opened on an animated login screen with its own music for each new champion, featured skin or event. It is part of The Music of League of Legends: Season 3, the compilation of client and map music from the 2013 season that Riot put on streaming services in October 2019.",
+      "coverUrl": null,
+      "spotifyUrl": "https://open.spotify.com/track/6szh1ilzJ4elXtv8C2YfwG",
+      "sources": [
+        {
+          "title": "Login Screen - dated list of every login screen (League of Legends Wiki)",
+          "url": "https://wiki.leagueoflegends.com/en-us/Login_Screen"
+        },
+        {
+          "title": "List of champions - release dates (League of Legends Wiki)",
+          "url": "https://wiki.leagueoflegends.com/en-us/List_of_champions"
+        },
+        {
+          "title": "Thresh, the Chain Warden | Login Screen - League of Legends (YouTube)",
+          "url": "https://www.youtube.com/watch?v=6WyH5E8Xs0c"
+        }
+      ],
+      "confidence": "high",
+      "notes": "Login screen and champion release both 2013-01-23."
+    },
+    {
+      "songId": "yasuo-the-unforgiven",
+      "date": "2013-12-07",
+      "usedFor": "Yasuo champion login theme",
+      "background": "Login screen theme written for the launch of Yasuo, the Unforgiven; composed by Christian Linke. At the time, the League client opened on an animated login screen with its own music for each new champion, featured skin or event. It is part of The Music of League of Legends: Season 3, the compilation of client and map music from the 2013 season that Riot put on streaming services in October 2019.",
+      "coverUrl": null,
+      "spotifyUrl": "https://open.spotify.com/track/6BteJwCHHsW9FipyPhRqo5",
+      "sources": [
+        {
+          "title": "Login Screen - dated list of every login screen (League of Legends Wiki)",
+          "url": "https://wiki.leagueoflegends.com/en-us/Login_Screen"
+        },
+        {
+          "title": "List of champions - release dates (League of Legends Wiki)",
+          "url": "https://wiki.leagueoflegends.com/en-us/List_of_champions"
+        },
+        {
+          "title": "Yasuo, the Unforgiven | Login Screen - League of Legends (YouTube)",
+          "url": "https://www.youtube.com/watch?v=jfgKdOlO_E4"
+        }
+      ],
+      "confidence": "medium",
+      "notes": "The wiki login list dates the login 2013-12-07, probably its PBE debut; Yasuo reached the live servers on 2013-12-13."
+    },
+    {
+      "songId": "zac-the-secret-weapon",
+      "date": "2013-03-28",
+      "usedFor": "Zac champion login theme",
+      "background": "Login screen theme written for the launch of Zac, the Secret Weapon; composed by Christian Linke. At the time, the League client opened on an animated login screen with its own music for each new champion, featured skin or event. It is part of The Music of League of Legends: Season 3, the compilation of client and map music from the 2013 season that Riot put on streaming services in October 2019.",
+      "coverUrl": null,
+      "spotifyUrl": "https://open.spotify.com/track/32OdaxmnulcXWHerByIlAi",
+      "sources": [
+        {
+          "title": "Login Screen - dated list of every login screen (League of Legends Wiki)",
+          "url": "https://wiki.leagueoflegends.com/en-us/Login_Screen"
+        },
+        {
+          "title": "List of champions - release dates (League of Legends Wiki)",
+          "url": "https://wiki.leagueoflegends.com/en-us/List_of_champions"
+        },
+        {
+          "title": "Zac, the Secret Weapon | Login Screen - League of Legends (YouTube)",
+          "url": "https://www.youtube.com/watch?v=AW2JL512dXs"
+        }
+      ],
+      "confidence": "high",
+      "notes": "Login screen 2013-03-28 (patch day per wiki); Zac is listed as released 2013-03-29."
+    },
+    {
+      "songId": "lucian-the-purifiers-resolve",
+      "date": "2013-08-22",
+      "usedFor": "Lucian champion trailer and login theme",
+      "background": "Music by the electronic duo The Crystal Method together with Riot for the launch of Lucian, the Purifier. It scores the animated trailer 'Lucian: The Purifier's Resolve', released on 2013-08-22, the same day Lucian and his login screen went live. It is part of The Music of League of Legends: Season 3, the compilation of client and map music from the 2013 season that Riot put on streaming services in October 2019.",
+      "coverUrl": null,
+      "spotifyUrl": "https://open.spotify.com/track/7GYXeRY1RW5zWpkXIxUhSf",
+      "sources": [
+        {
+          "title": "Lucian: The Purifier's Resolve (YouTube, 2013-08-22)",
+          "url": "https://www.youtube.com/watch?v=bgFD2ZNpfN8"
+        },
+        {
+          "title": "Login Screen - dated list of every login screen (League of Legends Wiki)",
+          "url": "https://wiki.leagueoflegends.com/en-us/Login_Screen"
+        },
+        {
+          "title": "List of champions - release dates (League of Legends Wiki)",
+          "url": "https://wiki.leagueoflegends.com/en-us/List_of_champions"
+        }
+      ],
+      "confidence": "high",
+      "notes": "Trailer upload, login screen and champion release all 2013-08-22. The Topic track (222 s) is longer than the 210 s login video."
+    },
+    {
+      "songId": "azir-the-emperor-of-the-sands",
+      "date": "2014-09-03",
+      "usedFor": "Azir champion login theme",
+      "background": "Login screen theme written for the launch of Azir, the Emperor of the Sands; composed by Sebastien Najand and Alexander Temple. At the time, the League client opened on an animated login screen with its own music for each new champion, featured skin or event. It shares its music with 'Rise of the Ascended', the score of the Shurima cinematic released on 2014-09-16. It is part of The Music of League of Legends: Season 4, the compilation of client, map and cinematic music from the 2014 season that Riot put on streaming services in October 2019.",
+      "coverUrl": null,
+      "spotifyUrl": "https://open.spotify.com/track/5NFyA0X3PUocJPRunSEmX2",
+      "sources": [
+        {
+          "title": "Login Screen - dated list of every login screen (League of Legends Wiki)",
+          "url": "https://wiki.leagueoflegends.com/en-us/Login_Screen"
+        },
+        {
+          "title": "List of champions - release dates (League of Legends Wiki)",
+          "url": "https://wiki.leagueoflegends.com/en-us/List_of_champions"
+        },
+        {
+          "title": "Azir, the Emperor of the Sands | Login Screen - League of Legends (YouTube)",
+          "url": "https://www.youtube.com/watch?v=smNA_BYDODU"
+        }
+      ],
+      "confidence": "medium",
+      "notes": "The wiki login list dates the login 2014-09-03 (likely its PBE debut); Azir reached the live servers on 2014-09-16. Audio check: this track, the Azir login video and the Vol. 1 track 'Rise of the Ascended' (U0ELxi-i1CI) are the same music with small edits."
+    },
+    {
+      "songId": "braum-the-heart-of-the-freljord",
+      "date": "2014-05-11",
+      "usedFor": "Braum champion login theme",
+      "background": "Login screen theme written for the launch of Braum, the Heart of the Freljord; composed by Sebastien Najand. At the time, the League client opened on an animated login screen with its own music for each new champion, featured skin or event. It is part of The Music of League of Legends: Season 4, the compilation of client, map and cinematic music from the 2014 season that Riot put on streaming services in October 2019.",
+      "coverUrl": null,
+      "spotifyUrl": "https://open.spotify.com/track/1G9ne4OgxM9yVdeqPpfl4g",
+      "sources": [
+        {
+          "title": "Login Screen - dated list of every login screen (League of Legends Wiki)",
+          "url": "https://wiki.leagueoflegends.com/en-us/Login_Screen"
+        },
+        {
+          "title": "List of champions - release dates (League of Legends Wiki)",
+          "url": "https://wiki.leagueoflegends.com/en-us/List_of_champions"
+        },
+        {
+          "title": "Braum, the Heart of the Freljord | Login Screen - League of Legends (YouTube)",
+          "url": "https://www.youtube.com/watch?v=F8cPDpXnQa0"
+        }
+      ],
+      "confidence": "medium",
+      "notes": "Wiki login list 2014-05-11; Braum is listed as released 2014-05-12. Audio check: the Vol. 1 track 'Braum' (8RfMYhlI6Rg, 213.5 s) is the same composition and length (213.1 s here) in a different master."
+    },
+    {
+      "songId": "dunkmaster-darius",
+      "date": "2014-10-13",
+      "usedFor": "Login screen: Dunkmaster Darius (PBE only)",
+      "background": "Login screen theme by Dan Negovan for the basketball-themed Dunkmaster Darius skin. It only ever appeared on the Public Beta Environment test server (patch 4.18 cycle) and never reached the live client. It is part of The Music of League of Legends: Season 4, the compilation of client, map and cinematic music from the 2014 season that Riot put on streaming services in October 2019.",
+      "coverUrl": null,
+      "spotifyUrl": "https://open.spotify.com/track/3MJ0Pc13WYmPqXihLHLWca",
+      "sources": [
+        {
+          "title": "Login Screen - dated list of every login screen (League of Legends Wiki)",
+          "url": "https://wiki.leagueoflegends.com/en-us/Login_Screen"
+        },
+        {
+          "title": "Dunkmaster Darius | Login Screen - League of Legends (YouTube, 2017 upload: 'PBE exclusive')",
+          "url": "https://www.youtube.com/watch?v=GU1bnVM6yno"
+        }
+      ],
+      "confidence": "medium",
+      "notes": "Wiki login list: 'Dunkmaster Darius - Login Screen (PBE Only)' 2014-10-13 (V4.18). The YouTube upload (2017-12-06) calls it PBE-exclusive and never formally released."
+    },
+    {
+      "songId": "gnar-the-missing-link",
+      "date": "2014-08-08",
+      "usedFor": "Gnar champion login theme",
+      "background": "Login screen theme written for the launch of Gnar, the Missing Link; composed by Sebastien Najand. At the time, the League client opened on an animated login screen with its own music for each new champion, featured skin or event. It is part of The Music of League of Legends: Season 4, the compilation of client, map and cinematic music from the 2014 season that Riot put on streaming services in October 2019.",
+      "coverUrl": null,
+      "spotifyUrl": "https://open.spotify.com/track/35v3W3FD9pqSjUaiJJh0xu",
+      "sources": [
+        {
+          "title": "Login Screen - dated list of every login screen (League of Legends Wiki)",
+          "url": "https://wiki.leagueoflegends.com/en-us/Login_Screen"
+        },
+        {
+          "title": "List of champions - release dates (League of Legends Wiki)",
+          "url": "https://wiki.leagueoflegends.com/en-us/List_of_champions"
+        },
+        {
+          "title": "Gnar, the Missing Link | Login Screen - League of Legends (YouTube)",
+          "url": "https://www.youtube.com/watch?v=Awa7fpGmtf0"
+        }
+      ],
+      "confidence": "medium",
+      "notes": "The wiki login list dates the login 2014-08-08 (likely its PBE debut); Gnar reached the live servers on 2014-08-14."
+    },
+    {
+      "songId": "harrowing-2014",
+      "date": "2014-10-08",
+      "usedFor": "Login screen: Harrowing 2014",
+      "background": "Login screen theme by Dan Negovan for Harrowing 2014, League's Halloween event. At the time, the League client opened on an animated login screen with its own music for each new champion, featured skin or event. It is part of The Music of League of Legends: Season 4, the compilation of client, map and cinematic music from the 2014 season that Riot put on streaming services in October 2019.",
+      "coverUrl": null,
+      "spotifyUrl": "https://open.spotify.com/track/7HBkkuW3RowwQLf69lC9pW",
+      "sources": [
+        {
+          "title": "Login Screen - dated list of every login screen (League of Legends Wiki)",
+          "url": "https://wiki.leagueoflegends.com/en-us/Login_Screen"
+        },
+        {
+          "title": "Harrowing 2014 | Login Screen - League of Legends (YouTube)",
+          "url": "https://www.youtube.com/watch?v=tm29vB0THXM"
+        }
+      ],
+      "confidence": "medium",
+      "notes": "Wiki login list: 2014-10-08 (likely the PBE debut of the event patch). YouTube login upload 2015-05-26; Topic track 2025-08-12."
+    },
+    {
+      "songId": "kalista-the-spear-of-vengeance",
+      "date": "2014-11-12",
+      "usedFor": "Kalista champion login theme",
+      "background": "Login screen theme written for the launch of Kalista, the Spear of Vengeance; composed by Dan Negovan. At the time, the League client opened on an animated login screen with its own music for each new champion, featured skin or event. It is part of The Music of League of Legends: Season 4, the compilation of client, map and cinematic music from the 2014 season that Riot put on streaming services in October 2019.",
+      "coverUrl": null,
+      "spotifyUrl": "https://open.spotify.com/track/77z9tnxpX9u1XSTEMx9xu1",
+      "sources": [
+        {
+          "title": "Login Screen - dated list of every login screen (League of Legends Wiki)",
+          "url": "https://wiki.leagueoflegends.com/en-us/Login_Screen"
+        },
+        {
+          "title": "List of champions - release dates (League of Legends Wiki)",
+          "url": "https://wiki.leagueoflegends.com/en-us/List_of_champions"
+        },
+        {
+          "title": "Kalista, the Spear of Vengeance | Login Screen - League of Legends (YouTube)",
+          "url": "https://www.youtube.com/watch?v=DFZJuBXufIM"
+        }
+      ],
+      "confidence": "medium",
+      "notes": "The wiki login list dates the login 2014-11-12 (likely its PBE debut); Kalista reached the live servers on 2014-11-20."
+    },
+    {
+      "songId": "lunar-revel-2014",
+      "date": "2014-01-28",
+      "usedFor": "Login screen: Lunar Revel 2014",
+      "background": "Login screen theme by Sebastien Najand and Alexander Temple for Lunar Revel 2014, League's Lunar New Year event. At the time, the League client opened on an animated login screen with its own music for each new champion, featured skin or event. It is part of The Music of League of Legends: Season 4, the compilation of client, map and cinematic music from the 2014 season that Riot put on streaming services in October 2019.",
+      "coverUrl": null,
+      "spotifyUrl": "https://open.spotify.com/track/4a5R7lpUw1pBjD65f8Wxc5",
+      "sources": [
+        {
+          "title": "Login Screen - dated list of every login screen (League of Legends Wiki)",
+          "url": "https://wiki.leagueoflegends.com/en-us/Login_Screen"
+        },
+        {
+          "title": "Lunar Revel 2014 | Login Screen - League of Legends (YouTube)",
+          "url": "https://www.youtube.com/watch?v=h-6wHfudAPQ"
+        }
+      ],
+      "confidence": "medium",
+      "notes": "Wiki login list: 2014-01-28. YouTube login upload 2015-05-26; Topic track 2025-08-12."
+    },
+    {
+      "songId": "reksai-the-void-burrower",
+      "date": "2014-12-06",
+      "usedFor": "Rek'Sai champion login theme",
+      "background": "Login screen theme written for the launch of Rek'Sai, the Void Burrower; composed by Sebastien Najand. At the time, the League client opened on an animated login screen with its own music for each new champion, featured skin or event. It is part of The Music of League of Legends: Season 4, the compilation of client, map and cinematic music from the 2014 season that Riot put on streaming services in October 2019.",
+      "coverUrl": null,
+      "spotifyUrl": "https://open.spotify.com/track/7sxqEBilAywoof8zEE1ahr",
+      "sources": [
+        {
+          "title": "Login Screen - dated list of every login screen (League of Legends Wiki)",
+          "url": "https://wiki.leagueoflegends.com/en-us/Login_Screen"
+        },
+        {
+          "title": "List of champions - release dates (League of Legends Wiki)",
+          "url": "https://wiki.leagueoflegends.com/en-us/List_of_champions"
+        },
+        {
+          "title": "Rek'Sai, the Void Burrower | Login Screen - League of Legends (YouTube)",
+          "url": "https://www.youtube.com/watch?v=zXXdL4rHvww"
+        }
+      ],
+      "confidence": "medium",
+      "notes": "The wiki login list dates the login 2014-12-06 (likely its PBE debut); Rek'Sai reached the live servers on 2014-12-11."
+    },
+    {
+      "songId": "season-4-theme",
+      "date": "2014-01-15",
+      "usedFor": "Login screen: 2014 Season start",
+      "background": "Christian Linke's music for the login screen that opened the 2014 ranked season with patch 4.1. It is a re-edit of the theme first heard on the Season 3 World Championship Finals login screen in October 2013. It is part of The Music of League of Legends: Season 4, the compilation of client, map and cinematic music from the 2014 season that Riot put on streaming services in October 2019.",
+      "coverUrl": null,
+      "spotifyUrl": "https://open.spotify.com/track/156g4a6jKUYQcLZPo9n58q",
+      "sources": [
+        {
+          "title": "Login Screen - dated list of every login screen (League of Legends Wiki)",
+          "url": "https://wiki.leagueoflegends.com/en-us/Login_Screen"
+        },
+        {
+          "title": "League of Legends Season 2014 | Login Screen - League of Legends (YouTube)",
+          "url": "https://www.youtube.com/watch?v=lT-DJOqn-5Y"
+        }
+      ],
+      "confidence": "medium",
+      "notes": "Wiki login list: '2014 Season' 2014-01-15 (V4.1). Audio check: this track (257 s) lines up segment by segment, about 5 s later, with the Season 3 Finals login theme (vd66qPdq5Vg, 250 s; wiki 2013-10-04, V3.12)."
+    },
+    {
+      "songId": "shurima-login-theme",
+      "date": "2014-09-06",
+      "usedFor": "Login screen: Shurima event 2014",
+      "background": "Login screen theme by Sebastien Najand and Alexander Temple for the September 2014 Shurima event, which brought back the desert empire alongside Azir's release, two cinematics and the Ascension game mode. It is part of The Music of League of Legends: Season 4, the compilation of client, map and cinematic music from the 2014 season that Riot put on streaming services in October 2019.",
+      "coverUrl": null,
+      "spotifyUrl": "https://open.spotify.com/track/4WLsHJUvR5Lm6CQkUwnIq2",
+      "sources": [
+        {
+          "title": "Login Screen - dated list of every login screen (League of Legends Wiki)",
+          "url": "https://wiki.leagueoflegends.com/en-us/Login_Screen"
+        },
+        {
+          "title": "Shurima | Login Screen - League of Legends (YouTube)",
+          "url": "https://www.youtube.com/watch?v=XHMFp84xo64"
+        },
+        {
+          "title": "Ascension (League of Legends Wiki) - Shurima event mode, 2014-09-10 to 2014-09-25",
+          "url": "https://wiki.leagueoflegends.com/en-us/Ascension"
+        }
+      ],
+      "confidence": "medium",
+      "notes": "Wiki login list: 'Shurima' 2014-09-06. YouTube login upload 2015-05-26; Topic track 2025-08-12."
+    },
+    {
+      "songId": "shurima-rise-of-the-ascended",
+      "date": "2014-09",
+      "usedFor": "Shurima event 2014 music",
+      "background": "Sebastien Najand and Alexander Temple's arrangement of the 'Rise of the Ascended' material from the September 2014 Shurima event, whose second cinematic of that name premiered on 2014-09-16. This 188-second version differs from the cinematic cut released on The Music of League of Legends Vol. 1. It is part of The Music of League of Legends: Season 4, the compilation of client, map and cinematic music from the 2014 season that Riot put on streaming services in October 2019.",
+      "coverUrl": null,
+      "spotifyUrl": "https://open.spotify.com/track/5qxKxJzLre2xoT8W09SrGj",
+      "sources": [
+        {
+          "title": "Shurima: Rise of the Ascended | Cinematic - League of Legends (YouTube, 2014-09-16)",
+          "url": "https://www.youtube.com/watch?v=CYyuH1Bp2ZI"
+        },
+        {
+          "title": "The Music of League of Legends: Season 4 (Original Game Soundtrack) - Spotify (composer credits)",
+          "url": "https://open.spotify.com/album/04j2cVSjVpQF3zWaAztc3J"
+        },
+        {
+          "title": "Ascension (League of Legends Wiki) - Shurima event mode, 2014-09-10 to 2014-09-25",
+          "url": "https://wiki.leagueoflegends.com/en-us/Ascension"
+        }
+      ],
+      "confidence": "low",
+      "notes": "Exact in-game use not found (possibly the Shurima event or Ascension mode music), so only the month of the Shurima event is given. Audio check: not the same recording as the cinematic/Vol. 1 track (U0ELxi-i1CI, 209 s); it shares themes with it in a different edit."
+    },
+    {
+      "songId": "sion-the-undead-juggernaut",
+      "date": "2014-09-29",
+      "usedFor": "Sion champion rework login theme",
+      "background": "Login screen theme by Dan Negovan for the relaunch of Sion, the Undead Juggernaut, one of Riot's biggest champion reworks, which went live in patch 4.18 in October 2014. At the time, the League client opened on an animated login screen with its own music for each new champion, featured skin or event. It is part of The Music of League of Legends: Season 4, the compilation of client, map and cinematic music from the 2014 season that Riot put on streaming services in October 2019.",
+      "coverUrl": null,
+      "spotifyUrl": "https://open.spotify.com/track/4XVmt7xCyieik7M27kHsBD",
+      "sources": [
+        {
+          "title": "Login Screen - dated list of every login screen (League of Legends Wiki)",
+          "url": "https://wiki.leagueoflegends.com/en-us/Login_Screen"
+        },
+        {
+          "title": "Patch 4.18 notes - Sion relaunch (Surrender at 20, October 2014)",
+          "url": "https://www.surrenderat20.net/2014/10/patch-418-notes.html"
+        },
+        {
+          "title": "Sion, the Undead Juggernaut | Login Screen - League of Legends (YouTube)",
+          "url": "https://www.youtube.com/watch?v=vZ9nyZTvRwY"
+        }
+      ],
+      "confidence": "medium",
+      "notes": "The wiki login list dates the login 2014-09-29 (likely its PBE debut); the rework reached the live servers with patch 4.18 in October 2014. Audio check: the Vol. 1 track 'Reborn' (iKvddeg2-xM, 164 s) is the same music as this theme (165 s)."
+    },
+    {
+      "songId": "snowdown-2014",
+      "date": "2014-12-03",
+      "usedFor": "Login screen: Snowdown 2014 (Winter Wonder Orianna)",
+      "background": "Login screen music by Sebastien Najand, Alexander Temple and Michael Barry for Snowdown 2014, League's winter holiday event; the screen featured the Winter Wonder Orianna skin. It is part of The Music of League of Legends: Season 4, the compilation of client, map and cinematic music from the 2014 season that Riot put on streaming services in October 2019.",
+      "coverUrl": null,
+      "spotifyUrl": "https://open.spotify.com/track/2EAjsziyu42T5BqfonXfpr",
+      "sources": [
+        {
+          "title": "Login Screen - dated list of every login screen (League of Legends Wiki)",
+          "url": "https://wiki.leagueoflegends.com/en-us/Login_Screen"
+        },
+        {
+          "title": "Winter Wonder Orianna | Login Screen - League of Legends (YouTube)",
+          "url": "https://www.youtube.com/watch?v=a-GoXoojXaU"
+        },
+        {
+          "title": "The Music of League of Legends: Season 4 (Original Game Soundtrack) - Spotify (composer credits)",
+          "url": "https://open.spotify.com/album/04j2cVSjVpQF3zWaAztc3J"
+        }
+      ],
+      "confidence": "high",
+      "notes": "Wiki login list: 'Winter Wonder Orianna' 2014-12-03 (V4.21); there is no separate 'Snowdown 2014' login entry. Audio check: this Topic track (145.9 s) matches the Winter Wonder Orianna login video (146.2 s) segment by segment."
+    },
+    {
+      "songId": "summoners-rift-defeat",
+      "date": "2014-11-12",
+      "usedFor": "Summoner's Rift (2014 update) defeat music",
+      "background": "Alexander Temple wrote the end-of-game defeat music for the updated Summoner's Rift. The music came with the rebuilt, visually updated Summoner's Rift, which went live as an open beta on 2014-11-12 (patch 4.19) and replaced the old map in all queues on 2014-11-19. It is part of The Music of League of Legends: Season 4, the compilation of client, map and cinematic music from the 2014 season that Riot put on streaming services in October 2019.",
+      "coverUrl": null,
+      "spotifyUrl": "https://open.spotify.com/track/1MHbMcuDhNeewhzKySp7Kx",
+      "sources": [
+        {
+          "title": "Summoner's Rift (League of Legends Wiki) - 2014 update: open beta 2014-11-12, all queues 2014-11-19, new music",
+          "url": "https://wiki.leagueoflegends.com/en-us/Summoner%27s_Rift"
+        },
+        {
+          "title": "The Music of League of Legends: Season 4 (Original Game Soundtrack) - Spotify (composer credits)",
+          "url": "https://open.spotify.com/album/04j2cVSjVpQF3zWaAztc3J"
+        }
+      ],
+      "confidence": "medium",
+      "notes": "Dated to the first live availability of the updated map (open beta, 2014-11-12); the map had been tested on the PBE since mid-2014, and it is not documented when this music was first added there."
+    },
+    {
+      "songId": "summoners-rift-early-game",
+      "date": "2014-11-12",
+      "usedFor": "Summoner's Rift (2014 update) early-game music",
+      "background": "Alexander Temple and Sebastien Najand wrote the early-game in-game music for the updated Summoner's Rift. The music came with the rebuilt, visually updated Summoner's Rift, which went live as an open beta on 2014-11-12 (patch 4.19) and replaced the old map in all queues on 2014-11-19. It is part of The Music of League of Legends: Season 4, the compilation of client, map and cinematic music from the 2014 season that Riot put on streaming services in October 2019.",
+      "coverUrl": null,
+      "spotifyUrl": "https://open.spotify.com/track/4zWik7iH8wrO6wSwo8rS1U",
+      "sources": [
+        {
+          "title": "Summoner's Rift (League of Legends Wiki) - 2014 update: open beta 2014-11-12, all queues 2014-11-19, new music",
+          "url": "https://wiki.leagueoflegends.com/en-us/Summoner%27s_Rift"
+        },
+        {
+          "title": "The Music of League of Legends: Season 4 (Original Game Soundtrack) - Spotify (composer credits)",
+          "url": "https://open.spotify.com/album/04j2cVSjVpQF3zWaAztc3J"
+        }
+      ],
+      "confidence": "medium",
+      "notes": "Dated to the first live availability of the updated map (open beta, 2014-11-12); the map had been tested on the PBE since mid-2014, and it is not documented when this music was first added there."
+    },
+    {
+      "songId": "summoners-rift-late-game",
+      "date": "2014-11-12",
+      "usedFor": "Summoner's Rift (2014 update) late-game music",
+      "background": "Alexander Temple wrote the late-game in-game music for the updated Summoner's Rift. The music came with the rebuilt, visually updated Summoner's Rift, which went live as an open beta on 2014-11-12 (patch 4.19) and replaced the old map in all queues on 2014-11-19. It is part of The Music of League of Legends: Season 4, the compilation of client, map and cinematic music from the 2014 season that Riot put on streaming services in October 2019.",
+      "coverUrl": null,
+      "spotifyUrl": "https://open.spotify.com/track/1Nr0qRofOhnatRU0vILFM5",
+      "sources": [
+        {
+          "title": "Summoner's Rift (League of Legends Wiki) - 2014 update: open beta 2014-11-12, all queues 2014-11-19, new music",
+          "url": "https://wiki.leagueoflegends.com/en-us/Summoner%27s_Rift"
+        },
+        {
+          "title": "The Music of League of Legends: Season 4 (Original Game Soundtrack) - Spotify (composer credits)",
+          "url": "https://open.spotify.com/album/04j2cVSjVpQF3zWaAztc3J"
+        }
+      ],
+      "confidence": "medium",
+      "notes": "Dated to the first live availability of the updated map (open beta, 2014-11-12); the map had been tested on the PBE since mid-2014, and it is not documented when this music was first added there."
+    },
+    {
+      "songId": "summoners-rift-mid-game",
+      "date": "2014-11-12",
+      "usedFor": "Summoner's Rift (2014 update) mid-game music",
+      "background": "Sebastien Najand wrote the mid-game in-game music for the updated Summoner's Rift. The music came with the rebuilt, visually updated Summoner's Rift, which went live as an open beta on 2014-11-12 (patch 4.19) and replaced the old map in all queues on 2014-11-19. It is part of The Music of League of Legends: Season 4, the compilation of client, map and cinematic music from the 2014 season that Riot put on streaming services in October 2019.",
+      "coverUrl": null,
+      "spotifyUrl": "https://open.spotify.com/track/0BZpSJQSdhuVYFtyhMXf27",
+      "sources": [
+        {
+          "title": "Summoner's Rift (League of Legends Wiki) - 2014 update: open beta 2014-11-12, all queues 2014-11-19, new music",
+          "url": "https://wiki.leagueoflegends.com/en-us/Summoner%27s_Rift"
+        },
+        {
+          "title": "The Music of League of Legends: Season 4 (Original Game Soundtrack) - Spotify (composer credits)",
+          "url": "https://open.spotify.com/album/04j2cVSjVpQF3zWaAztc3J"
+        }
+      ],
+      "confidence": "medium",
+      "notes": "Dated to the first live availability of the updated map (open beta, 2014-11-12); the map had been tested on the PBE since mid-2014, and it is not documented when this music was first added there."
+    },
+    {
+      "songId": "summoners-rift-victory",
+      "date": "2014-11-12",
+      "usedFor": "Summoner's Rift (2014 update) victory music",
+      "background": "Sebastien Najand wrote the end-of-game victory music for the updated Summoner's Rift. The music came with the rebuilt, visually updated Summoner's Rift, which went live as an open beta on 2014-11-12 (patch 4.19) and replaced the old map in all queues on 2014-11-19. It is part of The Music of League of Legends: Season 4, the compilation of client, map and cinematic music from the 2014 season that Riot put on streaming services in October 2019.",
+      "coverUrl": null,
+      "spotifyUrl": "https://open.spotify.com/track/6n17o0sYWpfs0CB1yau1Ch",
+      "sources": [
+        {
+          "title": "Summoner's Rift (League of Legends Wiki) - 2014 update: open beta 2014-11-12, all queues 2014-11-19, new music",
+          "url": "https://wiki.leagueoflegends.com/en-us/Summoner%27s_Rift"
+        },
+        {
+          "title": "The Music of League of Legends: Season 4 (Original Game Soundtrack) - Spotify (composer credits)",
+          "url": "https://open.spotify.com/album/04j2cVSjVpQF3zWaAztc3J"
+        }
+      ],
+      "confidence": "medium",
+      "notes": "Dated to the first live availability of the updated map (open beta, 2014-11-12); the map had been tested on the PBE since mid-2014, and it is not documented when this music was first added there."
+    },
+    {
+      "songId": "super-galaxy-rumble-login-theme",
+      "date": "2014-03-25",
+      "usedFor": "Login screen: Super Galaxy skins (2014)",
+      "background": "Login screen theme by Sebastien Najand for the space-themed Super Galaxy skins of 2014. At the time, the League client opened on an animated login screen with its own music for each new champion, featured skin or event. The same recording appears as 'Super Galaxy Rumble' on The Music of League of Legends Vol. 1 (2015). It is part of The Music of League of Legends: Season 4, the compilation of client, map and cinematic music from the 2014 season that Riot put on streaming services in October 2019.",
+      "coverUrl": null,
+      "spotifyUrl": "https://open.spotify.com/track/3bTzQEwqZ3A9wyZRBkWMxu",
+      "sources": [
+        {
+          "title": "Login Screen - dated list of every login screen (League of Legends Wiki)",
+          "url": "https://wiki.leagueoflegends.com/en-us/Login_Screen"
+        },
+        {
+          "title": "Super Galaxy Rumble | Login Screen - League of Legends (YouTube)",
+          "url": "https://www.youtube.com/watch?v=G6JAQD0FmDg"
+        }
+      ],
+      "confidence": "medium",
+      "notes": "Wiki login list: 'Super Galaxy Rumble' 2014-03-25. Audio check: this Topic track (ipMR21E4vIM) is sample-identical to the Vol. 1 Topic track 'Super Galaxy Rumble' (AL1MmzOOLlY), both 118.86 s."
+    },
+    {
+      "songId": "velkoz-the-eye-of-the-void",
+      "date": "2014-02-24",
+      "usedFor": "Vel'Koz champion login theme",
+      "background": "Login screen theme written for the launch of Vel'Koz, the Eye of the Void; credited to Samuel Ferrari and Felipe Junqueira. At the time, the League client opened on an animated login screen with its own music for each new champion, featured skin or event. It is part of The Music of League of Legends: Season 4, the compilation of client, map and cinematic music from the 2014 season that Riot put on streaming services in October 2019.",
+      "coverUrl": null,
+      "spotifyUrl": "https://open.spotify.com/track/5tN30HCmFKzt6pR9EvEjKD",
+      "sources": [
+        {
+          "title": "Login Screen - dated list of every login screen (League of Legends Wiki)",
+          "url": "https://wiki.leagueoflegends.com/en-us/Login_Screen"
+        },
+        {
+          "title": "Vel'Koz, the Eye of the Void | Login Screen - League of Legends (YouTube)",
+          "url": "https://www.youtube.com/watch?v=s7PafA8mrmI"
+        }
+      ],
+      "confidence": "medium",
+      "notes": "The wiki login list dates the login 2014-02-24 (likely its PBE debut); Vel'Koz reached the live servers later that week (2014-02-27)."
+    },
+    {
+      "songId": "a-new-dawn",
+      "date": "2014-07-22",
+      "usedFor": "Cinematic: A New Dawn (2014)",
+      "background": "Score by Sebastien Najand, Alexander Temple and Michael Barry for 'A New Dawn', a 2014 League cinematic in which a battle between champions such as Leona, Darius, Zyra and Rengar begins at sunrise. The cinematic won Best Sound Editing in Computer Entertainment at the 63rd Golden Reel Awards. It is part of The Music of League of Legends: Season 4, the compilation of client, map and cinematic music from the 2014 season that Riot put on streaming services in October 2019.",
+      "coverUrl": null,
+      "spotifyUrl": "https://open.spotify.com/track/78If11UOVpoozS36HiD9kW",
+      "sources": [
+        {
+          "title": "A New Dawn | Cinematic - League of Legends (YouTube, 2014-07-22)",
+          "url": "https://www.youtube.com/watch?v=vzHrjOMfHPY"
+        },
+        {
+          "title": "Universe: A New Dawn (League of Legends Wiki)",
+          "url": "https://wiki.leagueoflegends.com/en-us/Universe:A_New_Dawn"
+        }
+      ],
+      "confidence": "high",
+      "notes": "Cinematic premiered 2014-07-22 (YouTube upload); the Topic art track is a 2025 upload."
+    },
+    {
+      "songId": "shurima-descent-into-the-tomb",
+      "date": "2014-09-10",
+      "usedFor": "Cinematic: Shurima - Descent into the Tomb",
+      "background": "Score by Sebastien Najand and Alexander Temple for 'Descent into the Tomb', part 1 of the two-part cinematic of the 2014 Shurima event, in which Cassiopeia goes after the power hidden in Shurima's buried tomb. Part 2, 'Rise of the Ascended', followed on 2014-09-16. It is part of The Music of League of Legends: Season 4, the compilation of client, map and cinematic music from the 2014 season that Riot put on streaming services in October 2019.",
+      "coverUrl": null,
+      "spotifyUrl": "https://open.spotify.com/track/1y7KaA1wzmdcIoe9R3f2Cm",
+      "sources": [
+        {
+          "title": "Shurima: Descent into the Tomb | Cinematic - League of Legends (YouTube, 2014-09-10)",
+          "url": "https://www.youtube.com/watch?v=JKnM6Hh5gOg"
+        },
+        {
+          "title": "Shurima: Rise of the Ascended | Cinematic - League of Legends (YouTube, 2014-09-16)",
+          "url": "https://www.youtube.com/watch?v=CYyuH1Bp2ZI"
+        }
+      ],
+      "confidence": "high",
+      "notes": "Cinematic premiered 2014-09-10 (YouTube upload); the Topic art track is a 2025 upload."
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "name": "stories",
+  "version": "0.0.1",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "dev": "astro dev",
+    "build": "astro build && node scripts/postbuild.mjs",
+    "preview": "astro preview --port 4321",
+    "media": "node scripts/media-server.mjs",
+    "typecheck": "tsc --noEmit"
+  },
+  "dependencies": {
+    "@astrojs/react": "^7.0.1",
+    "@tailwindcss/vite": "^4.3.3",
+    "@workspace/db": "*",
+    "@workspace/ui": "*",
+    "astro": "^7.3.8",
+    "effect": "^4.0.4",
+    "lucide-react": "^1.56.0",
+    "react": "19.3.0",
+    "react-dom": "19.3.0",
+    "tailwindcss": "^4.3.3"
+  },
+  "devDependencies": {
+    "@types/node": "^24.19.2",
+    "@types/react": "^19",
+    "@types/react-dom": "^19",
+    "@workspace/typescript-config": "*",
+    "typescript": "^5.9.3"
+  }
+}

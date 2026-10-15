@@ -1,0 +1,2759 @@
+[
+  {
+    "id": "rpsxzAZHq3A",
+    "source": "valorant",
+    "title": "Developing Gauntlet: Glitched // Dev Diaries",
+    "durationSeconds": 250,
+    "kind": "not_music",
+    "role": "skip",
+    "song": null,
+    "artists": [],
+    "game": null,
+    "categories": [],
+    "year": null,
+    "topicTrackId": null,
+    "mvRank": null,
+    "confidence": "high"
+  },
+  {
+    "id": "s3WyCf_SD54",
+    "source": "valorant",
+    "title": "FRAG OR DIE // Champions 2026 Skin Reveal Trailer - VALORANT",
+    "durationSeconds": 81,
+    "kind": "skin_trailer_song",
+    "role": "related",
+    "song": "If The Sun Burns Out Tonight",
+    "artists": [
+      {
+        "name": "Grabbitz",
+        "role": "primary"
+      },
+      {
+        "name": "Oli Sykes",
+        "role": "featured"
+      },
+      {
+        "name": "Courtney LaPlante",
+        "role": "featured"
+      }
+    ],
+    "game": "valorant",
+    "categories": [
+      "valorant-champions"
+    ],
+    "year": 2026,
+    "topicTrackId": "RlPpn6dAhWs",
+    "mvRank": null,
+    "confidence": "medium",
+    "notes": "Champions 2026 skin trailer scored with the anthem (additional production by burnboy); not a song release."
+  },
+  {
+    "id": "x8jAY2CoOBg",
+    "source": "valorant",
+    "title": "If The Sun Burns Out Tonight ft. Grabbitz, Oli Sykes, Courtney LaPlante // VALORANT Champions 2026",
+    "durationSeconds": 235,
+    "kind": "music_video",
+    "role": "primary_mv",
+    "song": "If The Sun Burns Out Tonight",
+    "artists": [
+      {
+        "name": "Grabbitz",
+        "role": "primary"
+      },
+      {
+        "name": "Oli Sykes",
+        "role": "featured"
+      },
+      {
+        "name": "Courtney LaPlante",
+        "role": "featured"
+      }
+    ],
+    "game": "valorant",
+    "categories": [
+      "valorant-champions"
+    ],
+    "year": 2026,
+    "topicTrackId": "RlPpn6dAhWs",
+    "mvRank": 1,
+    "confidence": "high",
+    "notes": "Official MV, VALORANT Champions 2026 anthem; MV by Brunch Studio."
+  },
+  {
+    "id": "V_uHGQUvLPw",
+    "source": "valorant",
+    "title": "GAUNTLET: GLITCHED // Game Mode Reveal Trailer - VALORANT",
+    "durationSeconds": 103,
+    "kind": "not_music",
+    "role": "skip",
+    "song": null,
+    "artists": [],
+    "game": null,
+    "categories": [],
+    "year": null,
+    "topicTrackId": null,
+    "mvRank": null,
+    "confidence": "high",
+    "notes": "Game mode trailer; licensed \"re: laced up\" by tsubi club."
+  },
+  {
+    "id": "EDOshYsSzT8",
+    "source": "valorant",
+    "title": "This One�s BIG // Dev Updates - VALORANT",
+    "durationSeconds": 310,
+    "kind": "not_music",
+    "role": "skip",
+    "song": null,
+    "artists": [],
+    "game": null,
+    "categories": [],
+    "year": null,
+    "topicTrackId": null,
+    "mvRank": null,
+    "confidence": "high"
+  },
+  {
+    "id": "PoogGcJjsFU",
+    "source": "valorant",
+    "title": "PLAY YOUR HAND // Aeris Skin Reveal Trailer - VALORANT",
+    "durationSeconds": 107,
+    "kind": "not_music",
+    "role": "skip",
+    "song": null,
+    "artists": [],
+    "game": null,
+    "categories": [],
+    "year": null,
+    "topicTrackId": null,
+    "mvRank": null,
+    "confidence": "high",
+    "notes": "Skin trailer."
+  },
+  {
+    "id": "zqfN4CVhAtg",
+    "source": "valorant",
+    "title": "Champions 2026 Anthem Announcement  // ft. Grabbitz, Oli Sykes, & Courtney LaPlante - VALORANT",
+    "durationSeconds": 60,
+    "kind": "music_video",
+    "role": "related",
+    "song": "If The Sun Burns Out Tonight",
+    "artists": [
+      {
+        "name": "Grabbitz",
+        "role": "primary"
+      },
+      {
+        "name": "Oli Sykes",
+        "role": "featured"
+      },
+      {
+        "name": "Courtney LaPlante",
+        "role": "featured"
+      }
+    ],
+    "game": "valorant",
+    "categories": [
+      "valorant-champions"
+    ],
+    "year": 2026,
+    "topicTrackId": "RlPpn6dAhWs",
+    "mvRank": null,
+    "confidence": "high",
+    "notes": "60 s anthem announcement teaser (early listen)."
+  },
+  {
+    "id": "iYfYrsd09lo",
+    "source": "valorant",
+    "title": "FORGE THE FUTURE // Neo Frontier Skin Reveal Trailer - VALORANT",
+    "durationSeconds": 31,
+    "kind": "not_music",
+    "role": "skip",
+    "song": null,
+    "artists": [],
+    "game": null,
+    "categories": [],
+    "year": null,
+    "topicTrackId": null,
+    "mvRank": null,
+    "confidence": "high",
+    "notes": "Skin trailer; BMG production music."
+  },
+  {
+    "id": "3bE7ttLnWi8",
+    "source": "valorant",
+    "title": "Summit Gameplay Reveal Trailer - VALORANT",
+    "durationSeconds": 118,
+    "kind": "not_music",
+    "role": "skip",
+    "song": null,
+    "artists": [],
+    "game": null,
+    "categories": [],
+    "year": null,
+    "topicTrackId": null,
+    "mvRank": null,
+    "confidence": "high",
+    "notes": "Gameplay trailer; \"Patience\" by MEMBA."
+  },
+  {
+    "id": "rALZjObukrk",
+    "source": "valorant",
+    "title": "Summit Map Mogs // Dev Diaries - VALORANT",
+    "durationSeconds": 449,
+    "kind": "not_music",
+    "role": "skip",
+    "song": null,
+    "artists": [],
+    "game": null,
+    "categories": [],
+    "year": null,
+    "topicTrackId": null,
+    "mvRank": null,
+    "confidence": "high"
+  },
+  {
+    "id": "aSFtc5Y-ORQ",
+    "source": "valorant",
+    "title": "BEYOND THE LIGHT // Blackspyre Skin Reveal Trailer - VALORANT",
+    "durationSeconds": 122,
+    "kind": "not_music",
+    "role": "skip",
+    "song": null,
+    "artists": [],
+    "game": null,
+    "categories": [],
+    "year": null,
+    "topicTrackId": null,
+    "mvRank": null,
+    "confidence": "high",
+    "notes": "Skin trailer; licensed \"RIP\" by Apashe, Vladimir Cauchemar."
+  },
+  {
+    "id": "3kMr6JCbppI",
+    "source": "valorant",
+    "title": "THROUGH THE CRACKS // Summit Official Map Reveal Trailer - VALORANT",
+    "durationSeconds": 186,
+    "kind": "not_music",
+    "role": "skip",
+    "song": null,
+    "artists": [],
+    "game": null,
+    "categories": [],
+    "year": null,
+    "topicTrackId": null,
+    "mvRank": null,
+    "confidence": "high",
+    "notes": "Map trailer; \"Mei Lo\" by DOUDOU (not VALORANT-credited)."
+  },
+  {
+    "id": "yFNFKtb-o3Y",
+    "source": "valorant",
+    "title": "More than a DREAM, More than a CURSE // VALORANT 2026 Masters London Cinematic",
+    "durationSeconds": 163,
+    "kind": "cinematic",
+    "role": "primary_mv",
+    "song": "Chaos In The House",
+    "artists": [
+      {
+        "name": "Che Lingo",
+        "role": "primary"
+      }
+    ],
+    "game": "valorant",
+    "categories": [
+      "valorant-champions"
+    ],
+    "year": 2026,
+    "topicTrackId": null,
+    "mvRank": 1,
+    "confidence": "medium",
+    "notes": "Masters London 2026 cinematic; credited as \"Chaos In The House (Masters London Version)\" by Che Lingo, VALORANT. No Topic track found."
+  },
+  {
+    "id": "b1u1kUdDOys",
+    "source": "valorant",
+    "title": "STAY SHARP // Rogue Skin Reveal Trailer - VALORANT",
+    "durationSeconds": 92,
+    "kind": "not_music",
+    "role": "skip",
+    "song": null,
+    "artists": [],
+    "game": null,
+    "categories": [],
+    "year": null,
+    "topicTrackId": null,
+    "mvRank": null,
+    "confidence": "high",
+    "notes": "Skin trailer; \"Undertow\" by Brand X Music."
+  },
+  {
+    "id": "z7oMjTZH0k4",
+    "source": "valorant",
+    "title": "Ranked, Modes, Agent Balance, and more // Dev Updates - VALORANT",
+    "durationSeconds": 610,
+    "kind": "not_music",
+    "role": "skip",
+    "song": null,
+    "artists": [],
+    "game": null,
+    "categories": [],
+    "year": null,
+    "topicTrackId": null,
+    "mvRank": null,
+    "confidence": "high"
+  },
+  {
+    "id": "LbpRrH4QLFY",
+    "source": "valorant",
+    "title": "SKIRMISH: ASCENSION // A New Way To Climb - VALORANT",
+    "durationSeconds": 83,
+    "kind": "not_music",
+    "role": "skip",
+    "song": null,
+    "artists": [],
+    "game": null,
+    "categories": [],
+    "year": null,
+    "topicTrackId": null,
+    "mvRank": null,
+    "confidence": "high"
+  },
+  {
+    "id": "pXqSRj-JEkA",
+    "source": "valorant",
+    "title": "STORM AND SHADOW // Kuronami Skin Reveal Trailer - VALORANT",
+    "durationSeconds": 92,
+    "kind": "not_music",
+    "role": "skip",
+    "song": null,
+    "artists": [],
+    "game": null,
+    "categories": [],
+    "year": null,
+    "topicTrackId": null,
+    "mvRank": null,
+    "confidence": "high",
+    "notes": "Skin trailer; \"Sakerenai\" by Akki."
+  },
+  {
+    "id": "JVfFX6CGHlk",
+    "source": "valorant",
+    "title": "Miks Official Gameplay Reveal Trailer ft. Keeoh, meili, todo, tokibbi, & temet // VALORANT",
+    "durationSeconds": 89,
+    "kind": "not_music",
+    "role": "skip",
+    "song": null,
+    "artists": [],
+    "game": null,
+    "categories": [],
+    "year": null,
+    "topicTrackId": null,
+    "mvRank": null,
+    "confidence": "high",
+    "notes": "Agent gameplay reveal; licensed \"All I Am\" by Ninajirachi."
+  },
+  {
+    "id": "--w5dKba3uI",
+    "source": "valorant",
+    "title": "Bring the NOISE with Miks // Dev Diaries - VALORANT",
+    "durationSeconds": 218,
+    "kind": "not_music",
+    "role": "skip",
+    "song": null,
+    "artists": [],
+    "game": null,
+    "categories": [],
+    "year": null,
+    "topicTrackId": null,
+    "mvRank": null,
+    "confidence": "high"
+  },
+  {
+    "id": "RdjvO-lrXOw",
+    "source": "valorant",
+    "title": "CORRUPTION IN BLOOM // Blackthorn Skin Reveal Trailer",
+    "durationSeconds": 105,
+    "kind": "not_music",
+    "role": "skip",
+    "song": null,
+    "artists": [],
+    "game": null,
+    "categories": [],
+    "year": null,
+    "topicTrackId": null,
+    "mvRank": null,
+    "confidence": "high",
+    "notes": "Skin trailer; \"BEG!\" by Vana."
+  },
+  {
+    "id": "gictwC-KlTk",
+    "source": "valorant",
+    "title": "NEVER FIGHT ALONE // Miks Agent Trailer - VALORANT",
+    "durationSeconds": 180,
+    "kind": "champion_theme",
+    "role": "primary_mv",
+    "song": "Clarity (VALORANT x BUNT. Remix)",
+    "artists": [
+      {
+        "name": "Zedd",
+        "role": "primary"
+      },
+      {
+        "name": "Foxes",
+        "role": "featured"
+      },
+      {
+        "name": "BUNT.",
+        "role": "remixer"
+      }
+    ],
+    "game": "valorant",
+    "categories": [
+      "champion-theme",
+      "remix"
+    ],
+    "year": 2026,
+    "topicTrackId": null,
+    "mvRank": 3,
+    "confidence": "high",
+    "notes": "Miks agent trailer set to the Clarity (VALORANT x BUNT. Remix); no Topic track in topic_*.tsv."
+  },
+  {
+    "id": "5kNK4o8a8fA",
+    "source": "valorant",
+    "title": "LISTEN UP // Clarity (VALORANT x BUNT. Remix) Teaser - VALORANT",
+    "durationSeconds": 98,
+    "kind": "visualizer",
+    "role": "related",
+    "song": "Clarity (VALORANT x BUNT. Remix)",
+    "artists": [
+      {
+        "name": "Zedd",
+        "role": "primary"
+      },
+      {
+        "name": "Foxes",
+        "role": "featured"
+      },
+      {
+        "name": "BUNT.",
+        "role": "remixer"
+      }
+    ],
+    "game": "valorant",
+    "categories": [
+      "champion-theme",
+      "remix"
+    ],
+    "year": 2026,
+    "topicTrackId": null,
+    "mvRank": null,
+    "confidence": "high",
+    "notes": "Teaser (\"a small taste of\") for the remix before full release."
+  },
+  {
+    "id": "SIvvHtOplXs",
+    "source": "valorant",
+    "title": "�GRITA CON EL ALMA! - VALORANT 2026 Masters Santiago Cinematic",
+    "durationSeconds": 125,
+    "kind": "cinematic",
+    "role": "primary_mv",
+    "song": "Mi Gente lo Siente",
+    "artists": [
+      {
+        "name": "Don Elektron",
+        "role": "primary"
+      },
+      {
+        "name": "Gotopo",
+        "role": "primary"
+      }
+    ],
+    "game": "valorant",
+    "categories": [
+      "valorant-champions"
+    ],
+    "year": 2026,
+    "topicTrackId": null,
+    "mvRank": 1,
+    "confidence": "low",
+    "notes": "Masters Santiago 2026 cinematic; credit \"Mi Gente lo Siente\" by Don Elektron and Gotopo (additional production The Crystal Creative). Could not confirm it is a Riot release."
+  },
+  {
+    "id": "Qyfxpx0S3c0",
+    "source": "valorant",
+    "title": "No One Fights Like A Family  // VALORANT Year of the Horse MV",
+    "durationSeconds": 178,
+    "kind": "music_video",
+    "role": "primary_mv",
+    "song": "No One Fights Like A Family",
+    "artists": [
+      {
+        "name": "D-SHINE",
+        "role": "primary"
+      },
+      {
+        "name": "ZmjjKK",
+        "role": "primary"
+      },
+      {
+        "name": "HangHang",
+        "role": "primary"
+      },
+      {
+        "name": "JioJio",
+        "role": "primary"
+      },
+      {
+        "name": "CongmingYangYang",
+        "role": "primary"
+      }
+    ],
+    "game": "valorant",
+    "categories": [
+      "skin-line"
+    ],
+    "year": 2026,
+    "topicTrackId": null,
+    "mvRank": 1,
+    "confidence": "low",
+    "notes": "Lunar New Year (Year of the Horse) Chinese rap MV made with W+K Shanghai; description lists talent but no song credit, so song title = video title."
+  },
+  {
+    "id": "iCHg9iCCrnc",
+    "source": "valorant",
+    "title": "BLOOD & VENOM // V26 Alpha vs Omega Event Kickoff Trailer - VALORANT",
+    "durationSeconds": 88,
+    "kind": "not_music",
+    "role": "skip",
+    "song": null,
+    "artists": [],
+    "game": null,
+    "categories": [],
+    "year": null,
+    "topicTrackId": null,
+    "mvRank": null,
+    "confidence": "high",
+    "notes": "Event kickoff trailer; licensed \"New Flesh\" by Black Asteroid."
+  },
+  {
+    "id": "ZSEMYF4AU2g",
+    "source": "valorant",
+    "title": "BECOME THE VILLAIN // Ayakashi Skin Trailer - VALORANT",
+    "durationSeconds": 76,
+    "kind": "not_music",
+    "role": "skip",
+    "song": null,
+    "artists": [],
+    "game": null,
+    "categories": [],
+    "year": null,
+    "topicTrackId": null,
+    "mvRank": null,
+    "confidence": "high",
+    "notes": "Skin trailer; music production by Safari Riot."
+  },
+  {
+    "id": "jRi3VWoRgX4",
+    "source": "valorant",
+    "title": "Welcome to Season 2026 // Dev Updates - VALORANT",
+    "durationSeconds": 656,
+    "kind": "not_music",
+    "role": "skip",
+    "song": null,
+    "artists": [],
+    "game": null,
+    "categories": [],
+    "year": null,
+    "topicTrackId": null,
+    "mvRank": null,
+    "confidence": "high"
+  },
+  {
+    "id": "AnGdzz-XWcE",
+    "source": "valorant",
+    "title": "WHY WE FIGHT BACK // Season 2026 Cinematic Kickoff Trailer - VALORANT",
+    "durationSeconds": 210,
+    "kind": "cinematic",
+    "role": "primary_mv",
+    "song": "Toxic",
+    "artists": [
+      {
+        "name": "KiNG MALA",
+        "role": "primary"
+      },
+      {
+        "name": "Audrey Nuna",
+        "role": "featured"
+      }
+    ],
+    "game": "valorant",
+    "categories": [
+      "cinematic"
+    ],
+    "year": 2026,
+    "topicTrackId": "GS3xW94y5Tg",
+    "mvRank": 1,
+    "confidence": "high",
+    "notes": "Season 2026 cinematic \"WHY WE FIGHT BACK\"; cover of Toxic (writers Cathy Dennis, Henrik Jonback, Christian Karlsson, Pontus Winnberg)."
+  },
+  {
+    "id": "leBWiCo2WzQ",
+    "source": "valorant",
+    "title": "COME HOME // Phoenix Visual Short - VALORANT",
+    "durationSeconds": 392,
+    "kind": "animated_short",
+    "role": "related",
+    "song": "EGO",
+    "artists": [
+      {
+        "name": "Qing Madi",
+        "role": "primary"
+      }
+    ],
+    "game": "valorant",
+    "categories": [
+      "cinematic"
+    ],
+    "year": 2025,
+    "topicTrackId": "MynXN5mcR9k",
+    "mvRank": null,
+    "confidence": "medium",
+    "notes": "Phoenix visual short \"COME HOME\"; uses EGO plus \"Better Than This\" (Reagan James) and score by VERDAUNT."
+  },
+  {
+    "id": "snru7fOGiZk",
+    "source": "valorant",
+    "title": "GO OFF // 2025 VALORANT Game Changers Championship Hype Film - ft. M.I.A by KATSEYE",
+    "durationSeconds": 135,
+    "kind": "cinematic",
+    "role": "primary_mv",
+    "song": "M.I.A (VALORANT Game Changers Version)",
+    "artists": [
+      {
+        "name": "KATSEYE",
+        "role": "primary"
+      }
+    ],
+    "game": "valorant",
+    "categories": [
+      "valorant-champions",
+      "remix"
+    ],
+    "year": 2025,
+    "topicTrackId": null,
+    "mvRank": 1,
+    "confidence": "medium",
+    "notes": "2025 Game Changers Championship hype film built on a VALORANT Game Changers version of KATSEYE's M.I.A; released under KATSEYE's label, no Topic track."
+  },
+  {
+    "id": "XkM2spbL-ns",
+    "source": "valorant",
+    "title": "TURN UP // ORA by OneTap Skin Reveal Trailer",
+    "durationSeconds": 133,
+    "kind": "not_music",
+    "role": "skip",
+    "song": null,
+    "artists": [],
+    "game": null,
+    "categories": [],
+    "year": null,
+    "topicTrackId": null,
+    "mvRank": null,
+    "confidence": "high",
+    "notes": "Skin trailer; medley of VALORANT tracks (my lawyer said don't, RENEGADE, RAJA, Watch, Ignition)."
+  },
+  {
+    "id": "hufZyvfDYRI",
+    "source": "valorant",
+    "title": "Harbor Gameplay Rework // Golden Moment - VALORANT",
+    "durationSeconds": 35,
+    "kind": "not_music",
+    "role": "skip",
+    "song": null,
+    "artists": [],
+    "game": null,
+    "categories": [],
+    "year": null,
+    "topicTrackId": null,
+    "mvRank": null,
+    "confidence": "high",
+    "notes": "35 s gameplay clip; \"RAJA\" MEMBA remix."
+  },
+  {
+    "id": "zmYUeS971XE",
+    "source": "valorant",
+    "title": "Patch 11.08 Gameplay Updates // S25 Act 6 Trailer",
+    "durationSeconds": 159,
+    "kind": "not_music",
+    "role": "skip",
+    "song": null,
+    "artists": [],
+    "game": null,
+    "categories": [],
+    "year": null,
+    "topicTrackId": null,
+    "mvRank": null,
+    "confidence": "high"
+  },
+  {
+    "id": "99sq7gGQsPo",
+    "source": "valorant",
+    "title": "VALORANT Voices: Chat with Phoenix, Mary Ade, and Chamber // Champions 2025 Live Panel",
+    "durationSeconds": 1158,
+    "kind": "not_music",
+    "role": "skip",
+    "song": null,
+    "artists": [],
+    "game": null,
+    "categories": [],
+    "year": null,
+    "topicTrackId": null,
+    "mvRank": null,
+    "confidence": "high"
+  },
+  {
+    "id": "Q4ZdRYQmHvM",
+    "source": "valorant",
+    "title": "Veto Official Gameplay Reveal // VALORANT",
+    "durationSeconds": 60,
+    "kind": "not_music",
+    "role": "skip",
+    "song": null,
+    "artists": [],
+    "game": null,
+    "categories": [],
+    "year": null,
+    "topicTrackId": null,
+    "mvRank": null,
+    "confidence": "high",
+    "notes": "Agent gameplay reveal; \"Django\" by Nix."
+  },
+  {
+    "id": "2FLY-gn-hGQ",
+    "source": "valorant",
+    "title": "GIVE THEM NOTHING // Veto Agent Trailer - VALORANT",
+    "durationSeconds": 149,
+    "kind": "not_music",
+    "role": "skip",
+    "song": null,
+    "artists": [],
+    "game": null,
+    "categories": [],
+    "year": null,
+    "topicTrackId": null,
+    "mvRank": null,
+    "confidence": "high",
+    "notes": "Veto agent trailer; licensed \"Tarkinda\" by One Lyrical."
+  },
+  {
+    "id": "8UJa5eznAuo",
+    "source": "valorant",
+    "title": "Spend some time on Sunset - VALORANT",
+    "durationSeconds": 3600,
+    "kind": "soundtrack_compilation",
+    "role": "related",
+    "song": "Spend some time on Sunset",
+    "artists": [],
+    "game": "valorant",
+    "categories": [
+      "soundtrack"
+    ],
+    "year": 2025,
+    "topicTrackId": null,
+    "mvRank": null,
+    "confidence": "low",
+    "notes": "1-hour Sunset map ambience (\"gentle sounds of Sunset\"); may be ambient sound rather than music, no credits."
+  },
+  {
+    "id": "7WQ_wvVCzmg",
+    "source": "valorant",
+    "title": "FINAL CONTACT // Champions 2025 Prologue Cinematic - VALORANT",
+    "durationSeconds": 110,
+    "kind": "cinematic",
+    "role": "primary_mv",
+    "song": "FINAL CONTACT",
+    "artists": [
+      {
+        "name": "RAVEN",
+        "role": "composer"
+      }
+    ],
+    "game": "valorant",
+    "categories": [
+      "valorant-champions"
+    ],
+    "year": 2025,
+    "topicTrackId": null,
+    "mvRank": 1,
+    "confidence": "medium",
+    "notes": "Champions 2025 prologue cinematic; score credited \"Music: by RAVEN\"."
+  },
+  {
+    "id": "ZhwS0p6kSs4",
+    "source": "valorant",
+    "title": "Champions 2025 Live Panel Recap // Dev Updates - VALORANT",
+    "durationSeconds": 983,
+    "kind": "not_music",
+    "role": "skip",
+    "song": null,
+    "artists": [],
+    "game": null,
+    "categories": [],
+    "year": null,
+    "topicTrackId": null,
+    "mvRank": null,
+    "confidence": "high"
+  },
+  {
+    "id": "cLx3tyzht3Y",
+    "source": "valorant",
+    "title": "Last Shot ft. templuv & 347aidan (Official Music Video) // VALORANT Champions 2025",
+    "durationSeconds": 186,
+    "kind": "music_video",
+    "role": "primary_mv",
+    "song": "Last Shot",
+    "artists": [
+      {
+        "name": "templuv",
+        "role": "primary"
+      },
+      {
+        "name": "347aidan",
+        "role": "primary"
+      }
+    ],
+    "game": "valorant",
+    "categories": [
+      "valorant-champions"
+    ],
+    "year": 2025,
+    "topicTrackId": "51XUr7uEcq8",
+    "mvRank": 1,
+    "confidence": "high",
+    "notes": "Official MV, VALORANT Champions 2025 anthem; MV by WIZZ."
+  },
+  {
+    "id": "bKpcAOVyX3g",
+    "source": "valorant",
+    "title": "GO FOR GOLD // Champions 2025 Skin Reveal Trailer - VALORANT",
+    "durationSeconds": 64,
+    "kind": "not_music",
+    "role": "skip",
+    "song": null,
+    "artists": [],
+    "game": null,
+    "categories": [],
+    "year": null,
+    "topicTrackId": null,
+    "mvRank": null,
+    "confidence": "high",
+    "notes": "Champions 2025 skin trailer; incidental music."
+  },
+  {
+    "id": "WyYiVdNhTE0",
+    "source": "valorant",
+    "title": "BRING IT ALL // IN MY ZONE ft. BBNO$ // China Mobile Launch Music Video - VALORANT",
+    "durationSeconds": 152,
+    "kind": "music_video",
+    "role": "primary_mv",
+    "song": "in my zone",
+    "artists": [
+      {
+        "name": "bbno$",
+        "role": "primary"
+      }
+    ],
+    "game": "valorant",
+    "categories": [],
+    "year": 2025,
+    "topicTrackId": "n7fh_275FZg",
+    "mvRank": 1,
+    "confidence": "high",
+    "notes": "VALORANT Mobile China launch MV \"BRING IT ALL\"; MV (152 s) shorter than the Topic track (172 s)."
+  },
+  {
+    "id": "WV8Ms4IuNxY",
+    "source": "valorant",
+    "title": "IGNITION SplashX Remix // Endless Edition Visualizer - VALORANT",
+    "durationSeconds": 32401,
+    "kind": "visualizer",
+    "role": "related",
+    "song": "IGNITION (SplashX Remix)",
+    "artists": [
+      {
+        "name": "LICK",
+        "role": "primary"
+      },
+      {
+        "name": "Bishu",
+        "role": "remixer"
+      }
+    ],
+    "game": "valorant",
+    "categories": [
+      "remix",
+      "skin-line"
+    ],
+    "year": 2025,
+    "topicTrackId": null,
+    "mvRank": null,
+    "confidence": "high",
+    "notes": "9-hour looped \"Endless Edition\" visualizer; too long to use as the primary video."
+  },
+  {
+    "id": "P8ZahXzfjgk",
+    "source": "valorant",
+    "title": "PUMP IT UP // SplashX VALORANT Skin Reveal Trailer",
+    "durationSeconds": 68,
+    "kind": "skin_trailer_song",
+    "role": "related",
+    "song": "IGNITION (SplashX Remix)",
+    "artists": [
+      {
+        "name": "LICK",
+        "role": "primary"
+      },
+      {
+        "name": "Bishu",
+        "role": "remixer"
+      }
+    ],
+    "game": "valorant",
+    "categories": [
+      "remix",
+      "skin-line"
+    ],
+    "year": 2025,
+    "topicTrackId": null,
+    "mvRank": null,
+    "confidence": "medium",
+    "notes": "SplashX skin reveal trailer scored with the SplashX remix of IGNITION (additional production VERDAUNT)."
+  },
+  {
+    "id": "gZPyHib9GNw",
+    "source": "valorant",
+    "title": "NO TRACE // Phaseguard Skin Reveal Trailer - VALORANT",
+    "durationSeconds": 78,
+    "kind": "not_music",
+    "role": "skip",
+    "song": null,
+    "artists": [],
+    "game": null,
+    "categories": [],
+    "year": null,
+    "topicTrackId": null,
+    "mvRank": null,
+    "confidence": "high",
+    "notes": "Skin trailer; licensed \"Pain\" by ISOKNOCK, ISOxo, Knock2."
+  },
+  {
+    "id": "KUV039XgYrc",
+    "source": "valorant",
+    "title": "Behind the Walls of Corrode // Dev Diaries - VALORANT",
+    "durationSeconds": 285,
+    "kind": "not_music",
+    "role": "skip",
+    "song": null,
+    "artists": [],
+    "game": null,
+    "categories": [],
+    "year": null,
+    "topicTrackId": null,
+    "mvRank": null,
+    "confidence": "high"
+  },
+  {
+    "id": "6U7nx6p0P_M",
+    "source": "valorant",
+    "title": "Corrode // Official Map Trailer - VALORANT",
+    "durationSeconds": 155,
+    "kind": "cinematic",
+    "role": "primary_mv",
+    "song": "Les rêves d’hier",
+    "artists": [
+      {
+        "name": "VERDAUNT",
+        "role": "primary"
+      },
+      {
+        "name": "Marylou Larson",
+        "role": "featured"
+      },
+      {
+        "name": "David Donges",
+        "role": "composer"
+      }
+    ],
+    "game": "valorant",
+    "categories": [
+      "soundtrack"
+    ],
+    "year": 2025,
+    "topicTrackId": "0VbtY1xaP-Y",
+    "mvRank": 1,
+    "confidence": "medium",
+    "notes": "Corrode map trailer built on the original song (written by David Donges and VERDAUNT); Topic track released the same day."
+  },
+  {
+    "id": "i9pBHRlhXd8",
+    "source": "valorant",
+    "title": "Team Tarik vs Team Toast | Masters Toronto Showmatch Tease",
+    "durationSeconds": 125,
+    "kind": "not_music",
+    "role": "skip",
+    "song": null,
+    "artists": [],
+    "game": null,
+    "categories": [],
+    "year": null,
+    "topicTrackId": null,
+    "mvRank": null,
+    "confidence": "high"
+  },
+  {
+    "id": "n6iY-0KgHnk",
+    "source": "valorant",
+    "title": "Reflection // Redemption - VALORANT Masters Toronto Cinematic",
+    "durationSeconds": 118,
+    "kind": "cinematic",
+    "role": "primary_mv",
+    "song": "Ready Set Go",
+    "artists": [
+      {
+        "name": "Mark Evans",
+        "role": "primary"
+      },
+      {
+        "name": "CAPPA",
+        "role": "featured"
+      }
+    ],
+    "game": "valorant",
+    "categories": [
+      "valorant-champions"
+    ],
+    "year": 2025,
+    "topicTrackId": null,
+    "mvRank": 1,
+    "confidence": "low",
+    "notes": "Masters Toronto 2025 cinematic; track \"Ready Set Go\" by Mark Evans (feat. CAPPA) via music agency The Crystal Creative, likely licensed rather than a Riot release."
+  },
+  {
+    "id": "jAj_nbWYb7g",
+    "source": "valorant",
+    "title": "WHY WE FIGHT // EGO ft. Qing Madi // Year 5 Music Video - VALORANT",
+    "durationSeconds": 260,
+    "kind": "music_video",
+    "role": "primary_mv",
+    "song": "EGO",
+    "artists": [
+      {
+        "name": "Qing Madi",
+        "role": "primary"
+      }
+    ],
+    "game": "valorant",
+    "categories": [
+      "cinematic"
+    ],
+    "year": 2025,
+    "topicTrackId": "MynXN5mcR9k",
+    "mvRank": 1,
+    "confidence": "high",
+    "notes": "VALORANT Year 5 music video \"WHY WE FIGHT\"; performed in-universe by Mary Ade (Phoenix's sister)."
+  },
+  {
+    "id": "NiedTYE_HyA",
+    "source": "valorant",
+    "title": "Your VALORANT Stories � Breaking Through",
+    "durationSeconds": 95,
+    "kind": "not_music",
+    "role": "skip",
+    "song": null,
+    "artists": [],
+    "game": null,
+    "categories": [],
+    "year": null,
+    "topicTrackId": null,
+    "mvRank": null,
+    "confidence": "high",
+    "notes": "Community story; licensed \"firestarter\" by AN ERROR OCCURRED."
+  },
+  {
+    "id": "_oYnSaw9A-c",
+    "source": "valorant",
+    "title": "Abilities, Smurfing, Replays, and More // Dev Updates - VALORANT",
+    "durationSeconds": 616,
+    "kind": "not_music",
+    "role": "skip",
+    "song": null,
+    "artists": [],
+    "game": null,
+    "categories": [],
+    "year": null,
+    "topicTrackId": null,
+    "mvRank": null,
+    "confidence": "high"
+  },
+  {
+    "id": "gERZohfSv6Q",
+    "source": "valorant",
+    "title": "Your VALORANT Stories � Pass the Sticks",
+    "durationSeconds": 96,
+    "kind": "not_music",
+    "role": "skip",
+    "song": null,
+    "artists": [],
+    "game": null,
+    "categories": [],
+    "year": null,
+    "topicTrackId": null,
+    "mvRank": null,
+    "confidence": "high",
+    "notes": "Community story; licensed \"HINDSIGHT\" by Shyloom."
+  },
+  {
+    "id": "1XphwnkF2a8",
+    "source": "valorant",
+    "title": "Your VALORANT Stories � Journey to the Top",
+    "durationSeconds": 106,
+    "kind": "not_music",
+    "role": "skip",
+    "song": null,
+    "artists": [],
+    "game": null,
+    "categories": [],
+    "year": null,
+    "topicTrackId": null,
+    "mvRank": null,
+    "confidence": "high",
+    "notes": "Community story; licensed \"De Ja Vu\" by ego n friends."
+  },
+  {
+    "id": "AWKEbo1hPBk",
+    "source": "valorant",
+    "title": "Your VALORANT Stories � Dedication",
+    "durationSeconds": 105,
+    "kind": "not_music",
+    "role": "skip",
+    "song": null,
+    "artists": [],
+    "game": null,
+    "categories": [],
+    "year": null,
+    "topicTrackId": null,
+    "mvRank": null,
+    "confidence": "high",
+    "notes": "Community story; licensed \"Older Me\" by 2WEI et al."
+  },
+  {
+    "id": "D9qiTHuhZw8",
+    "source": "valorant",
+    "title": "Your VALORANT Stories � Where Game Meets Life",
+    "durationSeconds": 147,
+    "kind": "not_music",
+    "role": "skip",
+    "song": null,
+    "artists": [],
+    "game": null,
+    "categories": [],
+    "year": null,
+    "topicTrackId": null,
+    "mvRank": null,
+    "confidence": "high",
+    "notes": "Community story; licensed \"VietNam My Home\"."
+  },
+  {
+    "id": "I-pSZQVGO0o",
+    "source": "valorant",
+    "title": "Your VALORANT Stories � The Drive that Binds",
+    "durationSeconds": 132,
+    "kind": "not_music",
+    "role": "skip",
+    "song": null,
+    "artists": [],
+    "game": null,
+    "categories": [],
+    "year": null,
+    "topicTrackId": null,
+    "mvRank": null,
+    "confidence": "high",
+    "notes": "Community story; licensed \"HIS STORY IN THE MAKING\" by MIXTAPE."
+  },
+  {
+    "id": "nXzS4a-33ao",
+    "source": "valorant",
+    "title": "5 Year Mashup // Anniversary Medley Visualizer - VALORANT",
+    "durationSeconds": 154,
+    "kind": "visualizer",
+    "role": "primary_mv",
+    "song": "5 Year Mashup",
+    "artists": [
+      {
+        "name": "LICK",
+        "role": "primary"
+      },
+      {
+        "name": "Grabbitz",
+        "role": "primary"
+      },
+      {
+        "name": "HELIN",
+        "role": "primary"
+      },
+      {
+        "name": "ARB4",
+        "role": "primary"
+      },
+      {
+        "name": "bbno$",
+        "role": "primary"
+      }
+    ],
+    "game": "valorant",
+    "categories": [
+      "remix"
+    ],
+    "year": 2025,
+    "topicTrackId": null,
+    "mvRank": 3,
+    "confidence": "medium",
+    "notes": "Anniversary medley of IGNITION, Die For You, Karanlığın and Ticking Away (additional production Verdaunt); no Topic track."
+  },
+  {
+    "id": "Xe5b-9BEQTs",
+    "source": "valorant",
+    "title": "5 Years of VALORANT // Act 3 Kickoff Trailer",
+    "durationSeconds": 152,
+    "kind": "not_music",
+    "role": "skip",
+    "song": null,
+    "artists": [],
+    "game": null,
+    "categories": [],
+    "year": null,
+    "topicTrackId": null,
+    "mvRank": null,
+    "confidence": "high"
+  },
+  {
+    "id": "ywRzBumomAU",
+    "source": "valorant",
+    "title": "Celebrating 5 Years of VALORANT",
+    "durationSeconds": 294,
+    "kind": "not_music",
+    "role": "skip",
+    "song": null,
+    "artists": [],
+    "game": null,
+    "categories": [],
+    "year": null,
+    "topicTrackId": null,
+    "mvRank": null,
+    "confidence": "high"
+  },
+  {
+    "id": "kPV_2ybpGCo",
+    "source": "valorant",
+    "title": "Convergent Paths�Waylay arrives at Masters Bangkok // VALORANT",
+    "durationSeconds": 280,
+    "kind": "not_music",
+    "role": "skip",
+    "song": null,
+    "artists": [],
+    "game": null,
+    "categories": [],
+    "year": null,
+    "topicTrackId": null,
+    "mvRank": null,
+    "confidence": "high"
+  },
+  {
+    "id": "97eAYyVHsUE",
+    "source": "valorant",
+    "title": "Starforged // Cyrax Skin Reveal Trailer - VALORANT",
+    "durationSeconds": 113,
+    "kind": "not_music",
+    "role": "skip",
+    "song": null,
+    "artists": [],
+    "game": null,
+    "categories": [],
+    "year": null,
+    "topicTrackId": null,
+    "mvRank": null,
+    "confidence": "high",
+    "notes": "Skin trailer; music by audiomachine."
+  },
+  {
+    "id": "njK6KgRNr2k",
+    "source": "valorant",
+    "title": "Waylay Official Gameplay Reveal // VALORANT",
+    "durationSeconds": 97,
+    "kind": "champion_theme",
+    "role": "related",
+    "song": "ONE PUNCH",
+    "artists": [
+      {
+        "name": "MILLI",
+        "role": "primary"
+      }
+    ],
+    "game": "valorant",
+    "categories": [
+      "valorant-champions",
+      "champion-theme"
+    ],
+    "year": 2025,
+    "topicTrackId": null,
+    "mvRank": null,
+    "confidence": "medium",
+    "notes": "Waylay gameplay reveal scored with ONE PUNCH (additional scoring VERDAUNT)."
+  },
+  {
+    "id": "OHzUoFKPUB0",
+    "source": "valorant",
+    "title": "DAWN BREAKS // Waylay Agent Trailer - VALORANT",
+    "durationSeconds": 136,
+    "kind": "champion_theme",
+    "role": "primary_mv",
+    "song": "ONE PUNCH",
+    "artists": [
+      {
+        "name": "MILLI",
+        "role": "primary"
+      }
+    ],
+    "game": "valorant",
+    "categories": [
+      "valorant-champions",
+      "champion-theme"
+    ],
+    "year": 2025,
+    "topicTrackId": null,
+    "mvRank": 3,
+    "confidence": "high",
+    "notes": "Waylay agent trailer \"DAWN BREAKS\" set to ONE PUNCH (additional scoring RAVEN). Released via MILLI's label; no Topic track."
+  },
+  {
+    "id": "ukhcyHb5kHA",
+    "source": "valorant",
+    "title": "Dawn of the Duelist // VALORANT Masters Bangkok Cinematic",
+    "durationSeconds": 114,
+    "kind": "cinematic",
+    "role": "primary_mv",
+    "song": "ONE PUNCH",
+    "artists": [
+      {
+        "name": "MILLI",
+        "role": "primary"
+      }
+    ],
+    "game": "valorant",
+    "categories": [
+      "valorant-champions",
+      "champion-theme"
+    ],
+    "year": 2025,
+    "topicTrackId": null,
+    "mvRank": 1,
+    "confidence": "high",
+    "notes": "Masters Bangkok 2025 cinematic \"Dawn of the Duelist\"; ONE PUNCH by MILLI, VALORANT."
+  },
+  {
+    "id": "YpNsGFd74fk",
+    "source": "valorant",
+    "title": "What�s New for Season 2025 // Dev Updates - VALORANT",
+    "durationSeconds": 1108,
+    "kind": "not_music",
+    "role": "skip",
+    "song": null,
+    "artists": [],
+    "game": null,
+    "categories": [],
+    "year": null,
+    "topicTrackId": null,
+    "mvRank": null,
+    "confidence": "high"
+  },
+  {
+    "id": "Q1HgRPb_5NI",
+    "source": "valorant",
+    "title": "Welcome to Season 2025 - VALORANT",
+    "durationSeconds": 575,
+    "kind": "not_music",
+    "role": "skip",
+    "song": null,
+    "artists": [],
+    "game": null,
+    "categories": [],
+    "year": null,
+    "topicTrackId": null,
+    "mvRank": null,
+    "confidence": "high"
+  },
+  {
+    "id": "dRuRID5JoQY",
+    "source": "valorant",
+    "title": "Tejo Official Gameplay Reveal // VALORANT",
+    "durationSeconds": 106,
+    "kind": "not_music",
+    "role": "skip",
+    "song": null,
+    "artists": [],
+    "game": null,
+    "categories": [],
+    "year": null,
+    "topicTrackId": null,
+    "mvRank": null,
+    "confidence": "high",
+    "notes": "Agent gameplay reveal; licensed \"Sputnik\" by LosPetitFellas."
+  },
+  {
+    "id": "Iyd2VUcoTBY",
+    "source": "valorant",
+    "title": "INITIATE.V25 // Season 2025 Cinematic Kickoff Trailer",
+    "durationSeconds": 139,
+    "kind": "cinematic",
+    "role": "primary_mv",
+    "song": "my lawyer said don't",
+    "artists": [
+      {
+        "name": "8AE",
+        "role": "primary"
+      }
+    ],
+    "game": "valorant",
+    "categories": [
+      "cinematic"
+    ],
+    "year": 2025,
+    "topicTrackId": "EXioHYANLkc",
+    "mvRank": 1,
+    "confidence": "high",
+    "notes": "Season 2025 cinematic kickoff trailer \"INITIATE.V25\"."
+  },
+  {
+    "id": "vdfexNscpPo",
+    "source": "valorant",
+    "title": "RE:FUEL // ARAXYS Skin Reveal Trailer - VALORANT",
+    "durationSeconds": 87,
+    "kind": "not_music",
+    "role": "skip",
+    "song": null,
+    "artists": [],
+    "game": null,
+    "categories": [],
+    "year": null,
+    "topicTrackId": null,
+    "mvRank": null,
+    "confidence": "high"
+  },
+  {
+    "id": "d1yOu8UlmkQ",
+    "source": "valorant",
+    "title": "ARCANE SEASON 2 COLLECTOR�S SET // Skin Reveal Trailer - VALORANT",
+    "durationSeconds": 78,
+    "kind": "skin_trailer_song",
+    "role": "related",
+    "song": "Come Play",
+    "artists": [
+      {
+        "name": "Stray Kids",
+        "role": "primary"
+      },
+      {
+        "name": "Young Miko",
+        "role": "primary"
+      },
+      {
+        "name": "Tom Morello",
+        "role": "primary"
+      }
+    ],
+    "game": "arcane",
+    "categories": [
+      "arcane"
+    ],
+    "year": 2024,
+    "topicTrackId": "JRWrhS1K-Eo",
+    "mvRank": null,
+    "confidence": "medium",
+    "notes": "VALORANT Arcane Season 2 collector's set skin trailer scored with the Arcane S2 song \"Come Play\"."
+  },
+  {
+    "id": "fa_p-q6npXE",
+    "source": "valorant",
+    "title": "THE DRIVE // 2024 VALORANT Game Changers Championship Hype Film",
+    "durationSeconds": 155,
+    "kind": "not_music",
+    "role": "skip",
+    "song": null,
+    "artists": [],
+    "game": null,
+    "categories": [],
+    "year": null,
+    "topicTrackId": null,
+    "mvRank": null,
+    "confidence": "high",
+    "notes": "Game Changers 2024 hype film; uses YONAKA \"PREDATOR\"."
+  },
+  {
+    "id": "xi10SuaE49I",
+    "source": "valorant",
+    "title": "JUST. ONE. MORE // Episode 9: Act lll Trailer - VALORANT",
+    "durationSeconds": 166,
+    "kind": "not_music",
+    "role": "skip",
+    "song": null,
+    "artists": [],
+    "game": null,
+    "categories": [],
+    "year": null,
+    "topicTrackId": null,
+    "mvRank": null,
+    "confidence": "high",
+    "notes": "Act trailer; licensed \"LUKEY TY TY\" by Anna Sofia."
+  },
+  {
+    "id": "Kwh4FtFgTCI",
+    "source": "valorant",
+    "title": "EVENT HORIZON : SINGULARITY REVEAL TRAILER",
+    "durationSeconds": 73,
+    "kind": "not_music",
+    "role": "skip",
+    "song": null,
+    "artists": [],
+    "game": null,
+    "categories": [],
+    "year": null,
+    "topicTrackId": null,
+    "mvRank": null,
+    "confidence": "high",
+    "notes": "Skin trailer; music by Saygrace ft. G-Easy."
+  },
+  {
+    "id": "mlbzg0UTg6o",
+    "source": "valorant",
+    "title": "Player Behavior, Balance, and Anti-Cheat // Dev Updates - VALORANT",
+    "durationSeconds": 551,
+    "kind": "not_music",
+    "role": "skip",
+    "song": null,
+    "artists": [],
+    "game": null,
+    "categories": [],
+    "year": null,
+    "topicTrackId": null,
+    "mvRank": null,
+    "confidence": "high"
+  },
+  {
+    "id": "BEpcN-eE8ms",
+    "source": "valorant",
+    "title": "Vyse Official Gameplay Reveal // VALORANT",
+    "durationSeconds": 114,
+    "kind": "champion_theme",
+    "role": "related",
+    "song": "VYSE",
+    "artists": [
+      {
+        "name": "Kordhell",
+        "role": "primary"
+      }
+    ],
+    "game": "valorant",
+    "categories": [
+      "champion-theme"
+    ],
+    "year": 2024,
+    "topicTrackId": "WXAtX_9vDqY",
+    "mvRank": null,
+    "confidence": "medium",
+    "notes": "Vyse gameplay reveal scored with \"VYSE\" (VALORANT x Kordhell); Topic single released the same day."
+  },
+  {
+    "id": "btpWg1gDXIE",
+    "source": "valorant",
+    "title": "ALL PATHS END HERE // Vyse Agent Trailer - VALORANT",
+    "durationSeconds": 140,
+    "kind": "not_music",
+    "role": "skip",
+    "song": null,
+    "artists": [],
+    "game": null,
+    "categories": [],
+    "year": null,
+    "topicTrackId": null,
+    "mvRank": null,
+    "confidence": "high",
+    "notes": "Vyse agent trailer; original score by So Much Blood (no song release)."
+  },
+  {
+    "id": "bNzcejLn4eU",
+    "source": "valorant",
+    "title": "RUN! // VALORANT + ODETARI FEAT. LAY BANKZ - Official Audio",
+    "durationSeconds": 157,
+    "kind": "official_audio",
+    "role": "audio_source",
+    "song": "RUN!",
+    "artists": [
+      {
+        "name": "Odetari",
+        "role": "primary"
+      },
+      {
+        "name": "Lay Bankz",
+        "role": "featured"
+      }
+    ],
+    "game": "valorant",
+    "categories": [
+      "cinematic"
+    ],
+    "year": 2024,
+    "topicTrackId": "hjt_6c2B2Do",
+    "mvRank": null,
+    "confidence": "high",
+    "notes": "Official audio upload."
+  },
+  {
+    "id": "6nKzziP2lxw",
+    "source": "valorant",
+    "title": "INCURSIONS // Official Console Cinematic Trailer - VALORANT",
+    "durationSeconds": 189,
+    "kind": "cinematic",
+    "role": "primary_mv",
+    "song": "RUN!",
+    "artists": [
+      {
+        "name": "Odetari",
+        "role": "primary"
+      },
+      {
+        "name": "Lay Bankz",
+        "role": "featured"
+      },
+      {
+        "name": "Cubby",
+        "role": "remixer"
+      }
+    ],
+    "game": "valorant",
+    "categories": [
+      "cinematic"
+    ],
+    "year": 2024,
+    "topicTrackId": "hjt_6c2B2Do",
+    "mvRank": 4,
+    "confidence": "medium",
+    "notes": "Console launch cinematic \"INCURSIONS\"; uses a remix of RUN! by Cubby (The Crystal Creative), so audio differs from the original."
+  },
+  {
+    "id": "VNxvRG0ceUI",
+    "source": "valorant",
+    "title": "Champions 2024 Skin Reveal Trailer // VALORANT",
+    "durationSeconds": 95,
+    "kind": "not_music",
+    "role": "skip",
+    "song": null,
+    "artists": [],
+    "game": null,
+    "categories": [],
+    "year": null,
+    "topicTrackId": null,
+    "mvRank": null,
+    "confidence": "high",
+    "notes": "Champions 2024 skin trailer; no music credit."
+  },
+  {
+    "id": "DX4BE9GmpH4",
+    "source": "valorant",
+    "title": "SUPERPOWER ft. KISS OF LIFE and Mark Tuan (Official Music Video) // VALORANT Champions 2024 Anthem",
+    "durationSeconds": 191,
+    "kind": "music_video",
+    "role": "primary_mv",
+    "song": "SUPERPOWER",
+    "artists": [
+      {
+        "name": "KISS OF LIFE",
+        "role": "primary"
+      },
+      {
+        "name": "Mark Tuan",
+        "role": "primary"
+      }
+    ],
+    "game": "valorant",
+    "categories": [
+      "valorant-champions"
+    ],
+    "year": 2024,
+    "topicTrackId": "ik9LVPZM1Jc",
+    "mvRank": 1,
+    "confidence": "high",
+    "notes": "Official MV, VALORANT Champions 2024 anthem (Julie & Natty of KISS OF LIFE); MV by WIZZ."
+  },
+  {
+    "id": "1o-DMei4BEU",
+    "source": "valorant",
+    "title": "THE FUTURE�S READY // Episode 9: Act l Trailer - VALORANT",
+    "durationSeconds": 115,
+    "kind": "not_music",
+    "role": "skip",
+    "song": null,
+    "artists": [],
+    "game": null,
+    "categories": [],
+    "year": null,
+    "topicTrackId": null,
+    "mvRank": null,
+    "confidence": "high"
+  },
+  {
+    "id": "wtJt38PhTOE",
+    "source": "valorant",
+    "title": "EVORI DREAMWINGS // Skin Reveal Trailer - VALORANT",
+    "durationSeconds": 122,
+    "kind": "not_music",
+    "role": "skip",
+    "song": null,
+    "artists": [],
+    "game": null,
+    "categories": [],
+    "year": null,
+    "topicTrackId": null,
+    "mvRank": null,
+    "confidence": "high",
+    "notes": "Skin trailer; custom score by Ghostwriter Music."
+  },
+  {
+    "id": "OtuyLWn5gCI",
+    "source": "valorant",
+    "title": "SANCTUM OF SECRETS // Abyss Official Map Trailer - VALORANT",
+    "durationSeconds": 213,
+    "kind": "not_music",
+    "role": "skip",
+    "song": null,
+    "artists": [],
+    "game": null,
+    "categories": [],
+    "year": null,
+    "topicTrackId": null,
+    "mvRank": null,
+    "confidence": "high",
+    "notes": "Abyss map trailer; score by ARB4 (no song release)."
+  },
+  {
+    "id": "gXq176aI7Mk",
+    "source": "valorant",
+    "title": "Bringing VALORANT to Console // Dev Diaries - VALORANT",
+    "durationSeconds": 377,
+    "kind": "not_music",
+    "role": "skip",
+    "song": null,
+    "artists": [],
+    "game": null,
+    "categories": [],
+    "year": null,
+    "topicTrackId": null,
+    "mvRank": null,
+    "confidence": "high"
+  },
+  {
+    "id": "e9i02_8aMV0",
+    "source": "valorant",
+    "title": "VALORANT CONSOLE ANNOUNCE // Welcome Trailer - VALORANT",
+    "durationSeconds": 122,
+    "kind": "not_music",
+    "role": "skip",
+    "song": null,
+    "artists": [],
+    "game": null,
+    "categories": [],
+    "year": null,
+    "topicTrackId": null,
+    "mvRank": null,
+    "confidence": "high",
+    "notes": "Console welcome trailer; \"say it again (VALORANT version)\" by 2hollis, remix by Cubby."
+  },
+  {
+    "id": "GAkFklRvhjU",
+    "source": "valorant",
+    "title": "VALORANT CONSOLE ANNOUNCE // Gameplay Trailer - VALORANT",
+    "durationSeconds": 118,
+    "kind": "not_music",
+    "role": "skip",
+    "song": null,
+    "artists": [],
+    "game": null,
+    "categories": [],
+    "year": null,
+    "topicTrackId": null,
+    "mvRank": null,
+    "confidence": "high",
+    "notes": "Console gameplay trailer; licensed \"Level Up\" by Black Caviar."
+  },
+  {
+    "id": "B9A4L4ZoWN8",
+    "source": "valorant",
+    "title": "Keeping Our Community Healthy // Dev Updates",
+    "durationSeconds": 462,
+    "kind": "not_music",
+    "role": "skip",
+    "song": null,
+    "artists": [],
+    "game": null,
+    "categories": [],
+    "year": null,
+    "topicTrackId": null,
+    "mvRank": null,
+    "confidence": "high"
+  },
+  {
+    "id": "KHREYcS3RqU",
+    "source": "valorant",
+    "title": "Map Rotations, Replays, and More // Dev Updates - VALORANT",
+    "durationSeconds": 800,
+    "kind": "not_music",
+    "role": "skip",
+    "song": null,
+    "artists": [],
+    "game": null,
+    "categories": [],
+    "year": null,
+    "topicTrackId": null,
+    "mvRank": null,
+    "confidence": "high"
+  },
+  {
+    "id": "7bgDP28KtVo",
+    "source": "valorant",
+    "title": "Thrill Unleashed // VALORANT Masters Shanghai Cinematic",
+    "durationSeconds": 106,
+    "kind": "cinematic",
+    "role": "primary_mv",
+    "song": "Thrill Unleashed",
+    "artists": [],
+    "game": "valorant",
+    "categories": [
+      "valorant-champions"
+    ],
+    "year": 2024,
+    "topicTrackId": null,
+    "mvRank": 1,
+    "confidence": "low",
+    "notes": "Masters Shanghai 2024 cinematic; description has no music credit, so the music is unidentified (song title = video title)."
+  },
+  {
+    "id": "EiVF6QsAijo",
+    "source": "valorant",
+    "title": "YOU DIFF // Episode 8: Act III Kickoff - VALORANT",
+    "durationSeconds": 104,
+    "kind": "not_music",
+    "role": "skip",
+    "song": null,
+    "artists": [],
+    "game": null,
+    "categories": [],
+    "year": null,
+    "topicTrackId": null,
+    "mvRank": null,
+    "confidence": "high",
+    "notes": "Act kickoff; licensed \"Ay What Up (Lemme Vibe)\" by Ark Woods."
+  },
+  {
+    "id": "y7J0R-hLJ1Y",
+    "source": "valorant",
+    "title": "Meet the Voice of Clove  // VALORANT",
+    "durationSeconds": 156,
+    "kind": "not_music",
+    "role": "skip",
+    "song": null,
+    "artists": [],
+    "game": null,
+    "categories": [],
+    "year": null,
+    "topicTrackId": null,
+    "mvRank": null,
+    "confidence": "high"
+  },
+  {
+    "id": "RKAzrZWJQXA",
+    "source": "valorant",
+    "title": "2WORLDS // Madge x VALORANT - Official Audio",
+    "durationSeconds": 150,
+    "kind": "official_audio",
+    "role": "audio_source",
+    "song": "2WORLDS",
+    "artists": [
+      {
+        "name": "Madge",
+        "role": "primary"
+      }
+    ],
+    "game": "valorant",
+    "categories": [
+      "champion-theme"
+    ],
+    "year": 2024,
+    "topicTrackId": "qtSbjOVDxJU",
+    "mvRank": null,
+    "confidence": "high",
+    "notes": "Official audio upload; Clove's agent song."
+  },
+  {
+    "id": "QL0LUaxWUOI",
+    "source": "valorant",
+    "title": "2 WORLDS // Clove Agent Trailer - VALORANT",
+    "durationSeconds": 114,
+    "kind": "champion_theme",
+    "role": "primary_mv",
+    "song": "2WORLDS",
+    "artists": [
+      {
+        "name": "Madge",
+        "role": "primary"
+      }
+    ],
+    "game": "valorant",
+    "categories": [
+      "champion-theme"
+    ],
+    "year": 2024,
+    "topicTrackId": "qtSbjOVDxJU",
+    "mvRank": 3,
+    "confidence": "high",
+    "notes": "Clove agent trailer \"2 WORLDS\" set to 2WORLDS (114 s cut of the 150 s track)."
+  },
+  {
+    "id": "mdVGu6Cxtj0",
+    "source": "valorant",
+    "title": "Clove Official Gameplay Reveal // VALORANT",
+    "durationSeconds": 80,
+    "kind": "not_music",
+    "role": "skip",
+    "song": null,
+    "artists": [],
+    "game": null,
+    "categories": [],
+    "year": null,
+    "topicTrackId": null,
+    "mvRank": null,
+    "confidence": "high",
+    "notes": "Agent gameplay reveal; licensed \"I Love You to Death\" by Five Knives."
+  },
+  {
+    "id": "xKwuJ50EDLc",
+    "source": "valorant",
+    "title": "A NUESTRA MANERA | VALORANT Masters Madrid Trailer",
+    "durationSeconds": 117,
+    "kind": "not_music",
+    "role": "skip",
+    "song": null,
+    "artists": [],
+    "game": null,
+    "categories": [],
+    "year": null,
+    "topicTrackId": null,
+    "mvRank": null,
+    "confidence": "high",
+    "notes": "Masters Madrid 2024 event trailer; no music credit."
+  },
+  {
+    "id": "6SPuDeBwTpU",
+    "source": "valorant",
+    "title": "BE THEIR BANE // Primordium Skin Reveal Trailer - VALORANT",
+    "durationSeconds": 120,
+    "kind": "not_music",
+    "role": "skip",
+    "song": null,
+    "artists": [],
+    "game": null,
+    "categories": [],
+    "year": null,
+    "topicTrackId": null,
+    "mvRank": null,
+    "confidence": "high",
+    "notes": "Skin trailer; \"Break It Down\" by Elephant Music."
+  },
+  {
+    "id": "z3AOg7mUP_Y",
+    "source": "valorant",
+    "title": "Introducing the 2024 VCT Team Capsules  // Skin Reveal Trailer - VALORANT",
+    "durationSeconds": 93,
+    "kind": "not_music",
+    "role": "skip",
+    "song": null,
+    "artists": [],
+    "game": null,
+    "categories": [],
+    "year": null,
+    "topicTrackId": null,
+    "mvRank": null,
+    "confidence": "high"
+  },
+  {
+    "id": "iq4A2z6rUxQ",
+    "source": "valorant",
+    "title": "TAKE THE LEAD // Episode 8: Act I Kickoff - VALORANT",
+    "durationSeconds": 80,
+    "kind": "not_music",
+    "role": "skip",
+    "song": null,
+    "artists": [],
+    "game": null,
+    "categories": [],
+    "year": null,
+    "topicTrackId": null,
+    "mvRank": null,
+    "confidence": "high",
+    "notes": "Act kickoff; uses YONAKA \"PREDATOR\"."
+  },
+  {
+    "id": "q2eLOupmraQ",
+    "source": "valorant",
+    "title": "RECKONING // Episode 8 Cinematic - VALORANT",
+    "durationSeconds": 389,
+    "kind": "cinematic",
+    "role": "primary_mv",
+    "song": "PREDATOR",
+    "artists": [
+      {
+        "name": "YONAKA",
+        "role": "primary"
+      }
+    ],
+    "game": "valorant",
+    "categories": [
+      "cinematic"
+    ],
+    "year": 2024,
+    "topicTrackId": null,
+    "mvRank": 1,
+    "confidence": "medium",
+    "notes": "Episode 8 cinematic \"RECKONING\"; YONAKA single PREDATOR (Lava/Republic) with additional scoring by Ghostwriter Music; no Topic track."
+  },
+  {
+    "id": "p_EbnbEqnVM",
+    "source": "valorant",
+    "title": "DRIFT // Team Deathmatch Map Trailer - VALORANT",
+    "durationSeconds": 73,
+    "kind": "not_music",
+    "role": "skip",
+    "song": null,
+    "artists": [],
+    "game": null,
+    "categories": [],
+    "year": null,
+    "topicTrackId": null,
+    "mvRank": null,
+    "confidence": "high",
+    "notes": "TDM map trailer; MILLI \"Welcome (ft. MINUS)\"."
+  },
+  {
+    "id": "6jhuEo2Upqs",
+    "source": "valorant",
+    "title": "VALORANT, LOUDER // 2023 GAME CHANGERS CHAMPIONSHIP HYPE FILM",
+    "durationSeconds": 100,
+    "kind": "not_music",
+    "role": "skip",
+    "song": null,
+    "artists": [],
+    "game": null,
+    "categories": [],
+    "year": null,
+    "topicTrackId": null,
+    "mvRank": null,
+    "confidence": "high",
+    "notes": "Game Changers 2023 hype film; original score by Karel Psota."
+  },
+  {
+    "id": "ann7WuNd1SM",
+    "source": "valorant",
+    "title": "EYES ON ME // Episode 7: Act III Kickoff - VALORANT",
+    "durationSeconds": 74,
+    "kind": "not_music",
+    "role": "skip",
+    "song": null,
+    "artists": [],
+    "game": null,
+    "categories": [],
+    "year": null,
+    "topicTrackId": null,
+    "mvRank": null,
+    "confidence": "high",
+    "notes": "Act kickoff; licensed \"ORION - 華興\"."
+  },
+  {
+    "id": "h1_mc9qeTwE",
+    "source": "valorant",
+    "title": "STANDING TALL // VALORANT x GHOSTWRITER x JASON CHU x DAVID DONGES - Official Audio",
+    "durationSeconds": 226,
+    "kind": "official_audio",
+    "role": "audio_source",
+    "song": "STANDING TALL",
+    "artists": [
+      {
+        "name": "Ghostwriter",
+        "role": "primary"
+      },
+      {
+        "name": "Jason Chu",
+        "role": "primary"
+      },
+      {
+        "name": "David Donges",
+        "role": "primary"
+      }
+    ],
+    "game": "valorant",
+    "categories": [
+      "skin-line"
+    ],
+    "year": 2023,
+    "topicTrackId": "RAUusBuDEvI",
+    "mvRank": null,
+    "confidence": "high",
+    "notes": "Official audio (MYTH.mix); used in the Valiant Hero skin trailer."
+  },
+  {
+    "id": "250eQlJ8mTU",
+    "source": "valorant",
+    "title": "GREATNESS // Valiant Hero Skin Reveal Trailer - VALORANT",
+    "durationSeconds": 71,
+    "kind": "skin_trailer_song",
+    "role": "related",
+    "song": "STANDING TALL",
+    "artists": [
+      {
+        "name": "Ghostwriter",
+        "role": "primary"
+      },
+      {
+        "name": "Jason Chu",
+        "role": "primary"
+      },
+      {
+        "name": "David Donges",
+        "role": "primary"
+      }
+    ],
+    "game": "valorant",
+    "categories": [
+      "skin-line"
+    ],
+    "year": 2023,
+    "topicTrackId": "RAUusBuDEvI",
+    "mvRank": null,
+    "confidence": "medium",
+    "notes": "Valiant Hero skin reveal trailer scored with STANDING TALL."
+  },
+  {
+    "id": "boz5BU1KdIw",
+    "source": "valorant",
+    "title": "IN THE RING // VALORANT x DON�JESSIE - Official Audio",
+    "durationSeconds": 164,
+    "kind": "official_audio",
+    "role": "audio_source",
+    "song": "IN THE RING",
+    "artists": [
+      {
+        "name": "Don·Jessie",
+        "role": "primary"
+      }
+    ],
+    "game": "valorant",
+    "categories": [
+      "champion-theme"
+    ],
+    "year": 2023,
+    "topicTrackId": "Cx5yV5rtO38",
+    "mvRank": null,
+    "confidence": "high",
+    "notes": "Official audio (MYTH.mix, Iso release); upload 164 s vs Topic 144 s."
+  },
+  {
+    "id": "QAAap0ceNbo",
+    "source": "valorant",
+    "title": "RENEGADE // VALORANT x 99 GOD x C103 - Official Audio",
+    "durationSeconds": 181,
+    "kind": "official_audio",
+    "role": "audio_source",
+    "song": "RENEGADE",
+    "artists": [
+      {
+        "name": "99 God",
+        "role": "primary"
+      },
+      {
+        "name": "C103",
+        "role": "featured"
+      }
+    ],
+    "game": "valorant",
+    "categories": [
+      "champion-theme"
+    ],
+    "year": 2023,
+    "topicTrackId": "2Zral-FRu8M",
+    "mvRank": null,
+    "confidence": "high",
+    "notes": "Official audio (MYTH.mix); upload 181 s vs Topic 163 s. Iso agent trailer song."
+  },
+  {
+    "id": "jaUJO3uAu5s",
+    "source": "valorant",
+    "title": "Iso Official Gameplay Reveal // VALORANT",
+    "durationSeconds": 68,
+    "kind": "champion_theme",
+    "role": "related",
+    "song": "IN THE RING",
+    "artists": [
+      {
+        "name": "Don·Jessie",
+        "role": "primary"
+      }
+    ],
+    "game": "valorant",
+    "categories": [
+      "champion-theme"
+    ],
+    "year": 2023,
+    "topicTrackId": "Cx5yV5rtO38",
+    "mvRank": null,
+    "confidence": "medium",
+    "notes": "Iso gameplay reveal scored with In The Ring."
+  },
+  {
+    "id": "8OgcHAv6Jvk",
+    "source": "valorant",
+    "title": "MYTHS // Iso Agent Trailer - VALORANT",
+    "durationSeconds": 174,
+    "kind": "champion_theme",
+    "role": "primary_mv",
+    "song": "RENEGADE",
+    "artists": [
+      {
+        "name": "99 God",
+        "role": "primary"
+      },
+      {
+        "name": "C103",
+        "role": "featured"
+      }
+    ],
+    "game": "valorant",
+    "categories": [
+      "champion-theme"
+    ],
+    "year": 2023,
+    "topicTrackId": "2Zral-FRu8M",
+    "mvRank": 3,
+    "confidence": "high",
+    "notes": "Iso agent trailer \"MYTHS\" set to RENEGADE."
+  },
+  {
+    "id": "RFAoGY11tUM",
+    "source": "valorant",
+    "title": "RE-IGNITION // VALORANT x Emei x Jazz Alonso x ARB4 - Official Audio",
+    "durationSeconds": 205,
+    "kind": "official_audio",
+    "role": "audio_source",
+    "song": "RE-IGNITION",
+    "artists": [
+      {
+        "name": "Emei",
+        "role": "primary"
+      },
+      {
+        "name": "Jazz Alonso",
+        "role": "primary"
+      },
+      {
+        "name": "ARB4",
+        "role": "primary"
+      }
+    ],
+    "game": "valorant",
+    "categories": [
+      "remix"
+    ],
+    "year": 2023,
+    "topicTrackId": "rpqrraEEvbs",
+    "mvRank": null,
+    "confidence": "high",
+    "notes": "Official audio; reworking of IGNITION (LICK)."
+  },
+  {
+    "id": "2w7uD0gtza8",
+    "source": "valorant",
+    "title": "YOU. ARE. HERE. // Episode 7: Act II Kickoff - VALORANT",
+    "durationSeconds": 74,
+    "kind": "not_music",
+    "role": "skip",
+    "song": null,
+    "artists": [],
+    "game": null,
+    "categories": [],
+    "year": null,
+    "topicTrackId": null,
+    "mvRank": null,
+    "confidence": "high",
+    "notes": "Act kickoff; licensed \"Run It\" by Harlu & Fa$ho."
+  },
+  {
+    "id": "CI-n1Jb1VNM",
+    "source": "valorant",
+    "title": "BRING IT // Premier Global Launch Trailer - VALORANT",
+    "durationSeconds": 86,
+    "kind": "not_music",
+    "role": "skip",
+    "song": null,
+    "artists": [],
+    "game": null,
+    "categories": [],
+    "year": null,
+    "topicTrackId": null,
+    "mvRank": null,
+    "confidence": "high",
+    "notes": "Premier launch trailer; \"Get It\" by LG (TEAM GENIUS)."
+  },
+  {
+    "id": "KTIIlCjGL9k",
+    "source": "valorant",
+    "title": "RISE OF THE DRAGON KINGS // Imperium Skin Reveal Trailer - VALORANT",
+    "durationSeconds": 96,
+    "kind": "not_music",
+    "role": "skip",
+    "song": null,
+    "artists": [],
+    "game": null,
+    "categories": [],
+    "year": null,
+    "topicTrackId": null,
+    "mvRank": null,
+    "confidence": "high"
+  },
+  {
+    "id": "kmfok5MtWkI",
+    "source": "valorant",
+    "title": "SUNSET // Official Map Trailer - VALORANT",
+    "durationSeconds": 294,
+    "kind": "not_music",
+    "role": "skip",
+    "song": null,
+    "artists": [],
+    "game": null,
+    "categories": [],
+    "year": null,
+    "topicTrackId": null,
+    "mvRank": null,
+    "confidence": "high",
+    "notes": "Sunset map trailer; original score by ARB4 (no song release)."
+  },
+  {
+    "id": "XpM5JCcthjs",
+    "source": "valorant",
+    "title": "What�s Next? // Premier - VALORANT",
+    "durationSeconds": 201,
+    "kind": "not_music",
+    "role": "skip",
+    "song": null,
+    "artists": [],
+    "game": null,
+    "categories": [],
+    "year": null,
+    "topicTrackId": null,
+    "mvRank": null,
+    "confidence": "high"
+  },
+  {
+    "id": "F4k3tATj32Q",
+    "source": "valorant",
+    "title": "WE�RE WATCHING VALORANT CHAMPIONS GRAND FINALS",
+    "durationSeconds": 94,
+    "kind": "not_music",
+    "role": "skip",
+    "song": null,
+    "artists": [],
+    "game": null,
+    "categories": [],
+    "year": null,
+    "topicTrackId": null,
+    "mvRank": null,
+    "confidence": "high",
+    "notes": "Comedy promo starring bbno$ as \"The Random\"; not a song."
+  },
+  {
+    "id": "uPNDnh7Lj84",
+    "source": "valorant",
+    "title": "VALORANT CHAMPIONS PLAYOFFS ARE FOR THE SHEEPLE",
+    "durationSeconds": 94,
+    "kind": "not_music",
+    "role": "skip",
+    "song": null,
+    "artists": [],
+    "game": null,
+    "categories": [],
+    "year": null,
+    "topicTrackId": null,
+    "mvRank": null,
+    "confidence": "high",
+    "notes": "Comedy promo starring bbno$ as \"The Random\"; not a song."
+  },
+  {
+    "id": "XTh3ZwKtZOs",
+    "source": "valorant",
+    "title": "DON�T WATCH VALORANT CHAMPIONS LOS ANGELES!!!",
+    "durationSeconds": 93,
+    "kind": "not_music",
+    "role": "skip",
+    "song": null,
+    "artists": [],
+    "game": null,
+    "categories": [],
+    "year": null,
+    "topicTrackId": null,
+    "mvRank": null,
+    "confidence": "high",
+    "notes": "Comedy promo starring bbno$ as \"The Random\"; not a song."
+  },
+  {
+    "id": "CdZN8PI3MqM",
+    "source": "valorant",
+    "title": "Ticking Away ft. Grabbitz & bbno$ (Official Music Video) // VALORANT Champions 2023 Anthem",
+    "durationSeconds": 204,
+    "kind": "music_video",
+    "role": "primary_mv",
+    "song": "Ticking Away",
+    "artists": [
+      {
+        "name": "Grabbitz",
+        "role": "primary"
+      },
+      {
+        "name": "bbno$",
+        "role": "primary"
+      }
+    ],
+    "game": "valorant",
+    "categories": [
+      "valorant-champions"
+    ],
+    "year": 2023,
+    "topicTrackId": "cPO2ZEDczis",
+    "mvRank": 1,
+    "confidence": "high",
+    "notes": "Official MV, VALORANT Champions 2023 anthem."
+  },
+  {
+    "id": "365svb1KnyA",
+    "source": "valorant",
+    "title": "Champions 2023 Skin Reveal Trailer // VALORANT Champions Los Angeles",
+    "durationSeconds": 75,
+    "kind": "not_music",
+    "role": "skip",
+    "song": null,
+    "artists": [],
+    "game": null,
+    "categories": [],
+    "year": null,
+    "topicTrackId": null,
+    "mvRank": null,
+    "confidence": "high",
+    "notes": "Champions 2023 skin trailer; no music credit."
+  },
+  {
+    "id": "b5V-ukxFcCE",
+    "source": "valorant",
+    "title": "CATALYST: Setting a New Bar // VALORANT",
+    "durationSeconds": 138,
+    "kind": "not_music",
+    "role": "skip",
+    "song": null,
+    "artists": [],
+    "game": null,
+    "categories": [],
+    "year": null,
+    "topicTrackId": null,
+    "mvRank": null,
+    "confidence": "high"
+  },
+  {
+    "id": "F5qEtdVtsvo",
+    "source": "valorant",
+    "title": "UNITED TOGETHER // China Launch Official Cinematic - VALORANT",
+    "durationSeconds": 202,
+    "kind": "cinematic",
+    "role": "primary_mv",
+    "song": "Lit (Left/Right Remix)",
+    "artists": [
+      {
+        "name": "Lay Zhang",
+        "role": "primary"
+      },
+      {
+        "name": "Left/Right",
+        "role": "remixer"
+      }
+    ],
+    "game": "valorant",
+    "categories": [
+      "cinematic",
+      "remix"
+    ],
+    "year": 2023,
+    "topicTrackId": null,
+    "mvRank": 1,
+    "confidence": "low",
+    "notes": "China launch cinematic \"UNITED TOGETHER\" (The Mill); remix of Lay Zhang's existing song \"Lit\", not a Riot original."
+  },
+  {
+    "id": "93tac_HYFUc",
+    "source": "valorant",
+    "title": "Meet the Voice of Deadlock // VALORANT",
+    "durationSeconds": 154,
+    "kind": "not_music",
+    "role": "skip",
+    "song": null,
+    "artists": [],
+    "game": null,
+    "categories": [],
+    "year": null,
+    "topicTrackId": null,
+    "mvRank": null,
+    "confidence": "high"
+  },
+  {
+    "id": "KPvCldjk_O8",
+    "source": "valorant",
+    "title": "SHOWDOWN // NeoFrontier Skin Reveal Trailer - VALORANT",
+    "durationSeconds": 82,
+    "kind": "not_music",
+    "role": "skip",
+    "song": null,
+    "artists": [],
+    "game": null,
+    "categories": [],
+    "year": null,
+    "topicTrackId": null,
+    "mvRank": null,
+    "confidence": "high"
+  },
+  {
+    "id": "sUoSPryMZr0",
+    "source": "valorant",
+    "title": "UNMADE // Episode 7 Cinematic - VALORANT",
+    "durationSeconds": 381,
+    "kind": "cinematic",
+    "role": "primary_mv",
+    "song": "UNMADE",
+    "artists": [
+      {
+        "name": "CAVALRY MUSIC",
+        "role": "composer"
+      },
+      {
+        "name": "Alex Klingle",
+        "role": "composer"
+      },
+      {
+        "name": "Denis Surov",
+        "role": "composer"
+      }
+    ],
+    "game": "valorant",
+    "categories": [
+      "cinematic"
+    ],
+    "year": 2023,
+    "topicTrackId": null,
+    "mvRank": 1,
+    "confidence": "medium",
+    "notes": "Episode 7 cinematic with original score; no audio release found."
+  },
+  {
+    "id": "UK7Tdob8HQw",
+    "source": "valorant",
+    "title": "Deadlock Official Gameplay Reveal // VALORANT",
+    "durationSeconds": 68,
+    "kind": "not_music",
+    "role": "skip",
+    "song": null,
+    "artists": [],
+    "game": null,
+    "categories": [],
+    "year": null,
+    "topicTrackId": null,
+    "mvRank": null,
+    "confidence": "high"
+  },
+  {
+    "id": "wbV1YE3gvP4",
+    "source": "valorant",
+    "title": "VALORANT Pros React: New Sentinel Agent",
+    "durationSeconds": 181,
+    "kind": "not_music",
+    "role": "skip",
+    "song": null,
+    "artists": [],
+    "game": null,
+    "categories": [],
+    "year": null,
+    "topicTrackId": null,
+    "mvRank": null,
+    "confidence": "high"
+  },
+  {
+    "id": "jyFxneb5M5Y",
+    "source": "valorant",
+    "title": "THE GAMES BEGIN. // Team Deathmatch Game Mode Trailer - VALORANT",
+    "durationSeconds": 211,
+    "kind": "not_music",
+    "role": "skip",
+    "song": null,
+    "artists": [],
+    "game": null,
+    "categories": [],
+    "year": null,
+    "topicTrackId": null,
+    "mvRank": null,
+    "confidence": "high",
+    "notes": "TDM mode trailer; licensed \"The Drop\" by overunder."
+  },
+  {
+    "id": "5SoEPl8dw2I",
+    "source": "valorant",
+    "title": " REFLECTIONS // Anime Tribute Video - VALORANT",
+    "durationSeconds": 113,
+    "kind": "animated_short",
+    "role": "primary_mv",
+    "song": "REFLECTIONS",
+    "artists": [
+      {
+        "name": "Ghostwriter",
+        "role": "primary"
+      },
+      {
+        "name": "SWEEP",
+        "role": "featured"
+      },
+      {
+        "name": "Bryan Nguyen",
+        "role": "composer"
+      },
+      {
+        "name": "David Yousefi",
+        "role": "composer"
+      }
+    ],
+    "game": "valorant",
+    "categories": [
+      "valorant-champions"
+    ],
+    "year": 2023,
+    "topicTrackId": "mlnS7XopC3M",
+    "mvRank": 1,
+    "confidence": "medium",
+    "notes": "Anime tribute video (Production I.G) kicking off VCT Masters Tokyo 2023, built on REFLECTIONS (feat. SWEEP); video 112 s vs Topic 134 s."
+  },
+  {
+    "id": "BB37hpgcmqY",
+    "source": "valorant",
+    "title": "Progression System Update 101 - VALORANT",
+    "durationSeconds": 151,
+    "kind": "not_music",
+    "role": "skip",
+    "song": null,
+    "artists": [],
+    "game": null,
+    "categories": [],
+    "year": null,
+    "topicTrackId": null,
+    "mvRank": null,
+    "confidence": "high"
+  },
+  {
+    "id": "5cll0xNoLr8",
+    "source": "valorant",
+    "title": "RANK UP! | 2023 VALORANT Masters Tokyo | Event Trailer",
+    "durationSeconds": 72,
+    "kind": "not_music",
+    "role": "skip",
+    "song": null,
+    "artists": [],
+    "game": null,
+    "categories": [],
+    "year": null,
+    "topicTrackId": null,
+    "mvRank": null,
+    "confidence": "high",
+    "notes": "Masters Tokyo 2023 manga event trailer."
+  },
+  {
+    "id": "V8bhudoy39w",
+    "source": "valorant",
+    "title": "What�s Next in 2023 // Dev Diaries - VALORANT",
+    "durationSeconds": 248,
+    "kind": "not_music",
+    "role": "skip",
+    "song": null,
+    "artists": [],
+    "game": null,
+    "categories": [],
+    "year": null,
+    "topicTrackId": null,
+    "mvRank": null,
+    "confidence": "high"
+  },
+  {
+    "id": "hNoQ0sQZkjQ",
+    "source": "valorant",
+    "title": "GAME ON // Episode 6: Act III Kickoff - VALORANT",
+    "durationSeconds": 79,
+    "kind": "not_music",
+    "role": "skip",
+    "song": null,
+    "artists": [],
+    "game": null,
+    "categories": [],
+    "year": null,
+    "topicTrackId": null,
+    "mvRank": null,
+    "confidence": "high"
+  },
+  {
+    "id": "uGJqwNSYkfI",
+    "source": "valorant",
+    "title": "How�d we get an arcade full of inspiration into one skin? The Radiant Entertainment System.",
+    "durationSeconds": 69,
+    "kind": "not_music",
+    "role": "skip",
+    "song": null,
+    "artists": [],
+    "game": null,
+    "categories": [],
+    "year": null,
+    "topicTrackId": null,
+    "mvRank": null,
+    "confidence": "high"
+  },
+  {
+    "id": "MPemOdTvHTk",
+    "source": "valorant",
+    "title": "PRESS PLAY  // Radiant Entertainment System Skin Trailer - VALORANT",
+    "durationSeconds": 191,
+    "kind": "not_music",
+    "role": "skip",
+    "song": null,
+    "artists": [],
+    "game": null,
+    "categories": [],
+    "year": null,
+    "topicTrackId": null,
+    "mvRank": null,
+    "confidence": "high"
+  }
+]

@@ -1,0 +1,29 @@
+---
+/** Site footer — mirrors the Next.js app's `components/site/site-footer.tsx`. */
+import { Kbd } from "@workspace/ui/components/kbd"
+import { siteNav } from "@workspace/ui/lib/site-nav"
+import { Wordmark } from "./site/Wordmark.tsx"
+---
+
+<footer class="mt-16 border-t border-white/[0.06] bg-[#0a1827]">
+  <div class="mx-auto grid max-w-[1600px] gap-8 px-4 py-10 md:grid-cols-[1.4fr_1fr_1fr] md:px-6">
+    <div class="space-y-3">
+      <Wordmark />
+      <p class="max-w-sm text-sm text-muted-foreground">
+        An unofficial, local archive of the music Riot Games has released — every track playable, every music video
+        one click away.
+      </p>
+      <p class="text-xs text-muted-foreground/70">
+        Music, videos and artwork © Riot Games and their respective artists. Not affiliated with or endorsed by Riot
+        Games.
+      </p>
+    </div>
+    <nav aria-label="Footer" class="grid grid-cols-2 gap-2 text-sm">
+      {siteNav.map((item) => <a href={item.href} class="text-muted-foreground hover:text-foreground">{item.label}</a>)}
+    </nav>
+    <div class="space-y-2 text-sm text-muted-foreground">
+      <p class="font-medium text-foreground">Shortcuts</p>
+      <p class="flex items-center gap-2"><Kbd>Space</Kbd> play / pause</p>
+    </div>
+  </div>
+</footer>

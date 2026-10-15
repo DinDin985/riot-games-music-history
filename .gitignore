@@ -1,0 +1,58 @@
+# See https://help.github.com/articles/ignoring-files/ for more about ignoring files.
+
+# dependencies
+node_modules
+.pnp
+.pnp.*
+.yarn/*
+!.yarn/patches
+!.yarn/plugins
+!.yarn/releases
+!.yarn/versions
+
+# testing
+coverage
+
+# next.js
+.next/
+out/
+
+# production
+build
+dist
+
+# turbo
+.turbo
+
+# misc
+.DS_Store
+*.pem
+
+# debug
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+.pnpm-debug.log*
+
+# env files (can opt-in for committing if needed)
+.env*
+
+# vercel
+.vercel
+
+# typescript
+*.tsbuildinfo
+next-env.d.ts
+
+# riot music archive: downloaded + derived media, local database
+/media/
+/data/*.db
+/data/*.db-*
+/data/metadata/
+/data/timeline.json
+# extra Next.js dist dirs of parallel dev servers (NEXT_DIST_DIR=.next-<name>)
+/apps/web/.next-*/
+# Astro build output copied into Next.js public/ (npm run build:stories)
+/apps/web/public/awards/
+/apps/web/public/impact/
+/apps/web/public/_stories/

@@ -1,0 +1,50 @@
+/*
+ * Shared theme (tokens, fonts, shadcn base styles, gold / riot-red / navy
+ * utilities) from the UI package, so the story pages look exactly like the
+ * Next.js app. Only story-specific helpers live here.
+ */
+@import "@workspace/ui/globals.css";
+
+/* globals.css scans apps/**\/*.{ts,tsx}; Astro templates need an explicit source. */
+@source "../**/*.{astro,ts,tsx}";
+
+@layer components {
+  /* Long-form story typography (rendered markdown). */
+  .story-prose {
+    @apply text-base leading-7 text-foreground/90 md:text-[1.0625rem] md:leading-8;
+  }
+  .story-prose p + p,
+  .story-prose p + ul,
+  .story-prose ul + p,
+  .story-prose p + ol,
+  .story-prose ol + p,
+  .story-prose blockquote,
+  .story-prose p + blockquote {
+    @apply mt-4;
+  }
+  .story-prose h3,
+  .story-prose h4 {
+    @apply mt-6 mb-2 text-lg font-semibold text-foreground;
+  }
+  .story-prose em {
+    @apply text-foreground italic;
+  }
+  .story-prose strong {
+    @apply font-semibold text-foreground;
+  }
+  .story-prose a {
+    @apply text-gold underline decoration-gold/40 underline-offset-4 hover:decoration-gold;
+  }
+  .story-prose ul {
+    @apply list-disc space-y-1 pl-6;
+  }
+  .story-prose ol {
+    @apply list-decimal space-y-1 pl-6;
+  }
+  .story-prose blockquote {
+    @apply border-l-2 border-gold pl-4 text-foreground/80 italic;
+  }
+  .story-prose code {
+    @apply rounded bg-muted px-1 py-0.5 font-mono text-sm;
+  }
+}

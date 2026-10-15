@@ -1,0 +1,1823 @@
+[
+  {
+    "id": "XxLvAxYXYk4",
+    "source": "riotmusic",
+    "title": "Arcane: Hexcore Nights | Los Angeles 2025 (Full Set)",
+    "durationSeconds": 3735,
+    "kind": "live_performance",
+    "role": "related",
+    "song": "Arcane: Hexcore Nights – Los Angeles 2025 (Full Set)",
+    "artists": [
+      {
+        "name": "Wavedash",
+        "role": "primary"
+      }
+    ],
+    "game": "arcane",
+    "categories": [
+      "arcane"
+    ],
+    "year": 2025,
+    "topicTrackId": null,
+    "mvRank": null,
+    "confidence": "high",
+    "notes": "Full live set (uploaded 2025-11-28): Arcane soundtrack-inspired DJ set by Wavedash; concert compilation, not a single song."
+  },
+  {
+    "id": "WHvf-XB_yW4",
+    "source": "riotmusic",
+    "title": "Arcane: Hexcore Nights | CDMX 2025 Recap Video",
+    "durationSeconds": 90,
+    "kind": "live_performance",
+    "role": "related",
+    "song": "Arcane: Hexcore Nights – CDMX 2025",
+    "artists": [],
+    "game": "arcane",
+    "categories": [
+      "arcane"
+    ],
+    "year": 2025,
+    "topicTrackId": null,
+    "mvRank": null,
+    "confidence": "medium",
+    "notes": "90 s recap of the Mexico City Hexcore Nights concert event."
+  },
+  {
+    "id": "0smkZsIXogQ",
+    "source": "riotmusic",
+    "title": "League of Legends - 1 Hour in the World of Spirit Blossom Beyond",
+    "durationSeconds": 3860,
+    "kind": "soundtrack_compilation",
+    "role": "related",
+    "song": "1 Hour in the World of Spirit Blossom Beyond",
+    "artists": [],
+    "game": "league-of-legends",
+    "categories": [
+      "skin-line",
+      "soundtrack"
+    ],
+    "year": 2025,
+    "topicTrackId": null,
+    "mvRank": null,
+    "confidence": "medium",
+    "notes": "Hour-long Spirit Blossom Beyond (2025 event) music compilation; related Topic track \"Spirit Blossom Beyond\" = mGkV2j4tqJI."
+  },
+  {
+    "id": "HKBJFHsoRNg",
+    "source": "riotmusic",
+    "title": "Ashnikko - \"Paint The Town Blue (BloodPop Remix)\" (from Arcane Season 2) [Official Visualizer]",
+    "durationSeconds": 114,
+    "kind": "visualizer",
+    "role": "primary_mv",
+    "song": "Paint The Town Blue (BloodPop Remix)",
+    "artists": [
+      {
+        "name": "Ashnikko",
+        "role": "primary"
+      },
+      {
+        "name": "BloodPop",
+        "role": "remixer"
+      }
+    ],
+    "game": "arcane",
+    "categories": [
+      "arcane",
+      "remix"
+    ],
+    "year": 2025,
+    "topicTrackId": null,
+    "mvRank": 3,
+    "confidence": "high",
+    "notes": "Arcane S2 OST Extended Edition remix (uploaded 2025-04-04); treated as its own song version."
+  },
+  {
+    "id": "0hL8Ej9r_VY",
+    "source": "riotmusic",
+    "title": "Stray Kids, Young Miko, Tom Morello - \"Come Play (Kordhell Remix)\" (Arcane S2) [Official Visualizer]",
+    "durationSeconds": 131,
+    "kind": "visualizer",
+    "role": "primary_mv",
+    "song": "Come Play (Kordhell Remix)",
+    "artists": [
+      {
+        "name": "Stray Kids",
+        "role": "primary"
+      },
+      {
+        "name": "Young Miko",
+        "role": "primary"
+      },
+      {
+        "name": "Tom Morello",
+        "role": "primary"
+      },
+      {
+        "name": "Kordhell",
+        "role": "remixer"
+      }
+    ],
+    "game": "arcane",
+    "categories": [
+      "arcane",
+      "remix"
+    ],
+    "year": 2025,
+    "topicTrackId": null,
+    "mvRank": 3,
+    "confidence": "high",
+    "notes": "Arcane S2 OST Extended Edition remix (uploaded 2025-04-04); no Topic track for the remix."
+  },
+  {
+    "id": "XbLemOwzdxk",
+    "source": "riotmusic",
+    "title": "Stromae, Pomme, Coldplay - “Ma Meilleure Ennemie ft. Coldplay” (from Arcane) [Official Lyric Video]",
+    "durationSeconds": 221,
+    "kind": "lyric_video",
+    "role": "primary_mv",
+    "song": "Ma Meilleure Ennemie (ft. Coldplay)",
+    "artists": [
+      {
+        "name": "Stromae",
+        "role": "primary"
+      },
+      {
+        "name": "Pomme",
+        "role": "primary"
+      },
+      {
+        "name": "Coldplay",
+        "role": "featured"
+      }
+    ],
+    "game": "arcane",
+    "categories": [
+      "arcane",
+      "remix"
+    ],
+    "year": 2025,
+    "topicTrackId": null,
+    "mvRank": 2,
+    "confidence": "high",
+    "notes": "Coldplay version from the Arcane S2 OST Extended Edition (uploaded 2025-04-04); different audio from the original \"Ma Meilleure Ennemie\"."
+  },
+  {
+    "id": "SMWQVopajU4",
+    "source": "riotmusic",
+    "title": "Behind The Music of Arcane: “Ma Meilleure Ennemie” with Stromae, Pomme",
+    "durationSeconds": 273,
+    "kind": "making_of",
+    "role": "related",
+    "song": "Ma Meilleure Ennemie",
+    "artists": [
+      {
+        "name": "Stromae",
+        "role": "primary"
+      },
+      {
+        "name": "Pomme",
+        "role": "primary"
+      }
+    ],
+    "game": "arcane",
+    "categories": [
+      "arcane"
+    ],
+    "year": 2024,
+    "topicTrackId": null,
+    "mvRank": null,
+    "confidence": "high",
+    "notes": "Behind-the-music featurette (uploaded 2025); song released Nov 2024."
+  },
+  {
+    "id": "X3LauOFRCao",
+    "source": "riotmusic",
+    "title": "King Princess - “Fantastic” (demo version) [Arcane Season 2 Original Soundtrack Extended Edition]",
+    "durationSeconds": 151,
+    "kind": "official_audio",
+    "role": "audio_source",
+    "song": "Fantastic (demo version)",
+    "artists": [
+      {
+        "name": "King Princess",
+        "role": "primary"
+      }
+    ],
+    "game": "arcane",
+    "categories": [
+      "arcane",
+      "remix"
+    ],
+    "year": 2025,
+    "topicTrackId": null,
+    "mvRank": null,
+    "confidence": "medium",
+    "notes": "Demo version from the Arcane S2 OST Extended Edition (uploaded 2025-03-14); audio-only style upload."
+  },
+  {
+    "id": "VSrQi92AvF8",
+    "source": "riotmusic",
+    "title": "Mako, Grey ft. Sasha Alex Sloan - \"What Have They Done To Us\" (Arcane S2 OST) [Extended Edition]",
+    "durationSeconds": 200,
+    "kind": "official_audio",
+    "role": "audio_source",
+    "song": "What Have They Done To Us (ft. Sasha Alex Sloan)",
+    "artists": [
+      {
+        "name": "Mako",
+        "role": "primary"
+      },
+      {
+        "name": "Grey",
+        "role": "primary"
+      },
+      {
+        "name": "Sasha Alex Sloan",
+        "role": "featured"
+      }
+    ],
+    "game": "arcane",
+    "categories": [
+      "arcane",
+      "remix"
+    ],
+    "year": 2025,
+    "topicTrackId": null,
+    "mvRank": null,
+    "confidence": "medium",
+    "notes": "Sasha Alex Sloan version from the Arcane S2 OST Extended Edition (uploaded 2025-02-07); audio-only style upload."
+  },
+  {
+    "id": "opy_y0dkwmk",
+    "source": "riotmusic",
+    "title": "Mick Wingert - “Spin The Wheel” (from Arcane Season 2) [Official Music Video]",
+    "durationSeconds": 161,
+    "kind": "music_video",
+    "role": "primary_mv",
+    "song": "Spin The Wheel",
+    "artists": [
+      {
+        "name": "Mick Wingert",
+        "role": "primary"
+      }
+    ],
+    "game": "arcane",
+    "categories": [
+      "arcane"
+    ],
+    "year": 2024,
+    "topicTrackId": null,
+    "mvRank": 1,
+    "confidence": "high"
+  },
+  {
+    "id": "WPDpgSBEWaI",
+    "source": "riotmusic",
+    "title": "Royal & the Serpent - “Wasteland” (from Arcane Season 2) [Official Music Video]",
+    "durationSeconds": 167,
+    "kind": "music_video",
+    "role": "primary_mv",
+    "song": "Wasteland",
+    "artists": [
+      {
+        "name": "Royal & the Serpent",
+        "role": "primary"
+      }
+    ],
+    "game": "arcane",
+    "categories": [
+      "arcane"
+    ],
+    "year": 2024,
+    "topicTrackId": null,
+    "mvRank": 1,
+    "confidence": "high"
+  },
+  {
+    "id": "t9mpyRzipww",
+    "source": "riotmusic",
+    "title": "King Princess - “Fantastic” (from Arcane Season 2) [Official Music Video]",
+    "durationSeconds": 190,
+    "kind": "music_video",
+    "role": "primary_mv",
+    "song": "Fantastic",
+    "artists": [
+      {
+        "name": "King Princess",
+        "role": "primary"
+      }
+    ],
+    "game": "arcane",
+    "categories": [
+      "arcane"
+    ],
+    "year": 2024,
+    "topicTrackId": null,
+    "mvRank": 1,
+    "confidence": "high"
+  },
+  {
+    "id": "mlJWzAOprrI",
+    "source": "riotmusic",
+    "title": "Royal & the Serpent - “Wasteland” (from Arcane Season 2) [Official Visualizer]",
+    "durationSeconds": 162,
+    "kind": "visualizer",
+    "role": "primary_mv",
+    "song": "Wasteland",
+    "artists": [
+      {
+        "name": "Royal & the Serpent",
+        "role": "primary"
+      }
+    ],
+    "game": "arcane",
+    "categories": [
+      "arcane"
+    ],
+    "year": 2024,
+    "topicTrackId": null,
+    "mvRank": 3,
+    "confidence": "high"
+  },
+  {
+    "id": "ieHUdRGZKiU",
+    "source": "riotmusic",
+    "title": "King Princess - “Fantastic” (from Arcane Season 2) [Official Visualizer]",
+    "durationSeconds": 185,
+    "kind": "visualizer",
+    "role": "primary_mv",
+    "song": "Fantastic",
+    "artists": [
+      {
+        "name": "King Princess",
+        "role": "primary"
+      }
+    ],
+    "game": "arcane",
+    "categories": [
+      "arcane"
+    ],
+    "year": 2024,
+    "topicTrackId": null,
+    "mvRank": 3,
+    "confidence": "high"
+  },
+  {
+    "id": "UqcE-IIevf0",
+    "source": "riotmusic",
+    "title": "Imagine Dragons feat. JID - “Enemy (Opening Title Version)” (from Arcane) [Official Visualizer]",
+    "durationSeconds": 187,
+    "kind": "visualizer",
+    "role": "primary_mv",
+    "song": "Enemy (Opening Title Version)",
+    "artists": [
+      {
+        "name": "Imagine Dragons",
+        "role": "primary"
+      },
+      {
+        "name": "JID",
+        "role": "featured"
+      }
+    ],
+    "game": "arcane",
+    "categories": [
+      "arcane",
+      "remix"
+    ],
+    "year": 2024,
+    "topicTrackId": null,
+    "mvRank": 3,
+    "confidence": "high",
+    "notes": "Opening-title edit of \"Enemy\" from the Arcane S2 OST (uploaded 2024-11-23); Imagine Dragons release, so no Riot Topic track."
+  },
+  {
+    "id": "Ns0N8bcB95I",
+    "source": "riotmusic",
+    "title": "Mick Wingert - “Spin The Wheel” (from Arcane Season 2) [Official Visualizer]",
+    "durationSeconds": 156,
+    "kind": "visualizer",
+    "role": "primary_mv",
+    "song": "Spin The Wheel",
+    "artists": [
+      {
+        "name": "Mick Wingert",
+        "role": "primary"
+      }
+    ],
+    "game": "arcane",
+    "categories": [
+      "arcane"
+    ],
+    "year": 2024,
+    "topicTrackId": null,
+    "mvRank": 3,
+    "confidence": "high"
+  },
+  {
+    "id": "1F3OGIFnW1k",
+    "source": "riotmusic",
+    "title": "Stromae, Pomme - “Ma Meilleure Ennemie” (from Arcane Season 2) [Official Visualizer]",
+    "durationSeconds": 148,
+    "kind": "visualizer",
+    "role": "primary_mv",
+    "song": "Ma Meilleure Ennemie",
+    "artists": [
+      {
+        "name": "Stromae",
+        "role": "primary"
+      },
+      {
+        "name": "Pomme",
+        "role": "primary"
+      }
+    ],
+    "game": "arcane",
+    "categories": [
+      "arcane"
+    ],
+    "year": 2024,
+    "topicTrackId": null,
+    "mvRank": 3,
+    "confidence": "high",
+    "notes": "Uploaded 2024-11-23."
+  },
+  {
+    "id": "l_ZERCKc8qk",
+    "source": "riotmusic",
+    "title": "Mako, Grey - “What Have They Done To Us” (from Arcane Season 2) [Official Visualizer]",
+    "durationSeconds": 120,
+    "kind": "visualizer",
+    "role": "primary_mv",
+    "song": "What Have They Done To Us",
+    "artists": [
+      {
+        "name": "Mako",
+        "role": "primary"
+      },
+      {
+        "name": "Grey",
+        "role": "primary"
+      }
+    ],
+    "game": "arcane",
+    "categories": [
+      "arcane"
+    ],
+    "year": 2024,
+    "topicTrackId": null,
+    "mvRank": 3,
+    "confidence": "high"
+  },
+  {
+    "id": "Tg7VGqlR95Y",
+    "source": "riotmusic",
+    "title": "Djerv - “Rebel Heart” (from Arcane Season 2) [Official Visualizer]",
+    "durationSeconds": 172,
+    "kind": "visualizer",
+    "role": "primary_mv",
+    "song": "Rebel Heart",
+    "artists": [
+      {
+        "name": "Djerv",
+        "role": "primary"
+      }
+    ],
+    "game": "arcane",
+    "categories": [
+      "arcane"
+    ],
+    "year": 2024,
+    "topicTrackId": "6DZ0TOkkAso",
+    "mvRank": 3,
+    "confidence": "high"
+  },
+  {
+    "id": "CvgR2TFIHSc",
+    "source": "riotmusic",
+    "title": "ZAND - “Cocktail Molotov” (from Arcane Season 2) [Official Visualizer]",
+    "durationSeconds": 149,
+    "kind": "visualizer",
+    "role": "primary_mv",
+    "song": "Cocktail Molotov",
+    "artists": [
+      {
+        "name": "ZAND",
+        "role": "primary"
+      }
+    ],
+    "game": "arcane",
+    "categories": [
+      "arcane"
+    ],
+    "year": 2024,
+    "topicTrackId": null,
+    "mvRank": 3,
+    "confidence": "high"
+  },
+  {
+    "id": "CCUrsBqFh_8",
+    "source": "riotmusic",
+    "title": "Misha Mansoor - “The Beast” (from Arcane Season 2) [Official Visualizer]",
+    "durationSeconds": 231,
+    "kind": "visualizer",
+    "role": "primary_mv",
+    "song": "The Beast",
+    "artists": [
+      {
+        "name": "Misha Mansoor",
+        "role": "primary"
+      }
+    ],
+    "game": "arcane",
+    "categories": [
+      "arcane"
+    ],
+    "year": 2024,
+    "topicTrackId": null,
+    "mvRank": 3,
+    "confidence": "high"
+  },
+  {
+    "id": "xhkMbMZQV1Q",
+    "source": "riotmusic",
+    "title": "Stefflon Don, Raja Kumari feat. Jarina de Marco - “Renegade (We Never Run)”  [Official Visualizer]",
+    "durationSeconds": 162,
+    "kind": "visualizer",
+    "role": "primary_mv",
+    "song": "Renegade (We Never Run)",
+    "artists": [
+      {
+        "name": "Stefflon Don",
+        "role": "primary"
+      },
+      {
+        "name": "Raja Kumari",
+        "role": "primary"
+      },
+      {
+        "name": "Jarina De Marco",
+        "role": "featured"
+      }
+    ],
+    "game": "arcane",
+    "categories": [
+      "arcane"
+    ],
+    "year": 2024,
+    "topicTrackId": null,
+    "mvRank": 3,
+    "confidence": "high",
+    "notes": "Arcane S2 song (title omits \"from Arcane\"). VALORANT Topic \"RENEGADE\" (BXdJyt7_1_U / 2Zral-FRu8M) is an unrelated VALORANT Sounds track by 99 God & C103."
+  },
+  {
+    "id": "uz1mjoGk1Yg",
+    "source": "riotmusic",
+    "title": "Freya Ridings - “I Can’t Hear It Now” (from Arcane Season 2) [Official Visualizer]",
+    "durationSeconds": 162,
+    "kind": "visualizer",
+    "role": "primary_mv",
+    "song": "I Can't Hear It Now",
+    "artists": [
+      {
+        "name": "Freya Ridings",
+        "role": "primary"
+      }
+    ],
+    "game": "arcane",
+    "categories": [
+      "arcane"
+    ],
+    "year": 2024,
+    "topicTrackId": null,
+    "mvRank": 3,
+    "confidence": "high"
+  },
+  {
+    "id": "ksFovPa5kaQ",
+    "source": "riotmusic",
+    "title": "Fever 333 - “Hellfire” (from Arcane Season 2) [Official Visualizer]",
+    "durationSeconds": 165,
+    "kind": "visualizer",
+    "role": "primary_mv",
+    "song": "Hellfire",
+    "artists": [
+      {
+        "name": "Fever 333",
+        "role": "primary"
+      }
+    ],
+    "game": "arcane",
+    "categories": [
+      "arcane"
+    ],
+    "year": 2024,
+    "topicTrackId": null,
+    "mvRank": 3,
+    "confidence": "high"
+  },
+  {
+    "id": "gMpEkqbAdzI",
+    "source": "riotmusic",
+    "title": "Mike Shinoda, Emily Armstrong - “Heavy Is The Crown (Arcane Original Score)” [Official Visualizer]",
+    "durationSeconds": 102,
+    "kind": "visualizer",
+    "role": "primary_mv",
+    "song": "Heavy Is The Crown (Arcane Original Score)",
+    "artists": [
+      {
+        "name": "Mike Shinoda",
+        "role": "primary"
+      },
+      {
+        "name": "Emily Armstrong",
+        "role": "primary"
+      }
+    ],
+    "game": "arcane",
+    "categories": [
+      "arcane"
+    ],
+    "year": 2024,
+    "topicTrackId": null,
+    "mvRank": 3,
+    "confidence": "high",
+    "notes": "Score version on the Arcane S2 soundtrack of Linkin Park’s Worlds 2024 anthem \"Heavy Is The Crown\"; distinct recording."
+  },
+  {
+    "id": "Gj-jmBi0aK8",
+    "source": "riotmusic",
+    "title": "Woodkid - “To Ashes and Blood” (from Arcane Season 2) [Official Visualizer]",
+    "durationSeconds": 246,
+    "kind": "visualizer",
+    "role": "primary_mv",
+    "song": "To Ashes and Blood",
+    "artists": [
+      {
+        "name": "Woodkid",
+        "role": "primary"
+      }
+    ],
+    "game": "arcane",
+    "categories": [
+      "arcane"
+    ],
+    "year": 2024,
+    "topicTrackId": null,
+    "mvRank": 3,
+    "confidence": "high"
+  },
+  {
+    "id": "8sekyV_o2pM",
+    "source": "riotmusic",
+    "title": "Marcus King - “Sucker” (from Arcane Season 2) [Official Visualizer]",
+    "durationSeconds": 225,
+    "kind": "visualizer",
+    "role": "primary_mv",
+    "song": "Sucker",
+    "artists": [
+      {
+        "name": "Marcus King",
+        "role": "primary"
+      }
+    ],
+    "game": "arcane",
+    "categories": [
+      "arcane"
+    ],
+    "year": 2024,
+    "topicTrackId": null,
+    "mvRank": 3,
+    "confidence": "high"
+  },
+  {
+    "id": "n68BF6IlGhk",
+    "source": "riotmusic",
+    "title": "Eason Chan - “这样很好 (Isha’s Song)” (from Arcane Season 2) [Official Music Video]",
+    "durationSeconds": 276,
+    "kind": "music_video",
+    "role": "primary_mv",
+    "song": "这样很好 (Isha's Song)",
+    "artists": [
+      {
+        "name": "Eason Chan",
+        "role": "primary"
+      }
+    ],
+    "game": "arcane",
+    "categories": [
+      "arcane"
+    ],
+    "year": 2024,
+    "topicTrackId": null,
+    "mvRank": 1,
+    "confidence": "high",
+    "notes": "Uploaded 2024-11-07; song released 2024-11-16 on the Arcane S2 OST. TSV title had lost the Chinese characters."
+  },
+  {
+    "id": "3jf6xOg6e7Y",
+    "source": "riotmusic",
+    "title": "Stray Kids, Young Miko, Tom Morello - \"Come Play\" (from Arcane Season 2) [Official Visualizer]",
+    "durationSeconds": 162,
+    "kind": "visualizer",
+    "role": "primary_mv",
+    "song": "Come Play",
+    "artists": [
+      {
+        "name": "Stray Kids",
+        "role": "primary"
+      },
+      {
+        "name": "Young Miko",
+        "role": "primary"
+      },
+      {
+        "name": "Tom Morello",
+        "role": "primary"
+      }
+    ],
+    "game": "arcane",
+    "categories": [
+      "arcane"
+    ],
+    "year": 2024,
+    "topicTrackId": "JRWrhS1K-Eo",
+    "mvRank": 3,
+    "confidence": "high",
+    "notes": "Second identical Topic track exists: tMTu3B_zMuM (162 s)."
+  },
+  {
+    "id": "qr2YUL-taMM",
+    "source": "riotmusic",
+    "title": "Swarm - Operation: Anima Squad (Original Game Soundtrack) | League of Legends | Riot Games Music",
+    "durationSeconds": 1391,
+    "kind": "soundtrack_compilation",
+    "role": "related",
+    "song": "Swarm - Operation: Anima Squad (Original Game Soundtrack)",
+    "artists": [],
+    "game": "league-of-legends",
+    "categories": [
+      "soundtrack",
+      "skin-line"
+    ],
+    "year": 2024,
+    "topicTrackId": null,
+    "mvRank": null,
+    "confidence": "high",
+    "notes": "23-minute OST compilation for the 2024 Swarm (Anima Squad) game mode."
+  },
+  {
+    "id": "CsiGvQyT1NA",
+    "source": "riotmusic",
+    "title": "The Word Alive - RISE (REDUX) | Worlds 2023 Opening Ceremony",
+    "durationSeconds": 195,
+    "kind": "music_video",
+    "role": "primary_mv",
+    "song": "RISE (REDUX)",
+    "artists": [
+      {
+        "name": "The Word Alive",
+        "role": "primary"
+      }
+    ],
+    "game": "league-of-legends",
+    "categories": [
+      "worlds",
+      "remix"
+    ],
+    "year": 2024,
+    "topicTrackId": null,
+    "mvRank": 1,
+    "confidence": "medium",
+    "notes": "Reimagined version of the Worlds 2018 anthem RISE (uploaded 2024-03-01), video built from Worlds 2023 Opening Ceremony footage. Topic \"RISE (Remix)\" kF5st05r_OQ is the 2018 remix with Bobby, not this."
+  },
+  {
+    "id": "jZ8-5lTznwM",
+    "source": "riotmusic",
+    "title": "10 Years of “Get Jinxed” - Making of with Fortiche | League of Legends | Riot Games Music",
+    "durationSeconds": 240,
+    "kind": "making_of",
+    "role": "related",
+    "song": "Get Jinxed",
+    "artists": [
+      {
+        "name": "Djerv",
+        "role": "primary"
+      }
+    ],
+    "game": "league-of-legends",
+    "categories": [
+      "champion-theme"
+    ],
+    "year": 2013,
+    "topicTrackId": "dFwFm8e49Vs",
+    "mvRank": null,
+    "confidence": "high",
+    "notes": "10th-anniversary making-of with Fortiche (2023) of the 2013 Get Jinxed MV; vocals by Agnete Kjølsrud of Djerv."
+  },
+  {
+    "id": "G0fWrlyG5I8",
+    "source": "riotmusic",
+    "title": "2WEI, Ali Christenhusz - Lightbringer | The Mageseeker: A League of Legends Story | Riot Games Music",
+    "durationSeconds": 183,
+    "kind": "music_video",
+    "role": "primary_mv",
+    "song": "Lightbringer",
+    "artists": [
+      {
+        "name": "2WEI",
+        "role": "primary"
+      },
+      {
+        "name": "Ali Christenhusz",
+        "role": "primary"
+      }
+    ],
+    "game": "riot-forge",
+    "categories": [
+      "cinematic"
+    ],
+    "year": 2023,
+    "topicTrackId": null,
+    "mvRank": 1,
+    "confidence": "medium",
+    "notes": "Launch song for The Mageseeker: A League of Legends Story (Riot Forge), uploaded 2023-04-18. Not the same song as Pentakill’s \"Lightbringer\"."
+  },
+  {
+    "id": "ntUuJR2qMmU",
+    "source": "riotmusic",
+    "title": "Goodbye (Akini Jing x ZOHAN Remix) | Arcane League of Legends | Visualizer - Riot Games Music",
+    "durationSeconds": 203,
+    "kind": "visualizer",
+    "role": "primary_mv",
+    "song": "Goodbye (Akini Jing x ZOHAN Remix)",
+    "artists": [
+      {
+        "name": "Akini Jing",
+        "role": "remixer"
+      },
+      {
+        "name": "ZOHAN",
+        "role": "remixer"
+      }
+    ],
+    "game": "arcane",
+    "categories": [
+      "arcane",
+      "remix"
+    ],
+    "year": 2022,
+    "topicTrackId": null,
+    "mvRank": 3,
+    "confidence": "high",
+    "notes": "Uploaded 2022-11-18 (Arcane anniversary remixes); vocals by Akini Jing; remix of Ramsey’s \"Goodbye\"."
+  },
+  {
+    "id": "1iOBcg1Hx3c",
+    "source": "riotmusic",
+    "title": "Playground (MEDUZA Remix) | Arcane League of Legends | Visualizer - Riot Games Music",
+    "durationSeconds": 208,
+    "kind": "visualizer",
+    "role": "primary_mv",
+    "song": "Playground (MEDUZA Remix)",
+    "artists": [
+      {
+        "name": "Bea Miller",
+        "role": "primary"
+      },
+      {
+        "name": "MEDUZA",
+        "role": "remixer"
+      }
+    ],
+    "game": "arcane",
+    "categories": [
+      "arcane",
+      "remix"
+    ],
+    "year": 2022,
+    "topicTrackId": null,
+    "mvRank": 3,
+    "confidence": "high",
+    "notes": "Arcane S1 remix released 2022."
+  },
+  {
+    "id": "KzfxlYs1UKY",
+    "source": "riotmusic",
+    "title": "Playground (Baby Tate Remix) | Arcane League of Legends | Lyric Video - Riot Games Music",
+    "durationSeconds": 151,
+    "kind": "lyric_video",
+    "role": "primary_mv",
+    "song": "Playground (Baby Tate Remix)",
+    "artists": [
+      {
+        "name": "Bea Miller",
+        "role": "primary"
+      },
+      {
+        "name": "Baby Tate",
+        "role": "remixer"
+      }
+    ],
+    "game": "arcane",
+    "categories": [
+      "arcane",
+      "remix"
+    ],
+    "year": 2022,
+    "topicTrackId": null,
+    "mvRank": 2,
+    "confidence": "medium",
+    "notes": "Arcane S1 remix; uploaded between Jul 2022 and Apr 2023 per channel order (likely the Nov 2022 anniversary batch)."
+  },
+  {
+    "id": "uc461NBBqWs",
+    "source": "riotmusic",
+    "title": "Sessions: Star Guardian Taliyah | A Creator-Safe Collection | Riot Games Music",
+    "durationSeconds": 5677,
+    "kind": "soundtrack_compilation",
+    "role": "related",
+    "song": "Sessions: Star Guardian Taliyah",
+    "artists": [],
+    "game": "league-of-legends",
+    "categories": [
+      "skin-line"
+    ],
+    "year": 2022,
+    "topicTrackId": null,
+    "mvRank": null,
+    "confidence": "high",
+    "notes": "Creator-safe lofi album (July 2022, Star Guardian event); ~95-minute compilation."
+  },
+  {
+    "id": "wqqdwnNe0EU",
+    "source": "riotmusic",
+    "title": "Sessions: Star Guardian Taliyah Coming Soon | Riot Games Music",
+    "durationSeconds": 31,
+    "kind": "soundtrack_compilation",
+    "role": "related",
+    "song": "Sessions: Star Guardian Taliyah",
+    "artists": [],
+    "game": "league-of-legends",
+    "categories": [
+      "skin-line"
+    ],
+    "year": 2022,
+    "topicTrackId": null,
+    "mvRank": null,
+    "confidence": "medium",
+    "notes": "31 s \"coming soon\" teaser for the album."
+  },
+  {
+    "id": "mtv8WkYyK0s",
+    "source": "riotmusic",
+    "title": "Sessions: Diana | A Creator-Safe Collection | Riot Games Music",
+    "durationSeconds": 6903,
+    "kind": "soundtrack_compilation",
+    "role": "related",
+    "song": "Sessions: Diana",
+    "artists": [],
+    "game": "league-of-legends",
+    "categories": [],
+    "year": 2021,
+    "topicTrackId": null,
+    "mvRank": null,
+    "confidence": "high",
+    "notes": "Creator-safe lofi album released Dec 2021 (second Sessions album); ~115-minute compilation."
+  },
+  {
+    "id": "jLWKI9I2e6w",
+    "source": "riotmusic",
+    "title": "Sessions II Coming Soon  | Riot Games Music",
+    "durationSeconds": 15,
+    "kind": "soundtrack_compilation",
+    "role": "related",
+    "song": "Sessions: Diana",
+    "artists": [],
+    "game": "league-of-legends",
+    "categories": [],
+    "year": 2021,
+    "topicTrackId": null,
+    "mvRank": null,
+    "confidence": "medium",
+    "notes": "15 s teaser for the second Sessions album (Sessions: Diana, Dec 2021)."
+  },
+  {
+    "id": "nGl_yvX2TbM",
+    "source": "riotmusic",
+    "title": "Arcane: Original Score from Act III",
+    "durationSeconds": 4982,
+    "kind": "soundtrack_compilation",
+    "role": "related",
+    "song": "Arcane: Original Score from Act III",
+    "artists": [],
+    "game": "arcane",
+    "categories": [
+      "arcane",
+      "soundtrack"
+    ],
+    "year": 2021,
+    "topicTrackId": null,
+    "mvRank": null,
+    "confidence": "high",
+    "notes": "Arcane Season 1 original score compilation (score by Alex Seaver/Mako, Alexander Temple and collaborators per LoL wiki; composers not credited in title)."
+  },
+  {
+    "id": "y_fB0IMbq54",
+    "source": "riotmusic",
+    "title": "Denzel Curry, Gizzle, Bren Joy - Dynasties & Dystopia | Arcane League of Legends | Riot Games Music",
+    "durationSeconds": 179,
+    "kind": "music_video",
+    "role": "primary_mv",
+    "song": "Dynasties & Dystopia",
+    "artists": [
+      {
+        "name": "Denzel Curry",
+        "role": "primary"
+      },
+      {
+        "name": "Gizzle",
+        "role": "primary"
+      },
+      {
+        "name": "Bren Joy",
+        "role": "primary"
+      }
+    ],
+    "game": "arcane",
+    "categories": [
+      "arcane"
+    ],
+    "year": 2021,
+    "topicTrackId": null,
+    "mvRank": 1,
+    "confidence": "medium",
+    "notes": "Arcane S1 soundtrack video (uploaded 2021-11-20 era) cut from series footage; tagged \"music video\" by Riot."
+  },
+  {
+    "id": "tiSvL3QEvdQ",
+    "source": "riotmusic",
+    "title": "Arcane: Original Score from Act I",
+    "durationSeconds": 4949,
+    "kind": "soundtrack_compilation",
+    "role": "related",
+    "song": "Arcane: Original Score from Act I",
+    "artists": [],
+    "game": "arcane",
+    "categories": [
+      "arcane",
+      "soundtrack"
+    ],
+    "year": 2021,
+    "topicTrackId": null,
+    "mvRank": null,
+    "confidence": "high",
+    "notes": "Arcane Season 1 original score compilation (score by Alex Seaver/Mako, Alexander Temple and collaborators per LoL wiki; composers not credited in title)."
+  },
+  {
+    "id": "tPDqsAI36Ho",
+    "source": "riotmusic",
+    "title": "Arcane: Original Score from Act II",
+    "durationSeconds": 4211,
+    "kind": "soundtrack_compilation",
+    "role": "related",
+    "song": "Arcane: Original Score from Act II",
+    "artists": [],
+    "game": "arcane",
+    "categories": [
+      "arcane",
+      "soundtrack"
+    ],
+    "year": 2021,
+    "topicTrackId": null,
+    "mvRank": null,
+    "confidence": "high",
+    "notes": "Arcane Season 1 original score compilation (score by Alex Seaver/Mako, Alexander Temple and collaborators per LoL wiki; composers not credited in title)."
+  },
+  {
+    "id": "liPu1_aPH5k",
+    "source": "riotmusic",
+    "title": "Sting - What Could Have Been | Arcane League of Legends | Riot Games Music",
+    "durationSeconds": 214,
+    "kind": "music_video",
+    "role": "primary_mv",
+    "song": "What Could Have Been",
+    "artists": [
+      {
+        "name": "Sting",
+        "role": "primary"
+      },
+      {
+        "name": "Ray Chen",
+        "role": "featured"
+      }
+    ],
+    "game": "arcane",
+    "categories": [
+      "arcane"
+    ],
+    "year": 2021,
+    "topicTrackId": null,
+    "mvRank": 1,
+    "confidence": "medium",
+    "notes": "Arcane S1 soundtrack video uploaded 2021-11-20, tagged \"music video\"."
+  },
+  {
+    "id": "f_Z1E32mxGg",
+    "source": "riotmusic",
+    "title": "Pusha T & Mako - Misfit Toys | Arcane League of Legends | Riot Games Music",
+    "durationSeconds": 190,
+    "kind": "music_video",
+    "role": "primary_mv",
+    "song": "Misfit Toys",
+    "artists": [
+      {
+        "name": "Pusha T",
+        "role": "primary"
+      },
+      {
+        "name": "Mako",
+        "role": "primary"
+      }
+    ],
+    "game": "arcane",
+    "categories": [
+      "arcane"
+    ],
+    "year": 2021,
+    "topicTrackId": null,
+    "mvRank": 1,
+    "confidence": "medium",
+    "notes": "Arcane S1 soundtrack video (uploaded 2021-11-20 era) cut from series footage; tagged \"music video\" by Riot."
+  },
+  {
+    "id": "G0XE4OHoqn8",
+    "source": "riotmusic",
+    "title": "Fantastic Negrito - When Everything Went Wrong | Arcane League of Legends | Riot Games Music",
+    "durationSeconds": 194,
+    "kind": "music_video",
+    "role": "primary_mv",
+    "song": "When Everything Went Wrong",
+    "artists": [
+      {
+        "name": "Fantastic Negrito",
+        "role": "primary"
+      }
+    ],
+    "game": "arcane",
+    "categories": [
+      "arcane"
+    ],
+    "year": 2021,
+    "topicTrackId": null,
+    "mvRank": 1,
+    "confidence": "medium",
+    "notes": "Arcane S1 soundtrack video (uploaded 2021-11-20 era) cut from series footage; tagged \"music video\" by Riot."
+  },
+  {
+    "id": "4UprHuO_zCc",
+    "source": "riotmusic",
+    "title": "Miyavi & PVRIS - Snakes | Arcane League of Legends | Riot Games Music",
+    "durationSeconds": 162,
+    "kind": "music_video",
+    "role": "primary_mv",
+    "song": "Snakes",
+    "artists": [
+      {
+        "name": "Miyavi",
+        "role": "primary"
+      },
+      {
+        "name": "PVRIS",
+        "role": "primary"
+      }
+    ],
+    "game": "arcane",
+    "categories": [
+      "arcane"
+    ],
+    "year": 2021,
+    "topicTrackId": null,
+    "mvRank": 1,
+    "confidence": "medium",
+    "notes": "Arcane S1 soundtrack video (uploaded 2021-11-20 era) cut from series footage; tagged \"music video\" by Riot."
+  },
+  {
+    "id": "dDWBK3oYGuQ",
+    "source": "riotmusic",
+    "title": "Making Enemy with Imagine Dragons | Arcane Soundtrack | Riot Games Music",
+    "durationSeconds": 137,
+    "kind": "making_of",
+    "role": "related",
+    "song": "Enemy",
+    "artists": [
+      {
+        "name": "Imagine Dragons",
+        "role": "primary"
+      },
+      {
+        "name": "JID",
+        "role": "featured"
+      }
+    ],
+    "game": "arcane",
+    "categories": [
+      "arcane"
+    ],
+    "year": 2021,
+    "topicTrackId": null,
+    "mvRank": null,
+    "confidence": "high",
+    "notes": "Making-of featurette; \"Enemy\" is released on Imagine Dragons’ label so there is no Riot Topic track."
+  },
+  {
+    "id": "w88d-uKh_Uw",
+    "source": "riotmusic",
+    "title": "Bones UK - Dirty Little Animals | Arcane League of Legends | Riot Games Music",
+    "durationSeconds": 206,
+    "kind": "music_video",
+    "role": "primary_mv",
+    "song": "Dirty Little Animals",
+    "artists": [
+      {
+        "name": "Bones UK",
+        "role": "primary"
+      }
+    ],
+    "game": "arcane",
+    "categories": [
+      "arcane"
+    ],
+    "year": 2021,
+    "topicTrackId": null,
+    "mvRank": 1,
+    "confidence": "medium",
+    "notes": "Arcane S1 soundtrack video (uploaded 2021-11-20 era) cut from series footage; tagged \"music video\" by Riot."
+  },
+  {
+    "id": "pKNEx-9OqRM",
+    "source": "riotmusic",
+    "title": "Woodkid - Guns for Hire | Arcane League of Legends | Riot Games Music",
+    "durationSeconds": 227,
+    "kind": "music_video",
+    "role": "primary_mv",
+    "song": "Guns for Hire",
+    "artists": [
+      {
+        "name": "Woodkid",
+        "role": "primary"
+      }
+    ],
+    "game": "arcane",
+    "categories": [
+      "arcane"
+    ],
+    "year": 2021,
+    "topicTrackId": null,
+    "mvRank": 1,
+    "confidence": "medium",
+    "notes": "Arcane S1 soundtrack video (uploaded 2021-11-20 era) cut from series footage; tagged \"music video\" by Riot."
+  },
+  {
+    "id": "omgSWqwVTjY",
+    "source": "riotmusic",
+    "title": "Ramsey - Goodbye  | Arcane League of Legends | Riot Games Music",
+    "durationSeconds": 231,
+    "kind": "music_video",
+    "role": "primary_mv",
+    "song": "Goodbye",
+    "artists": [
+      {
+        "name": "Ramsey",
+        "role": "primary"
+      }
+    ],
+    "game": "arcane",
+    "categories": [
+      "arcane"
+    ],
+    "year": 2021,
+    "topicTrackId": null,
+    "mvRank": 1,
+    "confidence": "medium",
+    "notes": "Arcane S1 soundtrack video (uploaded 2021-11-20 era) cut from series footage; tagged \"music video\" by Riot."
+  },
+  {
+    "id": "3jfI-z__GY0",
+    "source": "riotmusic",
+    "title": "Bea Miller - Playground  | Arcane League of Legends | Riot Games Music",
+    "durationSeconds": 231,
+    "kind": "music_video",
+    "role": "primary_mv",
+    "song": "Playground",
+    "artists": [
+      {
+        "name": "Bea Miller",
+        "role": "primary"
+      }
+    ],
+    "game": "arcane",
+    "categories": [
+      "arcane"
+    ],
+    "year": 2021,
+    "topicTrackId": null,
+    "mvRank": 1,
+    "confidence": "medium",
+    "notes": "Arcane S1 soundtrack video (uploaded 2021-11-20 era) cut from series footage; tagged \"music video\" by Riot."
+  },
+  {
+    "id": "2Yr3sKPi8mM",
+    "source": "riotmusic",
+    "title": "Curtis Harding ft. Jazmine Sullivan - Our Love  | Arcane League of Legends | Riot Games Music",
+    "durationSeconds": 219,
+    "kind": "music_video",
+    "role": "primary_mv",
+    "song": "Our Love",
+    "artists": [
+      {
+        "name": "Curtis Harding",
+        "role": "primary"
+      },
+      {
+        "name": "Jazmine Sullivan",
+        "role": "featured"
+      }
+    ],
+    "game": "arcane",
+    "categories": [
+      "arcane"
+    ],
+    "year": 2021,
+    "topicTrackId": null,
+    "mvRank": 1,
+    "confidence": "medium",
+    "notes": "Arcane S1 soundtrack video (uploaded 2021-11-20 era) cut from series footage; tagged \"music video\" by Riot."
+  },
+  {
+    "id": "Tx09cMAg6pY",
+    "source": "riotmusic",
+    "title": "Caitlyn, The Sheriff of Piltover | Piano Arrangement | Riot Games Music",
+    "durationSeconds": 263,
+    "kind": "champion_theme",
+    "role": "primary_mv",
+    "song": "Caitlyn, the Sheriff of Piltover (Piano Arrangement)",
+    "artists": [],
+    "game": "league-of-legends",
+    "categories": [
+      "champion-theme",
+      "remix"
+    ],
+    "year": 2021,
+    "topicTrackId": "Lzc-Deww4oM",
+    "mvRank": 3,
+    "confidence": "high",
+    "notes": "Piano arrangement released with Caitlyn’s Oct 2021 visual update (Riot /dev blog: theme by Alexander Temple, arranged & played by Harlan Hodges). Topic is 243 s vs 263 s video (intro/outro)."
+  },
+  {
+    "id": "DZDq_kJpDUc",
+    "source": "riotmusic",
+    "title": "OUR SONG SHALL NEVER DIE | Pentakill III: Lost Chapter Creator Highlight Reel | Riot Games Music",
+    "durationSeconds": 156,
+    "kind": "not_music",
+    "role": "skip",
+    "song": null,
+    "artists": [],
+    "game": "league-of-legends",
+    "categories": [],
+    "year": 2021,
+    "topicTrackId": null,
+    "mvRank": null,
+    "confidence": "medium",
+    "notes": "Creator highlight reel for the Pentakill III: Lost Chapter interactive concert (promo, not a song)."
+  },
+  {
+    "id": "vfqOVq0YxQE",
+    "source": "riotmusic",
+    "title": "Aftershock | Pentakill III: Lost Chapter | Riot Games Music",
+    "durationSeconds": 211,
+    "kind": "official_audio",
+    "role": "audio_source",
+    "song": "Aftershock",
+    "artists": [
+      {
+        "name": "Pentakill",
+        "role": "primary"
+      }
+    ],
+    "game": "league-of-legends",
+    "categories": [
+      "virtual-group",
+      "skin-line"
+    ],
+    "year": 2021,
+    "topicTrackId": null,
+    "mvRank": null,
+    "confidence": "high",
+    "notes": "Pentakill III: Lost Chapter (released 2021-09-08); upload described as \"the official audio\". No Pentakill tracks in the topic_* listings."
+  },
+  {
+    "id": "YISlzsGfW-4",
+    "source": "riotmusic",
+    "title": "Executioner's Calling | Pentakill III: Lost Chapter | Riot Games Music",
+    "durationSeconds": 277,
+    "kind": "official_audio",
+    "role": "audio_source",
+    "song": "Executioner's Calling",
+    "artists": [
+      {
+        "name": "Pentakill",
+        "role": "primary"
+      }
+    ],
+    "game": "league-of-legends",
+    "categories": [
+      "virtual-group",
+      "skin-line"
+    ],
+    "year": 2021,
+    "topicTrackId": null,
+    "mvRank": null,
+    "confidence": "high",
+    "notes": "Pentakill III: Lost Chapter (released 2021-09-08); upload described as \"the official audio\". No Pentakill tracks in the topic_* listings."
+  },
+  {
+    "id": "o2JEstOs76U",
+    "source": "riotmusic",
+    "title": "Stormrazor | Pentakill III: Lost Chapter | Riot Games Music",
+    "durationSeconds": 245,
+    "kind": "official_audio",
+    "role": "audio_source",
+    "song": "Stormrazor",
+    "artists": [
+      {
+        "name": "Pentakill",
+        "role": "primary"
+      }
+    ],
+    "game": "league-of-legends",
+    "categories": [
+      "virtual-group",
+      "skin-line"
+    ],
+    "year": 2021,
+    "topicTrackId": null,
+    "mvRank": null,
+    "confidence": "high",
+    "notes": "Pentakill III: Lost Chapter (released 2021-09-08); upload described as \"the official audio\". No Pentakill tracks in the topic_* listings."
+  },
+  {
+    "id": "c6HyLRih9Ks",
+    "source": "riotmusic",
+    "title": "Conqueror | Pentakill III: Lost Chapter | Riot Games Music",
+    "durationSeconds": 251,
+    "kind": "official_audio",
+    "role": "audio_source",
+    "song": "Conqueror",
+    "artists": [
+      {
+        "name": "Pentakill",
+        "role": "primary"
+      }
+    ],
+    "game": "league-of-legends",
+    "categories": [
+      "virtual-group",
+      "skin-line"
+    ],
+    "year": 2021,
+    "topicTrackId": null,
+    "mvRank": null,
+    "confidence": "high",
+    "notes": "Pentakill III: Lost Chapter (released 2021-09-08); upload described as \"the official audio\". No Pentakill tracks in the topic_* listings."
+  },
+  {
+    "id": "SRb15bkyoeM",
+    "source": "riotmusic",
+    "title": "Gathering Storm | Pentakill III: Lost Chapter | Riot Games Music",
+    "durationSeconds": 278,
+    "kind": "official_audio",
+    "role": "audio_source",
+    "song": "Gathering Storm",
+    "artists": [
+      {
+        "name": "Pentakill",
+        "role": "primary"
+      }
+    ],
+    "game": "league-of-legends",
+    "categories": [
+      "virtual-group",
+      "skin-line"
+    ],
+    "year": 2021,
+    "topicTrackId": null,
+    "mvRank": null,
+    "confidence": "high",
+    "notes": "Pentakill III: Lost Chapter (released 2021-09-08); upload described as \"the official audio\". No Pentakill tracks in the topic_* listings."
+  },
+  {
+    "id": "oXSLYEqFnO4",
+    "source": "riotmusic",
+    "title": "Lightbringer (Acoustic) | Pentakill III: Lost Chapter | Riot Games Music",
+    "durationSeconds": 195,
+    "kind": "official_audio",
+    "role": "audio_source",
+    "song": "Lightbringer (Acoustic)",
+    "artists": [
+      {
+        "name": "Pentakill",
+        "role": "primary"
+      }
+    ],
+    "game": "league-of-legends",
+    "categories": [
+      "virtual-group",
+      "skin-line",
+      "remix"
+    ],
+    "year": 2021,
+    "topicTrackId": null,
+    "mvRank": null,
+    "confidence": "high",
+    "notes": "Acoustic arrangement of Pentakill’s \"Lightbringer\" (Smite and Ignite, 2014) on Pentakill III: Lost Chapter (2021-09-08); official audio upload."
+  },
+  {
+    "id": "ZqS8hfzHi4Q",
+    "source": "riotmusic",
+    "title": "Last Stand | Pentakill III: Lost Chapter | Riot Games Music",
+    "durationSeconds": 278,
+    "kind": "official_audio",
+    "role": "audio_source",
+    "song": "Last Stand",
+    "artists": [
+      {
+        "name": "Pentakill",
+        "role": "primary"
+      }
+    ],
+    "game": "league-of-legends",
+    "categories": [
+      "virtual-group",
+      "skin-line"
+    ],
+    "year": 2021,
+    "topicTrackId": null,
+    "mvRank": null,
+    "confidence": "high",
+    "notes": "Pentakill III: Lost Chapter (released 2021-09-08); upload described as \"the official audio\". No Pentakill tracks in the topic_* listings."
+  },
+  {
+    "id": "O0RKS9592-s",
+    "source": "riotmusic",
+    "title": "Edge of Night | Pentakill III: Lost Chapter | Riot Games Music",
+    "durationSeconds": 290,
+    "kind": "official_audio",
+    "role": "audio_source",
+    "song": "Edge of Night",
+    "artists": [
+      {
+        "name": "Pentakill",
+        "role": "primary"
+      }
+    ],
+    "game": "league-of-legends",
+    "categories": [
+      "virtual-group",
+      "skin-line"
+    ],
+    "year": 2021,
+    "topicTrackId": null,
+    "mvRank": null,
+    "confidence": "high",
+    "notes": "Pentakill III: Lost Chapter (released 2021-09-08); upload described as \"the official audio\". No Pentakill tracks in the topic_* listings."
+  },
+  {
+    "id": "4F230erLMhg",
+    "source": "riotmusic",
+    "title": "Predator | Pentakill III: Lost Chapter | Riot Games Music",
+    "durationSeconds": 260,
+    "kind": "official_audio",
+    "role": "audio_source",
+    "song": "Predator",
+    "artists": [
+      {
+        "name": "Pentakill",
+        "role": "primary"
+      }
+    ],
+    "game": "league-of-legends",
+    "categories": [
+      "virtual-group",
+      "skin-line"
+    ],
+    "year": 2021,
+    "topicTrackId": null,
+    "mvRank": null,
+    "confidence": "high",
+    "notes": "Pentakill III: Lost Chapter (released 2021-09-08); upload described as \"the official audio\". No Pentakill tracks in the topic_* listings."
+  },
+  {
+    "id": "S67dhNU5Ew4",
+    "source": "riotmusic",
+    "title": "Redemption | Pentakill III: Lost Chapter | Riot Games Music",
+    "durationSeconds": 256,
+    "kind": "official_audio",
+    "role": "audio_source",
+    "song": "Redemption",
+    "artists": [
+      {
+        "name": "Pentakill",
+        "role": "primary"
+      }
+    ],
+    "game": "league-of-legends",
+    "categories": [
+      "virtual-group",
+      "skin-line"
+    ],
+    "year": 2021,
+    "topicTrackId": null,
+    "mvRank": null,
+    "confidence": "high",
+    "notes": "Pentakill III: Lost Chapter (released 2021-09-08); upload described as \"the official audio\". No Pentakill tracks in the topic_* listings."
+  },
+  {
+    "id": "5IWS7Y5KRhk",
+    "source": "riotmusic",
+    "title": "Lost Chapter | Pentakill III: Lost Chapter | Riot Games Music",
+    "durationSeconds": 230,
+    "kind": "official_audio",
+    "role": "audio_source",
+    "song": "Lost Chapter",
+    "artists": [
+      {
+        "name": "Pentakill",
+        "role": "primary"
+      }
+    ],
+    "game": "league-of-legends",
+    "categories": [
+      "virtual-group",
+      "skin-line"
+    ],
+    "year": 2021,
+    "topicTrackId": null,
+    "mvRank": null,
+    "confidence": "high",
+    "notes": "Pentakill III: Lost Chapter title track; upload described as \"the official audio\" (2021-09-08)."
+  },
+  {
+    "id": "xfTILANDsTs",
+    "source": "riotmusic",
+    "title": "The Battle Of Pentakill Begins... | Experience Trailer | Riot Games Music",
+    "durationSeconds": 61,
+    "kind": "not_music",
+    "role": "skip",
+    "song": null,
+    "artists": [],
+    "game": "league-of-legends",
+    "categories": [],
+    "year": 2021,
+    "topicTrackId": null,
+    "mvRank": null,
+    "confidence": "medium",
+    "notes": "61 s trailer for the Pentakill III: Lost Chapter interactive Wave concert experience."
+  },
+  {
+    "id": "ST44yY12uzA",
+    "source": "riotmusic",
+    "title": "Accounts of the Aftermath | Pentakill III: Lost Chapter | Riot Games Music",
+    "durationSeconds": 284,
+    "kind": "not_music",
+    "role": "skip",
+    "song": null,
+    "artists": [],
+    "game": "league-of-legends",
+    "categories": [],
+    "year": 2021,
+    "topicTrackId": null,
+    "mvRank": null,
+    "confidence": "medium",
+    "notes": "Pentakill III lore/story narration video (uploaded 2021-09-03), not an album track."
+  },
+  {
+    "id": "Tspvvk3Y8RU",
+    "source": "riotmusic",
+    "title": "Dissonance & Betrayal | Pentakill III: Lost Chapter | Riot Games Music",
+    "durationSeconds": 56,
+    "kind": "not_music",
+    "role": "skip",
+    "song": null,
+    "artists": [],
+    "game": "league-of-legends",
+    "categories": [],
+    "year": 2021,
+    "topicTrackId": null,
+    "mvRank": null,
+    "confidence": "medium",
+    "notes": "Short Pentakill III lore/story vignette (Aug-Sep 2021 album rollout), narration rather than an album track."
+  },
+  {
+    "id": "EEm_Eyufm5Y",
+    "source": "riotmusic",
+    "title": "Viego’s Offer | Pentakill III: Lost Chapter | Riot Games Music",
+    "durationSeconds": 62,
+    "kind": "not_music",
+    "role": "skip",
+    "song": null,
+    "artists": [],
+    "game": "league-of-legends",
+    "categories": [],
+    "year": 2021,
+    "topicTrackId": null,
+    "mvRank": null,
+    "confidence": "medium",
+    "notes": "Short Pentakill III lore/story vignette (Aug-Sep 2021 album rollout), narration rather than an album track."
+  },
+  {
+    "id": "Ekwn7ciyNuY",
+    "source": "riotmusic",
+    "title": "The Outsider | Pentakill III: Lost Chapter | Riot Games Music",
+    "durationSeconds": 68,
+    "kind": "not_music",
+    "role": "skip",
+    "song": null,
+    "artists": [],
+    "game": "league-of-legends",
+    "categories": [],
+    "year": 2021,
+    "topicTrackId": null,
+    "mvRank": null,
+    "confidence": "medium",
+    "notes": "Short Pentakill III lore/story vignette (Aug-Sep 2021 album rollout), narration rather than an album track."
+  },
+  {
+    "id": "vTzW1tQ6BAw",
+    "source": "riotmusic",
+    "title": "Beyond Center Stage | Pentakill III: Lost Chapter | Riot Games Music",
+    "durationSeconds": 66,
+    "kind": "not_music",
+    "role": "skip",
+    "song": null,
+    "artists": [],
+    "game": "league-of-legends",
+    "categories": [],
+    "year": 2021,
+    "topicTrackId": null,
+    "mvRank": null,
+    "confidence": "medium",
+    "notes": "Short Pentakill III lore/story vignette (Aug-Sep 2021 album rollout), narration rather than an album track."
+  },
+  {
+    "id": "ss3UzxPtTxs",
+    "source": "riotmusic",
+    "title": "Vanguard of Metal | Pentakill III: Lost Chapter | Riot Games Music",
+    "durationSeconds": 74,
+    "kind": "not_music",
+    "role": "skip",
+    "song": null,
+    "artists": [],
+    "game": "league-of-legends",
+    "categories": [],
+    "year": 2021,
+    "topicTrackId": null,
+    "mvRank": null,
+    "confidence": "medium",
+    "notes": "Short Pentakill III lore/story vignette (Aug-Sep 2021 album rollout), narration rather than an album track."
+  },
+  {
+    "id": "SX0LCItDxgM",
+    "source": "riotmusic",
+    "title": "Metal is Born | Pentakill III: Lost Chapter | Riot Games Music",
+    "durationSeconds": 97,
+    "kind": "not_music",
+    "role": "skip",
+    "song": null,
+    "artists": [],
+    "game": "league-of-legends",
+    "categories": [],
+    "year": 2021,
+    "topicTrackId": null,
+    "mvRank": null,
+    "confidence": "medium",
+    "notes": "Animated Pentakill III lore intro (We Are Royale; uploaded 2021-08-24): narrated origin story, not an album track."
+  },
+  {
+    "id": "G8a45UZJGh4",
+    "source": "riotmusic",
+    "title": "Sessions: Vi | A Creator-Safe Collection | Riot Games Music",
+    "durationSeconds": 5871,
+    "kind": "soundtrack_compilation",
+    "role": "related",
+    "song": "Sessions: Vi",
+    "artists": [],
+    "game": "league-of-legends",
+    "categories": [],
+    "year": 2021,
+    "topicTrackId": null,
+    "mvRank": null,
+    "confidence": "high",
+    "notes": "First Sessions creator-safe lofi album (July 2021); ~98-minute compilation."
+  }
+]

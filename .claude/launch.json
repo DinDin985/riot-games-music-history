@@ -1,0 +1,17 @@
+{
+  "version": "0.0.1",
+  "configurations": [
+    {
+      "name": "web",
+      "runtimeExecutable": "npm",
+      "runtimeArgs": ["run", "dev", "-w", "web", "--", "-p", "3100"],
+      "port": 3100
+    },
+    {
+      "name": "timeline",
+      "runtimeExecutable": "cmd",
+      "runtimeArgs": ["/d", "/s", "/c", "set NEXT_DIST_DIR=.next-timeline&& npm run dev -w web -- -p 3210"],
+      "port": 3210
+    }
+  ]
+}

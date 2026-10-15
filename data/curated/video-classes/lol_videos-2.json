@@ -1,0 +1,3742 @@
+[
+  {
+    "id": "zgm8S1Z9U5E",
+    "source": "lol_videos",
+    "title": "HEARTSTEEL - PARANOIA Music Video Teaser | League of Legends",
+    "durationSeconds": 18,
+    "kind": "music_video",
+    "role": "related",
+    "song": "PARANOIA",
+    "artists": [
+      {
+        "name": "HEARTSTEEL",
+        "role": "primary"
+      },
+      {
+        "name": "BAEKHYUN",
+        "role": "featured"
+      },
+      {
+        "name": "tobi lou",
+        "role": "featured"
+      },
+      {
+        "name": "ØZI",
+        "role": "featured"
+      },
+      {
+        "name": "Cal Scruby",
+        "role": "featured"
+      }
+    ],
+    "game": "league-of-legends",
+    "categories": [
+      "virtual-group",
+      "skin-line"
+    ],
+    "year": 2023,
+    "topicTrackId": null,
+    "mvRank": null,
+    "confidence": "high",
+    "notes": "18 s teaser for the PARANOIA music video. No Topic track in topic_lol.tsv."
+  },
+  {
+    "id": "zzctrjs4RJ0",
+    "source": "lol_videos",
+    "title": "You and Me Makes Us | Song of Nunu: A League of Legends Story Anthem",
+    "durationSeconds": 120,
+    "kind": "music_video",
+    "role": "primary_mv",
+    "song": "You and Me Makes Us",
+    "artists": [
+      {
+        "name": "DEEGAN",
+        "role": "primary"
+      }
+    ],
+    "game": "riot-forge",
+    "categories": [
+      "cinematic"
+    ],
+    "year": 2023,
+    "topicTrackId": null,
+    "mvRank": 1,
+    "confidence": "high",
+    "notes": "Animated anthem music video for Song of Nunu (Riot Forge / Tequila Works); original version sung by DEEGAN (a later duet version adds Tori Kelly). No Topic track found."
+  },
+  {
+    "id": "Jcp0PZlP6-A",
+    "source": "lol_videos",
+    "title": "Champs, Lore & More | Dev Update - League of Legends",
+    "durationSeconds": 471,
+    "kind": "not_music",
+    "role": "skip",
+    "song": null,
+    "artists": [],
+    "game": null,
+    "categories": [],
+    "year": null,
+    "topicTrackId": null,
+    "mvRank": null,
+    "confidence": "high"
+  },
+  {
+    "id": "cQdx8UMI-1g",
+    "source": "lol_videos",
+    "title": "Ready for Anything | Worlds 2023 Event Trailer - League of Legends",
+    "durationSeconds": 118,
+    "kind": "not_music",
+    "role": "skip",
+    "song": null,
+    "artists": [],
+    "game": null,
+    "categories": [],
+    "year": null,
+    "topicTrackId": null,
+    "mvRank": null,
+    "confidence": "high",
+    "notes": "Worlds 2023 event trailer."
+  },
+  {
+    "id": "98APArgQUfs",
+    "source": "lol_videos",
+    "title": "Jax Champion Theme | League of Legends",
+    "durationSeconds": 199,
+    "kind": "champion_theme",
+    "role": "primary_mv",
+    "song": "Jax, the Grandmaster at Arms",
+    "artists": [],
+    "game": "league-of-legends",
+    "categories": [
+      "champion-theme"
+    ],
+    "year": 2023,
+    "topicTrackId": "ScsxNSHHUnU",
+    "mvRank": 3,
+    "confidence": "high"
+  },
+  {
+    "id": "C3GouGa0noM",
+    "source": "lol_videos",
+    "title": "GODS ft. NewJeans () (Official Music Video) | Worlds 2023 Anthem - League of Legends",
+    "durationSeconds": 256,
+    "kind": "music_video",
+    "role": "primary_mv",
+    "song": "GODS",
+    "artists": [
+      {
+        "name": "NewJeans",
+        "role": "primary"
+      }
+    ],
+    "game": "league-of-legends",
+    "categories": [
+      "worlds"
+    ],
+    "year": 2023,
+    "topicTrackId": "lzfyoYEGvM0",
+    "mvRank": 1,
+    "confidence": "high",
+    "notes": "Worlds 2023 anthem official music video."
+  },
+  {
+    "id": "D6ro89Wq_fE",
+    "source": "lol_videos",
+    "title": "Worlds 2023 | Orchestral Theme - League Of Legends",
+    "durationSeconds": 193,
+    "kind": "visualizer",
+    "role": "primary_mv",
+    "song": "2023 World Championship Theme",
+    "artists": [],
+    "game": "league-of-legends",
+    "categories": [
+      "worlds"
+    ],
+    "year": 2023,
+    "topicTrackId": "1S2-vKL1tr8",
+    "mvRank": 3,
+    "confidence": "high",
+    "notes": "Orchestral theme video for the World Championship."
+  },
+  {
+    "id": "htKiLufXRDw",
+    "source": "lol_videos",
+    "title": "The Siren's Call | Coven 2023 Skins Teaser - League of Legends",
+    "durationSeconds": 63,
+    "kind": "not_music",
+    "role": "skip",
+    "song": null,
+    "artists": [],
+    "game": null,
+    "categories": [],
+    "year": null,
+    "topicTrackId": null,
+    "mvRank": null,
+    "confidence": "high",
+    "notes": "Coven 2023 skins teaser."
+  },
+  {
+    "id": "PX62BxtYaCI",
+    "source": "lol_videos",
+    "title": "Worlds Unlocked: Our Limited Edition Worlds 23 Box",
+    "durationSeconds": 61,
+    "kind": "not_music",
+    "role": "skip",
+    "song": null,
+    "artists": [],
+    "game": null,
+    "categories": [],
+    "year": null,
+    "topicTrackId": null,
+    "mvRank": null,
+    "confidence": "high"
+  },
+  {
+    "id": "5LqjJYU6EP8",
+    "source": "lol_videos",
+    "title": "Briar Champion Theme | League of Legends",
+    "durationSeconds": 211,
+    "kind": "champion_theme",
+    "role": "primary_mv",
+    "song": "Briar, the Restrained Hunger",
+    "artists": [],
+    "game": "league-of-legends",
+    "categories": [
+      "champion-theme"
+    ],
+    "year": 2023,
+    "topicTrackId": "eaMS9wvnRVQ",
+    "mvRank": 3,
+    "confidence": "high"
+  },
+  {
+    "id": "2QI2pfum47U",
+    "source": "lol_videos",
+    "title": "Briar Champion Spotlight | Gameplay - League of Legends",
+    "durationSeconds": 336,
+    "kind": "not_music",
+    "role": "skip",
+    "song": null,
+    "artists": [],
+    "game": null,
+    "categories": [],
+    "year": null,
+    "topicTrackId": null,
+    "mvRank": null,
+    "confidence": "high"
+  },
+  {
+    "id": "bzVTONHA5h4",
+    "source": "lol_videos",
+    "title": "Feeding Frenzy | Briar Cinematic - League of Legends",
+    "durationSeconds": 92,
+    "kind": "cinematic",
+    "role": "primary_mv",
+    "song": "Feeding Frenzy",
+    "artists": [],
+    "game": "league-of-legends",
+    "categories": [
+      "cinematic"
+    ],
+    "year": 2023,
+    "topicTrackId": "zKt3QstXpCI",
+    "mvRank": 1,
+    "confidence": "high",
+    "notes": "Briar champion cinematic; score released as \"Feeding Frenzy (Briar Cinematic Score)\"."
+  },
+  {
+    "id": "G3huvu5qkl0",
+    "source": "lol_videos",
+    "title": "Preseason & Ranked Changes | Dev Update - League of Legends",
+    "durationSeconds": 350,
+    "kind": "not_music",
+    "role": "skip",
+    "song": null,
+    "artists": [],
+    "game": null,
+    "categories": [],
+    "year": null,
+    "topicTrackId": null,
+    "mvRank": null,
+    "confidence": "high"
+  },
+  {
+    "id": "2ab3e5X_oPE",
+    "source": "lol_videos",
+    "title": "Immortal Journey 2023 | Official Skins Trailer - League of Legends",
+    "durationSeconds": 83,
+    "kind": "not_music",
+    "role": "skip",
+    "song": null,
+    "artists": [],
+    "game": null,
+    "categories": [],
+    "year": null,
+    "topicTrackId": null,
+    "mvRank": null,
+    "confidence": "high"
+  },
+  {
+    "id": "OvxbdbJ5Aws",
+    "source": "lol_videos",
+    "title": "Mid-Year Check-In | Dev Update - League of Legends",
+    "durationSeconds": 258,
+    "kind": "not_music",
+    "role": "skip",
+    "song": null,
+    "artists": [],
+    "game": null,
+    "categories": [],
+    "year": null,
+    "topicTrackId": null,
+    "mvRank": null,
+    "confidence": "high"
+  },
+  {
+    "id": "zrRw0zdwGBU",
+    "source": "lol_videos",
+    "title": "Arena: Making a New Mode - Behind the Scenes | League of Legends",
+    "durationSeconds": 688,
+    "kind": "not_music",
+    "role": "skip",
+    "song": null,
+    "artists": [],
+    "game": null,
+    "categories": [],
+    "year": null,
+    "topicTrackId": null,
+    "mvRank": null,
+    "confidence": "high"
+  },
+  {
+    "id": "Zj7m_gRNppk",
+    "source": "lol_videos",
+    "title": "Coming Alive (Ft. Vo Williams, Boslen) | Official Soul Fighter Event Theme - Riot Games",
+    "durationSeconds": 218,
+    "kind": "visualizer",
+    "role": "primary_mv",
+    "song": "Coming Alive",
+    "artists": [
+      {
+        "name": "Vo Williams",
+        "role": "featured"
+      },
+      {
+        "name": "Boslen",
+        "role": "featured"
+      }
+    ],
+    "game": "league-of-legends",
+    "categories": [
+      "skin-line"
+    ],
+    "year": 2023,
+    "topicTrackId": "bgqkNNo98iw",
+    "mvRank": 3,
+    "confidence": "medium",
+    "notes": "Full-length Soul Fighter event theme video; exact visual style (MV vs visualizer) unverified. The cinematic rvaV-3qCWX4 is the rank-1 candidate."
+  },
+  {
+    "id": "rtfS6PQEot0",
+    "source": "lol_videos",
+    "title": "Naafiri Champion Spotlight | Gameplay - League of Legends",
+    "durationSeconds": 293,
+    "kind": "not_music",
+    "role": "skip",
+    "song": null,
+    "artists": [],
+    "game": null,
+    "categories": [],
+    "year": null,
+    "topicTrackId": null,
+    "mvRank": null,
+    "confidence": "high"
+  },
+  {
+    "id": "rvaV-3qCWX4",
+    "source": "lol_videos",
+    "title": "Tournament of Souls - Coming Alive (ft. Vo Williams, Boslen) | Soul Fighter Cinematic - Riot Games",
+    "durationSeconds": 156,
+    "kind": "cinematic",
+    "role": "primary_mv",
+    "song": "Coming Alive",
+    "artists": [
+      {
+        "name": "Vo Williams",
+        "role": "featured"
+      },
+      {
+        "name": "Boslen",
+        "role": "featured"
+      }
+    ],
+    "game": "league-of-legends",
+    "categories": [
+      "cinematic",
+      "skin-line"
+    ],
+    "year": 2023,
+    "topicTrackId": "bgqkNNo98iw",
+    "mvRank": 1,
+    "confidence": "high",
+    "notes": "Soul Fighter cinematic \"Tournament of Souls\" set to Coming Alive (156 s cut vs 208 s track). A separate Topic track \"Tournament of Souls\" (xYlSbK3nDFo, 421 s) also exists."
+  },
+  {
+    "id": "crp-zFafyic",
+    "source": "lol_videos",
+    "title": "Live From the Arena | Soul Fighter Event Trailer - League of Legends",
+    "durationSeconds": 108,
+    "kind": "not_music",
+    "role": "skip",
+    "song": null,
+    "artists": [],
+    "game": null,
+    "categories": [],
+    "year": null,
+    "topicTrackId": null,
+    "mvRank": null,
+    "confidence": "high"
+  },
+  {
+    "id": "f9M7O-uqPf8",
+    "source": "lol_videos",
+    "title": "Naafiri Champion Theme | League of Legends",
+    "durationSeconds": 248,
+    "kind": "champion_theme",
+    "role": "primary_mv",
+    "song": "Naafiri, the Hound of a Hundred Bites",
+    "artists": [],
+    "game": "league-of-legends",
+    "categories": [
+      "champion-theme"
+    ],
+    "year": 2023,
+    "topicTrackId": "UwFZQPEQngA",
+    "mvRank": 3,
+    "confidence": "high"
+  },
+  {
+    "id": "reYcKSftOB8",
+    "source": "lol_videos",
+    "title": "Fight Night Trailer | Soul Fighter - Riot Games",
+    "durationSeconds": 27,
+    "kind": "not_music",
+    "role": "skip",
+    "song": null,
+    "artists": [],
+    "game": null,
+    "categories": [],
+    "year": null,
+    "topicTrackId": null,
+    "mvRank": null,
+    "confidence": "high"
+  },
+  {
+    "id": "Y2mWDEUUPsM",
+    "source": "lol_videos",
+    "title": "Fight: Arena | Soul Fighter Game Mode Trailer - League of Legends",
+    "durationSeconds": 92,
+    "kind": "not_music",
+    "role": "skip",
+    "song": null,
+    "artists": [],
+    "game": null,
+    "categories": [],
+    "year": null,
+    "topicTrackId": null,
+    "mvRank": null,
+    "confidence": "high"
+  },
+  {
+    "id": "8l8QdoiX41k",
+    "source": "lol_videos",
+    "title": "Soul Fighter | Official Event Teaser - Riot Games",
+    "durationSeconds": 93,
+    "kind": "not_music",
+    "role": "skip",
+    "song": null,
+    "artists": [],
+    "game": null,
+    "categories": [],
+    "year": null,
+    "topicTrackId": null,
+    "mvRank": null,
+    "confidence": "high"
+  },
+  {
+    "id": "dpA663NVDEM",
+    "source": "lol_videos",
+    "title": "Enter The Arena | Soul Fighter Summer Event Teaser - Riot Games",
+    "durationSeconds": 41,
+    "kind": "not_music",
+    "role": "skip",
+    "song": null,
+    "artists": [],
+    "game": null,
+    "categories": [],
+    "year": null,
+    "topicTrackId": null,
+    "mvRank": null,
+    "confidence": "high"
+  },
+  {
+    "id": "ZiYr777GSjk",
+    "source": "lol_videos",
+    "title": "Naafiri: The Hound of a Hundred Bites | Gameplay Trailer - League of Legends",
+    "durationSeconds": 99,
+    "kind": "not_music",
+    "role": "skip",
+    "song": null,
+    "artists": [],
+    "game": null,
+    "categories": [],
+    "year": null,
+    "topicTrackId": null,
+    "mvRank": null,
+    "confidence": "high"
+  },
+  {
+    "id": "xIWsch7cumQ",
+    "source": "lol_videos",
+    "title": "HOUNDS OF IRON | Naafiri Cinematic - League of Legends",
+    "durationSeconds": 125,
+    "kind": "cinematic",
+    "role": "primary_mv",
+    "song": "Hounds of Iron",
+    "artists": [],
+    "game": "league-of-legends",
+    "categories": [
+      "cinematic"
+    ],
+    "year": 2023,
+    "topicTrackId": null,
+    "mvRank": 1,
+    "confidence": "medium",
+    "notes": "Naafiri champion cinematic (score only); no Topic art track found."
+  },
+  {
+    "id": "WUttY3xVF1Q",
+    "source": "lol_videos",
+    "title": "Clash, Ranked & Skins | Dev Update - League of Legends",
+    "durationSeconds": 381,
+    "kind": "not_music",
+    "role": "skip",
+    "song": null,
+    "artists": [],
+    "game": null,
+    "categories": [],
+    "year": null,
+    "topicTrackId": null,
+    "mvRank": null,
+    "confidence": "high"
+  },
+  {
+    "id": "0jiP9ITzi2o",
+    "source": "lol_videos",
+    "title": "DRX: World Championship 2022 | Official Skins Trailer - League of Legends",
+    "durationSeconds": 121,
+    "kind": "not_music",
+    "role": "skip",
+    "song": null,
+    "artists": [],
+    "game": null,
+    "categories": [],
+    "year": null,
+    "topicTrackId": null,
+    "mvRank": null,
+    "confidence": "high"
+  },
+  {
+    "id": "d9sAMgPKDoc",
+    "source": "lol_videos",
+    "title": "SPACE AND TIME | CONVERGENCE: A LEAGUE OF LEGENDS STORY ANTHEM",
+    "durationSeconds": 201,
+    "kind": "music_video",
+    "role": "primary_mv",
+    "song": "Space and Time",
+    "artists": [
+      {
+        "name": "Yacht Money",
+        "role": "primary"
+      },
+      {
+        "name": "NAWAS",
+        "role": "primary"
+      }
+    ],
+    "game": "riot-forge",
+    "categories": [
+      "cinematic"
+    ],
+    "year": 2023,
+    "topicTrackId": null,
+    "mvRank": 1,
+    "confidence": "medium",
+    "notes": "Anthem music video for CONVERGENCE: A League of Legends Story (Riot Forge / Double Stallion), released 2023-05-21; video credits \"Music by Yacht Money and NAWAS\". No Topic track found."
+  },
+  {
+    "id": "UfN6jfUPG44",
+    "source": "lol_videos",
+    "title": "MSI 2023 Opening Ceremony Presented by Mastercard ft. Che Lingo",
+    "durationSeconds": 377,
+    "kind": "live_performance",
+    "role": "related",
+    "song": "Rules (Are Meant To Break)",
+    "artists": [
+      {
+        "name": "Che Lingo",
+        "role": "primary"
+      }
+    ],
+    "game": "league-of-legends",
+    "categories": [
+      "msi"
+    ],
+    "year": 2023,
+    "topicTrackId": "E9rw_HecfIo",
+    "mvRank": null,
+    "confidence": "medium",
+    "notes": "MSI 2023 opening ceremony featuring Che Lingo; may contain additional songs."
+  },
+  {
+    "id": "Lmcy9Z10iLs",
+    "source": "lol_videos",
+    "title": "Inkshadow 2023 | Official Skins Theme - League of Legends",
+    "durationSeconds": 226,
+    "kind": "visualizer",
+    "role": "primary_mv",
+    "song": "Inkshadow 2023",
+    "artists": [],
+    "game": "league-of-legends",
+    "categories": [
+      "skin-line"
+    ],
+    "year": 2023,
+    "topicTrackId": "8CTmvOjqon0",
+    "mvRank": 3,
+    "confidence": "medium",
+    "notes": "Official skins/event theme video (instrumental theme over key art)."
+  },
+  {
+    "id": "K2J1HfVvruo",
+    "source": "lol_videos",
+    "title": "Midseason, Bots & Champs | Dev Update - League of Legends",
+    "durationSeconds": 468,
+    "kind": "not_music",
+    "role": "skip",
+    "song": null,
+    "artists": [],
+    "game": null,
+    "categories": [],
+    "year": null,
+    "topicTrackId": null,
+    "mvRank": null,
+    "confidence": "high"
+  },
+  {
+    "id": "DUtpFR7xhzc",
+    "source": "lol_videos",
+    "title": "MSI 2023 ESPORTS PREMIUM BUNDLE | Official Event Pass Trailer - League of Legends",
+    "durationSeconds": 79,
+    "kind": "not_music",
+    "role": "skip",
+    "song": null,
+    "artists": [],
+    "game": null,
+    "categories": [],
+    "year": null,
+    "topicTrackId": null,
+    "mvRank": null,
+    "confidence": "high"
+  },
+  {
+    "id": "kE19Ac234Zo",
+    "source": "lol_videos",
+    "title": "Che Lingo - Rules (Are Meant To Break) | MSI 2023 - League of Legends",
+    "durationSeconds": 182,
+    "kind": "music_video",
+    "role": "primary_mv",
+    "song": "Rules (Are Meant To Break)",
+    "artists": [
+      {
+        "name": "Che Lingo",
+        "role": "primary"
+      }
+    ],
+    "game": "league-of-legends",
+    "categories": [
+      "msi"
+    ],
+    "year": 2023,
+    "topicTrackId": "E9rw_HecfIo",
+    "mvRank": 1,
+    "confidence": "medium",
+    "notes": "MSI 2023 anthem video; duration matches the Topic track exactly (182 s). Video style not verified."
+  },
+  {
+    "id": "-E5IhfdMoyk",
+    "source": "lol_videos",
+    "title": "Faerie Court 2023 | Official Skins Theme - League of Legends",
+    "durationSeconds": 184,
+    "kind": "visualizer",
+    "role": "primary_mv",
+    "song": "Faerie Court",
+    "artists": [],
+    "game": "league-of-legends",
+    "categories": [
+      "skin-line"
+    ],
+    "year": 2023,
+    "topicTrackId": "QqaPWAocvPs",
+    "mvRank": 3,
+    "confidence": "medium",
+    "notes": "Official skins theme video. Duplicate Topic track h_FYRYOLktU also exists."
+  },
+  {
+    "id": "_FudDdGOdsE",
+    "source": "lol_videos",
+    "title": "Milio Champion Spotlight | Gameplay - League of Legends",
+    "durationSeconds": 290,
+    "kind": "not_music",
+    "role": "skip",
+    "song": null,
+    "artists": [],
+    "game": null,
+    "categories": [],
+    "year": null,
+    "topicTrackId": null,
+    "mvRank": null,
+    "confidence": "high"
+  },
+  {
+    "id": "QbbSGaOHn5E",
+    "source": "lol_videos",
+    "title": "Skarner, Skins & Quick Play | Dev Update - League of Legends",
+    "durationSeconds": 333,
+    "kind": "not_music",
+    "role": "skip",
+    "song": null,
+    "artists": [],
+    "game": null,
+    "categories": [],
+    "year": null,
+    "topicTrackId": null,
+    "mvRank": null,
+    "confidence": "high"
+  },
+  {
+    "id": "eaDrFhtThAI",
+    "source": "lol_videos",
+    "title": "Milio: The Gentle Flame | Champion Trailer - League of Legends",
+    "durationSeconds": 125,
+    "kind": "not_music",
+    "role": "skip",
+    "song": null,
+    "artists": [],
+    "game": null,
+    "categories": [],
+    "year": null,
+    "topicTrackId": null,
+    "mvRank": null,
+    "confidence": "high"
+  },
+  {
+    "id": "UyLp9OBU54A",
+    "source": "lol_videos",
+    "title": "Milio, The Gentle Flame | Champion Theme - League of Legends",
+    "durationSeconds": 260,
+    "kind": "champion_theme",
+    "role": "primary_mv",
+    "song": "Milio, the Gentle Flame",
+    "artists": [],
+    "game": "league-of-legends",
+    "categories": [
+      "champion-theme"
+    ],
+    "year": 2023,
+    "topicTrackId": "zC6aNKuKWgM",
+    "mvRank": 3,
+    "confidence": "high",
+    "notes": "Duplicate Topic track yQthr5u9w2M also exists."
+  },
+  {
+    "id": "WKUt-KZL7fo",
+    "source": "lol_videos",
+    "title": "Making the Worlds 2022 Show Open Presented by Mastercard",
+    "durationSeconds": 772,
+    "kind": "making_of",
+    "role": "related",
+    "song": "STAR WALKIN'",
+    "artists": [
+      {
+        "name": "Lil Nas X",
+        "role": "primary"
+      },
+      {
+        "name": "Jackson Wang",
+        "role": "primary"
+      },
+      {
+        "name": "Edda Hayes",
+        "role": "primary"
+      }
+    ],
+    "game": "league-of-legends",
+    "categories": [
+      "worlds"
+    ],
+    "year": 2022,
+    "topicTrackId": null,
+    "mvRank": null,
+    "confidence": "medium",
+    "notes": "Making-of for the whole Worlds 2022 Finals show open (STAR WALKIN', Fire to the Fuse, The Call); linked to the anthem."
+  },
+  {
+    "id": "ghr26eNTiz0",
+    "source": "lol_videos",
+    "title": "Champions, Lore, Modes & More | /dev diary - League of Legends",
+    "durationSeconds": 467,
+    "kind": "not_music",
+    "role": "skip",
+    "song": null,
+    "artists": [],
+    "game": null,
+    "categories": [],
+    "year": null,
+    "topicTrackId": null,
+    "mvRank": null,
+    "confidence": "high"
+  },
+  {
+    "id": "74wlkXNmNdg",
+    "source": "lol_videos",
+    "title": "League of Legends: Origins (2019)",
+    "durationSeconds": 4656,
+    "kind": "not_music",
+    "role": "skip",
+    "song": null,
+    "artists": [],
+    "game": null,
+    "categories": [],
+    "year": null,
+    "topicTrackId": null,
+    "mvRank": null,
+    "confidence": "high",
+    "notes": "Documentary film."
+  },
+  {
+    "id": "tgXfFhdbgSU",
+    "source": "lol_videos",
+    "title": "Ahri, The Nine-Tailed Fox | Champion Theme - League of Legends",
+    "durationSeconds": 204,
+    "kind": "champion_theme",
+    "role": "primary_mv",
+    "song": "Ahri, the Nine-Tailed Fox",
+    "artists": [],
+    "game": "league-of-legends",
+    "categories": [
+      "champion-theme"
+    ],
+    "year": 2023,
+    "topicTrackId": "ttmpfslUg_Y",
+    "mvRank": 3,
+    "confidence": "high",
+    "notes": "Duplicate Topic track hZvgxx4pjHo \"(Champion Theme)\" also exists."
+  },
+  {
+    "id": "qyBt63SXXDE",
+    "source": "lol_videos",
+    "title": "Lunar Revel 2023 | Event Recap - Riot Games",
+    "durationSeconds": 67,
+    "kind": "not_music",
+    "role": "skip",
+    "song": null,
+    "artists": [],
+    "game": null,
+    "categories": [],
+    "year": null,
+    "topicTrackId": null,
+    "mvRank": null,
+    "confidence": "high"
+  },
+  {
+    "id": "i_ujOtLDQco",
+    "source": "lol_videos",
+    "title": "Finality: Aurelion Sol | Champion Update Trailer - League of Legends",
+    "durationSeconds": 96,
+    "kind": "not_music",
+    "role": "skip",
+    "song": null,
+    "artists": [],
+    "game": null,
+    "categories": [],
+    "year": null,
+    "topicTrackId": null,
+    "mvRank": null,
+    "confidence": "high"
+  },
+  {
+    "id": "WT4XBF_Htd0",
+    "source": "lol_videos",
+    "title": "Happy Lunar New Year 2023 | Dev Video - Riot Games",
+    "durationSeconds": 316,
+    "kind": "not_music",
+    "role": "skip",
+    "song": null,
+    "artists": [],
+    "game": null,
+    "categories": [],
+    "year": null,
+    "topicTrackId": null,
+    "mvRank": null,
+    "confidence": "high"
+  },
+  {
+    "id": "W7h1u5eUkjg",
+    "source": "lol_videos",
+    "title": "Lunar Revel 2023 | Official Event Theme - Riot Games",
+    "durationSeconds": 389,
+    "kind": "visualizer",
+    "role": "primary_mv",
+    "song": "Lunar Revel 2023",
+    "artists": [],
+    "game": "league-of-legends",
+    "categories": [
+      "skin-line"
+    ],
+    "year": 2023,
+    "topicTrackId": "Gdkv04_FhJ8",
+    "mvRank": 3,
+    "confidence": "medium",
+    "notes": "Official event theme video; video is 389 s while the Topic track is 229 s, so it may be extended or contain extra material. Duplicate Topic track B_C-gx22iUc."
+  },
+  {
+    "id": "qrZWiNx2WW8",
+    "source": "lol_videos",
+    "title": "Lunar Revel 2023 | Official Skins Trailer - League of Legends",
+    "durationSeconds": 98,
+    "kind": "not_music",
+    "role": "skip",
+    "song": null,
+    "artists": [],
+    "game": null,
+    "categories": [],
+    "year": null,
+    "topicTrackId": null,
+    "mvRank": null,
+    "confidence": "high"
+  },
+  {
+    "id": "iUSOUGCH3X0",
+    "source": "lol_videos",
+    "title": "Hop On | Lunar Revel 2023 Cinematic - Riot Games",
+    "durationSeconds": 113,
+    "kind": "cinematic",
+    "role": "primary_mv",
+    "song": "Hop On",
+    "artists": [],
+    "game": "league-of-legends",
+    "categories": [
+      "cinematic",
+      "skin-line"
+    ],
+    "year": 2023,
+    "topicTrackId": null,
+    "mvRank": 1,
+    "confidence": "low",
+    "notes": "Lunar Revel 2023 event cinematic with no dialogue; score only, no Topic track found."
+  },
+  {
+    "id": "cJT5d5Ue3ao",
+    "source": "lol_videos",
+    "title": "The Brink of Infinity | Season 2023 Cinematic - League of Legends (ft. Mia Sinclair Jenness, 2WEI)",
+    "durationSeconds": 127,
+    "kind": "cinematic",
+    "role": "primary_mv",
+    "song": "The Brink of Infinity",
+    "artists": [
+      {
+        "name": "Mia Sinclair Jenness",
+        "role": "featured"
+      },
+      {
+        "name": "2WEI",
+        "role": "featured"
+      }
+    ],
+    "game": "league-of-legends",
+    "categories": [
+      "cinematic"
+    ],
+    "year": 2023,
+    "topicTrackId": null,
+    "mvRank": 1,
+    "confidence": "medium",
+    "notes": "Season 2023 cinematic (released 2023-01-10) with vocals by Mia Sinclair Jenness and 2WEI; no Topic track found, separate song title not confirmed."
+  },
+  {
+    "id": "X67xunE30Es",
+    "source": "lol_videos",
+    "title": "Season 2023 | LoL Pls - League of Legends",
+    "durationSeconds": 794,
+    "kind": "not_music",
+    "role": "skip",
+    "song": null,
+    "artists": [],
+    "game": null,
+    "categories": [],
+    "year": null,
+    "topicTrackId": null,
+    "mvRank": null,
+    "confidence": "high"
+  },
+  {
+    "id": "E7_uzM-Wqno",
+    "source": "lol_videos",
+    "title": "/dev chat: Midscope Updates | Dev Video - League of Legends",
+    "durationSeconds": 440,
+    "kind": "not_music",
+    "role": "skip",
+    "song": null,
+    "artists": [],
+    "game": null,
+    "categories": [],
+    "year": null,
+    "topicTrackId": null,
+    "mvRank": null,
+    "confidence": "high"
+  },
+  {
+    "id": "9oFXELTqRy0",
+    "source": "lol_videos",
+    "title": "/dev chat: Player Behavior | Dev Video - League of Legends",
+    "durationSeconds": 495,
+    "kind": "not_music",
+    "role": "skip",
+    "song": null,
+    "artists": [],
+    "game": null,
+    "categories": [],
+    "year": null,
+    "topicTrackId": null,
+    "mvRank": null,
+    "confidence": "high"
+  },
+  {
+    "id": "6GvXoFBQKdc",
+    "source": "lol_videos",
+    "title": "/dev chat: State of the Game | Dev Video - League of Legends",
+    "durationSeconds": 565,
+    "kind": "not_music",
+    "role": "skip",
+    "song": null,
+    "artists": [],
+    "game": null,
+    "categories": [],
+    "year": null,
+    "topicTrackId": null,
+    "mvRank": null,
+    "confidence": "high"
+  },
+  {
+    "id": "uw0iin7Tg0Y",
+    "source": "lol_videos",
+    "title": "Winterblessed 2022 | Official Event Trailer - League of Legends",
+    "durationSeconds": 138,
+    "kind": "not_music",
+    "role": "skip",
+    "song": null,
+    "artists": [],
+    "game": null,
+    "categories": [],
+    "year": null,
+    "topicTrackId": null,
+    "mvRank": null,
+    "confidence": "high"
+  },
+  {
+    "id": "GJLHlBRqKAI",
+    "source": "lol_videos",
+    "title": "Winterblessed 2022 | Official Skins Theme - League of Legends",
+    "durationSeconds": 239,
+    "kind": "visualizer",
+    "role": "primary_mv",
+    "song": "Winterblessed - 2022",
+    "artists": [],
+    "game": "league-of-legends",
+    "categories": [
+      "skin-line"
+    ],
+    "year": 2022,
+    "topicTrackId": "kZDP5QiZtV0",
+    "mvRank": 3,
+    "confidence": "medium",
+    "notes": "Official skins theme video. Duplicate Topic track FfWDCraBsME."
+  },
+  {
+    "id": "H_vwKi7lSfs",
+    "source": "lol_videos",
+    "title": "Behind Lil Nas X's Collaboration with League of Legends | Worlds 2022",
+    "durationSeconds": 675,
+    "kind": "making_of",
+    "role": "related",
+    "song": "STAR WALKIN'",
+    "artists": [
+      {
+        "name": "Lil Nas X",
+        "role": "primary"
+      }
+    ],
+    "game": "league-of-legends",
+    "categories": [
+      "worlds"
+    ],
+    "year": 2022,
+    "topicTrackId": null,
+    "mvRank": null,
+    "confidence": "high",
+    "notes": "Behind-the-scenes of the Lil Nas X Worlds 2022 collaboration."
+  },
+  {
+    "id": "RXYnKlKtico",
+    "source": "lol_videos",
+    "title": "Preseason 2023 Spotlight | Gameplay - League of Legends",
+    "durationSeconds": 214,
+    "kind": "not_music",
+    "role": "skip",
+    "song": null,
+    "artists": [],
+    "game": null,
+    "categories": [],
+    "year": null,
+    "topicTrackId": null,
+    "mvRank": null,
+    "confidence": "high"
+  },
+  {
+    "id": "PezEb5_4YL8",
+    "source": "lol_videos",
+    "title": "Devs Spill the Beans: Jungle Companions | Dev Video - League of Legends",
+    "durationSeconds": 126,
+    "kind": "not_music",
+    "role": "skip",
+    "song": null,
+    "artists": [],
+    "game": null,
+    "categories": [],
+    "year": null,
+    "topicTrackId": null,
+    "mvRank": null,
+    "confidence": "high"
+  },
+  {
+    "id": "PeLAIPQ_rZo",
+    "source": "lol_videos",
+    "title": "Lil Nas X - STAR WALKIN� | Worlds 2022 Finals Opening Ceremony Presented by Mastercard",
+    "durationSeconds": 238,
+    "kind": "live_performance",
+    "role": "related",
+    "song": "STAR WALKIN'",
+    "artists": [
+      {
+        "name": "Lil Nas X",
+        "role": "primary"
+      }
+    ],
+    "game": "league-of-legends",
+    "categories": [
+      "worlds"
+    ],
+    "year": 2022,
+    "topicTrackId": null,
+    "mvRank": null,
+    "confidence": "high",
+    "notes": "Worlds 2022 Finals opening ceremony performance. Song released under Lil Nas X/Columbia, so no Topic track."
+  },
+  {
+    "id": "7Me_S0BQR4w",
+    "source": "lol_videos",
+    "title": "Jackson Wang - Fire to the Fuse | Worlds 2022 Finals Opening Ceremony Presented by Mastercard",
+    "durationSeconds": 242,
+    "kind": "live_performance",
+    "role": "related",
+    "song": "Fire to the Fuse",
+    "artists": [
+      {
+        "name": "Jackson Wang",
+        "role": "primary"
+      }
+    ],
+    "game": "league-of-legends",
+    "categories": [
+      "worlds",
+      "skin-line"
+    ],
+    "year": 2022,
+    "topicTrackId": "CCw6Q4SXSpA",
+    "mvRank": null,
+    "confidence": "high",
+    "notes": "Worlds 2022 Finals opening ceremony performance of the Empyrean theme."
+  },
+  {
+    "id": "snWD2XqZ7B0",
+    "source": "lol_videos",
+    "title": "Edda Hayes - The Call | Worlds 2022 Finals Opening Ceremony Presented by Mastercard",
+    "durationSeconds": 218,
+    "kind": "live_performance",
+    "role": "related",
+    "song": "The Call",
+    "artists": [
+      {
+        "name": "Edda Hayes",
+        "role": "primary"
+      }
+    ],
+    "game": "league-of-legends",
+    "categories": [
+      "worlds",
+      "cinematic"
+    ],
+    "year": 2022,
+    "topicTrackId": "HtHrjFJGDys",
+    "mvRank": null,
+    "confidence": "high",
+    "notes": "Worlds 2022 Finals opening ceremony performance of the Season 2022 cinematic song."
+  },
+  {
+    "id": "PzRi2JyRlvw",
+    "source": "lol_videos",
+    "title": "Worlds 2022 Finals Opening Ceremony Presented by Mastercard ft. Lil Nas X, Jackson Wang & Edda Hayes",
+    "durationSeconds": 763,
+    "kind": "live_performance",
+    "role": "related",
+    "song": "STAR WALKIN'",
+    "artists": [
+      {
+        "name": "Lil Nas X",
+        "role": "primary"
+      },
+      {
+        "name": "Jackson Wang",
+        "role": "primary"
+      },
+      {
+        "name": "Edda Hayes",
+        "role": "primary"
+      }
+    ],
+    "game": "league-of-legends",
+    "categories": [
+      "worlds"
+    ],
+    "year": 2022,
+    "topicTrackId": null,
+    "mvRank": null,
+    "confidence": "medium",
+    "notes": "Full Worlds 2022 Finals opening ceremony: STAR WALKIN', Fire to the Fuse and The Call; linked to the anthem."
+  },
+  {
+    "id": "okkAdMLVXkY",
+    "source": "lol_videos",
+    "title": "Fire to the Fuse (Ft. Jackson Wang) | Official Empyrean Music Theme - League of Legends x 88rising",
+    "durationSeconds": 228,
+    "kind": "visualizer",
+    "role": "primary_mv",
+    "song": "Fire to the Fuse",
+    "artists": [
+      {
+        "name": "Jackson Wang",
+        "role": "featured"
+      }
+    ],
+    "game": "league-of-legends",
+    "categories": [
+      "skin-line"
+    ],
+    "year": 2022,
+    "topicTrackId": "CCw6Q4SXSpA",
+    "mvRank": 3,
+    "confidence": "medium",
+    "notes": "Full-length \"Official Empyrean Music Theme\" video (League of Legends x 88rising); exact visual style unverified. The Empyrean cinematic oNkT_aZWySA is the rank-1 candidate."
+  },
+  {
+    "id": "sJupa3WcN88",
+    "source": "lol_videos",
+    "title": "K�Sante Champion Spotlight | Gameplay - League of Legends",
+    "durationSeconds": 313,
+    "kind": "not_music",
+    "role": "skip",
+    "song": null,
+    "artists": [],
+    "game": null,
+    "categories": [],
+    "year": null,
+    "topicTrackId": null,
+    "mvRank": null,
+    "confidence": "high"
+  },
+  {
+    "id": "oNkT_aZWySA",
+    "source": "lol_videos",
+    "title": "Fire to the Fuse (Ft. Jackson Wang) | Official Empyrean Cinematic - League of Legends x 88rising",
+    "durationSeconds": 138,
+    "kind": "cinematic",
+    "role": "primary_mv",
+    "song": "Fire to the Fuse",
+    "artists": [
+      {
+        "name": "Jackson Wang",
+        "role": "featured"
+      }
+    ],
+    "game": "league-of-legends",
+    "categories": [
+      "skin-line",
+      "cinematic"
+    ],
+    "year": 2022,
+    "topicTrackId": "CCw6Q4SXSpA",
+    "mvRank": 1,
+    "confidence": "high",
+    "notes": "Empyrean cinematic (Pyke) set to Fire to the Fuse; 138 s cut of the 225 s track."
+  },
+  {
+    "id": "_DN1k11gI74",
+    "source": "lol_videos",
+    "title": "LIL NAS X�S FINAL PRESIDENTIAL ADDRESS | WORLDS 2022 OPENING CEREMONY",
+    "durationSeconds": 148,
+    "kind": "not_music",
+    "role": "skip",
+    "song": null,
+    "artists": [],
+    "game": null,
+    "categories": [],
+    "year": null,
+    "topicTrackId": null,
+    "mvRank": null,
+    "confidence": "high",
+    "notes": "Lil Nas X comedy segment from the Worlds 2022 opening ceremony."
+  },
+  {
+    "id": "z3f56QPX99o",
+    "source": "lol_videos",
+    "title": "K�Sante, The Pride of Nazumah | Champion Theme",
+    "durationSeconds": 258,
+    "kind": "champion_theme",
+    "role": "primary_mv",
+    "song": "K'Sante, the Pride of Nazumah",
+    "artists": [],
+    "game": "league-of-legends",
+    "categories": [
+      "champion-theme"
+    ],
+    "year": 2022,
+    "topicTrackId": "zqW45-FqgyI",
+    "mvRank": 3,
+    "confidence": "high",
+    "notes": "Duplicate Topic track z53ud_BPIhg."
+  },
+  {
+    "id": "4am8Cikf5s0",
+    "source": "lol_videos",
+    "title": "GLOW UP | Prestige Empyrean K�Sante Skin Trailer - League of Legends",
+    "durationSeconds": 49,
+    "kind": "not_music",
+    "role": "skip",
+    "song": null,
+    "artists": [],
+    "game": null,
+    "categories": [],
+    "year": null,
+    "topicTrackId": null,
+    "mvRank": null,
+    "confidence": "high"
+  },
+  {
+    "id": "VPrnPrNYrZM",
+    "source": "lol_videos",
+    "title": "Lil Nas X Introduces The K�Sante Prestige Skin | Worlds 2022",
+    "durationSeconds": 152,
+    "kind": "not_music",
+    "role": "skip",
+    "song": null,
+    "artists": [],
+    "game": null,
+    "categories": [],
+    "year": null,
+    "topicTrackId": null,
+    "mvRank": null,
+    "confidence": "high"
+  },
+  {
+    "id": "F628qIeX-r8",
+    "source": "lol_videos",
+    "title": "Empyrean 2022 | Official Skins Trailer - League of Legends",
+    "durationSeconds": 108,
+    "kind": "not_music",
+    "role": "skip",
+    "song": null,
+    "artists": [],
+    "game": null,
+    "categories": [],
+    "year": null,
+    "topicTrackId": null,
+    "mvRank": null,
+    "confidence": "high"
+  },
+  {
+    "id": "CkLeqjjf9F8",
+    "source": "lol_videos",
+    "title": "K�Sante: The Pride of Nazumah | Gameplay Trailer - League of Legends",
+    "durationSeconds": 96,
+    "kind": "not_music",
+    "role": "skip",
+    "song": null,
+    "artists": [],
+    "game": null,
+    "categories": [],
+    "year": null,
+    "topicTrackId": null,
+    "mvRank": null,
+    "confidence": "high"
+  },
+  {
+    "id": "RUq89ouObQc",
+    "source": "lol_videos",
+    "title": "Defeat Your Monster | K�Sante Cinematic - League of Legends",
+    "durationSeconds": 148,
+    "kind": "cinematic",
+    "role": "primary_mv",
+    "song": "Defeat Your Monster",
+    "artists": [],
+    "game": "league-of-legends",
+    "categories": [
+      "cinematic"
+    ],
+    "year": 2022,
+    "topicTrackId": null,
+    "mvRank": 1,
+    "confidence": "medium",
+    "notes": "K'Sante champion cinematic (score only); no Topic art track found."
+  },
+  {
+    "id": "i90x5zUMI6w",
+    "source": "lol_videos",
+    "title": "The Hunter�s Pride | K�Sante Champion Teaser - League of Legends",
+    "durationSeconds": 51,
+    "kind": "not_music",
+    "role": "skip",
+    "song": null,
+    "artists": [],
+    "game": null,
+    "categories": [],
+    "year": null,
+    "topicTrackId": null,
+    "mvRank": null,
+    "confidence": "high"
+  },
+  {
+    "id": "TRqneiJ8WBM",
+    "source": "lol_videos",
+    "title": "Worlds 2022 | Official Event Trailer - League of Legends",
+    "durationSeconds": 88,
+    "kind": "not_music",
+    "role": "skip",
+    "song": null,
+    "artists": [],
+    "game": null,
+    "categories": [],
+    "year": null,
+    "topicTrackId": null,
+    "mvRank": null,
+    "confidence": "high"
+  },
+  {
+    "id": "HYsz1hP0BFo",
+    "source": "lol_videos",
+    "title": "Lil Nas X - STAR WALKIN' (League of Legends Worlds Anthem)",
+    "durationSeconds": 214,
+    "kind": "music_video",
+    "role": "primary_mv",
+    "song": "STAR WALKIN'",
+    "artists": [
+      {
+        "name": "Lil Nas X",
+        "role": "primary"
+      }
+    ],
+    "game": "league-of-legends",
+    "categories": [
+      "worlds"
+    ],
+    "year": 2022,
+    "topicTrackId": null,
+    "mvRank": 1,
+    "confidence": "high",
+    "notes": "Worlds 2022 anthem music video (released 2022-09-22). Song released under Lil Nas X/Columbia, so no Topic track."
+  },
+  {
+    "id": "GaEH96kB-RY",
+    "source": "lol_videos",
+    "title": "Wandering Spirits | Spirit Blossom 2022 Skin Trailer - League of Legends",
+    "durationSeconds": 116,
+    "kind": "not_music",
+    "role": "skip",
+    "song": null,
+    "artists": [],
+    "game": null,
+    "categories": [],
+    "year": null,
+    "topicTrackId": null,
+    "mvRank": null,
+    "confidence": "high",
+    "notes": "Spirit Blossom 2022 skin trailer."
+  },
+  {
+    "id": "9Xunjyx1no4",
+    "source": "lol_videos",
+    "title": "LIL NAS X TAKES OVER AS PRESIDENT OF LEAGUE OF LEGENDS | WORLDS 2022",
+    "durationSeconds": 180,
+    "kind": "not_music",
+    "role": "skip",
+    "song": null,
+    "artists": [],
+    "game": null,
+    "categories": [],
+    "year": null,
+    "topicTrackId": null,
+    "mvRank": null,
+    "confidence": "high",
+    "notes": "Lil Nas X promotional skit."
+  },
+  {
+    "id": "2Z5L7wog5ks",
+    "source": "lol_videos",
+    "title": "WORLDS 2022 | ORCHESTRAL THEME  - League of Legends",
+    "durationSeconds": 208,
+    "kind": "visualizer",
+    "role": "primary_mv",
+    "song": "2022 World Championship Theme",
+    "artists": [],
+    "game": "league-of-legends",
+    "categories": [
+      "worlds"
+    ],
+    "year": 2022,
+    "topicTrackId": "K8GrvZIi5jo",
+    "mvRank": 3,
+    "confidence": "high",
+    "notes": "Orchestral theme video for the World Championship."
+  },
+  {
+    "id": "XKlwneCFsoI",
+    "source": "lol_videos",
+    "title": "The Blind Monks | Chibi Champion Showcase - Teamfight Tactics",
+    "durationSeconds": 47,
+    "kind": "not_music",
+    "role": "skip",
+    "song": null,
+    "artists": [],
+    "game": null,
+    "categories": [],
+    "year": null,
+    "topicTrackId": null,
+    "mvRank": null,
+    "confidence": "high"
+  },
+  {
+    "id": "n_dCEd5QRZg",
+    "source": "lol_videos",
+    "title": "Arcane: Bridging the Rift | Part 5 - We Gave It Our Best Shot",
+    "durationSeconds": 2174,
+    "kind": "not_music",
+    "role": "skip",
+    "song": null,
+    "artists": [],
+    "game": null,
+    "categories": [],
+    "year": null,
+    "topicTrackId": null,
+    "mvRank": null,
+    "confidence": "high"
+  },
+  {
+    "id": "kd_q5BvOk9c",
+    "source": "lol_videos",
+    "title": "Steel Valkyries 2022 | Official Event Trailer - League of Legends",
+    "durationSeconds": 85,
+    "kind": "not_music",
+    "role": "skip",
+    "song": null,
+    "artists": [],
+    "game": null,
+    "categories": [],
+    "year": null,
+    "topicTrackId": null,
+    "mvRank": null,
+    "confidence": "high"
+  },
+  {
+    "id": "m-MtIYImERI",
+    "source": "lol_videos",
+    "title": "Arcane: Bridging the Rift | Part 4 - Musical Misfits",
+    "durationSeconds": 1753,
+    "kind": "making_of",
+    "role": "related",
+    "song": null,
+    "artists": [],
+    "game": "arcane",
+    "categories": [
+      "arcane"
+    ],
+    "year": 2022,
+    "topicTrackId": null,
+    "mvRank": null,
+    "confidence": "medium",
+    "notes": "Documentary episode about making the Arcane soundtrack in general (released 2022-08-25); not tied to a single song."
+  },
+  {
+    "id": "Qd1rOtu4SMI",
+    "source": "lol_videos",
+    "title": "Arcane: Bridging the Rift | Part 3 - Killstreaks Meet Keyframes",
+    "durationSeconds": 1833,
+    "kind": "not_music",
+    "role": "skip",
+    "song": null,
+    "artists": [],
+    "game": null,
+    "categories": [],
+    "year": null,
+    "topicTrackId": null,
+    "mvRank": null,
+    "confidence": "high"
+  },
+  {
+    "id": "tQGM1Y69Qis",
+    "source": "lol_videos",
+    "title": "Community Yearbook | Star Guardian 2022",
+    "durationSeconds": 98,
+    "kind": "not_music",
+    "role": "skip",
+    "song": null,
+    "artists": [],
+    "game": null,
+    "categories": [],
+    "year": null,
+    "topicTrackId": null,
+    "mvRank": null,
+    "confidence": "high"
+  },
+  {
+    "id": "_bvpaEM3BOU",
+    "source": "lol_videos",
+    "title": "Champions and Preseason 2023 | LoL Pls - League of Legends",
+    "durationSeconds": 934,
+    "kind": "not_music",
+    "role": "skip",
+    "song": null,
+    "artists": [],
+    "game": null,
+    "categories": [],
+    "year": null,
+    "topicTrackId": null,
+    "mvRank": null,
+    "confidence": "high"
+  },
+  {
+    "id": "xpPyPguzafU",
+    "source": "lol_videos",
+    "title": "Arcane: Bridging the Rift | Part 2 - Persistence (Or When Your Best Still Sucks)",
+    "durationSeconds": 1417,
+    "kind": "not_music",
+    "role": "skip",
+    "song": null,
+    "artists": [],
+    "game": null,
+    "categories": [],
+    "year": null,
+    "topicTrackId": null,
+    "mvRank": null,
+    "confidence": "high"
+  },
+  {
+    "id": "RHElv9Kk9gY",
+    "source": "lol_videos",
+    "title": "Arcane: Animation Test",
+    "durationSeconds": 73,
+    "kind": "not_music",
+    "role": "skip",
+    "song": null,
+    "artists": [],
+    "game": null,
+    "categories": [],
+    "year": null,
+    "topicTrackId": null,
+    "mvRank": null,
+    "confidence": "high"
+  },
+  {
+    "id": "YLC-CLyaHw4",
+    "source": "lol_videos",
+    "title": "Udyr, The Spirit Walker | Champion Theme - League of Legends",
+    "durationSeconds": 219,
+    "kind": "champion_theme",
+    "role": "primary_mv",
+    "song": "Udyr, the Spirit Walker",
+    "artists": [],
+    "game": "league-of-legends",
+    "categories": [
+      "champion-theme"
+    ],
+    "year": 2022,
+    "topicTrackId": "CVA4m4d-cas",
+    "mvRank": 3,
+    "confidence": "high"
+  },
+  {
+    "id": "kfyDoF658HA",
+    "source": "lol_videos",
+    "title": "Udyr Gameplay Trailer | League of Legends",
+    "durationSeconds": 121,
+    "kind": "not_music",
+    "role": "skip",
+    "song": null,
+    "artists": [],
+    "game": null,
+    "categories": [],
+    "year": null,
+    "topicTrackId": null,
+    "mvRank": null,
+    "confidence": "high"
+  },
+  {
+    "id": "Mz4-38d3-AE",
+    "source": "lol_videos",
+    "title": "Arcane: Bridging the Rift | Part 1 - I Only Dream in Risky",
+    "durationSeconds": 1582,
+    "kind": "not_music",
+    "role": "skip",
+    "song": null,
+    "artists": [],
+    "game": null,
+    "categories": [],
+    "year": null,
+    "topicTrackId": null,
+    "mvRank": null,
+    "confidence": "high"
+  },
+  {
+    "id": "hiKYlBMlHcw",
+    "source": "lol_videos",
+    "title": "Arcane: Bridging the Rift | Trailer",
+    "durationSeconds": 98,
+    "kind": "not_music",
+    "role": "skip",
+    "song": null,
+    "artists": [],
+    "game": null,
+    "categories": [],
+    "year": null,
+    "topicTrackId": null,
+    "mvRank": null,
+    "confidence": "high"
+  },
+  {
+    "id": "K0p8HNpn0Qo",
+    "source": "lol_videos",
+    "title": "Shadow of a Doubt | Star Guardian 2022 - League of Legends",
+    "durationSeconds": 155,
+    "kind": "cinematic",
+    "role": "primary_mv",
+    "song": "Shadow of a Doubt",
+    "artists": [],
+    "game": "league-of-legends",
+    "categories": [
+      "cinematic",
+      "skin-line"
+    ],
+    "year": 2022,
+    "topicTrackId": null,
+    "mvRank": 1,
+    "confidence": "medium",
+    "notes": "Star Guardian 2022 animated cinematic (released 2022-07-28); score only, no Topic track found."
+  },
+  {
+    "id": "z5Dd7Lz-YHI",
+    "source": "lol_videos",
+    "title": "Everything Goes On - Porter Robinson (Official Lyric Video) | Star Guardian 2022",
+    "durationSeconds": 209,
+    "kind": "lyric_video",
+    "role": "primary_mv",
+    "song": "Everything Goes On",
+    "artists": [
+      {
+        "name": "Porter Robinson",
+        "role": "primary"
+      }
+    ],
+    "game": "league-of-legends",
+    "categories": [
+      "skin-line"
+    ],
+    "year": 2022,
+    "topicTrackId": null,
+    "mvRank": 2,
+    "confidence": "high",
+    "notes": "Star Guardian 2022 song; released on Porter Robinson's label, so no Topic track in the Riot listings."
+  },
+  {
+    "id": "bbUPJ9GJkwo",
+    "source": "lol_videos",
+    "title": "Making of Everything Goes On w/Porter Robinson | Star Guardian 2022",
+    "durationSeconds": 389,
+    "kind": "making_of",
+    "role": "related",
+    "song": "Everything Goes On",
+    "artists": [
+      {
+        "name": "Porter Robinson",
+        "role": "primary"
+      }
+    ],
+    "game": "league-of-legends",
+    "categories": [
+      "skin-line"
+    ],
+    "year": 2022,
+    "topicTrackId": null,
+    "mvRank": null,
+    "confidence": "high"
+  },
+  {
+    "id": "dx4-4AfjULY",
+    "source": "lol_videos",
+    "title": "Devs Spill the Beans: Aurelion Sol Gameplay Update | Dev Video - League of Legends",
+    "durationSeconds": 109,
+    "kind": "not_music",
+    "role": "skip",
+    "song": null,
+    "artists": [],
+    "game": null,
+    "categories": [],
+    "year": null,
+    "topicTrackId": null,
+    "mvRank": null,
+    "confidence": "high"
+  },
+  {
+    "id": "eEFVxI9lqjU",
+    "source": "lol_videos",
+    "title": "Everything Goes On - Porter Robinson (Official Music Video) | Star Guardian 2022",
+    "durationSeconds": 160,
+    "kind": "music_video",
+    "role": "primary_mv",
+    "song": "Everything Goes On",
+    "artists": [
+      {
+        "name": "Porter Robinson",
+        "role": "primary"
+      }
+    ],
+    "game": "league-of-legends",
+    "categories": [
+      "skin-line"
+    ],
+    "year": 2022,
+    "topicTrackId": null,
+    "mvRank": 1,
+    "confidence": "high",
+    "notes": "Official animated music video (160 s), shorter than the full song."
+  },
+  {
+    "id": "xiCXFXIFqGA",
+    "source": "lol_videos",
+    "title": "Nilah, The Joy Unbound | Champion Theme - League of Legends",
+    "durationSeconds": 198,
+    "kind": "champion_theme",
+    "role": "primary_mv",
+    "song": "Nilah, the Joy Unbound",
+    "artists": [],
+    "game": "league-of-legends",
+    "categories": [
+      "champion-theme"
+    ],
+    "year": 2022,
+    "topicTrackId": "ZEuy3n07vqQ",
+    "mvRank": 3,
+    "confidence": "high"
+  },
+  {
+    "id": "6OBgIHyPAJ8",
+    "source": "lol_videos",
+    "title": "Nilah Champion Spotlight | Gameplay - League of Legends",
+    "durationSeconds": 273,
+    "kind": "not_music",
+    "role": "skip",
+    "song": null,
+    "artists": [],
+    "game": null,
+    "categories": [],
+    "year": null,
+    "topicTrackId": null,
+    "mvRank": null,
+    "confidence": "high"
+  },
+  {
+    "id": "oK5ovCvcNVE",
+    "source": "lol_videos",
+    "title": "Star Guardian 2022 | Official Event Trailer - League of Legends",
+    "durationSeconds": 89,
+    "kind": "not_music",
+    "role": "skip",
+    "song": null,
+    "artists": [],
+    "game": null,
+    "categories": [],
+    "year": null,
+    "topicTrackId": null,
+    "mvRank": null,
+    "confidence": "high"
+  },
+  {
+    "id": "Iy2EzWzLfcw",
+    "source": "lol_videos",
+    "title": "Star Guardian 2022 | Official Event Teaser - Riot Games",
+    "durationSeconds": 92,
+    "kind": "not_music",
+    "role": "skip",
+    "song": null,
+    "artists": [],
+    "game": null,
+    "categories": [],
+    "year": null,
+    "topicTrackId": null,
+    "mvRank": null,
+    "confidence": "high",
+    "notes": "Star Guardian 2022 event teaser."
+  },
+  {
+    "id": "gkS9EO42UVQ",
+    "source": "lol_videos",
+    "title": "RUINATION Book Trailer - League of Legends",
+    "durationSeconds": 79,
+    "kind": "not_music",
+    "role": "skip",
+    "song": null,
+    "artists": [],
+    "game": null,
+    "categories": [],
+    "year": null,
+    "topicTrackId": null,
+    "mvRank": null,
+    "confidence": "high"
+  },
+  {
+    "id": "GzJQK93wFtk",
+    "source": "lol_videos",
+    "title": "Star Guardian 2022 | Official Orchestral Theme - League of Legends",
+    "durationSeconds": 310,
+    "kind": "visualizer",
+    "role": "primary_mv",
+    "song": "Star Guardian 2022 (Official Orchestral Theme)",
+    "artists": [],
+    "game": "league-of-legends",
+    "categories": [
+      "skin-line"
+    ],
+    "year": 2022,
+    "topicTrackId": "pDn4_Trq_3k",
+    "mvRank": 3,
+    "confidence": "high",
+    "notes": "Orchestral theme video for Star Guardian 2022; duration matches Topic track (310 s)."
+  },
+  {
+    "id": "nEFcbKF4WfY",
+    "source": "lol_videos",
+    "title": "Return to Valoran City - Star Guardian 2022 | Official Event Teaser - League of Legends",
+    "durationSeconds": 59,
+    "kind": "cinematic",
+    "role": "primary_mv",
+    "song": "Return to Valoran City",
+    "artists": [],
+    "game": "league-of-legends",
+    "categories": [
+      "skin-line"
+    ],
+    "year": 2022,
+    "topicTrackId": "ofVlduhUkLs",
+    "mvRank": 1,
+    "confidence": "medium",
+    "notes": "Star Guardian 2022 event teaser whose music was released as its own Topic track (58 s), so this short video is the definitive visual for that track despite being under 60 s."
+  },
+  {
+    "id": "Ohgtglx6SRM",
+    "source": "lol_videos",
+    "title": "Nilah: The Joy Unbound | Champion Trailer - League of Legends",
+    "durationSeconds": 147,
+    "kind": "not_music",
+    "role": "skip",
+    "song": null,
+    "artists": [],
+    "game": null,
+    "categories": [],
+    "year": null,
+    "topicTrackId": null,
+    "mvRank": null,
+    "confidence": "high"
+  },
+  {
+    "id": "lZC0QV4N3OU",
+    "source": "lol_videos",
+    "title": "Bel�Veth Champion Spotlight | Gameplay - League of Legends",
+    "durationSeconds": 402,
+    "kind": "not_music",
+    "role": "skip",
+    "song": null,
+    "artists": [],
+    "game": null,
+    "categories": [],
+    "year": null,
+    "topicTrackId": null,
+    "mvRank": null,
+    "confidence": "high"
+  },
+  {
+    "id": "2rPEcmPTVfg",
+    "source": "lol_videos",
+    "title": "Bel�Veth, The Empress of the Void | Champion Trailer - League of Legends",
+    "durationSeconds": 75,
+    "kind": "not_music",
+    "role": "skip",
+    "song": null,
+    "artists": [],
+    "game": null,
+    "categories": [],
+    "year": null,
+    "topicTrackId": null,
+    "mvRank": null,
+    "confidence": "high"
+  },
+  {
+    "id": "Ie2ia4kyRx4",
+    "source": "lol_videos",
+    "title": "Bel�Veth, The Empress of the Void | Champion Theme - League of Legends",
+    "durationSeconds": 237,
+    "kind": "champion_theme",
+    "role": "primary_mv",
+    "song": "Bel'Veth, the Empress of the Void",
+    "artists": [],
+    "game": "league-of-legends",
+    "categories": [
+      "champion-theme"
+    ],
+    "year": 2022,
+    "topicTrackId": "VHSAuFLgHV4",
+    "mvRank": 3,
+    "confidence": "high"
+  },
+  {
+    "id": "hjPS3j5XNss",
+    "source": "lol_videos",
+    "title": "All That Will Ever Be | Bel'Veth Cinematic - League of Legends",
+    "durationSeconds": 122,
+    "kind": "cinematic",
+    "role": "primary_mv",
+    "song": "All That Will Ever Be",
+    "artists": [],
+    "game": "league-of-legends",
+    "categories": [
+      "cinematic"
+    ],
+    "year": 2022,
+    "topicTrackId": null,
+    "mvRank": 1,
+    "confidence": "medium",
+    "notes": "Bel'Veth champion cinematic (released 2022-05-20); score only, no Topic track found."
+  },
+  {
+    "id": "bH8Ca-Rms_4",
+    "source": "lol_videos",
+    "title": "Bel'Veth's Warning | Champion Teaser - League of Legends",
+    "durationSeconds": 29,
+    "kind": "not_music",
+    "role": "skip",
+    "song": null,
+    "artists": [],
+    "game": null,
+    "categories": [],
+    "year": null,
+    "topicTrackId": null,
+    "mvRank": null,
+    "confidence": "high"
+  },
+  {
+    "id": "Gy05rWRUVQQ",
+    "source": "lol_videos",
+    "title": "Bel'Veth's Promise | Champion Teaser - League of Legends",
+    "durationSeconds": 36,
+    "kind": "not_music",
+    "role": "skip",
+    "song": null,
+    "artists": [],
+    "game": null,
+    "categories": [],
+    "year": null,
+    "topicTrackId": null,
+    "mvRank": null,
+    "confidence": "high"
+  },
+  {
+    "id": "l4AOMqpnQOk",
+    "source": "lol_videos",
+    "title": "Making the EDG Worlds Championship Team Skins Behind the Scenes | League of Legends",
+    "durationSeconds": 547,
+    "kind": "not_music",
+    "role": "skip",
+    "song": null,
+    "artists": [],
+    "game": null,
+    "categories": [],
+    "year": null,
+    "topicTrackId": null,
+    "mvRank": null,
+    "confidence": "high"
+  },
+  {
+    "id": "vgPi-XAPPPk",
+    "source": "lol_videos",
+    "title": "MSI 2022 High Noon | Official Event Trailer - League of Legends",
+    "durationSeconds": 93,
+    "kind": "not_music",
+    "role": "skip",
+    "song": null,
+    "artists": [],
+    "game": null,
+    "categories": [],
+    "year": null,
+    "topicTrackId": null,
+    "mvRank": null,
+    "confidence": "high"
+  },
+  {
+    "id": "uGJPjyiw5Eg",
+    "source": "lol_videos",
+    "title": "LiLuo�s Road to Victory | Gizmos & Gadgets Championship - Teamfight Tactics",
+    "durationSeconds": 401,
+    "kind": "not_music",
+    "role": "skip",
+    "song": null,
+    "artists": [],
+    "game": null,
+    "categories": [],
+    "year": null,
+    "topicTrackId": null,
+    "mvRank": null,
+    "confidence": "high"
+  },
+  {
+    "id": "6hDUSKD9ClI",
+    "source": "lol_videos",
+    "title": "Anima Squad 2022 | Official Event Trailer - League of Legends",
+    "durationSeconds": 110,
+    "kind": "not_music",
+    "role": "skip",
+    "song": null,
+    "artists": [],
+    "game": null,
+    "categories": [],
+    "year": null,
+    "topicTrackId": null,
+    "mvRank": null,
+    "confidence": "high"
+  },
+  {
+    "id": "yahJE5tLxHg",
+    "source": "lol_videos",
+    "title": "Renata Glasc Champion Spotlight | Gameplay - League of Legends",
+    "durationSeconds": 268,
+    "kind": "not_music",
+    "role": "skip",
+    "song": null,
+    "artists": [],
+    "game": null,
+    "categories": [],
+    "year": null,
+    "topicTrackId": null,
+    "mvRank": null,
+    "confidence": "high"
+  },
+  {
+    "id": "3v7ZGvXmSUA",
+    "source": "lol_videos",
+    "title": "Renata Glasc, The Chem-Baroness | Champion Theme - League of Legends",
+    "durationSeconds": 184,
+    "kind": "champion_theme",
+    "role": "primary_mv",
+    "song": "Renata Glasc, the Chem-Baroness",
+    "artists": [],
+    "game": "league-of-legends",
+    "categories": [
+      "champion-theme"
+    ],
+    "year": 2022,
+    "topicTrackId": "kRtxjV8Vz-I",
+    "mvRank": 3,
+    "confidence": "high"
+  },
+  {
+    "id": "X20X781I_-I",
+    "source": "lol_videos",
+    "title": "Renata Glasc: The Chem-Baroness | Champion Trailer - League of Legends",
+    "durationSeconds": 145,
+    "kind": "not_music",
+    "role": "skip",
+    "song": null,
+    "artists": [],
+    "game": null,
+    "categories": [],
+    "year": null,
+    "topicTrackId": null,
+    "mvRank": null,
+    "confidence": "high"
+  },
+  {
+    "id": "v1ZaY2Iy6us",
+    "source": "lol_videos",
+    "title": "Lunar Revel 2022 | Official Event Trailer - League of Legends",
+    "durationSeconds": 109,
+    "kind": "not_music",
+    "role": "skip",
+    "song": null,
+    "artists": [],
+    "game": null,
+    "categories": [],
+    "year": null,
+    "topicTrackId": null,
+    "mvRank": null,
+    "confidence": "high"
+  },
+  {
+    "id": "jDXCgs5SRfw",
+    "source": "lol_videos",
+    "title": "Zeri, The Spark of Zaun | Champion Theme (ft. Lauren Babic)  - League of Legends",
+    "durationSeconds": 214,
+    "kind": "champion_theme",
+    "role": "primary_mv",
+    "song": "Zeri, the Spark of Zaun",
+    "artists": [
+      {
+        "name": "Lauren Babic",
+        "role": "featured"
+      }
+    ],
+    "game": "league-of-legends",
+    "categories": [
+      "champion-theme"
+    ],
+    "year": 2022,
+    "topicTrackId": "IkqVI8-ca6Y",
+    "mvRank": 3,
+    "confidence": "high"
+  },
+  {
+    "id": "VcaUG8hV9SU",
+    "source": "lol_videos",
+    "title": "Zeri Champion Spotlight | Gameplay - League of Legends",
+    "durationSeconds": 242,
+    "kind": "not_music",
+    "role": "skip",
+    "song": null,
+    "artists": [],
+    "game": null,
+    "categories": [],
+    "year": null,
+    "topicTrackId": null,
+    "mvRank": null,
+    "confidence": "high"
+  },
+  {
+    "id": "N-yEhErUIn0",
+    "source": "lol_videos",
+    "title": "A Hero Awakens | Lunar Revel 2022 Cinematic - League of Legends",
+    "durationSeconds": 118,
+    "kind": "cinematic",
+    "role": "primary_mv",
+    "song": "A Hero Awakens",
+    "artists": [],
+    "game": "league-of-legends",
+    "categories": [
+      "cinematic",
+      "skin-line"
+    ],
+    "year": 2022,
+    "topicTrackId": null,
+    "mvRank": 1,
+    "confidence": "medium",
+    "notes": "Lunar Revel 2022 event cinematic (released 2022-01-19); score only, no Topic track found."
+  },
+  {
+    "id": "jtfgXd_aDlA",
+    "source": "lol_videos",
+    "title": "Porcelain - Official Skins Theme | Lunar Revel 2022 - League of Legends",
+    "durationSeconds": 238,
+    "kind": "visualizer",
+    "role": "primary_mv",
+    "song": "Porcelain - 2022",
+    "artists": [],
+    "game": "league-of-legends",
+    "categories": [
+      "skin-line"
+    ],
+    "year": 2022,
+    "topicTrackId": "r75jnbkYFtI",
+    "mvRank": 3,
+    "confidence": "medium",
+    "notes": "Official Porcelain skins theme video (Lunar Revel 2022)."
+  },
+  {
+    "id": "6EM1dwjQLWE",
+    "source": "lol_videos",
+    "title": "Making the Worlds 2021 Show Open Presented by Mastercard",
+    "durationSeconds": 718,
+    "kind": "making_of",
+    "role": "related",
+    "song": "Burn It All Down",
+    "artists": [
+      {
+        "name": "Imagine Dragons",
+        "role": "primary"
+      },
+      {
+        "name": "JID",
+        "role": "primary"
+      },
+      {
+        "name": "Denzel Curry",
+        "role": "primary"
+      },
+      {
+        "name": "Bea Miller",
+        "role": "primary"
+      },
+      {
+        "name": "PVRIS",
+        "role": "primary"
+      }
+    ],
+    "game": "league-of-legends",
+    "categories": [
+      "worlds"
+    ],
+    "year": 2021,
+    "topicTrackId": null,
+    "mvRank": null,
+    "confidence": "medium",
+    "notes": "Making-of for the whole Worlds 2021 show open (Enemy, Playground, Burn It All Down); linked to the Worlds anthem."
+  },
+  {
+    "id": "p7Jn3vxQmt0",
+    "source": "lol_videos",
+    "title": "Season 2022 Opening Day Recap",
+    "durationSeconds": 90,
+    "kind": "not_music",
+    "role": "skip",
+    "song": null,
+    "artists": [],
+    "game": null,
+    "categories": [],
+    "year": null,
+    "topicTrackId": null,
+    "mvRank": null,
+    "confidence": "high"
+  },
+  {
+    "id": "VUkn55yTf8A",
+    "source": "lol_videos",
+    "title": "League of Legends Esports in Season 2022 | Esports - Riot Games",
+    "durationSeconds": 236,
+    "kind": "not_music",
+    "role": "skip",
+    "song": null,
+    "artists": [],
+    "game": null,
+    "categories": [],
+    "year": null,
+    "topicTrackId": null,
+    "mvRank": null,
+    "confidence": "high"
+  },
+  {
+    "id": "Gq_54Lcd0aA",
+    "source": "lol_videos",
+    "title": "Champions in Season 2022 | Dev Video - League of Legends",
+    "durationSeconds": 507,
+    "kind": "not_music",
+    "role": "skip",
+    "song": null,
+    "artists": [],
+    "game": null,
+    "categories": [],
+    "year": null,
+    "topicTrackId": null,
+    "mvRank": null,
+    "confidence": "high"
+  },
+  {
+    "id": "IIeiE9241Z8",
+    "source": "lol_videos",
+    "title": "Skins & Events in Season 2022 | Dev Video - League of Legends",
+    "durationSeconds": 511,
+    "kind": "not_music",
+    "role": "skip",
+    "song": null,
+    "artists": [],
+    "game": null,
+    "categories": [],
+    "year": null,
+    "topicTrackId": null,
+    "mvRank": null,
+    "confidence": "high"
+  },
+  {
+    "id": "dI7i0MgnVms",
+    "source": "lol_videos",
+    "title": "Gameplay in Season 2022 | Dev Video - League of Legends",
+    "durationSeconds": 432,
+    "kind": "not_music",
+    "role": "skip",
+    "song": null,
+    "artists": [],
+    "game": null,
+    "categories": [],
+    "year": null,
+    "topicTrackId": null,
+    "mvRank": null,
+    "confidence": "high"
+  },
+  {
+    "id": "mDYqT0_9VR4",
+    "source": "lol_videos",
+    "title": "The Call | Season 2022 Cinematic - League of Legends (ft. 2WEI, Louis Leibfried, and Edda Hayes)",
+    "durationSeconds": 242,
+    "kind": "cinematic",
+    "role": "primary_mv",
+    "song": "The Call",
+    "artists": [
+      {
+        "name": "2WEI",
+        "role": "featured"
+      },
+      {
+        "name": "Louis Leibfried",
+        "role": "featured"
+      },
+      {
+        "name": "Edda Hayes",
+        "role": "featured"
+      }
+    ],
+    "game": "league-of-legends",
+    "categories": [
+      "cinematic"
+    ],
+    "year": 2022,
+    "topicTrackId": "HtHrjFJGDys",
+    "mvRank": 1,
+    "confidence": "high",
+    "notes": "Season 2022 cinematic (released 2022-01-07)."
+  },
+  {
+    "id": "x-BleySF-1g",
+    "source": "lol_videos",
+    "title": "Season 2022 Opening Day | Full Livestream - League of Legends",
+    "durationSeconds": 2777,
+    "kind": "not_music",
+    "role": "skip",
+    "song": null,
+    "artists": [],
+    "game": null,
+    "categories": [],
+    "year": null,
+    "topicTrackId": null,
+    "mvRank": null,
+    "confidence": "high",
+    "notes": "Season 2022 opening day livestream."
+  },
+  {
+    "id": "YW2mAg9w7Vw",
+    "source": "lol_videos",
+    "title": "Zeri: The Spark of Zaun | Champion Trailer - League of Legends",
+    "durationSeconds": 131,
+    "kind": "not_music",
+    "role": "skip",
+    "song": null,
+    "artists": [],
+    "game": null,
+    "categories": [],
+    "year": null,
+    "topicTrackId": null,
+    "mvRank": null,
+    "confidence": "high"
+  },
+  {
+    "id": "Ag7ury1VgHg",
+    "source": "lol_videos",
+    "title": "Season 2022 Livestream Teaser | League of Legends",
+    "durationSeconds": 37,
+    "kind": "not_music",
+    "role": "skip",
+    "song": null,
+    "artists": [],
+    "game": null,
+    "categories": [],
+    "year": null,
+    "topicTrackId": null,
+    "mvRank": null,
+    "confidence": "high"
+  },
+  {
+    "id": "cMzi3-2Nct0",
+    "source": "lol_videos",
+    "title": "/dev diary: The Music of Arcane",
+    "durationSeconds": 238,
+    "kind": "making_of",
+    "role": "related",
+    "song": null,
+    "artists": [],
+    "game": "arcane",
+    "categories": [
+      "arcane"
+    ],
+    "year": null,
+    "topicTrackId": null,
+    "mvRank": null,
+    "confidence": "medium",
+    "notes": "Dev diary about the Arcane soundtrack in general; not tied to a single song. Upload falls between Nov 2021 and Jan 2022 in channel order."
+  },
+  {
+    "id": "HI0ckINLwbQ",
+    "source": "lol_videos",
+    "title": "Final Entry | Into the Arcane: Council Archives Trailer - League of Legends",
+    "durationSeconds": 67,
+    "kind": "not_music",
+    "role": "skip",
+    "song": null,
+    "artists": [],
+    "game": null,
+    "categories": [],
+    "year": null,
+    "topicTrackId": null,
+    "mvRank": null,
+    "confidence": "high"
+  },
+  {
+    "id": "y9ogZHy-qN8",
+    "source": "lol_videos",
+    "title": "Caitlyn's Files | Into the Arcane: Council Archives Trailer - League of Legends",
+    "durationSeconds": 64,
+    "kind": "not_music",
+    "role": "skip",
+    "song": null,
+    "artists": [],
+    "game": null,
+    "categories": [],
+    "year": null,
+    "topicTrackId": null,
+    "mvRank": null,
+    "confidence": "high"
+  },
+  {
+    "id": "Nu9HTOIUxLk",
+    "source": "lol_videos",
+    "title": "Arcane: Season 2 Announcement",
+    "durationSeconds": 32,
+    "kind": "not_music",
+    "role": "skip",
+    "song": null,
+    "artists": [],
+    "game": null,
+    "categories": [],
+    "year": null,
+    "topicTrackId": null,
+    "mvRank": null,
+    "confidence": "high"
+  },
+  {
+    "id": "mqMYpAuxqbk",
+    "source": "lol_videos",
+    "title": "Arcane Act III: Sneak Peek",
+    "durationSeconds": 56,
+    "kind": "not_music",
+    "role": "skip",
+    "song": null,
+    "artists": [],
+    "game": null,
+    "categories": [],
+    "year": null,
+    "topicTrackId": null,
+    "mvRank": null,
+    "confidence": "high"
+  },
+  {
+    "id": "7ViRAkrvlX8",
+    "source": "lol_videos",
+    "title": "Preseason 2022 Spotlight | Gameplay - League of Legends",
+    "durationSeconds": 204,
+    "kind": "not_music",
+    "role": "skip",
+    "song": null,
+    "artists": [],
+    "game": null,
+    "categories": [],
+    "year": null,
+    "topicTrackId": null,
+    "mvRank": null,
+    "confidence": "high"
+  },
+  {
+    "id": "PlyRjzERLvo",
+    "source": "lol_videos",
+    "title": "Vi's Records | Into the Arcane: Council Archives Trailer - League of Legends",
+    "durationSeconds": 62,
+    "kind": "not_music",
+    "role": "skip",
+    "song": null,
+    "artists": [],
+    "game": null,
+    "categories": [],
+    "year": null,
+    "topicTrackId": null,
+    "mvRank": null,
+    "confidence": "high"
+  },
+  {
+    "id": "0JSwG2sqUm8",
+    "source": "lol_videos",
+    "title": "Arcane Act II: Sneak Peek",
+    "durationSeconds": 57,
+    "kind": "not_music",
+    "role": "skip",
+    "song": null,
+    "artists": [],
+    "game": null,
+    "categories": [],
+    "year": null,
+    "topicTrackId": null,
+    "mvRank": null,
+    "confidence": "high"
+  },
+  {
+    "id": "-1O-tZ9ngAs",
+    "source": "lol_videos",
+    "title": "Jayce's Journal | Into the Arcane: Council Archives Trailer - League of Legends",
+    "durationSeconds": 71,
+    "kind": "not_music",
+    "role": "skip",
+    "song": null,
+    "artists": [],
+    "game": null,
+    "categories": [],
+    "year": null,
+    "topicTrackId": null,
+    "mvRank": null,
+    "confidence": "high"
+  },
+  {
+    "id": "pzFnYYXsKtw",
+    "source": "lol_videos",
+    "title": "Welcome to the Playground (Bea Miller) - Worlds 2021 Show Open Presented by Mastercard",
+    "durationSeconds": 135,
+    "kind": "live_performance",
+    "role": "related",
+    "song": "Playground",
+    "artists": [
+      {
+        "name": "Bea Miller",
+        "role": "primary"
+      }
+    ],
+    "game": "arcane",
+    "categories": [
+      "arcane",
+      "worlds"
+    ],
+    "year": 2021,
+    "topicTrackId": null,
+    "mvRank": null,
+    "confidence": "high",
+    "notes": "Worlds 2021 show open segment; Arcane soundtrack song, no Topic track in the Riot listings."
+  },
+  {
+    "id": "HzJv6sef8HY",
+    "source": "lol_videos",
+    "title": "Enemy (Imagine Dragons, JID) - Worlds 2021 Show Open Presented by Mastercard",
+    "durationSeconds": 257,
+    "kind": "live_performance",
+    "role": "related",
+    "song": "Enemy",
+    "artists": [
+      {
+        "name": "Imagine Dragons",
+        "role": "primary"
+      },
+      {
+        "name": "JID",
+        "role": "primary"
+      }
+    ],
+    "game": "arcane",
+    "categories": [
+      "arcane",
+      "worlds"
+    ],
+    "year": 2021,
+    "topicTrackId": null,
+    "mvRank": null,
+    "confidence": "high",
+    "notes": "Worlds 2021 show open performance; song released under Imagine Dragons' label, so no Topic track."
+  },
+  {
+    "id": "388vet-q9lo",
+    "source": "lol_videos",
+    "title": "Burn It All Down (PVRIS, Denzel Curry) - Worlds 2021 Show Open Presented by Mastercard",
+    "durationSeconds": 257,
+    "kind": "live_performance",
+    "role": "related",
+    "song": "Burn It All Down",
+    "artists": [
+      {
+        "name": "PVRIS",
+        "role": "primary"
+      },
+      {
+        "name": "Denzel Curry",
+        "role": "primary"
+      }
+    ],
+    "game": "league-of-legends",
+    "categories": [
+      "worlds"
+    ],
+    "year": 2021,
+    "topicTrackId": "pPg1iC_cCFE",
+    "mvRank": null,
+    "confidence": "medium",
+    "notes": "Worlds 2021 show open performance with PVRIS and Denzel Curry; matched to the Denzel Curry Remix version (original Topic track: Etqiuv8_vhQ)."
+  },
+  {
+    "id": "1OzoFq4Q3_c",
+    "source": "lol_videos",
+    "title": "Worlds 2021 Show Open Presented by Mastercard: Imagine Dragons, JID, Denzel Curry, Bea Miller, PVRIS",
+    "durationSeconds": 839,
+    "kind": "live_performance",
+    "role": "related",
+    "song": "Burn It All Down",
+    "artists": [
+      {
+        "name": "Imagine Dragons",
+        "role": "primary"
+      },
+      {
+        "name": "JID",
+        "role": "primary"
+      },
+      {
+        "name": "Denzel Curry",
+        "role": "primary"
+      },
+      {
+        "name": "Bea Miller",
+        "role": "primary"
+      },
+      {
+        "name": "PVRIS",
+        "role": "primary"
+      }
+    ],
+    "game": "league-of-legends",
+    "categories": [
+      "worlds",
+      "arcane"
+    ],
+    "year": 2021,
+    "topicTrackId": "Etqiuv8_vhQ",
+    "mvRank": null,
+    "confidence": "medium",
+    "notes": "Full Worlds 2021 show open (Enemy, Playground, Burn It All Down); linked to the Worlds anthem."
+  },
+  {
+    "id": "DZR8CXqJOxk",
+    "source": "lol_videos",
+    "title": "Arcane: Lighting Up the Dubai Skyline | Burj Khalifa Video",
+    "durationSeconds": 195,
+    "kind": "not_music",
+    "role": "skip",
+    "song": null,
+    "artists": [],
+    "game": null,
+    "categories": [],
+    "year": null,
+    "topicTrackId": null,
+    "mvRank": null,
+    "confidence": "high",
+    "notes": "Burj Khalifa promotional projection for Arcane."
+  },
+  {
+    "id": "atzEi6reWgk",
+    "source": "lol_videos",
+    "title": "Into the Arcane | Official Event Teaser - League of Legends",
+    "durationSeconds": 70,
+    "kind": "not_music",
+    "role": "skip",
+    "song": null,
+    "artists": [],
+    "game": null,
+    "categories": [],
+    "year": null,
+    "topicTrackId": null,
+    "mvRank": null,
+    "confidence": "high"
+  },
+  {
+    "id": "rt_5-8OPiEA",
+    "source": "lol_videos",
+    "title": "RiotX Arcane Announcement Trailer",
+    "durationSeconds": 64,
+    "kind": "not_music",
+    "role": "skip",
+    "song": null,
+    "artists": [],
+    "game": null,
+    "categories": [],
+    "year": null,
+    "topicTrackId": null,
+    "mvRank": null,
+    "confidence": "high"
+  },
+  {
+    "id": "WmMCTdbLmnA",
+    "source": "lol_videos",
+    "title": "Worlds 2021: Finals Show Open Teaser Presented by Mastercard",
+    "durationSeconds": 62,
+    "kind": "not_music",
+    "role": "skip",
+    "song": null,
+    "artists": [],
+    "game": null,
+    "categories": [],
+    "year": null,
+    "topicTrackId": null,
+    "mvRank": null,
+    "confidence": "medium",
+    "notes": "Teaser for the Worlds 2021 Finals show open; music content not verified."
+  },
+  {
+    "id": "D9NoXdWn10s",
+    "source": "lol_videos",
+    "title": "/dev diary: World of Arcane",
+    "durationSeconds": 130,
+    "kind": "not_music",
+    "role": "skip",
+    "song": null,
+    "artists": [],
+    "game": null,
+    "categories": [],
+    "year": null,
+    "topicTrackId": null,
+    "mvRank": null,
+    "confidence": "high"
+  },
+  {
+    "id": "32oT-CWJOC0",
+    "source": "lol_videos",
+    "title": "Arcane: Final Trailer",
+    "durationSeconds": 130,
+    "kind": "not_music",
+    "role": "skip",
+    "song": null,
+    "artists": [],
+    "game": null,
+    "categories": [],
+    "year": null,
+    "topicTrackId": null,
+    "mvRank": null,
+    "confidence": "high",
+    "notes": "Arcane series trailer."
+  },
+  {
+    "id": "itK7gvvxxDs",
+    "source": "lol_videos",
+    "title": "Caitlyn, The Sheriff of Piltover | Champion Theme - League of Legends",
+    "durationSeconds": 192,
+    "kind": "champion_theme",
+    "role": "primary_mv",
+    "song": "Caitlyn, the Sheriff of Piltover",
+    "artists": [],
+    "game": "league-of-legends",
+    "categories": [
+      "champion-theme"
+    ],
+    "year": 2021,
+    "topicTrackId": "GRkuynUabzI",
+    "mvRank": 3,
+    "confidence": "high",
+    "notes": "Piano arrangement exists separately (Lzc-Deww4oM)."
+  },
+  {
+    "id": "F5tSoaJ93ac",
+    "source": "lol_videos",
+    "title": "Imagine Dragons & JID - Enemy (from the series Arcane: League of Legends) | Official Music Video",
+    "durationSeconds": 214,
+    "kind": "music_video",
+    "role": "primary_mv",
+    "song": "Enemy",
+    "artists": [
+      {
+        "name": "Imagine Dragons",
+        "role": "primary"
+      },
+      {
+        "name": "JID",
+        "role": "primary"
+      }
+    ],
+    "game": "arcane",
+    "categories": [
+      "arcane"
+    ],
+    "year": 2021,
+    "topicTrackId": null,
+    "mvRank": 1,
+    "confidence": "high",
+    "notes": "Official music video (released 2021-10-28). Song released under Imagine Dragons' label (KIDinaKORNER/Interscope), so no Topic track."
+  },
+  {
+    "id": "tHduaeLWi1Y",
+    "source": "lol_videos",
+    "title": "Dragonmancer | Official Skins Theme 2021 - League of Legends",
+    "durationSeconds": 183,
+    "kind": "visualizer",
+    "role": "primary_mv",
+    "song": "Dragonmancer - 2021",
+    "artists": [],
+    "game": "league-of-legends",
+    "categories": [
+      "skin-line"
+    ],
+    "year": 2021,
+    "topicTrackId": "fhev47wYNtY",
+    "mvRank": 3,
+    "confidence": "medium",
+    "notes": "Official skins/event theme video (instrumental theme over key art)."
+  },
+  {
+    "id": "5yA1QdQh4Zw",
+    "source": "lol_videos",
+    "title": "Dragonmancer 2021 | Official Skins Trailer - League of Legends",
+    "durationSeconds": 83,
+    "kind": "not_music",
+    "role": "skip",
+    "song": null,
+    "artists": [],
+    "game": null,
+    "categories": [],
+    "year": null,
+    "topicTrackId": null,
+    "mvRank": null,
+    "confidence": "high"
+  },
+  {
+    "id": "x8w4XIzsQ64",
+    "source": "lol_videos",
+    "title": "Burn It All Down - CIFIKA Remix | Worlds 2021 - League of Legends",
+    "durationSeconds": 306,
+    "kind": "remix",
+    "role": "related",
+    "song": "Burn It All Down",
+    "artists": [
+      {
+        "name": "PVRIS",
+        "role": "featured"
+      },
+      {
+        "name": "CIFIKA",
+        "role": "remixer"
+      }
+    ],
+    "game": "league-of-legends",
+    "categories": [
+      "worlds",
+      "remix"
+    ],
+    "year": 2021,
+    "topicTrackId": "wIkRrcgwO8E",
+    "mvRank": null,
+    "confidence": "high",
+    "notes": "CIFIKA Remix."
+  },
+  {
+    "id": "HvkPv3ADBKc",
+    "source": "lol_videos",
+    "title": "Burn It All Down - Besomorph Remix | Worlds 2021 - League of Legends",
+    "durationSeconds": 158,
+    "kind": "remix",
+    "role": "related",
+    "song": "Burn It All Down",
+    "artists": [
+      {
+        "name": "PVRIS",
+        "role": "featured"
+      },
+      {
+        "name": "Besomorph",
+        "role": "remixer"
+      }
+    ],
+    "game": "league-of-legends",
+    "categories": [
+      "worlds",
+      "remix"
+    ],
+    "year": 2021,
+    "topicTrackId": "ezd14pmGCLA",
+    "mvRank": null,
+    "confidence": "high",
+    "notes": "Besomorph Remix (uploaded 2021-10-19)."
+  },
+  {
+    "id": "7Dvh2vB2v_A",
+    "source": "lol_videos",
+    "title": "Burn It All Down - Denzel Curry Remix | Worlds 2021 - League of Legends",
+    "durationSeconds": 217,
+    "kind": "remix",
+    "role": "related",
+    "song": "Burn It All Down",
+    "artists": [
+      {
+        "name": "PVRIS",
+        "role": "featured"
+      },
+      {
+        "name": "Denzel Curry",
+        "role": "remixer"
+      }
+    ],
+    "game": "league-of-legends",
+    "categories": [
+      "worlds",
+      "remix"
+    ],
+    "year": 2021,
+    "topicTrackId": "pPg1iC_cCFE",
+    "mvRank": null,
+    "confidence": "high",
+    "notes": "Denzel Curry Remix (adds a Denzel Curry verse)."
+  },
+  {
+    "id": "JNcMMvHMO44",
+    "source": "lol_videos",
+    "title": "Preseason 2022 and State of the Game| LoL Pls - League of Legends",
+    "durationSeconds": 694,
+    "kind": "not_music",
+    "role": "skip",
+    "song": null,
+    "artists": [],
+    "game": null,
+    "categories": [],
+    "year": null,
+    "topicTrackId": null,
+    "mvRank": null,
+    "confidence": "high"
+  },
+  {
+    "id": "1Z6CHioIn3s",
+    "source": "lol_videos",
+    "title": "Burn It All Down (ft. PVRIS) | Worlds 2021 - League of Legends",
+    "durationSeconds": 212,
+    "kind": "music_video",
+    "role": "primary_mv",
+    "song": "Burn It All Down",
+    "artists": [
+      {
+        "name": "PVRIS",
+        "role": "featured"
+      }
+    ],
+    "game": "league-of-legends",
+    "categories": [
+      "worlds"
+    ],
+    "year": 2021,
+    "topicTrackId": "Etqiuv8_vhQ",
+    "mvRank": 1,
+    "confidence": "high",
+    "notes": "Worlds 2021 anthem music video (released 2021-09-29)."
+  },
+  {
+    "id": "4Ps6nV4wiCE",
+    "source": "lol_videos",
+    "title": "Arcane: Official Trailer",
+    "durationSeconds": 152,
+    "kind": "not_music",
+    "role": "skip",
+    "song": null,
+    "artists": [],
+    "game": null,
+    "categories": [],
+    "year": null,
+    "topicTrackId": null,
+    "mvRank": null,
+    "confidence": "high",
+    "notes": "Arcane series trailer."
+  },
+  {
+    "id": "z1QrEf8Ti_0",
+    "source": "lol_videos",
+    "title": "Vex, The Gloomist | Champion Theme - League of Legends",
+    "durationSeconds": 223,
+    "kind": "champion_theme",
+    "role": "primary_mv",
+    "song": "Vex, the Gloomist",
+    "artists": [],
+    "game": "league-of-legends",
+    "categories": [
+      "champion-theme"
+    ],
+    "year": 2021,
+    "topicTrackId": "ZGSP43rBK6Y",
+    "mvRank": 3,
+    "confidence": "high"
+  },
+  {
+    "id": "-53Hat-vM-k",
+    "source": "lol_videos",
+    "title": "Vex Champion Spotlight | Gameplay - League of Legends",
+    "durationSeconds": 193,
+    "kind": "not_music",
+    "role": "skip",
+    "song": null,
+    "artists": [],
+    "game": null,
+    "categories": [],
+    "year": null,
+    "topicTrackId": null,
+    "mvRank": null,
+    "confidence": "high"
+  },
+  {
+    "id": "iJhwVuEhiR8",
+    "source": "lol_videos",
+    "title": "Worlds 2021 | Official Event Trailer - League of Legends",
+    "durationSeconds": 114,
+    "kind": "not_music",
+    "role": "skip",
+    "song": null,
+    "artists": [],
+    "game": null,
+    "categories": [],
+    "year": null,
+    "topicTrackId": null,
+    "mvRank": null,
+    "confidence": "high"
+  },
+  {
+    "id": "rQal3ArvfrE",
+    "source": "lol_videos",
+    "title": "Worlds 2021 | Orchestral Theme - League of Legends",
+    "durationSeconds": 193,
+    "kind": "visualizer",
+    "role": "primary_mv",
+    "song": "2021 World Championship Theme",
+    "artists": [],
+    "game": "league-of-legends",
+    "categories": [
+      "worlds"
+    ],
+    "year": 2021,
+    "topicTrackId": "yYaHEv-BCZU",
+    "mvRank": 3,
+    "confidence": "high",
+    "notes": "Orchestral theme video for the World Championship."
+  },
+  {
+    "id": "7i6jEGKVgr0",
+    "source": "lol_videos",
+    "title": "Pentakill III: Lost Chapter | Official Skins Trailer - League of Legends",
+    "durationSeconds": 52,
+    "kind": "not_music",
+    "role": "skip",
+    "song": null,
+    "artists": [],
+    "game": null,
+    "categories": [],
+    "year": null,
+    "topicTrackId": null,
+    "mvRank": null,
+    "confidence": "medium",
+    "notes": "Pentakill III skins trailer (52 s); Pentakill songs are on the Riot Games Music channel."
+  },
+  {
+    "id": "_6-O2QmdWvA",
+    "source": "lol_videos",
+    "title": "Severing Fate | Night & Dawn 2021 Skins Teaser - League of Legends",
+    "durationSeconds": 40,
+    "kind": "not_music",
+    "role": "skip",
+    "song": null,
+    "artists": [],
+    "game": null,
+    "categories": [],
+    "year": null,
+    "topicTrackId": null,
+    "mvRank": null,
+    "confidence": "high"
+  },
+  {
+    "id": "7qEmVvqjKiQ",
+    "source": "lol_videos",
+    "title": "Vex: The Gloomist | Champion Trailer - League of Legends",
+    "durationSeconds": 148,
+    "kind": "not_music",
+    "role": "skip",
+    "song": null,
+    "artists": [],
+    "game": null,
+    "categories": [],
+    "year": null,
+    "topicTrackId": null,
+    "mvRank": null,
+    "confidence": "high"
+  },
+  {
+    "id": "GS4KAWg2tXw",
+    "source": "lol_videos",
+    "title": "Coven | Official Skins Theme 2021 - League of Legends",
+    "durationSeconds": 183,
+    "kind": "visualizer",
+    "role": "primary_mv",
+    "song": "Coven - 2021",
+    "artists": [],
+    "game": "league-of-legends",
+    "categories": [
+      "skin-line"
+    ],
+    "year": 2021,
+    "topicTrackId": "kJSkmcdJSO8",
+    "mvRank": 3,
+    "confidence": "medium",
+    "notes": "Official skins/event theme video (instrumental theme over key art)."
+  },
+  {
+    "id": "Q_icM7bKaGU",
+    "source": "lol_videos",
+    "title": "I�ll Find a Way (ft. TELLE) | Sentinels of Light - League of Legends",
+    "durationSeconds": 215,
+    "kind": "music_video",
+    "role": "primary_mv",
+    "song": "I'll Find a Way",
+    "artists": [
+      {
+        "name": "TELLE",
+        "role": "featured"
+      }
+    ],
+    "game": "league-of-legends",
+    "categories": [
+      "skin-line"
+    ],
+    "year": 2021,
+    "topicTrackId": "MVXTQ0HKIQI",
+    "mvRank": 1,
+    "confidence": "medium",
+    "notes": "Sentinels of Light 2021 song video; video style (MV vs lyric/visualizer) not verified."
+  },
+  {
+    "id": "a8h1BTe45AU",
+    "source": "lol_videos",
+    "title": "Absolution | Sentinels of Light 2021 Cinematic - League of Legends",
+    "durationSeconds": 313,
+    "kind": "cinematic",
+    "role": "primary_mv",
+    "song": "Absolution",
+    "artists": [],
+    "game": "league-of-legends",
+    "categories": [
+      "cinematic",
+      "skin-line"
+    ],
+    "year": 2021,
+    "topicTrackId": "O5SH3gidmYQ",
+    "mvRank": 1,
+    "confidence": "high",
+    "notes": "Sentinels of Light 2021 cinematic (released 2021-08-03); score released as \"Ep. 3 Absolution\"."
+  },
+  {
+    "id": "J-Td6_OkWWo",
+    "source": "lol_videos",
+    "title": "Chapter III Recap | Rise of the Sentinels - League of Legends",
+    "durationSeconds": 109,
+    "kind": "not_music",
+    "role": "skip",
+    "song": null,
+    "artists": [],
+    "game": null,
+    "categories": [],
+    "year": null,
+    "topicTrackId": null,
+    "mvRank": null,
+    "confidence": "high"
+  },
+  {
+    "id": "nAgwowtYwBY",
+    "source": "lol_videos",
+    "title": "Chapter II Recap | Rise of the Sentinels - League of Legends",
+    "durationSeconds": 88,
+    "kind": "not_music",
+    "role": "skip",
+    "song": null,
+    "artists": [],
+    "game": null,
+    "categories": [],
+    "year": null,
+    "topicTrackId": null,
+    "mvRank": null,
+    "confidence": "high"
+  },
+  {
+    "id": "nudASZLNmV8",
+    "source": "lol_videos",
+    "title": "Akshan, The Rogue Sentinel | Champion Theme - League of Legends",
+    "durationSeconds": 225,
+    "kind": "champion_theme",
+    "role": "primary_mv",
+    "song": "Akshan, the Rogue Sentinel",
+    "artists": [],
+    "game": "league-of-legends",
+    "categories": [
+      "champion-theme"
+    ],
+    "year": 2021,
+    "topicTrackId": "Zl4BPyUW7U8",
+    "mvRank": 3,
+    "confidence": "high",
+    "notes": "Duplicate Topic track dpPSJNXe7uQ."
+  },
+  {
+    "id": "Yrzk-24ZnPA",
+    "source": "lol_videos",
+    "title": "Akshan Champion Spotlight | Gameplay - League of Legends",
+    "durationSeconds": 257,
+    "kind": "not_music",
+    "role": "skip",
+    "song": null,
+    "artists": [],
+    "game": null,
+    "categories": [],
+    "year": null,
+    "topicTrackId": null,
+    "mvRank": null,
+    "confidence": "high"
+  },
+  {
+    "id": "xH3HoqhkVes",
+    "source": "lol_videos",
+    "title": "Chapter I Recap | Rise of the Sentinels - League of Legends",
+    "durationSeconds": 122,
+    "kind": "not_music",
+    "role": "skip",
+    "song": null,
+    "artists": [],
+    "game": null,
+    "categories": [],
+    "year": null,
+    "topicTrackId": null,
+    "mvRank": null,
+    "confidence": "high"
+  },
+  {
+    "id": "DhGySWN9wps",
+    "source": "lol_videos",
+    "title": "Sentinels of Light | Official Music Theme 2021 - League of Legends",
+    "durationSeconds": 190,
+    "kind": "visualizer",
+    "role": "primary_mv",
+    "song": "Sentinels of Light - 2021",
+    "artists": [],
+    "game": "league-of-legends",
+    "categories": [
+      "skin-line"
+    ],
+    "year": 2021,
+    "topicTrackId": "SME0LNVC-js",
+    "mvRank": 3,
+    "confidence": "medium",
+    "notes": "Official Sentinels of Light music theme video. Duplicate Topic track v0o_tJS_-Ss."
+  },
+  {
+    "id": "tW6eHnIzpQM",
+    "source": "lol_videos",
+    "title": "Before Dawn | Sentinels of Light 2021 Cinematic - League of Legends",
+    "durationSeconds": 267,
+    "kind": "cinematic",
+    "role": "primary_mv",
+    "song": "Before Dawn",
+    "artists": [],
+    "game": "league-of-legends",
+    "categories": [
+      "cinematic",
+      "skin-line"
+    ],
+    "year": 2021,
+    "topicTrackId": "JhqHOdBu0AM",
+    "mvRank": 1,
+    "confidence": "high",
+    "notes": "Sentinels of Light 2021 cinematic (released 2021-07-08); score released as \"Ep. 2 Before Dawn\"."
+  },
+  {
+    "id": "B5D5OPMIT-I",
+    "source": "lol_videos",
+    "title": "Sentinels of Light 2021 | Official Event Trailer - League of Legends",
+    "durationSeconds": 198,
+    "kind": "not_music",
+    "role": "skip",
+    "song": null,
+    "artists": [],
+    "game": null,
+    "categories": [],
+    "year": null,
+    "topicTrackId": null,
+    "mvRank": null,
+    "confidence": "high"
+  },
+  {
+    "id": "lAX04HWlgSs",
+    "source": "lol_videos",
+    "title": "Akshan: the Rogue Sentinel | Champion Trailer - League of Legends",
+    "durationSeconds": 141,
+    "kind": "not_music",
+    "role": "skip",
+    "song": null,
+    "artists": [],
+    "game": null,
+    "categories": [],
+    "year": null,
+    "topicTrackId": null,
+    "mvRank": null,
+    "confidence": "high"
+  },
+  {
+    "id": "RAw5aTmf9Og",
+    "source": "lol_videos",
+    "title": "Story So Far | Rise of the Sentinels - League of Legends",
+    "durationSeconds": 126,
+    "kind": "not_music",
+    "role": "skip",
+    "song": null,
+    "artists": [],
+    "game": null,
+    "categories": [],
+    "year": null,
+    "topicTrackId": null,
+    "mvRank": null,
+    "confidence": "high"
+  },
+  {
+    "id": "ibG6lMT4q5E",
+    "source": "lol_videos",
+    "title": "Summer Event, New Game Mode, and Skins | LoL Pls - League of Legends",
+    "durationSeconds": 398,
+    "kind": "not_music",
+    "role": "skip",
+    "song": null,
+    "artists": [],
+    "game": null,
+    "categories": [],
+    "year": null,
+    "topicTrackId": null,
+    "mvRank": null,
+    "confidence": "high"
+  },
+  {
+    "id": "h8X5qzzIc9A",
+    "source": "lol_videos",
+    "title": "Fate of Demacia | Official Teaser - League of Legends",
+    "durationSeconds": 108,
+    "kind": "cinematic",
+    "role": "primary_mv",
+    "song": "Fate of Demacia",
+    "artists": [],
+    "game": "league-of-legends",
+    "categories": [
+      "cinematic",
+      "skin-line"
+    ],
+    "year": 2021,
+    "topicTrackId": "3xz3KOJ6e4U",
+    "mvRank": 1,
+    "confidence": "medium",
+    "notes": "Official teaser whose score was released as the Topic track \"Fate of Demacia\" (111 s, Sentinels of Light 2021 album; duplicate bG-oGNtb5o4)."
+  },
+  {
+    "id": "5m6mstnf-2E",
+    "source": "lol_videos",
+    "title": "/dev diary: Arcane Animated Series",
+    "durationSeconds": 187,
+    "kind": "not_music",
+    "role": "skip",
+    "song": null,
+    "artists": [],
+    "game": null,
+    "categories": [],
+    "year": null,
+    "topicTrackId": null,
+    "mvRank": null,
+    "confidence": "high"
+  },
+  {
+    "id": "zP7AGWiw8Uw",
+    "source": "lol_videos",
+    "title": "Arcane: Animated Series |  A Score To Settle",
+    "durationSeconds": 125,
+    "kind": "not_music",
+    "role": "skip",
+    "song": null,
+    "artists": [],
+    "game": null,
+    "categories": [],
+    "year": null,
+    "topicTrackId": null,
+    "mvRank": null,
+    "confidence": "high",
+    "notes": "Arcane teaser trailer."
+  },
+  {
+    "id": "Iy1yS9ysT4A",
+    "source": "lol_videos",
+    "title": "Dr. Mundo, The Madman of Zaun | Champion Theme - League of Legends",
+    "durationSeconds": 209,
+    "kind": "champion_theme",
+    "role": "primary_mv",
+    "song": "Dr. Mundo, the Madman of Zaun",
+    "artists": [],
+    "game": "league-of-legends",
+    "categories": [
+      "champion-theme"
+    ],
+    "year": 2021,
+    "topicTrackId": "fCySo2Yz5uE",
+    "mvRank": 3,
+    "confidence": "high"
+  },
+  {
+    "id": "1MOjmAsF3OM",
+    "source": "lol_videos",
+    "title": "Dr. Mundo Gameplay Preview | League of Legends",
+    "durationSeconds": 80,
+    "kind": "not_music",
+    "role": "skip",
+    "song": null,
+    "artists": [],
+    "game": null,
+    "categories": [],
+    "year": null,
+    "topicTrackId": null,
+    "mvRank": null,
+    "confidence": "high"
+  },
+  {
+    "id": "eovGDyel9d8",
+    "source": "lol_videos",
+    "title": "PROJECT: Bastion 2021 | Official Event Trailer - League of Legends",
+    "durationSeconds": 129,
+    "kind": "not_music",
+    "role": "skip",
+    "song": null,
+    "artists": [],
+    "game": null,
+    "categories": [],
+    "year": null,
+    "topicTrackId": null,
+    "mvRank": null,
+    "confidence": "high"
+  },
+  {
+    "id": "BpBh9UMOvlU",
+    "source": "lol_videos",
+    "title": "League Balance for Bronzies | League of Legends",
+    "durationSeconds": 234,
+    "kind": "not_music",
+    "role": "skip",
+    "song": null,
+    "artists": [],
+    "game": null,
+    "categories": [],
+    "year": null,
+    "topicTrackId": null,
+    "mvRank": null,
+    "confidence": "high"
+  },
+  {
+    "id": "pDu-_iL5tBc",
+    "source": "lol_videos",
+    "title": "PROJECT | Official Skins Theme 2021 - League of Legends",
+    "durationSeconds": 274,
+    "kind": "visualizer",
+    "role": "primary_mv",
+    "song": "PROJECT - 2021",
+    "artists": [],
+    "game": "league-of-legends",
+    "categories": [
+      "skin-line"
+    ],
+    "year": 2021,
+    "topicTrackId": "AKGNAaj4twc",
+    "mvRank": 3,
+    "confidence": "medium",
+    "notes": "Official skins/event theme video (instrumental theme over key art)."
+  },
+  {
+    "id": "DNwDWXTDukY",
+    "source": "lol_videos",
+    "title": "Arcane: Animated Series | Official Netflix Announcement",
+    "durationSeconds": 19,
+    "kind": "not_music",
+    "role": "skip",
+    "song": null,
+    "artists": [],
+    "game": null,
+    "categories": [],
+    "year": null,
+    "topicTrackId": null,
+    "mvRank": null,
+    "confidence": "high"
+  },
+  {
+    "id": "oR91YNsDWoM",
+    "source": "lol_videos",
+    "title": "MSI 2021 | DWG & Conqueror Jax - League of Legends",
+    "durationSeconds": 113,
+    "kind": "not_music",
+    "role": "skip",
+    "song": null,
+    "artists": [],
+    "game": null,
+    "categories": [],
+    "year": null,
+    "topicTrackId": null,
+    "mvRank": null,
+    "confidence": "high"
+  },
+  {
+    "id": "sCMbNzaDNjs",
+    "source": "lol_videos",
+    "title": "Making the DWG Worlds Championship Team Skins | League of Legends",
+    "durationSeconds": 384,
+    "kind": "not_music",
+    "role": "skip",
+    "song": null,
+    "artists": [],
+    "game": null,
+    "categories": [],
+    "year": null,
+    "topicTrackId": null,
+    "mvRank": null,
+    "confidence": "high"
+  },
+  {
+    "id": "XUQ4ZI0h0-E",
+    "source": "lol_videos",
+    "title": "Starts Right Here (ft. Kenny Mason & Foreign Air) | MSI 2021 - League of Legends",
+    "durationSeconds": 191,
+    "kind": "music_video",
+    "role": "primary_mv",
+    "song": "Starts Right Here",
+    "artists": [
+      {
+        "name": "Kenny Mason",
+        "role": "featured"
+      },
+      {
+        "name": "Foreign Air",
+        "role": "featured"
+      }
+    ],
+    "game": "league-of-legends",
+    "categories": [
+      "msi"
+    ],
+    "year": 2021,
+    "topicTrackId": "ol7bDAPRaIo",
+    "mvRank": 1,
+    "confidence": "medium",
+    "notes": "MSI 2021 anthem video; video style not verified."
+  },
+  {
+    "id": "UYNjbBj7QHI",
+    "source": "lol_videos",
+    "title": "Dev Doodles: Bacon - The Card Game Before the Card Game | League of Legends",
+    "durationSeconds": 352,
+    "kind": "not_music",
+    "role": "skip",
+    "song": null,
+    "artists": [],
+    "game": null,
+    "categories": [],
+    "year": null,
+    "topicTrackId": null,
+    "mvRank": null,
+    "confidence": "high"
+  },
+  {
+    "id": "qfyke7YMyUo",
+    "source": "lol_videos",
+    "title": "BREAK OUT | MSI 2021 - League of Legends",
+    "durationSeconds": 66,
+    "kind": "not_music",
+    "role": "skip",
+    "song": null,
+    "artists": [],
+    "game": null,
+    "categories": [],
+    "year": null,
+    "topicTrackId": null,
+    "mvRank": null,
+    "confidence": "high",
+    "notes": "MSI 2021 esports promo."
+  },
+  {
+    "id": "ZJK0gG-WSUc",
+    "source": "lol_videos",
+    "title": "Gwen, The Hallowed Seamstress | Champion Theme - League of Legends",
+    "durationSeconds": 220,
+    "kind": "champion_theme",
+    "role": "primary_mv",
+    "song": "Gwen, the Hallowed Seamstress",
+    "artists": [],
+    "game": "league-of-legends",
+    "categories": [
+      "champion-theme"
+    ],
+    "year": 2021,
+    "topicTrackId": "0H4OhSuiFPE",
+    "mvRank": 3,
+    "confidence": "high",
+    "notes": "Duplicate Topic track ymvnhxTiScg."
+  },
+  {
+    "id": "pK4VLNk7uBc",
+    "source": "lol_videos",
+    "title": "Gwen Champion Spotlight | Gameplay - League of Legends",
+    "durationSeconds": 251,
+    "kind": "not_music",
+    "role": "skip",
+    "song": null,
+    "artists": [],
+    "game": null,
+    "categories": [],
+    "year": null,
+    "topicTrackId": null,
+    "mvRank": null,
+    "confidence": "high"
+  }
+]

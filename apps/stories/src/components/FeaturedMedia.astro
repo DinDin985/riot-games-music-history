@@ -1,0 +1,41 @@
+---
+/**
+ * The big visual of a story: rendered clip > looped MV segment > chorus GIF >
+ * animated backdrop in the album-cover colours (see `featuredFor` in lib/data.ts).
+ */
+import { PaletteBackdrop } from "@workspace/ui/components/riot/palette-backdrop"
+import ClipLoop from "./ClipLoop.tsx"
+import type { StoryView } from "../lib/types.ts"
+
+interface Props {
+  readonly view: StoryView
+  readonly class?: string
+}
+
+const { view, class: className } = Astro.props
+const { featured, song, story } = view
+const label = featured.caption ?? `${story.song} — featured moment`
+---
+
+<div class:list={["relative isolate overflow-hidden bg-navy-800", className]}>
+  {
+    featured.kind === "video" ? (
+      <ClipLoop client:visible src={featured.src} poster={featured.poster} segment={featured.segment} label={label} />
+    ) : featured.kind === "image" ? (
+      <img src={featured.src} alt={label} loading="lazy" decoding="async" class="absolute inset-0 size-full object-cover" />
+    ) : (
+      <PaletteBackdrop palette={song.palette} seed={story.slug} className="absolute inset-0">
+        {song.coverUrl ? (
+          <img
+            src={song.coverUrl}
+            alt=""
+            loading="lazy"
+            class="absolute inset-y-[14%] left-1/2 aspect-square h-[72%] -translate-x-1/2 rounded-[6%] object-cover shadow-[0_18px_40px_-12px_rgb(0_0_0/0.7)] ring-1 ring-white/15"
+          />
+        ) : null}
+      </PaletteBackdrop>
+    )
+  }
+  <div class="pointer-events-none absolute inset-0 bg-gradient-to-t from-black/50 via-transparent to-transparent"></div>
+  <slot />
+</div>
